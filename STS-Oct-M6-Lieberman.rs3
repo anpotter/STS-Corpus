@@ -1,0 +1,152 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">B. Lieberman to STSers</segment>
+    <segment id="2" parent="59" relname="span">
+
+Patrick Hamlett&apos;s post and the responses are most welcome.</segment>
+    <segment id="3" parent="4" relname="antithesis">
+
+Yes, the attack is in part on the leftist scholars among the STSers.</segment>
+    <segment id="4" parent="57" relname="span"> But
+it is more than that.</segment>
+    <segment id="5" parent="56" relname="span"> I believe the people who lead  science are quite
+frightened and rightly so.</segment>
+    <segment id="6" parent="5" relname="nonvolitional-cause"> &quot;Scientists&quot; have been making false claims for
+large amounts of money for decades and legislators and others are beginning
+to ask question.</segment>
+    <segment id="7" parent="12" relname="concession">
+
+Steve Fuller&apos;s insightful comments about the intellectual issues are
+fascinating and appear to be right on the mark.</segment>
+    <segment id="8" parent="54" relname="span"> It is interesting but
+not surprising that the conflict between scientists and STSers  is further
+advanced in Britain than here in the US.</segment>
+    <segment id="9" parent="8" relname="elaboration"> We have few popular journals that
+have the journalists who can understand notions of constructionism.</segment>
+    <segment id="10" parent="55" relname="span">
+
+And we shouldn&apos;t be surprised that the debate gets stuck on the existence
+of an external reality.</segment>
+    <segment id="11" parent="10" relname="nonvolitional-cause"> The notion that there is no such thing is counter
+to all the layman learns for his or her whole life.</segment>
+    <segment id="12" parent="53" relname="span">
+
+But at the root of the intense conflicts lies money.</segment>
+    <segment id="13" parent="12" relname="evidence">
+
+The physicists in the US are still stung by the loss of the supercollider.</segment>
+    <segment id="15" parent="33" relname="span">
+The (hot) fusion energy gang has been under attack for some years now. </segment>
+    <segment id="14" parent="15" relname="elaboration">
+There are legislators who want to end the funding.</segment>
+    <segment id="16" parent="12" relname="evidence"> The Bernard Fisher
+fiasco revealed the mythology of the clinical trial gangs.</segment>
+    <segment id="17" parent="34" relname="span"> The genome
+packs are walking on thin ice.</segment>
+    <segment id="18" parent="35" relname="span"> They too make false claims.</segment>
+    <segment id="19" parent="18" relname="elaboration"> The find a gene
+one day, only to lose it the next. </segment>
+    <segment id="20" parent="36" relname="span">
+
+And the cancer command has Chutzpah beyond measure.</segment>
+    <segment id="21" parent="48" relname="span"> The NY TIMES had a story
+that presented the response of those who are fighting the &quot;war on cancer.&quot;</segment>
+    <segment id="22" parent="41" relname="circumstance">
+When they were asked,</segment>
+    <segment id="41" parent="45" relname="span"> &quot;Why aren&apos;t you winning the war they said.</segment>
+    <segment id="40" parent="44" relname="span"> Give us
+more money.</segment>
+    <segment id="39" parent="40" relname="elaboration"> The 23 billion hasn&apos;t been enough.</segment>
+    <segment id="38" parent="42" relname="conjunction"> And we also need a 
+cabinet level post.</segment>
+    <segment id="37" parent="23" relname="condition"> And congressmen, congresswomen, and senators if you
+don&apos;t give us what we ask for</segment>
+    <segment id="23" parent="43" relname="span"> you are responsible for the people who
+die of cancer.</segment>
+    <segment id="24" parent="46" relname="summary"> Honest, that&apos;s how the TIMES story  read.</segment>
+    <segment id="25" parent="12" relname="evidence">
+
+The journal SCIENCE in its recent issue on careers said that the chemistry
+and physics disciplines are turning out twice the number of PH.Ds as there
+are traditional positions.</segment>
+    <segment id="26" parent="12" relname="summary">
+
+And so ---- all these abuses are present for all to see.</segment>
+    <segment id="27" parent="49" relname="span"> It is we
+STSers who describe them in language that is more than commonsense
+discourse.</segment>
+    <segment id="28" parent="27" relname="elaboration"> We are the ones who describe the mythology of science for
+the understanding of those who allocate society&apos;s resources.</segment>
+    <segment id="29" parent="50" relname="span"> Of course
+the scientists are going to attack us.</segment>
+    <segment id="30" parent="29" relname="evidence"> Wouldn&apos;t you attack the people who
+took the milk and bread from the lips of your children.</segment>
+    <segment id="31" parent="51" relname="span">
+
+I am well aware that some scientific investigation is quite valuable.</segment>
+    <segment id="32" parent="31" relname="elaboration"> The
+most recent triumph of science is the announcement of the eradication
+of polio from the Western Hemisphere.</segment>
+<group id="33" type="span" parent="12" relname="evidence" />
+<group id="34" type="span" parent="12" relname="evidence" />
+<group id="35" type="span" parent="17" relname="elaboration" />
+<group id="36" type="span" parent="12" relname="evidence" />
+<group id="42" type="multinuc" parent="46" relname="span" />
+<group id="43" type="span" parent="42" relname="conjunction" />
+<group id="44" type="span" parent="42" relname="conjunction" />
+<group id="45" type="span" parent="42" relname="solutionhood" />
+<group id="46" type="span" parent="47" relname="span" />
+<group id="47" type="span" parent="21" relname="elaboration" />
+<group id="48" type="span" parent="20" relname="evidence" />
+<group id="49" type="span" parent="29" relname="nonvolitional-cause" />
+<group id="50" type="span" parent="52" relname="span" />
+<group id="51" type="span" parent="50" relname="concession" />
+<group id="52" type="span" parent="12" relname="evidence" />
+<group id="53" type="span" parent="57" relname="evidence" />
+<group id="54" type="span" parent="12" relname="concession" />
+<group id="55" type="span" parent="12" relname="concession" />
+<group id="56" type="span" parent="4" relname="elaboration" />
+<group id="57" type="span" parent="58" relname="span" />
+<group id="58" type="span" parent="60" relname="span" />
+<group id="59" type="span" parent="58" relname="background" />
+<group id="60" type="span" />
+  </body>
+</rst>

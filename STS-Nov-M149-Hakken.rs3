@@ -1,0 +1,115 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="19" relname="background">In his recent posting, Todd LaPorte argued for expanding STS
+attention to the impacts and effects of science, presumably to complement, not
+replace, the focus on generation of scientific knowledge.</segment>
+    <segment id="2" parent="3" relname="concession">
+ In general, I wish to
+support his argument,</segment>
+    <segment id="3" parent="19" relname="span"> but I also wish to give it a different specific
+articulation. </segment>
+    <segment id="4" parent="20" relname="span"> The focus he argues for should perhaps be described as a
+focus on the reproduction of technoscience rather than effects/impacts. </segment>
+    <segment id="5" parent="4" relname="interpretation">
+The latter phrasing reinforces the technological determinist, linear models of
+science production
+and diffusion which STS has been at such pains to refute.</segment>
+    <segment id="6" parent="21" relname="span">  We must be as open
+to study of the effects of society on technoscience as technoscience on
+society,</segment>
+    <segment id="7" parent="6" relname="elaboration"> and we must look at these in the same frame wherever possible. </segment>
+    <segment id="8" parent="21" relname="evidence">
+Knut Soerensen and Anne Jorunn Berg from Trondheim have been most
+consistent among STS scholars in insisting on the way in which the
+experience of technology-in-use changes the technology.</segment>
+    <segment id="9" parent="22" relname="span">
+
+Some of us do these kinds of studies consistently, with NSF support.</segment>
+    <segment id="10" parent="9" relname="elaboration">  In
+1986, Barbara
+Andrews and I received a grant from the NSF anthropology program to study
+the cultural correlates (another phraseology which avoids implicit
+attribution of causation) of new information technology among working class
+people in Sheffield, England. </segment>
+    <segment id="11" parent="23" relname="span"> In 1990, Burt Danovitz and I got a grant
+from the NSF STS program to hold a conference on policy issues regarding
+computer-based technology for people with disabilities.</segment>
+    <segment id="12" parent="11" relname="elaboration">  This conference
+addressed inter alia the policy problem of ways to include people with
+disabilities in the production of these devices both as
+scientists/engineers/technologists and as users/participants in the
+development process.  </segment>
+    <segment id="13" parent="9" relname="elaboration">In 1993, Barbara Andrews and I again got an
+anthropology NSF, this time to study the cultural construction of
+computing at the national level in the Nordic countries. </segment>
+    <segment id="14" parent="15" relname="condition"> 
+
+If member of the STS network (rather than community) are unaware of such
+research,</segment>
+    <segment id="15" parent="25" relname="span"> it may have less to do with its non-existence than with the ways
+in which we structure our collective attention (e.g., agendas for meetings).</segment>
+    <segment id="16" parent="29" relname="span">
+
+One final note: the failure to maintain consistently a sufficiently
+dialectical
+framing of the relationship between technoscience and society (or
+culture; socio-culture?) can also be immobilizing. </segment>
+    <segment id="17" parent="26" relname="span"> His conviction that the
+consequences of new technology are so dire led David Noble, in his recent
+closing plenary address to the participatory design conference, very close
+to arguing that involvement in any design activity was for the time being
+unethical. </segment>
+    <segment id="18" parent="17" relname="evaluation"> So much for participatory democracy.</segment>
+<group id="19" type="span" parent="27" relname="span" />
+<group id="20" type="span" parent="6" relname="antithesis" />
+<group id="21" type="span" parent="24" relname="span" />
+<group id="22" type="span" parent="21" relname="evidence" />
+<group id="23" type="span" parent="9" relname="elaboration" />
+<group id="24" type="span" parent="28" relname="span" />
+<group id="25" type="span" parent="24" relname="nonvolitional-result" />
+<group id="26" type="span" parent="16" relname="evidence" />
+<group id="27" type="span" parent="4" relname="background" />
+<group id="28" type="span" parent="30" relname="span" />
+<group id="29" type="span" parent="28" relname="background" />
+<group id="30" type="span" />
+  </body>
+</rst>

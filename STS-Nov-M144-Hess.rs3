@@ -1,0 +1,141 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="49" relname="span">Following comments by Fuller, Weinstein, and Durbin, a critical issue in
+determining how to respond to denigration of STS as an enterprise may
+be first to address how STS is framed by the critics.</segment>
+    <segment id="2" parent="1" relname="elaboration">  Are we
+presented as a unitary group, with common goals and methods?</segment>
+    <segment id="3" parent="33" relname="span">  Are the
+STS critiques most odious to true believers in the technoscience community
+presented as representative of all?</segment>
+    <segment id="22" parent="31" relname="span">  
+
+There is an issue here of
+representation, quite familiar to contemporary ethnographers.</segment>
+    <segment id="5" parent="4" relname="nonvolitional-cause">  As the
+members of the communities where they work become more sophisticated
+in their understanding of how ethnography represents them to other,
+often more powerful communities,</segment>
+    <segment id="4" parent="29" relname="span"> subjects of ethnographies  
+are becoming increasingly
+critical of ethnographers.</segment>
+    <segment id="6" parent="24" relname="nonvolitional-cause">  As we make representations of scientists
+and their practices to others,</segment>
+    <segment id="24" parent="30" relname="span"> we are bound to upset some of them, and
+generate backlash.</segment>
+    <segment id="7" parent="25" relname="preparation">  I agree, in part, with Fuller;</segment>
+    <segment id="25" parent="34" relname="span"> we can&apos;t avoid this 
+altogether without giving up our enterprise.</segment>
+    <segment id="8" parent="38" relname="span">  What we might be able to
+do is work against polarization.</segment>
+    <segment id="9" parent="37" relname="span">  One approach is to refuse to cede the
+ability to represent STS to technoscience communities to our critics.</segment>
+    <segment id="10" parent="9" relname="motivation">
+The backlash will raise the interest of technoscientists in our
+work and might serve as a wedge, creating an opportunity for placing
+articles discussing STS in forums attended to by technoscientists.</segment>
+    <segment id="11" parent="35" relname="span">
+Emphasizing the diversity of STS might force future critics to specify
+more exactly what they are aiming at, a closer reading of the STS
+literature.</segment>
+    <segment id="12" parent="11" relname="elaboration">  Push the misreading issue until they are forced to
+specify so precisely  that it becomes clear to what degree they are
+attacking demons of their own imagining than anything that observers
+would recognize as the general field of STS.</segment>
+    <segment id="13" parent="36" relname="span">  In effect we would be saying 
+that the attacks are too loosely specified to have any purchase on the 
+issues they raise,</segment>
+    <segment id="26" parent="13" relname="background"> an argument that practitioners of technoscience are
+familiar with in their own fields.</segment>
+    <segment id="14" parent="41" relname="preparation">  
+
+Caveats: </segment>
+    <segment id="27" parent="43" relname="span"> This works only to the extent that the backlash is off
+target, of course.</segment>
+    <segment id="15" parent="27" relname="concession">  I hope you will forgive me for not having gone to
+the sources to read G&amp;L et al, and relying on what I have read in this
+forum.</segment>
+    <segment id="16" parent="42" relname="span">  The other issue is to what extent emphasizing diversity within
+STS may prove divisive within our enterprise.</segment>
+    <segment id="17" parent="40" relname="span">  I agree with the
+observation that feminist work critical to the field of STS.</segment>
+    <segment id="18" parent="28" relname="condition">  If this
+variety of STS is indeed the prime target of backlash,</segment>
+    <segment id="28" parent="39" relname="span"> emphasizing
+diversity without acknowledging the role of feminist theory could be
+seen as abandoning colleagues.</segment>
+    <segment id="19" parent="48" relname="span">
+
+By the way, I hope the comment about the threat to our
+academic prestige, funding, faculty openings, and graduate students of
+failing to respond to the backlash was written with at least a wry
+grin if not tongue-in-cheek.</segment>
+    <segment id="20" parent="47" relname="span">  In terms of academic politics and group
+dynamics, I often find STS so little different from the
+technoscience we critique!</segment>
+    <segment id="21" parent="46" relname="span">   Does this answer Bailar&apos;s question about
+what the goal of our whole enterprise is?</segment>
+    <segment id="23" parent="21" relname="background"> ;-)</segment>
+<group id="29" type="span" parent="22" relname="elaboration" />
+<group id="30" type="span" parent="32" relname="span" />
+<group id="31" type="span" parent="30" relname="evidence" />
+<group id="32" type="span" parent="3" relname="elaboration" />
+<group id="33" type="span" parent="1" relname="elaboration" />
+<group id="34" type="span" parent="8" relname="antithesis" />
+<group id="35" type="span" parent="9" relname="motivation" />
+<group id="36" type="span" parent="9" relname="motivation" />
+<group id="37" type="span" parent="45" relname="span" />
+<group id="38" type="span" parent="50" relname="span" />
+<group id="39" type="span" parent="17" relname="elaboration" />
+<group id="40" type="span" parent="16" relname="elaboration" />
+<group id="41" type="multinuc" parent="44" relname="span" />
+<group id="42" type="span" parent="41" relname="list" />
+<group id="43" type="span" parent="41" relname="list" />
+<group id="44" type="span" parent="37" relname="concession" />
+<group id="45" type="span" parent="8" relname="elaboration" />
+<group id="46" type="span" parent="20" relname="solutionhood" />
+<group id="47" type="span" parent="19" relname="elaboration" />
+<group id="48" type="span" parent="51" relname="joint" />
+<group id="49" type="span" parent="38" relname="solutionhood" />
+<group id="50" type="span" parent="51" relname="joint" />
+<group id="51" type="multinuc" />
+  </body>
+</rst>

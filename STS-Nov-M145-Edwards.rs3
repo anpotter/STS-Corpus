@@ -1,0 +1,118 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">Bill Lynch writes:</segment>
+    <segment id="2" parent="23" relname="span">
+
+&amp;gt;Although I suppose I am a &quot;constructivist&quot; in my theory of knowledge and
+&amp;gt;social theory, I am not a relativist, methodological or otherwise.  I don&apos;t
+&amp;gt;know why these are always linked. BUT, why would relativism count against
+&amp;gt;academic freedom? Wouldn&apos;t the most obvious political implication be a
+&amp;gt;concern with expanded, more effective academic freedom as against allegedly
+&amp;gt;free but in fact coercive institutions?</segment>
+    <segment id="3" parent="4" relname="concession">
+
+This would seem to be the natural conclusion,</segment>
+    <segment id="4" parent="22" relname="span"> but in fact it need not be,
+and often isn&apos;t.</segment>
+    <segment id="5" parent="6" relname="concession"> Relativism (both epistemological and moral) is often taken
+as requiring tolerance of different views and values.</segment>
+    <segment id="6" parent="24" relname="span"> But it doesn&apos;t.</segment>
+    <segment id="7" parent="8" relname="nonvolitional-cause"> In
+fact, since tolerance itself is an absolute value (not a relative one),</segment>
+    <segment id="8" parent="25" relname="span"> a
+consistent relativist cannot hold that even this value should be required
+of everyone -- even of him or herself -- nor that it follows from
+relativism</segment>
+    <segment id="9" parent="8" relname="elaboration"> (it doesn&apos;t). </segment>
+    <segment id="10" parent="11" relname="antithesis">
+
+A relativist culture and/or moral code would, by definition, recognize the
+existence and validity of other epistemologies or moral values.</segment>
+    <segment id="11" parent="27" relname="span"> But
+recognizing their existence in no way requires that other
+codes/epistemologies be _tolerated, upheld, or even respected_.</segment>
+    <segment id="12" parent="34" relname="span"> This is the
+case, for example, with some of the more extreme speech codes and other
+politically-correct policies introduced on university campuses in the last
+decade.</segment>
+    <segment id="13" parent="32" relname="span"> These recognize the cultural basis of beliefs and values and their
+large variation;</segment>
+    <segment id="14" parent="31" relname="span"> they prohibit insults against non-mainstream
+views/cultures precisely in order to strengthen and encourage them,</segment>
+    <segment id="15" parent="14" relname="volitional-cause">
+precisely because they are different.</segment>
+    <segment id="16" parent="33" relname="span"> Yet they make expressing _some_
+beliefs/values grounds for explusion from the community.</segment>
+    <segment id="17" parent="18" relname="concession"> Such codes can be
+read as embodiments and logical consequences of a moral and possibly an
+epistemological relativism</segment>
+    <segment id="18" parent="28" relname="span"> -- but certainly not of academic freedom, free
+speech, or other Enlightenment values, which are by definition absolutes.</segment>
+    <segment id="19" parent="29" relname="span">
+(Here we get into the hall-of-mirrors problem relativism also involves,</segment>
+    <segment id="20" parent="19" relname="volitional-cause">
+since one could also read these codes as embodying absolute values about
+which particular cultures/beliefs are allowed respect and expression and
+which are not.)</segment>
+    <segment id="21" parent="37" relname="summary">
+
+This confusion between relativism and tolerance, which are rather more
+opposite than alike, lies at the root of a lot of our recent debates on
+this net.</segment>
+<group id="22" type="span" parent="35" relname="span" />
+<group id="23" type="span" parent="22" relname="antithesis" />
+<group id="24" type="span" parent="26" relname="span" />
+<group id="25" type="span" parent="24" relname="evidence" />
+<group id="26" type="span" parent="4" relname="evidence" />
+<group id="27" type="span" parent="36" relname="span" />
+<group id="28" type="span" parent="30" relname="span" />
+<group id="29" type="span" parent="28" relname="background" />
+<group id="30" type="span" parent="16" relname="interpretation" />
+<group id="31" type="span" parent="13" relname="elaboration" />
+<group id="32" type="span" parent="16" relname="antithesis" />
+<group id="33" type="span" parent="12" relname="elaboration" />
+<group id="34" type="span" parent="27" relname="evidence" />
+<group id="35" type="span" parent="37" relname="span" />
+<group id="36" type="span" parent="35" relname="evidence" />
+<group id="37" type="span" parent="38" relname="span" />
+<group id="38" type="span" />
+  </body>
+</rst>

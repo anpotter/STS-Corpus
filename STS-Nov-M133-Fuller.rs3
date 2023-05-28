@@ -1,0 +1,209 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="90" relname="preparation">Relativism...and the Enlightenment: Response to MARKS et al.</segment>
+    <segment id="2" parent="73" relname="span">
+
+&apos;Relativism&apos; is a term that has outlived its usefulness in
+science studies, and now does more harm than good -- especially
+on the public relations front, but even when we try to explain
+our research practices.</segment>
+    <segment id="5" parent="6" relname="nonvolitional-result"> The term probably got used in the first
+place</segment>
+    <segment id="6" parent="52" relname="span"> because science studies people were trying to
+impress/attack philosophers,</segment>
+    <segment id="7" parent="70" relname="span"> and so they assumed the mantle of
+what they presumed the opposition to be.</segment>
+    <segment id="8" parent="3" relname="circumstance"> Unfortunately, when most
+people think of &apos;relativism&apos;,</segment>
+    <segment id="3" parent="71" relname="span"> they still think of their
+introductory philosophy class</segment>
+    <segment id="4" parent="3" relname="elaboration"> where the view is presented as &apos;it
+is so, if you say so&apos;.</segment>
+    <segment id="9" parent="72" relname="span"> However, this view does little to explain
+how science studies work, and in fact has led to an amazing
+amount of mischaracterization of what this field is about. </segment>
+    <segment id="10" parent="69" relname="span">
+
+I agree with MARKS that what he calls &apos;methodological relativism&apos;
+is a perfectly sensible research stance:</segment>
+    <segment id="11" parent="12" relname="antithesis"> Don&apos;t use truth to
+explain an event</segment>
+    <segment id="12" parent="53" relname="span"> because &apos;truth&apos; is determined after the event
+takes place.</segment>
+    <segment id="13" parent="53" relname="background"> (This is why David Bloor originally called truth-
+explanations &apos;teleological&apos;.)</segment>
+    <segment id="14" parent="15" relname="concession"> Sometimes this is put in terms of
+adopting the standpoint of the historical agents,</segment>
+    <segment id="15" parent="56" relname="span"> but this can
+be a bit misleading</segment>
+    <segment id="16" parent="55" relname="span"> because science studies practitioners rarely
+take what the agents say at face value</segment>
+    <segment id="17" parent="16" relname="elaboration"> (e.g. scientists are often
+engaged in truth-talk).</segment>
+    <segment id="18" parent="19" relname="antithesis"> In that respect, &apos;methodological
+relativism&apos; doesn&apos;t imply &apos;subjectivism&apos;.</segment>
+    <segment id="19" parent="60" relname="span"> What &apos;adopting the
+standpoint of the agents&apos; seems to involve is a realization that
+the present can be made into a variety of futures, depending on
+what the agents do.</segment>
+    <segment id="20" parent="59" relname="span"> In philosophical terms, this is closer to a
+kind of &apos;antirealism&apos; than &apos;relativism&apos;</segment>
+    <segment id="21" parent="20" relname="condition"> -- if people still care
+for such niceties.</segment>
+    <segment id="22" parent="62" relname="span"> As LYNCH suggested, &apos;constructivism&apos; is still
+a better name,</segment>
+    <segment id="23" parent="64" relname="span"> at least it&apos;s one that resonates better with the
+philosophical tradition.</segment>
+    <segment id="24" parent="23" relname="elaboration"> (Note Bloor&apos;s entry into this whole
+field via Wittgenstein&apos;s &apos;constructivist&apos; philosophy of
+mathematics.)</segment>
+    <segment id="25" parent="67" relname="solutionhood">
+
+Now MARKS also asks whether this &apos;methodological relativism&apos;
+can/should be pushed further -- especially in a political
+direction.</segment>
+    <segment id="26" parent="27" relname="circumstance"> Like any philosophical position when it gets
+politicized,</segment>
+    <segment id="27" parent="67" relname="span"> relativism is much more impressive in what it
+opposes than in what it supports.</segment>
+    <segment id="28" parent="29" relname="concession"> Although a certain &apos;politics
+of relativism&apos; (associated more with anthropology than sociology)
+has been important in breaking the stranglehold of Western forms
+of &apos;universalism&apos;,</segment>
+    <segment id="29" parent="66" relname="span"> left to its own devices relativist arguments
+have been used to uphold all sorts of provinicialisms and even
+racisms</segment>
+    <segment id="30" parent="65" relname="span"> (Have a look sometime at the legal justifications given
+for Apartheid in South Africa:</segment>
+    <segment id="31" parent="30" relname="elaboration"> They are full of appeals to 
+&apos;cultural autonomy&apos; that underwrite the creation of &apos;homelands&apos;,
+as well as to the historical uniqueness of South Africa which
+prevents it from being held accountable to &apos;Euorpean&apos; standards
+of justice).</segment>
+    <segment id="32" parent="74" relname="span"> Here LYNCH is right on the money in being suspicious
+about positive appeals to relativism,</segment>
+    <segment id="33" parent="32" relname="circumstance"> especially when they come
+from people in power. </segment>
+    <segment id="34" parent="80" relname="span">
+
+However, I&apos;m not too worried about the scenario that TURTON
+depicts about relativism leading to a Hobbesian state of nature
+in science.</segment>
+    <segment id="35" parent="36" relname="condition"> After all, if everybody&apos;s motto became &apos;do only that
+which you think will serve your interest&apos;,</segment>
+    <segment id="36" parent="79" relname="span"> then it wouldn&apos;t be
+long before you&apos;d be inventing Leviathans to monitor and regulate
+the conflicting parties.</segment>
+    <segment id="37" parent="78" relname="span"> I take it that, in this respect, GUSTON
+has answered TURTON. </segment>
+    <segment id="38" parent="77" relname="span">The only reason why there isn&apos;t more
+regulation of science is that people don&apos;t believe that TURTON&apos;s
+scenario is true.</segment>
+    <segment id="39" parent="40" relname="condition"> But if relativism in his sense should prevail,</segment>
+    <segment id="40" parent="76" relname="span">
+you can be sure that the politicians and policymakers will soon
+be there to &apos;bring order&apos;. </segment>
+    <segment id="41" parent="88" relname="solutionhood">
+
+But having said all that, I haven&apos;t answered MARKS&apos;s original
+question about the &apos;Enlightenment Project&apos;.</segment>
+    <segment id="42" parent="43" relname="antithesis"> I wouldn&apos;t be doing
+what I&apos;m doing</segment>
+    <segment id="43" parent="88" relname="span"> if I didn&apos;t still believe in the Project,</segment>
+    <segment id="44" parent="87" relname="span"> but it&apos;s
+an uphill struggle.</segment>
+    <segment id="45" parent="46" relname="concession"> If I may regress to unfashionable
+terminology,</segment>
+    <segment id="46" parent="85" relname="span"> I can give a brief explanation.</segment>
+    <segment id="47" parent="86" relname="span"> Postmodernists (and
+I include science studies here) describe the world much more
+accurately than the Habermasians, Popperians, and other Children
+of the Enlightenment. </segment>
+    <segment id="48" parent="83" relname="span">This is the central irony of our times,</segment>
+    <segment id="49" parent="48" relname="background"> it
+seems to me: </segment>
+    <segment id="50" parent="82" relname="contrast">The people who promote Truth and Reason the most
+also have the most fictional views of how the world works,</segment>
+    <segment id="51" parent="82" relname="contrast"> while
+the people who are in the best position to correct those views
+don&apos;t believe that &apos;correction&apos; is an intelligible notion!</segment>
+<group id="52" type="span" parent="7" relname="nonvolitional-cause" />
+<group id="53" type="span" parent="54" relname="span" />
+<group id="54" type="span" parent="58" relname="span" />
+<group id="55" type="span" parent="57" relname="span" />
+<group id="56" type="span" parent="61" relname="span" />
+<group id="57" type="span" parent="15" relname="nonvolitional-cause" />
+<group id="58" type="span" parent="10" relname="elaboration" />
+<group id="59" type="span" parent="19" relname="elaboration" />
+<group id="60" type="span" parent="63" relname="span" />
+<group id="61" type="span" parent="54" relname="elaboration" />
+<group id="62" type="span" parent="60" relname="elaboration" />
+<group id="63" type="span" parent="56" relname="elaboration" />
+<group id="64" type="span" parent="22" relname="elaboration" />
+<group id="65" type="span" parent="29" relname="elaboration" />
+<group id="66" type="span" parent="75" relname="span" />
+<group id="67" type="span" parent="68" relname="span" />
+<group id="68" type="span" parent="80" relname="concession" />
+<group id="69" type="span" parent="90" relname="list" />
+<group id="70" type="span" parent="2" relname="elaboration" />
+<group id="71" type="span" parent="9" relname="antithesis" />
+<group id="72" type="span" parent="2" relname="elaboration" />
+<group id="73" type="span" parent="90" relname="list" />
+<group id="74" type="span" parent="66" relname="summary" />
+<group id="75" type="span" parent="27" relname="evidence" />
+<group id="76" type="span" parent="38" relname="elaboration" />
+<group id="77" type="span" parent="37" relname="elaboration" />
+<group id="78" type="span" parent="36" relname="elaboration" />
+<group id="79" type="span" parent="34" relname="evidence" />
+<group id="80" type="span" parent="81" relname="span" />
+<group id="81" type="span" parent="90" relname="list" />
+<group id="82" type="multinuc" parent="84" relname="span" />
+<group id="83" type="span" parent="82" relname="background" />
+<group id="84" type="span" parent="47" relname="elaboration" />
+<group id="85" type="span" parent="47" relname="preparation" />
+<group id="86" type="span" parent="44" relname="evidence" />
+<group id="87" type="span" parent="43" relname="concession" />
+<group id="88" type="span" parent="89" relname="span" />
+<group id="89" type="span" parent="90" relname="list" />
+<group id="90" type="multinuc" parent="91" relname="span" />
+<group id="91" type="span" />
+  </body>
+</rst>

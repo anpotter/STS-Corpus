@@ -1,0 +1,130 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="nonvolitional-cause">
+
+Traweek&apos;s observation concerning the silence around &quot;the backlash&quot; seems
+especially important given who has continually been singled out in  the
+criticism to STS that I&apos;ve seen: </segment>
+    <segment id="2" parent="28" relname="span">feminist scholars of science.</segment>
+    <segment id="3" parent="29" relname="span"> As evidence
+consider the review of G&amp;L in the most recent The Sciences.</segment>
+    <segment id="4" parent="5" relname="concession"> In that piece
+G&amp;L are roundly criticized,</segment>
+    <segment id="5" parent="27" relname="span"> but the author ironically ends up supporting
+Gross&apos;s picture of feminist science scholars, esp. Harding.</segment>
+    <segment id="6" parent="5" relname="evidence"> In the  Michael
+Ruse&apos;s words &quot;The hatred [of science by feminists] is real and deep.&quot; (p.
+40)</segment>
+    <segment id="7" parent="39" relname="span">
+
+My concerns about this singling out the feminsts by both conservative and
+liberal critics is multiple.</segment>
+    <segment id="9" parent="38" relname="list"> First, it repeats too much bad history,
+including the continued marginalization of what, imho, is some of the
+finest work on science and its relation to culture, from something vaguely
+defined as the mainstream of STS.</segment>
+    <segment id="10" parent="11" relname="circumstance"> As has already been noted by several
+people in this list,</segment>
+    <segment id="11" parent="34" relname="span"> feminist scholarship has not impacted the &quot;mainstream&quot;
+of STS...</segment>
+    <segment id="12" parent="13" relname="concession"> (Actually I think it has,</segment>
+    <segment id="13" parent="31" relname="span"> but I&apos;ve seen scant evidence of it on
+this list--</segment>
+    <segment id="14" parent="33" relname="span">my own work and those of others  in the anthropological and
+cultural studies arm of STS are thoroughly indebted to feminism:</segment>
+    <segment id="15" parent="32" relname="span"> without
+Haraway, Traweek, Harding, Penley, Martin et alia I certainly wouldn&apos;t be
+doing what I&apos;m doing.</segment>
+    <segment id="16" parent="15" relname="evaluation"> They are as, if not more, important to my research on
+science and tourism than the likes of Latour.)</segment>
+    <segment id="8" parent="34" relname="interpretation"> Given this seeming marginal
+status, we (they) are an easy target.</segment>
+    <segment id="17" parent="37" relname="span">
+
+Finally, it&apos;s worth pointing out that the critique is founded on a perverse
+reading of the feminist critique of science, one that begins by assuming
+that critique is identical with blanket condemnation.</segment>
+    <segment id="18" parent="17" relname="evidence"> The fact that
+Haraway&apos;s work is an attempt to interest and signal the importance of
+scientific work--any careful reading of her would find that she values
+science--is completely ignored.</segment>
+    <segment id="19" parent="36" relname="span">  Harding&apos;s comments about the necessity of
+science are likewise ignored:</segment>
+    <segment id="20" parent="19" relname="evidence"> See pp. 101-2 of Whose Science, Whose
+Knowledge.</segment>
+    <segment id="21" parent="22" relname="concession"> Yes the feminist critiques of science are harsh,</segment>
+    <segment id="22" parent="43" relname="span"> but they are
+not out to &quot;dismantle&quot; science as &quot;anti-feminist&quot; critics have charged.</segment>
+    <segment id="23" parent="40" relname="span">
+
+As the criticisms continue to target Harding in particular,</segment>
+    <segment id="24" parent="23" relname="background"> and I too sense
+a silence on the part of &quot;the mainstream&quot; STS community (which are not of a
+piece I am more than happy to acknowledge)</segment>
+    <segment id="25" parent="41" relname="span"> I&apos;m reminded of a poem of Marge
+Piercy&apos;s:</segment>
+    <segment id="26" parent="42" relname="span">
+
+        watch who they beat and who they eat,
+        watch who they relieve themselves on, watch who they own,
+        The rest is decoration. (Circles on the Water, p. 80)
+
+</segment>
+<group id="27" type="span" parent="3" relname="elaboration" />
+<group id="28" type="span" parent="30" relname="span" />
+<group id="29" type="span" parent="28" relname="evidence" />
+<group id="30" type="span" parent="7" relname="background" />
+<group id="31" type="span" parent="14" relname="antithesis" />
+<group id="32" type="span" parent="14" relname="evidence" />
+<group id="33" type="span" parent="11" relname="background" />
+<group id="34" type="span" parent="35" relname="span" />
+<group id="35" type="span" parent="38" relname="list" />
+<group id="36" type="span" parent="17" relname="evidence" />
+<group id="37" type="span" parent="38" relname="list" />
+<group id="38" type="multinuc" parent="7" relname="elaboration" />
+<group id="39" type="span" parent="44" relname="span" />
+<group id="40" type="span" parent="25" relname="volitional-cause" />
+<group id="41" type="span" parent="26" relname="background" />
+<group id="42" type="span" parent="22" relname="background" />
+<group id="43" type="span" parent="39" relname="summary" />
+<group id="44" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,91 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="background">Perhaps some shovelers should look at the latest superhyped recycling of the
+&quot;blacks are mentally inferior&quot; argument (Time, Newseek, NYT, some tv shows
+all reported on this story, the authors&apos; names escape me).</segment>
+    <segment id="2" parent="17" relname="span">
+
+Would self-proclaimed relativists avoid addressing the shoddiness of the
+argument?</segment>
+    <segment id="3" parent="2" relname="elaboration"> On the other hand, would a too-narrow focus on the details of
+statistical inference and the like miss some crucial opportunities as well?</segment>
+    <segment id="4" parent="22" relname="span">
+It seems to me the value of constructivism is it allows multiple sites of
+intervention in the debate,</segment>
+    <segment id="5" parent="4" relname="elaboration"> e.g. historical context--racist theories in
+science are nothing new nor can they _always_ just be fitted in the &quot;poor
+methodology&quot; category.</segment>
+    <segment id="6" parent="4" relname="elaboration"> What is the relationship between one of the authors&apos;
+position at the American Enterprise Institute, their attacks on welfare
+and the shaping of research questions and strategies?</segment>
+    <segment id="7" parent="19" relname="span"> How effective are the
+usual types of critiques (e.g. Lewontin and company) at actually affecting
+directions of research and the like</segment>
+    <segment id="8" parent="18" relname="span"> and how does this relate to the division
+of labor in science and the problem-solving interest in certain types of
+questions </segment>
+    <segment id="16" parent="8" relname="elaboration">(e.g. internal development of IQ testing since it presents new
+puzzles, despite critique of the assumptions from a variety of perspectives,
+analagous to Pickering&apos;s _Constructing Quarks_ perhaps).</segment>
+    <segment id="9" parent="4" relname="elaboration">
+How does this relate to the differential positions of women and minorities
+in science?</segment>
+    <segment id="10" parent="4" relname="elaboration"> to prevailing political moods?</segment>
+    <segment id="11" parent="20" relname="sequence"> Why is the press so enthusiastic
+in presenting this</segment>
+    <segment id="12" parent="20" relname="sequence"> and what has been the response by scientist-critics and
+professional organizations? </segment>
+    <segment id="13" parent="4" relname="elaboration">How does IQ testing and related technologies
+_already_ parcel people out on the basis of race and class?</segment>
+    <segment id="14" parent="15" relname="concession">
+
+Constructivism clearly has much to offer here</segment>
+    <segment id="15" parent="21" relname="span"> but only if it can shovel the
+shit while simultaneously working on a more long-term sanitation system.</segment>
+<group id="17" type="span" parent="4" relname="background" />
+<group id="18" type="span" parent="7" relname="elaboration" />
+<group id="19" type="span" parent="4" relname="elaboration" />
+<group id="20" type="multinuc" parent="4" relname="elaboration" />
+<group id="21" type="span" parent="23" relname="span" />
+<group id="22" type="span" parent="21" relname="evidence" />
+<group id="23" type="span" />
+  </body>
+</rst>

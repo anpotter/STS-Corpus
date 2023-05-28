@@ -1,0 +1,122 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">&amp;gt;From HAMLETT:</segment>
+    <segment id="2" parent="28" relname="span">
+
+&amp;lt;&amp;lt;
+Now, of course, we see the scientific community awakening to what&apos;s 
+been going on in STS for the past 15 years, and that community -- or 
+at least some noted spokespersons -- is clearly frightened and 
+panicked by the STS literature. I suppose after long neglest, it&apos;s 
+nice to be noticed, at all. However, I fear that the barrage of 
+criticisms will overwhelm the theoretical insights that STS has to 
+offer to  newly aroused scientists. The contributions of our field 
+will get lumped with other suspect intellectual movements, and we may 
+find ourselves defensively responding to the scorn of scientists who, 
+themselves, have not examined the STS literature, but have followed 
+the lead of the few scientists who have published attacks. I 
+certainly think these developments will make even more difficult
+various efforts to build STS programs on campuses.
+&amp;gt;&amp;gt;</segment>
+    <segment id="3" parent="29" relname="span">
+
+
+It really all depends on how WE (&quot;the STS community&quot;) decide
+to react. </segment>
+    <segment id="4" parent="30" relname="span"> If we decide to take seriously such rabid and blind 
+criticism of STS work as the one fully illustrated in Gross &amp; Levitt&apos;s 
+work (_Higher Superstition_),</segment>
+    <segment id="5" parent="31" relname="span"> then we are pretty much setting 
+ourselves up and letting our detractors decide our agenda for
+us. </segment>
+    <segment id="6" parent="27" relname="span"> For one thing, these people have absolutely no interest
+whatsover getting involved in any sort of constructive exchange
+with us. </segment>
+    <segment id="7" parent="20" relname="span"> Their intentions are as transparent as their aversion
+for us:</segment>
+    <segment id="8" parent="22" relname="span"> they want to dispense with us as fast as possible and
+with the minimum amount of effort it takes them to reach
+their goals. </segment>
+    <segment id="9" parent="21" relname="span"> So, reacting to them by developing an argument
+would be foolhardy, not to say pathetic.</segment>
+    <segment id="10" parent="9" relname="evidence">  Enough work has been
+done already for anyone who is operating in good faith.</segment>
+    <segment id="11" parent="23" relname="span"> Second, many 
+of our detractors are not really worried about us influencing
+the scientists--</segment>
+    <segment id="12" parent="11" relname="volitional-cause">they think we will simply not be able to do that--</segment>
+    <segment id="13" parent="24" relname="span">
+but rather, they think we will have a bad effect on the policy
+makers. </segment>
+    <segment id="14" parent="25" relname="span"> So, by becoming overly preoccupied with their &quot;beefs&quot;,
+we would be distracting ourselves from a genuine avenue, 
+instead having our collective head turn in the direction THEY want us
+to turn it.</segment>
+    <segment id="16" parent="15" relname="span">  For instance, we can go a long, long way tapping into
+the population of malcontents among the scientists</segment>
+    <segment id="18" parent="16" relname="elaboration">--those
+who have suffered and are still suffering from status quo
+science funding, for example. </segment>
+    <segment id="17" parent="32" relname="span"> The trick is to present our 
+message to these scientists in such a way that the false
+impression given that we are anti-science is avoided. </segment>
+    <segment id="19" parent="17" relname="elaboration"> And
+what&apos;s more, may have a head start on this given that these
+detractors of ours still equate the scientific community
+with that select set of Nobel laureates and the upper thin
+layer of elite scientists.</segment>
+<group id="20" type="span" parent="6" relname="elaboration" />
+<group id="22" type="span" parent="7" relname="elaboration" />
+<group id="23" type="span" parent="13" relname="antithesis" />
+<group id="15" type="span" parent="14" relname="elaboration" />
+<group id="24" type="span" parent="26" relname="span" />
+<group id="25" type="span" parent="24" relname="nonvolitional-result" />
+<group id="26" type="span" parent="5" relname="evidence" />
+<group id="21" type="span" parent="8" relname="nonvolitional-result" />
+<group id="27" type="span" parent="5" relname="evidence" />
+<group id="28" type="span" parent="3" relname="antithesis" />
+<group id="29" type="span" parent="4" relname="background" />
+<group id="30" type="span" parent="5" relname="condition" />
+<group id="31" type="span" parent="33" relname="span" />
+<group id="32" type="span" parent="31" relname="summary" />
+<group id="33" type="span" />
+  </body>
+</rst>

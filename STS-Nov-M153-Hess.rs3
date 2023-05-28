@@ -1,0 +1,61 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="8" relname="span">I&apos;d like to second Shapiro on the utility of presenting STS to the
+general public, and in that vein ask if anyone else has looked at the
+recent issue of DISCOVER on race. </segment>
+    <segment id="2" parent="1" relname="elaboration"> It has several articles that look
+at the construction of the concept and categories of race and how
+these are justified and deployed in various contexts, including
+&quot;science&quot;. </segment>
+    <segment id="3" parent="4" relname="solutionhood"> Does ayone recognize any of the authors as regular participants in
+STS enterprises? </segment>
+    <segment id="4" parent="6" relname="span"> If not, why aren&apos;t the editors turning our way when
+asking for commentary? </segment>
+    <segment id="5" parent="7" relname="span"> Perhaps SSSS could put together a resource
+list of researchers and their interests to forward to the various
+popular science and the public policy journals.</segment>
+<group id="6" type="span" parent="5" relname="solutionhood" />
+<group id="7" type="span" parent="9" relname="span" />
+<group id="8" type="span" parent="7" relname="background" />
+<group id="9" type="span" />
+  </body>
+</rst>

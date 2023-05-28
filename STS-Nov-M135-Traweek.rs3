@@ -1,0 +1,130 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="24" relname="sequence">Authoritarians have a long history of throwing together groups of people 
+who can&apos;t stand each other and then oppressing the whole fractious 
+bunch, while appealing to the public [especially the privileged] about how 
+the diverse groups all oppose public order.</segment>
+    <segment id="2" parent="24" relname="sequence"> The oppressors then gain 
+considerable resources through the support of all those who, of course, 
+prefer public order to disorder.</segment>
+    <segment id="3" parent="25" relname="span">  This scenario is so frequently rehersed 
+that it can be summarized tritely,</segment>
+    <segment id="5" parent="3" relname="evidence"> as I have just done.</segment>
+    <segment id="4" parent="28" relname="span">
+
+I have been intrigued how our own little fractious bunch [policy makers, 
+policy critics, strong programmers, constructivists, methodological 
+relativists, feminist epistemologists, rhetoricians, scientometricians, 
+all-around judicious types, ET AL] was going to deal with this current,
+increasingly disturbing anti-sts &apos;backlash&apos; in the US and UK.</segment>
+    <segment id="6" parent="4" relname="background">  [I haven&apos;t 
+heard of it going on elsewhere.] </segment>
+    <segment id="7" parent="29" relname="span"> Most of us have been politely silent 
+about this growing anti-sts backlash,</segment>
+    <segment id="8" parent="7" relname="nonvolitional-cause"> in part because of the company we 
+would need to keep [see list above] in order to act effectively.</segment>
+    <segment id="9" parent="10" relname="background">
+
+I just heard this morning from a colleague - not at all in science 
+studies of any kind - that she had heard about a recent US national meeting 
+of deans of sci/eng where one speaker &apos;instructed&apos; the other deans in the 
+pernicious work being done on sci/eng, perhaps on their own campuses.  </segment>
+    <segment id="10" parent="26" relname="span">
+The speaker apparently blamed all of this on - guess what - literary 
+theory.</segment>
+    <segment id="11" parent="32" relname="span">  In case any of you are suddenly feeling relieved</segment>
+    <segment id="30" parent="11" relname="elaboration"> - oh, I don&apos;t 
+do litcrit -</segment>
+    <segment id="31" parent="33" relname="span"> then you are an example of the effectiveness of the backlash 
+stragegy of oppressing fractious groups, in my opinion.</segment>
+    <segment id="12" parent="43" relname="span">
+
+I agree strongly with David Hakken that we need to be thinking together 
+about diverse [I repeat: diverse] strategies to respond effectively to this 
+strengthening backlash.</segment>
+    <segment id="13" parent="40" relname="span">  David suggests &quot;intense engagement&quot; with the 
+scientists and engineers whose practices we are studying. </segment>
+    <segment id="14" parent="13" relname="elaboration"> For those of 
+us who are already so engaged, I agree, certainly, that we can increase 
+our discussions with them about our work and the anti-sts crusades.</segment>
+    <segment id="15" parent="38" relname="solutionhood">
+
+What else? </segment>
+    <segment id="16" parent="17" relname="background"> 
+Looking at the source materials I assume that most of us would agree 
+that reacting to the backlash must involve exposing the - well, I&apos;ll be 
+polite - amazingly inventive readings of diverse people&apos;s work, coupled 
+with amazingly inventive ways of putting together ideas that most 
+readers would regard as immiscible.</segment>
+    <segment id="17" parent="37" relname="span">  While certainly not difficult,</segment>
+    <segment id="18" parent="38" relname="span">
+this will be a tedious task.</segment>
+    <segment id="19" parent="20" relname="preparation">  The next problem:</segment>
+    <segment id="20" parent="27" relname="span">  how to give the critique 
+the exposure of the backlash. </segment>
+    <segment id="21" parent="41" relname="span"> I suggest that this is already nearly 
+insurmountable.</segment>
+    <segment id="22" parent="23" relname="solutionhood">
+
+What else?</segment>
+    <segment id="23" parent="42" relname="span">  Indeed.</segment>
+<group id="24" type="multinuc" parent="3" relname="background" />
+<group id="25" type="span" parent="29" relname="background" />
+<group id="26" type="span" parent="33" relname="background" />
+<group id="27" type="span" parent="21" relname="solutionhood" />
+<group id="28" type="span" parent="7" relname="solutionhood" />
+<group id="29" type="span" parent="34" relname="span" />
+<group id="32" type="span" parent="31" relname="condition" />
+<group id="33" type="span" parent="35" relname="span" />
+<group id="34" type="span" parent="36" relname="span" />
+<group id="35" type="span" parent="34" relname="evidence" />
+<group id="36" type="span" parent="44" relname="solutionhood" />
+<group id="37" type="span" parent="18" relname="concession" />
+<group id="38" type="span" parent="39" relname="span" />
+<group id="39" type="span" parent="44" relname="list" />
+<group id="40" type="span" parent="12" relname="means" />
+<group id="41" type="span" parent="44" relname="list" />
+<group id="42" type="span" parent="44" relname="list" />
+<group id="43" type="span" parent="44" relname="list" />
+<group id="44" type="multinuc" parent="45" relname="span" />
+<group id="45" type="span" />
+  </body>
+</rst>

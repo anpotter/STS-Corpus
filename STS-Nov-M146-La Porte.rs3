@@ -1,0 +1,168 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="45" relname="span">
+STS list in general:
+
+I&apos;ve been lurking on this list for a bit becoming increasingly puzzled by
+the shape and tone of the exchanges.</segment>
+    <segment id="2" parent="1" relname="circumstance">  At the same time, I&apos;ve been deleting
+files and came across the one enclosed.</segment>
+    <segment id="3" parent="23" relname="span">  It seemed a propos somehow at
+this juncture in your/our social constructions. </segment>
+    <segment id="4" parent="3" relname="evidence"> Work of the sort
+suggested below might provide a more substantial basis for &quot;backlashes&quot;
+and antagonisms. </segment>
+    <segment id="5" parent="3" relname="evidence"> It might also address other needs and possibilities of
+STS work (and students who look us up as if we were relevent) that is not 
+now claiming attention from within or without. </segment>
+    <segment id="6" parent="22" relname="span">
+
+&amp;gt;From a letter the National Science Foundation, 12-22-1991, commenting on 
+a draft announcement for a Research on Research and Technology program </segment>
+    <segment id="8" parent="6" relname="elaboration">
+(not much seemed to come of it but I&apos;ve stopped looking to the NSF for much.)</segment>
+    <segment id="7" parent="25" relname="span">
+
+&quot;The questions/issues listed to illustrate the types of (acceptable, 
+suggested research) interests are wide ranging but almost wholly devoted 
+either to the sociology of investigators, or to the processes and 
+institutional settings involved in producing or disseminating more 
+scientific knowledge or technical innovations.  The list ... suggests 
+that the real emphasis of the program will (and should) be on the 
+processes, inputs, and outputs of research and technological innovation 
+with very little encouragement concerning the questions of the impacts or 
+consequences of deploying new technologies widely throughout 
+organizations or society at large.&quot;</segment>
+    <segment id="9" parent="28" relname="span">
+
+I felt then and now that thses are quite lopsided, indeed unbalanced, 
+perhaps pernicious emphases. </segment>
+    <segment id="10" parent="26" relname="span"> A parallel set of research concerns is 
+required, I believe,</segment>
+    <segment id="11" parent="10" relname="condition"> if we are to improve the types of knowledge 
+necessary to inform the technical, academic and policy communities 
+involved. </segment>
+    <segment id="12" parent="27" relname="span"> I indicate some below. </segment>
+    <segment id="13" parent="14" relname="nonvolitional-cause"> They were drafted a bit hastily due to 
+time constraints</segment>
+    <segment id="14" parent="24" relname="span"> so they are by no means complete.</segment>
+    <segment id="15" parent="30" relname="span">  At the same time, I 
+see very little progress in either our systematic (STS, TA, soc. sci.) 
+understanding of the relations outlined, or in the availability of funds 
+for their pursuit (from NSF or any other agency).</segment>
+    <segment id="16" parent="38" relname="preparation">
+ 
+&quot;There are no issues or questions stimulating research on, for example, 
+matters of: </segment>
+    <segment id="31" parent="39" relname="span">
+
+a) The effects of technologies on everyday life (in settings other than 
+technology producing institutions),</segment>
+    <segment id="36" parent="31" relname="elaboration"> e.g., the effects of technologies on 
+the use of time and other aspects of in household behavior, changes of 
+adolescent perceptions of the world as consequences of continuous global 
+news media, or the effects on social behavior associated with the new 
+medical capabilities in intensive care for premature infants and the elderly.</segment>
+    <segment id="32" parent="40" relname="span">
+
+b) The effects of widely deployed technologies whose negative and 
+unexpected positive effects become recognizable only when they reach wide 
+scale deployment,</segment>
+    <segment id="37" parent="32" relname="elaboration"> e.g., automobiles noxious emissions, wide scale 
+dependence on high speed transfer of financial information within and 
+across national boundaries, and  unexpected uses of Minitel in France.</segment>
+    <segment id="33" parent="38" relname="list">
+
+c) The effects on public and private institutions when the society 
+becomes dependent on technologies so intrinsically hazardous in their 
+design that they prompt pressures for very high levels of reliable 
+performance as a condition of their benefits, such a nuclear power 
+generation, air traffic control, sea transport of crude oil, and the 
+development of new types of biological and genetic materials.</segment>
+    <segment id="34" parent="38" relname="list">
+
+d) The effects on legal and political institutions when technologies are 
+designed and deployed that have characteristics which (usually 
+inadvertently) prompt public apprehension and fears and, hence, invite 
+government regulation, such as job displacing systems, environmentally 
+destructive processes, and technologies like those listed in c) above.</segment>
+    <segment id="35" parent="38" relname="list">
+
+e) The criteria and dynamics in technological design processes which 
+might take into account social and regulatory impacts as well as economic 
+benefits.&quot;</segment>
+    <segment id="17" parent="41" relname="span">
+
+These all have to do with the uses of scientific knowledge made manifest 
+as physical and organizational phenomena.</segment>
+    <segment id="18" parent="42" relname="summary">  These sort of questions can 
+and should be the object of systematic inquiry -- potentially the source 
+of strategies and design knowledge -- that could inform decision making 
+and operational development. </segment>
+    <segment id="19" parent="48" relname="span"> STSers could turn to such questions</segment>
+    <segment id="20" parent="19" relname="concession"> (though 
+I am not persuaded they/we are now particularly skilled in doing so).</segment>
+    <segment id="21" parent="19" relname="motivation"> The 
+result should be a more fully formed basis for affirming (new or 
+continuing) technical systems in the interest of more than &quot;technical&quot; or 
+&quot;economic&quot; progress.</segment>
+<group id="22" type="span" parent="7" relname="background" />
+<group id="23" type="span" parent="6" relname="background" />
+<group id="24" type="span" parent="12" relname="background" />
+<group id="25" type="span" parent="9" relname="antithesis" />
+<group id="26" type="span" parent="44" relname="span" />
+<group id="27" type="span" parent="29" relname="span" />
+<group id="28" type="span" parent="26" relname="solutionhood" />
+<group id="29" type="span" parent="43" relname="span" />
+<group id="30" type="span" parent="27" relname="elaboration" />
+<group id="38" type="multinuc" parent="42" relname="span" />
+<group id="39" type="span" parent="38" relname="list" />
+<group id="40" type="span" parent="38" relname="list" />
+<group id="41" type="span" parent="38" relname="interpretation" />
+<group id="42" type="span" parent="46" relname="span" />
+<group id="43" type="span" parent="26" relname="elaboration" />
+<group id="44" type="span" parent="46" relname="background" />
+<group id="45" type="span" parent="3" relname="background" />
+<group id="46" type="span" parent="47" relname="span" />
+<group id="47" type="span" parent="19" relname="background" />
+<group id="48" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,68 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="antithesis">Perhaps I appeared to suggest that relativists in general or McCloskey in
+particular were not worth reading.</segment>
+    <segment id="2" parent="9" relname="span"> That was not what I meant.</segment>
+    <segment id="3" parent="13" relname="span"> My point
+referred to what I perceived as the relative amount of critical leverage
+that you can find in two different STS approaches to economics.</segment>
+    <segment id="4" parent="11" relname="preparation">
+
+This relates to the enlightenment stuff.</segment>
+    <segment id="5" parent="6" relname="antithesis"> Christopher Norris distinguishes
+between people still committed to the enlightenment like Derrida and
+Habermas (he considers them on the same side!) and those like Fish or Rorty
+who serve to limit rather than expand criticism. </segment>
+    <segment id="6" parent="10" relname="span"> This is too neat and
+voluntarist, no doubt.</segment>
+    <segment id="7" parent="6" relname="elaboration"> And I&apos;m not sure what hangs on the concept of
+&quot;enlightenment.&quot;</segment>
+    <segment id="8" parent="11" relname="span"> My only point is that it is possible to discrimminate
+between different normative sensibilities within what gets labelled as
+postmodernism.</segment>
+<group id="9" type="span" parent="3" relname="antithesis" />
+<group id="10" type="span" parent="8" relname="concession" />
+<group id="11" type="span" parent="12" relname="span" />
+<group id="12" type="span" parent="14" relname="span" />
+<group id="13" type="span" parent="12" relname="background" />
+<group id="14" type="span" />
+  </body>
+</rst>

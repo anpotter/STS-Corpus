@@ -1,0 +1,88 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">Steve Fuller, of Durham, UK, wrote:-</segment>
+    <segment id="2" parent="14" relname="span">
+
+&amp;gt;Here&apos;s one indicator of the difference between the US and the UK:
+&amp;gt;
+&amp;gt;
+&amp;gt;I was just listening to BBC-Radio 1, the UK national pop music station, 
+&amp;gt;and this week&apos;s call-in topic was announced:
+&amp;gt;
+&amp;gt;      Is science out of control, and what should be done if it is?
+&amp;gt;
+&amp;gt;The announcer said that this question was prompted by a recent statement 
+&amp;gt;of Steven Hawking&apos;s, to the effect that the world would have been better 
+&amp;gt;off if the leading scientists of the 20th century had been born as flies (!).
+&amp;gt;
+&amp;gt;Now what do you suppose the 12-35 year old set is likely to make of that 
+&amp;gt;one? Tune in and find out!</segment>
+    <segment id="3" parent="15" relname="span">
+&amp;gt;
+I can&apos;t tune in, Steve, I don&apos;t live there anymore.</segment>
+    <segment id="4" parent="17" relname="span"> Keep us posted. </segment>
+    <segment id="5" parent="18" relname="span">
+Frankly I don&apos;t think wiping out the 20th C scientists would have made all
+that much difference;</segment>
+    <segment id="6" parent="16" relname="list"> no atomic power,</segment>
+    <segment id="7" parent="16" relname="list"> far less progress in the materials
+sciences,</segment>
+    <segment id="8" parent="16" relname="list"> probably less on VLSI electronics,</segment>
+    <segment id="9" parent="16" relname="list"> but that&apos;s about it.</segment>
+    <segment id="10" parent="19" relname="span"> Seems to
+me that we&apos;re still working through the shifts in viewpoint occasioned by
+Darwin and his explainers.</segment>
+    <segment id="11" parent="10" relname="elaboration"> The implications of the fact that we share 98.4%
+of our DNA coding with chimpanzees, or that the Enlightenment has finally
+died will take a while to trickle through to the hindbrain.</segment>
+    <segment id="12" parent="20" relname="span"> So yes, keep us
+posted;</segment>
+    <segment id="13" parent="12" relname="motivation"> could be interesting.</segment>
+<group id="14" type="span" parent="3" relname="antithesis" />
+<group id="15" type="span" parent="4" relname="motivation" />
+<group id="16" type="multinuc" parent="5" relname="evidence" />
+<group id="17" type="span" parent="21" relname="span" />
+<group id="18" type="span" parent="10" relname="antithesis" />
+<group id="19" type="span" parent="12" relname="motivation" />
+<group id="20" type="span" parent="17" relname="elaboration" />
+<group id="21" type="span" />
+  </body>
+</rst>

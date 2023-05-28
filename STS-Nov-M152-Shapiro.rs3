@@ -1,0 +1,228 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="nonvolitional-cause">
+Now that things have subsided a bit,</segment>
+    <segment id="2" parent="92" relname="span"> I thought I&apos;d throw in my 2 cent&apos;s
+worth. </segment>
+    <segment id="3" parent="91" relname="span"> I&apos;m not going to worry about attributing embedded ideas to
+particular people,</segment>
+    <segment id="4" parent="3" relname="otherwise"> otherwise I&apos;d need a wall chart to keep them straight. 
+No slights intended. </segment>
+    <segment id="5" parent="93" relname="span">
+
+We do seem to be at a crossroads in terms of society&apos;s relationship with
+science and technology</segment>
+    <segment id="6" parent="60" relname="span"> and I think it is this larger instability (if that&apos;s
+the right word) which has helped raise the prominence of STS. </segment>
+    <segment id="7" parent="54" relname="circumstance"> (When I was
+working for IBM as a summer intern some years ago,</segment>
+    <segment id="8" parent="54" relname="contrast"> my fellow interns and I
+decided that prominence resulting from something good was &quot;visibility&quot;</segment>
+    <segment id="9" parent="54" relname="contrast">
+while prominence resulting from a screw up constituted &quot;exposure.&quot; </segment>
+    <segment id="10" parent="58" relname="elaboration"> You can
+decide for yourselves which term is most applicable to STS!)</segment>
+    <segment id="11" parent="61" relname="span">  This has
+certainly been the case in Britain which over the last few years has seen
+the publication of several popular critiques of science and technology
+(both good and not so good) and a number of television programs including
+in particular a series called Pandora&apos;s Box.</segment>
+    <segment id="12" parent="56" relname="span">  C.P. Snow has been called
+into service</segment>
+    <segment id="55" parent="12" relname="volitional-cause"> as talk of the two cultures once again has become fashionable.</segment>
+    <segment id="13" parent="62" relname="span">
+ The end of the Cold War has clearly contributed to this trend as defense
+decreases in importance as a driver of science and technology</segment>
+    <segment id="14" parent="15" relname="nonvolitional-cause"> (although
+judging from what I&apos;m hearing of the election results in the States,</segment>
+    <segment id="15" parent="57" relname="span"> this
+may be about to change there). </segment>
+    <segment id="16" parent="60" relname="elaboration"> And of course, there&apos;s the general ruckus
+surrounding multiculturalism and other perceived threats arising out of
+&quot;political corrrectness.&quot; </segment>
+    <segment id="17" parent="18" relname="nonvolitional-cause">
+
+I suppose because science is more heavily dependent than technology on
+government funding,</segment>
+    <segment id="18" parent="70" relname="span"> scientists are especially worried about their future
+funding fortunes in the wake of all this instability</segment>
+    <segment id="19" parent="18" relname="background"> (I suspect the
+cancellation of the superconducting supercollider really sounded the
+alarm). </segment>
+    <segment id="20" parent="64" relname="condition"> Well, if you need to rally the troops and circle the wagons</segment>
+    <segment id="64" parent="65" relname="span"> it
+helps to have a well defined enemy,</segment>
+    <segment id="21" parent="72" relname="span"> and it seems that a segment of the
+scientific community has latched onto STS as the chief villain. </segment>
+    <segment id="22" parent="67" relname="span"> Of course,
+in order to do this effectively they have to focus on the more radical (and
+thus readily identifiable as threatening) parts of what we&apos;re all aware is
+an extremely heterogeneous STS universe.</segment>
+    <segment id="23" parent="69" relname="span">  In this sense, it&apos;s to their
+advantage to keep the debate polarized;</segment>
+    <segment id="24" parent="66" relname="nonvolitional-cause"> once you acknowledge the diversity
+of STS</segment>
+    <segment id="25" parent="66" relname="span"> the perceived threat level can&apos;t help but go down</segment>
+    <segment id="26" parent="25" relname="elaboration"> and it becomes
+much more difficult to use STS as a way of framing the case for support and
+protection of science. </segment>
+    <segment id="27" parent="28" relname="antithesis"> I don&apos;t mean to suggest by this phrasing that I
+think all or most scientists are acting in a self-consciously cynical
+fashion. </segment>
+    <segment id="28" parent="73" relname="span"> Rather, I think this is for the most part a logical albeit
+unfortunate reaction to a disturbing period of instability.</segment>
+    <segment id="29" parent="30" relname="antithesis">
+
+Therefore, I don&apos;t see much to be gained from spending a lot of time and
+effort trying to refute the various misperceptions and ill-founded
+criticisms. </segment>
+    <segment id="30" parent="77" relname="span"> Instead, I think STS needs to concentrate on presenting itself
+as a means of usefully addressing important kinds of issues of concern to a
+great many people. </segment>
+    <segment id="31" parent="75" relname="span"> 
+Even those STS scholars whose principal interests are purely theoretical
+have a stake in this</segment>
+    <segment id="32" parent="31" relname="nonvolitional-cause"> inasmuch as they&apos;re dependent on the perceived
+legitimacy  of the STS enterprise which attracts the funds which supports
+their work.</segment>
+    <segment id="33" parent="76" relname="span">  And it is up to all of us to show how the most radical (and
+flak generating) stuff plays a necessary role in a living, breathing STS
+enterprise,</segment>
+    <segment id="34" parent="33" relname="concession"> even when we don&apos;t personally agree with it (as in any other
+field of intellectual inquiry for that matter). </segment>
+    <segment id="35" parent="80" relname="span">
+
+One thing that greatly disturbs me is the inclination that some STS
+scholars have shown to react by simply withdrawing from the fray.</segment>
+    <segment id="36" parent="37" relname="concession">  While I
+can understand their frustration with trying to get through to people they
+see as unremittingly hostile and willfully obtuse,</segment>
+    <segment id="37" parent="78" relname="span"> I think it is ultimately
+self-defeating to simply cede the stage.</segment>
+    <segment id="38" parent="81" relname="span">  In addition to those who will
+never be amenable to anything more critical than traditional history and
+philosophy of science, I firmly believe there exists a large proportion of
+scientists and engineers who are open to the idea that STS in its myriad
+variations can be a force for positive change and accomplishment.</segment>
+    <segment id="39" parent="40" relname="nonvolitional-cause">  In the
+absence of a _positive_ (but nonetheless critical) vision put strongly
+forward by the STS community,</segment>
+    <segment id="40" parent="79" relname="span"> the only coherent argument they hear will
+come from the demonizers of STS. </segment>
+    <segment id="41" parent="82" relname="span"> I want to stress, though, that a positive
+vision of STS would most definitely include acknowledgement of and response
+to those criticisms of STS which do strike a chord.</segment>
+    <segment id="42" parent="41" relname="elaboration">  Dialogue (in its many
+different forms) is an essential part of such a vision. </segment>
+    <segment id="43" parent="84" relname="span">
+
+Where and how to do this is of course a key question</segment>
+    <segment id="44" parent="43" relname="elaboration"> and I think it&apos;s quite
+right that little is gained by addressing ourselves to the faithful. </segment>
+    <segment id="45" parent="85" relname="list"> Many
+more of us (and I&apos;m as guilty as anyone of not doing this enough) need to
+write for both the popular press and those organs aimed at the chattering
+classes (as they are referred to over here) such as the Economist and the
+New Republic. </segment>
+    <segment id="46" parent="85" relname="list"> More of us should also be in various experts databases which
+the media use.</segment>
+    <segment id="47" parent="85" relname="list">  And we all need to make our presence felt at public
+hearings on issues concerning science and technology. </segment>
+    <segment id="48" parent="86" relname="span"> In doing all of
+this, though, even when being critical, we need to project an air of
+reasonableness. </segment>
+    <segment id="49" parent="48" relname="motivation"> After all, that is the heart of the argument against us,
+that we are being unreasonable in our criticisms of scientists and
+technologists and that we are somehow urging the abandonment of reason by
+them. </segment>
+    <segment id="50" parent="51" relname="antithesis"> Instead of spending a lot of time and effort trying to demonstrate
+why we&apos;re not bad,</segment>
+    <segment id="51" parent="87" relname="span"> let&apos;s focus on showing why and how we&apos;re good.  </segment>
+    <segment id="52" parent="53" relname="concession">
+
+This is all terribly banal, I know,</segment>
+    <segment id="53" parent="90" relname="span"> but growing up in the American midwest
+does that to you.</segment>
+<group id="54" type="multinuc" parent="58" relname="span" />
+<group id="56" type="span" parent="11" relname="elaboration" />
+<group id="57" type="span" parent="13" relname="concession" />
+<group id="58" type="span" parent="59" relname="span" />
+<group id="59" type="span" parent="6" relname="background" />
+<group id="60" type="span" parent="63" relname="span" />
+<group id="61" type="span" parent="60" relname="elaboration" />
+<group id="62" type="span" parent="60" relname="elaboration" />
+<group id="63" type="span" parent="74" relname="background" />
+<group id="65" type="span" parent="71" relname="span" />
+<group id="66" type="span" parent="68" relname="span" />
+<group id="67" type="span" parent="21" relname="elaboration" />
+<group id="68" type="span" parent="23" relname="otherwise" />
+<group id="69" type="span" parent="22" relname="elaboration" />
+<group id="70" type="span" parent="65" relname="preparation" />
+<group id="71" type="span" parent="21" relname="volitional-cause" />
+<group id="72" type="span" parent="74" relname="span" />
+<group id="73" type="span" parent="72" relname="summary" />
+<group id="74" type="span" parent="94" relname="span" />
+<group id="75" type="span" parent="30" relname="evidence" />
+<group id="76" type="span" parent="30" relname="elaboration" />
+<group id="77" type="span" parent="95" relname="span" />
+<group id="79" type="span" parent="38" relname="antithesis" />
+<group id="78" type="span" parent="35" relname="evidence" />
+<group id="80" type="span" parent="38" relname="antithesis" />
+<group id="81" type="span" parent="83" relname="span" />
+<group id="82" type="span" parent="81" relname="concession" />
+<group id="83" type="span" parent="95" relname="elaboration" />
+<group id="84" type="span" parent="85" relname="solutionhood" />
+<group id="85" type="multinuc" parent="89" relname="span" />
+<group id="86" type="span" parent="88" relname="span" />
+<group id="87" type="span" parent="86" relname="elaboration" />
+<group id="88" type="span" parent="85" relname="elaboration" />
+<group id="89" type="span" parent="97" relname="span" />
+<group id="90" type="span" parent="97" relname="concession" />
+<group id="91" type="span" parent="2" relname="elaboration" />
+<group id="92" type="span" parent="5" relname="preparation" />
+<group id="93" type="span" parent="6" relname="nonvolitional-cause" />
+<group id="94" type="span" parent="77" relname="evidence" />
+<group id="95" type="span" parent="96" relname="span" />
+<group id="96" type="span" parent="89" relname="background" />
+<group id="97" type="span" parent="98" relname="span" />
+<group id="98" type="span" />
+  </body>
+</rst>

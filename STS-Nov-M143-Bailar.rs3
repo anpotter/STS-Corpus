@@ -1,0 +1,130 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="48" relname="span">It seems to me that many readers of (or at least writers to) 
+this list are looking at the &quot;backlash&quot; as predictable 
+defensivesess of what scientists see as their territory:</segment>
+    <segment id="2" parent="3" relname="volitional-cause">  
+Those STSers are after me and my work,</segment>
+    <segment id="3" parent="28" relname="span"> so let&apos;s go get &apos;em!</segment>
+    <segment id="4" parent="49" relname="span">
+
+If that is our response,</segment>
+    <segment id="5" parent="29" relname="span"> we may harm STS. </segment>
+    <segment id="6" parent="31" relname="span"> Do not
+underestimate the sincerity, the passion, or the power of
+others</segment>
+    <segment id="9" parent="6" relname="antithesis"> just because you disagree with them. </segment>
+    <segment id="7" parent="32" relname="span"> And do not dismiss
+the whole package</segment>
+    <segment id="8" parent="7" relname="antithesis"> just because you have some special background
+and technical knowledge and can tell that parts of it are
+flawed.</segment>
+    <segment id="10" parent="11" relname="condition">  If we don&apos;t develop some answers that are convincing
+(to those who need to be convinced, which is not nesessarily to
+ourselves)</segment>
+    <segment id="11" parent="33" relname="span"> we may lose a lot, including academic departments, 
+students, money, respect, and influence.</segment>
+    <segment id="12" parent="50" relname="span">
+
+Which brings me back (yes, still another time) to the
+question,</segment>
+    <segment id="13" parent="39" relname="span"> What are we really trying to accomplish?</segment>
+    <segment id="14" parent="36" relname="span">  A couple of
+answers have said or implied that we all have our own quite
+different concerns</segment>
+    <segment id="15" parent="14" relname="nonvolitional-result"> so there can&apos;t be any common thread,</segment>
+    <segment id="16" parent="37" relname="span"> but
+that doesn&apos;t get us anywhere. </segment>
+    <segment id="17" parent="38" relname="span"> Surely STS as a whole should
+have more coherence than would be evident in the collection of
+individual interests. </segment>
+    <segment id="18" parent="17" relname="evidence"> (Would anyone say that chemistry, for
+example, lacks underlying structures and goals because one
+chemist is interested in the combustion products of gasoline,
+and another in the arrangement in space of the atoms in some
+plastic, and still another in more efficient extraction of
+copper from ore?)</segment>
+    <segment id="19" parent="47" relname="span">
+
+Is is possible, and even thinkable and discussable, that the
+critics may have some valid points? </segment>
+    <segment id="20" parent="21" relname="concession"> Certainly, they have
+convinced a lot of people,</segment>
+    <segment id="21" parent="44" relname="span"> and, whether they are right or
+wrong, our whining and moaning will not do much for us.</segment>
+    <segment id="22" parent="45" relname="span">  Nor
+can we go back to where we were some years ago, in quiet
+obscurity. </segment>
+    <segment id="23" parent="43" relname="span"> The cat (i.e., STS) is out of the bag.</segment>
+    <segment id="24" parent="27" relname="volitional-cause">  Because of
+the critics,</segment>
+    <segment id="27" parent="41" relname="span"> a lot of people have become aware that we exist</segment>
+    <segment id="25" parent="42" relname="span">
+and that maybe they should pay STS some attention, not
+necessarily favorable.</segment>
+    <segment id="26" parent="47" relname="interpretation">
+
+Is &quot;Cheers&quot; the right signoff after a message like this?</segment>
+<group id="28" type="span" parent="1" relname="elaboration" />
+<group id="29" type="span" parent="34" relname="span" />
+<group id="31" type="span" parent="30" relname="list" />
+<group id="32" type="span" parent="30" relname="list" />
+<group id="30" type="multinuc" parent="29" relname="evidence" />
+<group id="33" type="span" parent="35" relname="span" />
+<group id="34" type="span" parent="33" relname="nonvolitional-cause" />
+<group id="35" type="span" parent="12" relname="nonvolitional-cause" />
+<group id="36" type="span" parent="16" relname="antithesis" />
+<group id="37" type="span" parent="17" relname="antithesis" />
+<group id="38" type="span" parent="13" relname="elaboration" />
+<group id="39" type="span" parent="19" relname="solutionhood" />
+<group id="41" type="span" parent="25" relname="volitional-cause" />
+<group id="42" type="span" parent="23" relname="elaboration" />
+<group id="43" type="span" parent="22" relname="evidence" />
+<group id="44" type="span" parent="46" relname="span" />
+<group id="45" type="span" parent="44" relname="nonvolitional-result" />
+<group id="46" type="span" parent="19" relname="evidence" />
+<group id="47" type="span" parent="40" relname="span" />
+<group id="48" type="span" parent="4" relname="background" />
+<group id="49" type="span" parent="5" relname="condition" />
+<group id="50" type="span" parent="13" relname="background" />
+<group id="40" type="span" />
+  </body>
+</rst>

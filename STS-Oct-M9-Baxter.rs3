@@ -1,0 +1,92 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">Dear STSers,</segment>
+    <segment id="2" parent="25" relname="span">
+
+Although I haven&apos;t been following these &apos;anti-anti-science&apos; diatribes very
+closely,</segment>
+    <segment id="3" parent="19" relname="span"> I did develop an early distaste for Lewis Wolpert&apos;s brand of science
+hagiography</segment>
+    <segment id="4" parent="3" relname="circumstance"> when I saw him on television last year in discussion with
+Mary Midgeley and others. </segment>
+    <segment id="5" parent="6" relname="nonvolitional-cause"> And from reading some of the postings on this list,
+I had become aware that an increasing number of scientists and others had 
+become engaged in formulating similar anti-sts discourses.</segment>
+    <segment id="6" parent="23" relname="span">
+So, I was pleasantly suprised</segment>
+    <segment id="7" parent="14" relname="span"> when, during an STS summer school in the
+Netherlands a few weeks ago, I met a couple of people who were involved in an
+interdisciplinary project called &apos;towards non-linear optics&apos;. </segment>
+    <segment id="8" parent="18" relname="span"> As well as the
+usual scientific disciplines (chemical physics, micro electronics, solid state
+physics etc.), the list of cooperating departments included a group from
+_Sociology of Science_.</segment>
+    <segment id="9" parent="8" relname="volitional-cause">
+The official rationale for including this group was apparently of the &apos;greasing
+the wheels of scientific communication&apos; variety, which sometimes put them
+in a slightly difficult position,</segment>
+    <segment id="10" parent="6" relname="elaboration"> but what struck me was the way that something
+which (I would guess) would be quite unimaginable in the British context was
+happening there in a fairly unproblematic way.</segment>
+    <segment id="11" parent="24" relname="span">
+Some questions:</segment>
+    <segment id="12" parent="20" relname="list"> Does anyone know how common this kind of thing actually is, and
+whether it does happen &apos;over here&apos;? </segment>
+    <segment id="13" parent="22" relname="span"> What do people think about the virtues and
+vices of involvement in this sort of project? </segment>
+    <segment id="15" parent="13" relname="elaboration"> (To what extent should we allow the
+criterion for good work in STS to become that members of the scientific comm-
+unity consider us to have helped them?) </segment>
+    <segment id="16" parent="17" relname="condition"> If some kind of cultural difference
+can be articulated,</segment>
+    <segment id="17" parent="21" relname="span"> does anyone want to speculate on its causes and significance?</segment>
+<group id="14" type="span" parent="6" relname="circumstance" />
+<group id="18" type="span" parent="7" relname="elaboration" />
+<group id="19" type="span" parent="6" relname="nonvolitional-cause" />
+<group id="20" type="multinuc" parent="26" relname="span" />
+<group id="21" type="span" parent="20" relname="list" />
+<group id="22" type="span" parent="20" relname="list" />
+<group id="23" type="span" parent="11" relname="background" />
+<group id="24" type="span" parent="20" relname="preparation" />
+<group id="25" type="span" parent="3" relname="concession" />
+<group id="26" type="span" />
+  </body>
+</rst>
