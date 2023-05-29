@@ -1,6 +1,5 @@
 # STS-Corpus
-Rhetorical Structure theory analyses of messages exchanged during an asynchronous scholarly debate. The debate took place in 1994 on an email list devoted to the topic of science, technology, and society (STS). 
-
+Rhetorical Structure theory analyses of messages exchanged during an asynchronous scholarly debate. The debate took place in 1994 on an email list devoted to the topic of science, technology, and society (STS). You can learn more about the debate here:
 
 Dusek, V. (1998). Where learned armies clash by night. Continental Philosophy Review, 31(1), 95-106.
 
