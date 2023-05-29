@@ -54,7 +54,7 @@ and this week&apos;s call-in topic was announced:</segment>
 The announcer said that this question was prompted by a recent statement 
 of Steven Hawking&apos;s, to the effect that the world would have been better 
 off if the leading scientists of the 20th century had been born as flies (!).</segment>
-    <segment id="6" parent="12" relname="span">
+    <segment id="6" parent="10" relname="solutionhood">
 
 Now what do you suppose the 12-35 year old set is likely to make of that 
 one?</segment>
@@ -63,7 +63,6 @@ one?</segment>
 <group id="7" type="span" parent="4" relname="background" />
 <group id="10" type="span" parent="13" relname="span" />
 <group id="11" type="span" parent="14" relname="span" />
-<group id="12" type="span" parent="10" relname="solutionhood" />
 <group id="13" type="span" parent="11" relname="interpretation" />
 <group id="14" type="span" parent="15" relname="span" />
 <group id="15" type="span" />
