@@ -127,19 +127,18 @@ theory. </segment>
 <group id="31" type="span" parent="7" relname="elaboration" />
 <group id="32" type="span" parent="10" relname="elaboration" />
 <group id="33" type="span" parent="16" relname="motivation" />
-<group id="34" type="span" parent="42" relname="span" />
+<group id="34" type="span" parent="45" relname="elaboration" />
 <group id="35" type="span" parent="20" relname="elaboration" />
 <group id="36" type="multinuc" parent="19" relname="elaboration" />
 <group id="37" type="span" parent="36" relname="contrast" />
 <group id="38" type="span" parent="40" relname="span" />
 <group id="39" type="span" parent="38" relname="elaboration" />
 <group id="40" type="span" parent="16" relname="elaboration" />
-<group id="41" type="span" parent="43" relname="summary" />
-<group id="42" type="span" parent="45" relname="elaboration" />
 <group id="43" type="span" parent="47" relname="span" />
 <group id="44" type="span" parent="43" relname="solutionhood" />
 <group id="45" type="span" parent="46" relname="span" />
 <group id="46" type="span" parent="43" relname="span" />
 <group id="47" type="span" />
+<group id="41" type="span" parent="46" relname="summary" />
   </body>
 </rst>
