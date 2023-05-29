@@ -168,9 +168,8 @@ don&apos;t believe that &apos;correction&apos; is an intelligible notion!</segme
 <group id="52" type="span" parent="7" relname="nonvolitional-cause" />
 <group id="53" type="span" parent="54" relname="span" />
 <group id="54" type="span" parent="58" relname="span" />
-<group id="55" type="span" parent="57" relname="span" />
+<group id="55" type="span" parent="15" relname="nonvolitional-cause" />
 <group id="56" type="span" parent="61" relname="span" />
-<group id="57" type="span" parent="15" relname="nonvolitional-cause" />
 <group id="58" type="span" parent="10" relname="elaboration" />
 <group id="59" type="span" parent="19" relname="elaboration" />
 <group id="60" type="span" parent="63" relname="span" />
