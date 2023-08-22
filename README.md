@@ -5,7 +5,7 @@ Please use the following to cite this corpus:
 
 Potter, A. (2008). Interactional coherence in asynchronous learning networks: A rhetorical approach. _The Internet and Higher Education_, 11, 87–97.
 
-The RST analyses provided here have been slighly revised.
+This release is provided primarily to support testing of pycrst. The RST analyses provided here have been slighly revised, and further revisions are planned.
 
 -----------
 You can learn more about the debate here:
