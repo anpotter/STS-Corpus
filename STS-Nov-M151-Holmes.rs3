@@ -66,23 +66,25 @@ that much difference;</segment>
     <segment id="7" parent="16" relname="list"> far less progress in the materials
 sciences,</segment>
     <segment id="8" parent="16" relname="list"> probably less on VLSI electronics,</segment>
-    <segment id="9" parent="16" relname="list"> but that&apos;s about it.</segment>
-    <segment id="10" parent="19" relname="span"> Seems to
+    <segment id="9" parent="23" relname="span"> but that&apos;s about it.</segment>
+    <segment id="10" parent="22" relname="span"> Seems to
 me that we&apos;re still working through the shifts in viewpoint occasioned by
 Darwin and his explainers.</segment>
-    <segment id="11" parent="10" relname="elaboration"> The implications of the fact that we share 98.4%
+    <segment id="11" parent="10" relname="evidence"> The implications of the fact that we share 98.4%
 of our DNA coding with chimpanzees, or that the Enlightenment has finally
 died will take a while to trickle through to the hindbrain.</segment>
     <segment id="12" parent="20" relname="span"> So yes, keep us
 posted;</segment>
-    <segment id="13" parent="12" relname="motivation"> could be interesting.</segment>
+    <segment id="13" parent="12" relname="evaluation"> could be interesting.</segment>
 <group id="14" type="span" parent="3" relname="antithesis" />
 <group id="15" type="span" parent="4" relname="motivation" />
-<group id="16" type="multinuc" parent="5" relname="evidence" />
+<group id="16" type="multinuc" parent="9" relname="concession" />
 <group id="17" type="span" parent="21" relname="span" />
-<group id="18" type="span" parent="10" relname="antithesis" />
+<group id="18" type="span" parent="22" relname="antithesis" />
 <group id="19" type="span" parent="12" relname="motivation" />
 <group id="20" type="span" parent="17" relname="elaboration" />
 <group id="21" type="span" />
+<group id="22" type="span" parent="19" relname="span" />
+<group id="23" type="span" parent="5" relname="evidence" />
   </body>
 </rst>

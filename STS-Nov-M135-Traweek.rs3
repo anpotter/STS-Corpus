@@ -45,7 +45,7 @@ the diverse groups all oppose public order.</segment>
     <segment id="2" parent="24" relname="sequence"> The oppressors then gain 
 considerable resources through the support of all those who, of course, 
 prefer public order to disorder.</segment>
-    <segment id="3" parent="25" relname="span">  This scenario is so frequently rehersed 
+    <segment id="3" parent="46" relname="span">  This scenario is so frequently rehersed 
 that it can be summarized tritely,</segment>
     <segment id="5" parent="3" relname="evidence"> as I have just done.</segment>
     <segment id="4" parent="28" relname="span">
@@ -57,7 +57,7 @@ all-around judicious types, ET AL] was going to deal with this current,
 increasingly disturbing anti-sts &apos;backlash&apos; in the US and UK.</segment>
     <segment id="6" parent="4" relname="background">  [I haven&apos;t 
 heard of it going on elsewhere.] </segment>
-    <segment id="7" parent="29" relname="span"> Most of us have been politely silent 
+    <segment id="7" parent="47" relname="span"> Most of us have been politely silent 
 about this growing anti-sts backlash,</segment>
     <segment id="8" parent="7" relname="nonvolitional-cause"> in part because of the company we 
 would need to keep [see list above] in order to act effectively.</segment>
@@ -106,11 +106,11 @@ insurmountable.</segment>
 
 What else?</segment>
     <segment id="23" parent="42" relname="span">  Indeed.</segment>
-<group id="24" type="multinuc" parent="3" relname="background" />
+<group id="24" type="multinuc" parent="46" relname="background" />
 <group id="25" type="span" parent="29" relname="background" />
 <group id="26" type="span" parent="33" relname="background" />
 <group id="27" type="span" parent="21" relname="solutionhood" />
-<group id="28" type="span" parent="7" relname="solutionhood" />
+<group id="28" type="span" parent="47" relname="solutionhood" />
 <group id="29" type="span" parent="34" relname="span" />
 <group id="32" type="span" parent="31" relname="condition" />
 <group id="33" type="span" parent="35" relname="span" />
@@ -126,5 +126,7 @@ What else?</segment>
 <group id="43" type="span" parent="44" relname="list" />
 <group id="44" type="multinuc" parent="45" relname="span" />
 <group id="45" type="span" />
+<group id="46" type="span" parent="25" relname="span" />
+<group id="47" type="span" parent="29" relname="span" />
   </body>
 </rst>

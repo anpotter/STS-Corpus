@@ -47,11 +47,11 @@ that you can find in two different STS approaches to economics.</segment>
     <segment id="4" parent="11" relname="preparation">
 
 This relates to the enlightenment stuff.</segment>
-    <segment id="5" parent="6" relname="antithesis"> Christopher Norris distinguishes
+    <segment id="5" parent="15" relname="antithesis"> Christopher Norris distinguishes
 between people still committed to the enlightenment like Derrida and
 Habermas (he considers them on the same side!) and those like Fish or Rorty
 who serve to limit rather than expand criticism. </segment>
-    <segment id="6" parent="10" relname="span"> This is too neat and
+    <segment id="6" parent="15" relname="span"> This is too neat and
 voluntarist, no doubt.</segment>
     <segment id="7" parent="6" relname="elaboration"> And I&apos;m not sure what hangs on the concept of
 &quot;enlightenment.&quot;</segment>
@@ -64,5 +64,6 @@ postmodernism.</segment>
 <group id="12" type="span" parent="14" relname="span" />
 <group id="13" type="span" parent="12" relname="background" />
 <group id="14" type="span" />
+<group id="15" type="span" parent="10" relname="span" />
   </body>
 </rst>

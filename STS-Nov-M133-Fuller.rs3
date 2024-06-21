@@ -39,11 +39,12 @@
   </header>
   <body>
     <segment id="1" parent="90" relname="preparation">Relativism...and the Enlightenment: Response to MARKS et al.</segment>
-    <segment id="2" parent="73" relname="span">
+    <segment id="2" parent="92" relname="span">
 
 &apos;Relativism&apos; is a term that has outlived its usefulness in
 science studies, and now does more harm than good -- especially
-on the public relations front, but even when we try to explain
+on the public relations front,</segment>
+    <segment id="57" parent="2" relname="unconditional"> but even when we try to explain
 our research practices.</segment>
     <segment id="5" parent="6" relname="nonvolitional-result"> The term probably got used in the first
 place</segment>
@@ -72,15 +73,15 @@ takes place.</segment>
 explanations &apos;teleological&apos;.)</segment>
     <segment id="14" parent="15" relname="concession"> Sometimes this is put in terms of
 adopting the standpoint of the historical agents,</segment>
-    <segment id="15" parent="56" relname="span"> but this can
+    <segment id="15" parent="93" relname="span"> but this can
 be a bit misleading</segment>
     <segment id="16" parent="55" relname="span"> because science studies practitioners rarely
 take what the agents say at face value</segment>
     <segment id="17" parent="16" relname="elaboration"> (e.g. scientists are often
 engaged in truth-talk).</segment>
-    <segment id="18" parent="19" relname="antithesis"> In that respect, &apos;methodological
+    <segment id="18" parent="94" relname="antithesis"> In that respect, &apos;methodological
 relativism&apos; doesn&apos;t imply &apos;subjectivism&apos;.</segment>
-    <segment id="19" parent="60" relname="span"> What &apos;adopting the
+    <segment id="19" parent="94" relname="span"> What &apos;adopting the
 standpoint of the agents&apos; seems to involve is a realization that
 the present can be made into a variety of futures, depending on
 what the agents do.</segment>
@@ -104,11 +105,11 @@ direction.</segment>
 politicized,</segment>
     <segment id="27" parent="67" relname="span"> relativism is much more impressive in what it
 opposes than in what it supports.</segment>
-    <segment id="28" parent="29" relname="concession"> Although a certain &apos;politics
+    <segment id="28" parent="95" relname="concession"> Although a certain &apos;politics
 of relativism&apos; (associated more with anthropology than sociology)
 has been important in breaking the stranglehold of Western forms
 of &apos;universalism&apos;,</segment>
-    <segment id="29" parent="66" relname="span"> left to its own devices relativist arguments
+    <segment id="29" parent="95" relname="span"> left to its own devices relativist arguments
 have been used to uphold all sorts of provinicialisms and even
 racisms</segment>
     <segment id="30" parent="65" relname="span"> (Have a look sometime at the legal justifications given
@@ -129,7 +130,7 @@ depicts about relativism leading to a Hobbesian state of nature
 in science.</segment>
     <segment id="35" parent="36" relname="condition"> After all, if everybody&apos;s motto became &apos;do only that
 which you think will serve your interest&apos;,</segment>
-    <segment id="36" parent="79" relname="span"> then it wouldn&apos;t be
+    <segment id="36" parent="96" relname="span"> then it wouldn&apos;t be
 long before you&apos;d be inventing Leviathans to monitor and regulate
 the conflicting parties.</segment>
     <segment id="37" parent="78" relname="span"> I take it that, in this respect, GUSTON
@@ -147,10 +148,10 @@ But having said all that, I haven&apos;t answered MARKS&apos;s original
 question about the &apos;Enlightenment Project&apos;.</segment>
     <segment id="42" parent="43" relname="antithesis"> I wouldn&apos;t be doing
 what I&apos;m doing</segment>
-    <segment id="43" parent="88" relname="span"> if I didn&apos;t still believe in the Project,</segment>
+    <segment id="43" parent="97" relname="span"> if I didn&apos;t still believe in the Project,</segment>
     <segment id="44" parent="87" relname="span"> but it&apos;s
 an uphill struggle.</segment>
-    <segment id="45" parent="46" relname="concession"> If I may regress to unfashionable
+    <segment id="45" parent="46" relname="condition"> If I may regress to unfashionable
 terminology,</segment>
     <segment id="46" parent="85" relname="span"> I can give a brief explanation.</segment>
     <segment id="47" parent="86" relname="span"> Postmodernists (and
@@ -158,7 +159,7 @@ I include science studies here) describe the world much more
 accurately than the Habermasians, Popperians, and other Children
 of the Enlightenment. </segment>
     <segment id="48" parent="83" relname="span">This is the central irony of our times,</segment>
-    <segment id="49" parent="48" relname="background"> it
+    <segment id="49" parent="48" relname="evaluation"> it
 seems to me: </segment>
     <segment id="50" parent="82" relname="contrast">The people who promote Truth and Reason the most
 also have the most fictional views of how the world works,</segment>
@@ -168,7 +169,6 @@ don&apos;t believe that &apos;correction&apos; is an intelligible notion!</segme
 <group id="52" type="span" parent="7" relname="nonvolitional-cause" />
 <group id="53" type="span" parent="54" relname="span" />
 <group id="54" type="span" parent="58" relname="span" />
-<group id="55" type="span" parent="15" relname="nonvolitional-cause" />
 <group id="56" type="span" parent="61" relname="span" />
 <group id="58" type="span" parent="10" relname="elaboration" />
 <group id="59" type="span" parent="19" relname="elaboration" />
@@ -177,20 +177,19 @@ don&apos;t believe that &apos;correction&apos; is an intelligible notion!</segme
 <group id="62" type="span" parent="60" relname="elaboration" />
 <group id="63" type="span" parent="56" relname="elaboration" />
 <group id="64" type="span" parent="22" relname="elaboration" />
-<group id="65" type="span" parent="29" relname="elaboration" />
+<group id="65" type="span" parent="29" relname="evidence" />
 <group id="66" type="span" parent="75" relname="span" />
 <group id="67" type="span" parent="68" relname="span" />
 <group id="68" type="span" parent="80" relname="concession" />
 <group id="69" type="span" parent="90" relname="list" />
-<group id="70" type="span" parent="2" relname="elaboration" />
-<group id="71" type="span" parent="9" relname="antithesis" />
-<group id="72" type="span" parent="2" relname="elaboration" />
+<group id="70" type="span" parent="92" relname="elaboration" />
+<group id="71" type="span" parent="9" relname="concession" />
+<group id="72" type="span" parent="92" relname="elaboration" />
 <group id="73" type="span" parent="90" relname="list" />
 <group id="74" type="span" parent="66" relname="summary" />
 <group id="75" type="span" parent="27" relname="evidence" />
 <group id="76" type="span" parent="38" relname="elaboration" />
 <group id="77" type="span" parent="37" relname="elaboration" />
-<group id="78" type="span" parent="36" relname="elaboration" />
 <group id="79" type="span" parent="34" relname="evidence" />
 <group id="80" type="span" parent="81" relname="span" />
 <group id="81" type="span" parent="90" relname="list" />
@@ -199,10 +198,18 @@ don&apos;t believe that &apos;correction&apos; is an intelligible notion!</segme
 <group id="84" type="span" parent="47" relname="elaboration" />
 <group id="85" type="span" parent="47" relname="preparation" />
 <group id="86" type="span" parent="44" relname="evidence" />
-<group id="87" type="span" parent="43" relname="concession" />
 <group id="88" type="span" parent="89" relname="span" />
 <group id="89" type="span" parent="90" relname="list" />
 <group id="90" type="multinuc" parent="91" relname="span" />
 <group id="91" type="span" />
+<group id="92" type="span" parent="73" relname="span" />
+<group id="93" type="span" parent="56" relname="span" />
+<group id="55" type="span" parent="93" relname="volitional-cause" />
+<group id="94" type="span" parent="60" relname="span" />
+<group id="95" type="span" parent="66" relname="span" />
+<group id="96" type="span" parent="79" relname="span" />
+<group id="78" type="span" parent="96" relname="elaboration" />
+<group id="97" type="span" parent="88" relname="span" />
+<group id="87" type="span" parent="97" relname="concession" />
   </body>
 </rst>

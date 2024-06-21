@@ -65,7 +65,7 @@ The most recent cause celebre in this dispute is Harry Collins&apos; refusing to
 share the podium with arch-STS-basher, biologist Lewis Wolpert, at the
 British Association for the Advancement of Science meetings, and then
 being harangued by Wolpert for desecrating science in various ways. </segment>
-    <segment id="11" parent="47" relname="span">
+    <segment id="11" parent="48" relname="span">
 
 We&apos;re planning a conference in Durham for early December to bring the 
 various parties together -- and to include some middle-of-the-road types 
@@ -90,11 +90,11 @@ the appeal quite openly. </segment>
 merely appreciative gazes (a la most science popularization), but also 
 discussions about the kinds of scientific research that should be 
 supported.</segment>
-    <segment id="18" parent="33" relname="evaluation"> This is the kind of democratizing move that I personally prefer.</segment>
-    <segment id="19" parent="38" relname="concession">
+    <segment id="18" parent="33" relname="solutionhood"> This is the kind of democratizing move that I personally prefer.</segment>
+    <segment id="19" parent="49" relname="concession">
 
 Although (1) and (2) have common foes,</segment>
-    <segment id="38" parent="40" relname="span"> you will notice that they pull in
+    <segment id="38" parent="49" relname="span"> you will notice that they pull in
 two different directions</segment>
     <segment id="21" parent="38" relname="elaboration"> -- one toward expertism (i.e. STS is itself an
 expertise) and the other toward anti-expertism.</segment>
@@ -103,7 +103,7 @@ public side of this debate has remarked on the tension between the two
 positions,</segment>
     <segment id="22" parent="39" relname="span"> but I imagine it will become more prominent as &apos;STS&apos; starts to
 represent something in the public&apos;s eye.</segment>
-    <segment id="23" parent="43" relname="span"> For the moment, however, it&apos;s
+    <segment id="23" parent="50" relname="span"> For the moment, however, it&apos;s
 been my experience that both journalists and scientists are fixated on the
 possibility that constructivist STS denies the existence of an external
 reality -- and how one could say such absurd (but dangerous!) things. </segment>
@@ -123,14 +123,17 @@ about people&apos;s allegiances to science.</segment>
 <group id="35" type="multinuc" parent="44" relname="span" />
 <group id="36" type="span" parent="35" relname="disjunction" />
 <group id="37" type="span" parent="35" relname="disjunction" />
-<group id="39" type="span" parent="23" relname="concession" />
+<group id="39" type="span" parent="50" relname="concession" />
 <group id="40" type="span" parent="45" relname="span" />
 <group id="41" type="span" parent="42" relname="span" />
-<group id="42" type="span" parent="11" relname="solutionhood" />
+<group id="42" type="span" parent="48" relname="solutionhood" />
 <group id="43" type="span" parent="40" relname="elaboration" />
 <group id="44" type="span" parent="46" relname="span" />
 <group id="45" type="span" parent="44" relname="elaboration" />
 <group id="46" type="span" parent="11" relname="elaboration" />
 <group id="47" type="span" />
+<group id="48" type="span" parent="47" relname="span" />
+<group id="49" type="span" parent="40" relname="span" />
+<group id="50" type="span" parent="43" relname="span" />
   </body>
 </rst>

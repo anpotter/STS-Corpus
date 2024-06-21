@@ -43,30 +43,33 @@
 
 Although I haven&apos;t been following these &apos;anti-anti-science&apos; diatribes very
 closely,</segment>
-    <segment id="3" parent="19" relname="span"> I did develop an early distaste for Lewis Wolpert&apos;s brand of science
+    <segment id="3" parent="27" relname="span"> I did develop an early distaste for Lewis Wolpert&apos;s brand of science
 hagiography</segment>
     <segment id="4" parent="3" relname="circumstance"> when I saw him on television last year in discussion with
 Mary Midgeley and others. </segment>
-    <segment id="5" parent="6" relname="nonvolitional-cause"> And from reading some of the postings on this list,
+    <segment id="5" parent="23" relname="volitional-cause"> And from reading some of the postings on this list,</segment>
+    <segment id="23" parent="34" relname="span">
 I had become aware that an increasing number of scientists and others had 
 become engaged in formulating similar anti-sts discourses.</segment>
-    <segment id="6" parent="23" relname="span">
+    <segment id="6" parent="29" relname="evaluation">
 So, I was pleasantly suprised</segment>
-    <segment id="7" parent="14" relname="span"> when, during an STS summer school in the
-Netherlands a few weeks ago, I met a couple of people who were involved in an
+    <segment id="7" parent="14" relname="circumstance"> when, during an STS summer school in the
+Netherlands a few weeks ago,</segment>
+    <segment id="28" parent="14" relname="span"> I met a couple of people who were involved in an
 interdisciplinary project called &apos;towards non-linear optics&apos;. </segment>
-    <segment id="8" parent="18" relname="span"> As well as the
+    <segment id="8" parent="30" relname="span"> As well as the
 usual scientific disciplines (chemical physics, micro electronics, solid state
 physics etc.), the list of cooperating departments included a group from
 _Sociology of Science_.</segment>
-    <segment id="9" parent="8" relname="volitional-cause">
+    <segment id="9" parent="31" relname="span">
 The official rationale for including this group was apparently of the &apos;greasing
-the wheels of scientific communication&apos; variety, which sometimes put them
+the wheels of scientific communication&apos; variety,</segment>
+    <segment id="18" parent="9" relname="nonvolitional-result"> which sometimes put them
 in a slightly difficult position,</segment>
-    <segment id="10" parent="6" relname="elaboration"> but what struck me was the way that something
+    <segment id="10" parent="33" relname="span"> but what struck me was the way that something
 which (I would guess) would be quite unimaginable in the British context was
 happening there in a fairly unproblematic way.</segment>
-    <segment id="11" parent="24" relname="span">
+    <segment id="11" parent="20" relname="preparation">
 Some questions:</segment>
     <segment id="12" parent="20" relname="list"> Does anyone know how common this kind of thing actually is, and
 whether it does happen &apos;over here&apos;? </segment>
@@ -78,15 +81,22 @@ unity consider us to have helped them?) </segment>
     <segment id="16" parent="17" relname="condition"> If some kind of cultural difference
 can be articulated,</segment>
     <segment id="17" parent="21" relname="span"> does anyone want to speculate on its causes and significance?</segment>
-<group id="14" type="span" parent="6" relname="circumstance" />
-<group id="18" type="span" parent="7" relname="elaboration" />
-<group id="19" type="span" parent="6" relname="nonvolitional-cause" />
-<group id="20" type="multinuc" parent="26" relname="span" />
+<group id="19" type="span" parent="34" relname="background" />
+<group id="20" type="multinuc" parent="36" relname="span" />
 <group id="21" type="span" parent="20" relname="list" />
 <group id="22" type="span" parent="20" relname="list" />
-<group id="23" type="span" parent="11" relname="background" />
-<group id="24" type="span" parent="20" relname="preparation" />
-<group id="25" type="span" parent="3" relname="concession" />
-<group id="26" type="span" />
+<group id="25" type="span" parent="27" relname="concession" />
+<group id="27" type="span" parent="19" relname="span" />
+<group id="14" type="span" parent="29" relname="span" />
+<group id="29" type="span" parent="32" relname="span" />
+<group id="30" type="span" parent="28" relname="elaboration" />
+<group id="31" type="span" parent="8" relname="volitional-cause" />
+<group id="32" type="span" parent="10" relname="concession" />
+<group id="33" type="span" parent="35" relname="span" />
+<group id="34" type="span" parent="26" relname="span" />
+<group id="35" type="span" parent="36" relname="background" />
+<group id="26" type="span" parent="33" relname="antithesis" />
+<group id="36" type="span" parent="37" relname="span" />
+<group id="37" type="span" />
   </body>
 </rst>

@@ -42,24 +42,25 @@
     <segment id="2" parent="59" relname="span">
 
 Patrick Hamlett&apos;s post and the responses are most welcome.</segment>
-    <segment id="3" parent="4" relname="antithesis">
+    <segment id="3" parent="4" relname="concession">
 
 Yes, the attack is in part on the leftist scholars among the STSers.</segment>
-    <segment id="4" parent="57" relname="span"> But
+    <segment id="4" parent="61" relname="span"> But
 it is more than that.</segment>
     <segment id="5" parent="56" relname="span"> I believe the people who lead  science are quite
 frightened and rightly so.</segment>
-    <segment id="6" parent="5" relname="nonvolitional-cause"> &quot;Scientists&quot; have been making false claims for
-large amounts of money for decades and legislators and others are beginning
+    <segment id="6" parent="63" relname="span"> &quot;Scientists&quot; have been making false claims for
+large amounts of money for decades</segment>
+    <segment id="62" parent="6" relname="volitional-result"> and legislators and others are beginning
 to ask question.</segment>
-    <segment id="7" parent="12" relname="concession">
+    <segment id="7" parent="65" relname="preparation">
 
 Steve Fuller&apos;s insightful comments about the intellectual issues are
 fascinating and appear to be right on the mark.</segment>
-    <segment id="8" parent="54" relname="span"> It is interesting but
+    <segment id="8" parent="64" relname="span"> It is interesting but
 not surprising that the conflict between scientists and STSers  is further
 advanced in Britain than here in the US.</segment>
-    <segment id="9" parent="8" relname="elaboration"> We have few popular journals that
+    <segment id="9" parent="8" relname="nonvolitional-cause"> We have few popular journals that
 have the journalists who can understand notions of constructionism.</segment>
     <segment id="10" parent="55" relname="span">
 
@@ -70,44 +71,43 @@ to all the layman learns for his or her whole life.</segment>
     <segment id="12" parent="53" relname="span">
 
 But at the root of the intense conflicts lies money.</segment>
-    <segment id="13" parent="12" relname="evidence">
+    <segment id="13" parent="44" relname="list">
 
 The physicists in the US are still stung by the loss of the supercollider.</segment>
-    <segment id="15" parent="33" relname="span">
+    <segment id="15" parent="36" relname="span">
 The (hot) fusion energy gang has been under attack for some years now. </segment>
-    <segment id="14" parent="15" relname="elaboration">
+    <segment id="14" parent="15" relname="volitional-result">
 There are legislators who want to end the funding.</segment>
-    <segment id="16" parent="12" relname="evidence"> The Bernard Fisher
+    <segment id="16" parent="44" relname="list"> The Bernard Fisher
 fiasco revealed the mythology of the clinical trial gangs.</segment>
-    <segment id="17" parent="34" relname="span"> The genome
+    <segment id="17" parent="45" relname="span"> The genome
 packs are walking on thin ice.</segment>
-    <segment id="18" parent="35" relname="span"> They too make false claims.</segment>
+    <segment id="18" parent="34" relname="span"> They too make false claims.</segment>
     <segment id="19" parent="18" relname="elaboration"> The find a gene
 one day, only to lose it the next. </segment>
-    <segment id="20" parent="36" relname="span">
+    <segment id="20" parent="33" relname="preparation">
 
 And the cancer command has Chutzpah beyond measure.</segment>
-    <segment id="21" parent="48" relname="span"> The NY TIMES had a story
+    <segment id="21" parent="42" relname="preparation"> The NY TIMES had a story
 that presented the response of those who are fighting the &quot;war on cancer.&quot;</segment>
-    <segment id="22" parent="41" relname="circumstance">
-When they were asked,</segment>
-    <segment id="41" parent="45" relname="span"> &quot;Why aren&apos;t you winning the war they said.</segment>
-    <segment id="40" parent="44" relname="span"> Give us
+    <segment id="22" parent="41" relname="volitional-cause">
+When they were asked, &quot;Why aren&apos;t you winning the war</segment>
+    <segment id="43" parent="40" relname="span"> they said. Give us
 more money.</segment>
-    <segment id="39" parent="40" relname="elaboration"> The 23 billion hasn&apos;t been enough.</segment>
-    <segment id="38" parent="42" relname="conjunction"> And we also need a 
+    <segment id="39" parent="43" relname="nonvolitional-cause"> The 23 billion hasn&apos;t been enough.</segment>
+    <segment id="38" parent="41" relname="conjunction"> And we also need a 
 cabinet level post.</segment>
     <segment id="37" parent="23" relname="condition"> And congressmen, congresswomen, and senators if you
 don&apos;t give us what we ask for</segment>
-    <segment id="23" parent="43" relname="span"> you are responsible for the people who
+    <segment id="23" parent="35" relname="span"> you are responsible for the people who
 die of cancer.</segment>
-    <segment id="24" parent="46" relname="summary"> Honest, that&apos;s how the TIMES story  read.</segment>
-    <segment id="25" parent="12" relname="evidence">
+    <segment id="24" parent="46" relname="interpretation"> Honest, that&apos;s how the TIMES story  read.</segment>
+    <segment id="25" parent="44" relname="list">
 
 The journal SCIENCE in its recent issue on careers said that the chemistry
 and physics disciplines are turning out twice the number of PH.Ds as there
 are traditional positions.</segment>
-    <segment id="26" parent="12" relname="summary">
+    <segment id="26" parent="44" relname="summary">
 
 And so ---- all these abuses are present for all to see.</segment>
     <segment id="27" parent="49" relname="span"> It is we
@@ -125,28 +125,34 @@ I am well aware that some scientific investigation is quite valuable.</segment>
     <segment id="32" parent="31" relname="elaboration"> The
 most recent triumph of science is the announcement of the eradication
 of polio from the Western Hemisphere.</segment>
-<group id="33" type="span" parent="12" relname="evidence" />
-<group id="34" type="span" parent="12" relname="evidence" />
-<group id="35" type="span" parent="17" relname="elaboration" />
-<group id="36" type="span" parent="12" relname="evidence" />
-<group id="42" type="multinuc" parent="46" relname="span" />
-<group id="43" type="span" parent="42" relname="conjunction" />
-<group id="44" type="span" parent="42" relname="conjunction" />
-<group id="45" type="span" parent="42" relname="solutionhood" />
-<group id="46" type="span" parent="47" relname="span" />
-<group id="47" type="span" parent="21" relname="elaboration" />
-<group id="48" type="span" parent="20" relname="evidence" />
 <group id="49" type="span" parent="29" relname="nonvolitional-cause" />
 <group id="50" type="span" parent="52" relname="span" />
 <group id="51" type="span" parent="50" relname="concession" />
-<group id="52" type="span" parent="12" relname="evidence" />
-<group id="53" type="span" parent="57" relname="evidence" />
-<group id="54" type="span" parent="12" relname="concession" />
-<group id="55" type="span" parent="12" relname="concession" />
-<group id="56" type="span" parent="4" relname="elaboration" />
+<group id="56" type="span" parent="61" relname="evidence" />
 <group id="57" type="span" parent="58" relname="span" />
-<group id="58" type="span" parent="60" relname="span" />
-<group id="59" type="span" parent="58" relname="background" />
-<group id="60" type="span" />
+<group id="59" type="span" parent="57" relname="background" />
+<group id="61" type="span" parent="57" relname="span" />
+<group id="63" type="span" parent="5" relname="volitional-cause" />
+<group id="41" type="multinuc" parent="42" relname="span" />
+<group id="40" type="span" parent="41" relname="conjunction" />
+<group id="35" type="span" parent="41" relname="conjunction" />
+<group id="42" type="span" parent="46" relname="span" />
+<group id="46" type="span" parent="33" relname="span" />
+<group id="33" type="span" parent="47" relname="span" />
+<group id="34" type="span" parent="17" relname="evidence" />
+<group id="44" type="multinuc" parent="48" relname="span" />
+<group id="36" type="span" parent="44" relname="list" />
+<group id="45" type="span" parent="44" relname="list" />
+<group id="47" type="span" parent="44" relname="list" />
+<group id="48" type="span" parent="12" relname="evidence" />
+<group id="52" type="span" parent="65" relname="span" />
+<group id="53" type="span" parent="52" relname="volitional-cause" />
+<group id="54" type="multinuc" parent="12" relname="concession" />
+<group id="55" type="span" parent="54" relname="conjunction" />
+<group id="64" type="span" parent="54" relname="conjunction" />
+<group id="65" type="span" parent="66" relname="span" />
+<group id="66" type="span" parent="67" relname="span" />
+<group id="67" type="span" />
+<group id="58" type="span" parent="66" relname="background" />
   </body>
 </rst>

@@ -39,7 +39,7 @@
     </relations>
   </header>
   <body>
-    <segment id="1" parent="2" relname="background">Did anyone else notice the full-page ad in the Sept 9 issue of 
+    <segment id="1" parent="20" relname="preparation">Did anyone else notice the full-page ad in the Sept 9 issue of 
 Science, with the capp&apos;d headline: SCIENCE IS UNDER ATTACK? (pg. 
 1508)?</segment>
     <segment id="2" parent="20" relname="span">
@@ -112,8 +112,6 @@ What do you think our collective/individual responses should be?</segment>
 that we&apos;re noticed, but misread, how can we build politically 
 expeditious yet intellectually rigorous bridges to the communities of 
 practitioners, researchers, and teachers we study?</segment>
-<group id="19" type="span" parent="2" relname="elaboration" />
-<group id="20" type="span" parent="31" relname="span" />
 <group id="21" type="span" parent="7" relname="evidence" />
 <group id="22" type="span" parent="15" relname="nonvolitional-cause" />
 <group id="23" type="span" parent="25" relname="sequence" />
@@ -124,6 +122,9 @@ practitioners, researchers, and teachers we study?</segment>
 <group id="28" type="span" parent="29" relname="motivation" />
 <group id="29" type="span" parent="30" relname="span" />
 <group id="30" type="span" parent="32" relname="span" />
+<group id="19" type="span" parent="2" relname="elaboration" />
+<group id="20" type="span" parent="31" relname="span" />
+<group id="20" type="span" parent="31" relname="span" />
 <group id="31" type="span" parent="30" relname="background" />
 <group id="32" type="span" />
   </body>

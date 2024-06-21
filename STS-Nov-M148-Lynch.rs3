@@ -40,8 +40,8 @@
   <body>
     <segment id="1" parent="50" relname="solutionhood">Should we really think about relativism as a virus that infects people
 manifesting itself in intolerance?</segment>
-    <segment id="2" parent="3" relname="concession"> Again, I am not a relativist</segment>
-    <segment id="3" parent="50" relname="span"> but I don&apos;t
+    <segment id="2" parent="84" relname="concession"> Again, I am not a relativist</segment>
+    <segment id="3" parent="84" relname="span"> but I don&apos;t
 see how speech codes follow inexorably out of relativism.</segment>
     <segment id="4" parent="46" relname="span"> The problem is
 how you individuate cultures--</segment>
@@ -55,11 +55,11 @@ can&apos;t even get to the table</segment>
     <segment id="9" parent="48" relname="span"> so tolerance promoters consider coercive
 measures--or in its most pernicious form as allegedly promoting free
 expression while actually functioning as a way to shut people up.</segment>
-    <segment id="7" parent="10" relname="preparation">
+    <segment id="7" parent="85" relname="background">
 
 I&apos;m sure Edwards is aware of this history of the &quot;politically correct&quot;
 accusation.</segment>
-    <segment id="10" parent="77" relname="span">  It is nothing less than the trick of the pickpocket who yells
+    <segment id="10" parent="85" relname="span">  It is nothing less than the trick of the pickpocket who yells
 &quot;stop, thief&quot; when he is caught.</segment>
     <segment id="11" parent="76" relname="span"> Just look at how it functions in public
 discourse--</segment>
@@ -172,5 +172,7 @@ community and at the expense of whom?</segment>
 <group id="81" type="span" parent="15" relname="elaboration" />
 <group id="82" type="span" parent="6" relname="elaboration" />
 <group id="83" type="span" />
+<group id="84" type="span" parent="50" relname="span" />
+<group id="85" type="span" parent="77" relname="span" />
   </body>
 </rst>

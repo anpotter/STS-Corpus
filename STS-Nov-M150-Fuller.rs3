@@ -46,7 +46,7 @@
 I was just listening to BBC-Radio 1, the UK national pop music station, </segment>
     <segment id="3" parent="7" relname="span">
 and this week&apos;s call-in topic was announced:</segment>
-    <segment id="4" parent="11" relname="span">
+    <segment id="4" parent="12" relname="span">
 
       Is science out of control, and what should be done if it is?</segment>
     <segment id="5" parent="4" relname="elaboration">
@@ -60,11 +60,12 @@ Now what do you suppose the 12-35 year old set is likely to make of that
 one?</segment>
     <segment id="8" parent="9" relname="enablement"> Tune in</segment>
     <segment id="9" parent="10" relname="span"> and find out!</segment>
-<group id="7" type="span" parent="4" relname="background" />
+<group id="7" type="span" parent="12" relname="background" />
 <group id="10" type="span" parent="13" relname="span" />
 <group id="11" type="span" parent="14" relname="span" />
 <group id="13" type="span" parent="11" relname="interpretation" />
 <group id="14" type="span" parent="15" relname="span" />
 <group id="15" type="span" />
+<group id="12" type="span" parent="11" relname="span" />
   </body>
 </rst>

@@ -39,9 +39,9 @@
     </relations>
   </header>
   <body>
-    <segment id="1" parent="2" relname="preparation">
+    <segment id="1" parent="124" relname="preparation">
 My musings after reading this thread for several weeks:</segment>
-    <segment id="2" parent="106" relname="span">
+    <segment id="2" parent="124" relname="span">
 
 I am not surprised by the backlash.</segment>
     <segment id="3" parent="65" relname="span">  STS challenges the knowledge and
@@ -65,7 +65,7 @@ as deeply embedded in social and physical systems,</segment>
 analytic stance that begins by discarding one of the components of the
 system? </segment>
     <segment id="10" parent="111" relname="summary"> The perception that sts does this will certainly alarm many.</segment>
-    <segment id="11" parent="73" relname="span">
+    <segment id="11" parent="125" relname="span">
 
 The mechanism underlying the backlash is nothing more, nothing less
 than the territorial instinct of our species. </segment>
@@ -201,7 +201,7 @@ my favorite ethnographic techniques!).</segment>
 <group id="70" type="span" parent="72" relname="span" />
 <group id="71" type="span" parent="75" relname="span" />
 <group id="72" type="span" parent="11" relname="evidence" />
-<group id="73" type="span" parent="25" relname="motivation" />
+<group id="73" type="span" parent="25" relname="volitional-cause" />
 <group id="74" type="span" parent="77" relname="span" />
 <group id="75" type="span" parent="70" relname="elaboration" />
 <group id="76" type="span" parent="74" relname="elaboration" />
@@ -216,7 +216,6 @@ my favorite ethnographic techniques!).</segment>
 <group id="85" type="span" parent="86" relname="list" />
 <group id="86" type="multinuc" parent="89" relname="span" />
 <group id="87" type="span" parent="38" relname="elaboration" />
-<group id="88" type="span" parent="86" relname="list" />
 <group id="89" type="span" parent="27" relname="elaboration" />
 <group id="90" type="span" parent="47" relname="antithesis" />
 <group id="91" type="span" parent="92" relname="span" />
@@ -234,7 +233,7 @@ my favorite ethnographic techniques!).</segment>
 <group id="105" type="span" parent="57" relname="background" />
 <group id="106" type="span" parent="108" relname="span" />
 <group id="107" type="span" parent="111" relname="span" />
-<group id="108" type="span" parent="11" relname="background" />
+<group id="108" type="span" parent="125" relname="background" />
 <group id="109" type="span" parent="110" relname="span" />
 <group id="110" type="span" parent="107" relname="elaboration" />
 <group id="111" type="span" parent="112" relname="span" />
@@ -246,9 +245,13 @@ my favorite ethnographic techniques!).</segment>
 <group id="117" type="span" parent="38" relname="elaboration" />
 <group id="118" type="span" parent="120" relname="span" />
 <group id="119" type="span" parent="118" relname="motivation" />
-<group id="120" type="span" parent="122" relname="summary" />
+<group id="120" type="span" parent="123" relname="summary" />
 <group id="121" type="span" parent="78" relname="solutionhood" />
-<group id="122" type="span" parent="123" relname="span" />
-<group id="123" type="span" />
+<group id="124" type="span" parent="106" relname="span" />
+<group id="125" type="span" parent="73" relname="span" />
+<group id="88" type="span" parent="123" relname="span" />
+<group id="122" type="span" parent="88" relname="concession" />
+<group id="123" type="span" parent="126" relname="span" />
+<group id="126" type="span" />
   </body>
 </rst>

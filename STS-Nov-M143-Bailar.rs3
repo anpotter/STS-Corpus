@@ -82,7 +82,7 @@ chemist is interested in the combustion products of gasoline,
 and another in the arrangement in space of the atoms in some
 plastic, and still another in more efficient extraction of
 copper from ore?)</segment>
-    <segment id="19" parent="47" relname="span">
+    <segment id="19" parent="51" relname="span">
 
 Is is possible, and even thinkable and discussable, that the
 critics may have some valid points? </segment>
@@ -111,10 +111,10 @@ Is &quot;Cheers&quot; the right signoff after a message like this?</segment>
 <group id="33" type="span" parent="35" relname="span" />
 <group id="34" type="span" parent="33" relname="nonvolitional-cause" />
 <group id="35" type="span" parent="12" relname="nonvolitional-cause" />
-<group id="36" type="span" parent="16" relname="antithesis" />
+<group id="36" type="span" parent="16" relname="concession" />
 <group id="37" type="span" parent="17" relname="antithesis" />
 <group id="38" type="span" parent="13" relname="elaboration" />
-<group id="39" type="span" parent="19" relname="solutionhood" />
+<group id="39" type="span" parent="51" relname="solutionhood" />
 <group id="41" type="span" parent="25" relname="volitional-cause" />
 <group id="42" type="span" parent="23" relname="elaboration" />
 <group id="43" type="span" parent="22" relname="evidence" />
@@ -126,5 +126,6 @@ Is &quot;Cheers&quot; the right signoff after a message like this?</segment>
 <group id="49" type="span" parent="5" relname="condition" />
 <group id="50" type="span" parent="13" relname="background" />
 <group id="40" type="span" />
+<group id="51" type="span" parent="47" relname="span" />
   </body>
 </rst>

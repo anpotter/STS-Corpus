@@ -38,16 +38,16 @@
     </relations>
   </header>
   <body>
-    <segment id="1" parent="2" relname="background">Perhaps some shovelers should look at the latest superhyped recycling of the
+    <segment id="1" parent="24" relname="background">Perhaps some shovelers should look at the latest superhyped recycling of the
 &quot;blacks are mentally inferior&quot; argument (Time, Newseek, NYT, some tv shows
 all reported on this story, the authors&apos; names escape me).</segment>
-    <segment id="2" parent="17" relname="span">
+    <segment id="2" parent="24" relname="span">
 
 Would self-proclaimed relativists avoid addressing the shoddiness of the
 argument?</segment>
     <segment id="3" parent="2" relname="elaboration"> On the other hand, would a too-narrow focus on the details of
 statistical inference and the like miss some crucial opportunities as well?</segment>
-    <segment id="4" parent="22" relname="span">
+    <segment id="4" parent="25" relname="span">
 It seems to me the value of constructivism is it allows multiple sites of
 intervention in the debate,</segment>
     <segment id="5" parent="4" relname="elaboration"> e.g. historical context--racist theories in
@@ -80,12 +80,14 @@ _already_ parcel people out on the basis of race and class?</segment>
 Constructivism clearly has much to offer here</segment>
     <segment id="15" parent="21" relname="span"> but only if it can shovel the
 shit while simultaneously working on a more long-term sanitation system.</segment>
-<group id="17" type="span" parent="4" relname="background" />
+<group id="17" type="span" parent="25" relname="solutionhood" />
 <group id="18" type="span" parent="7" relname="elaboration" />
 <group id="19" type="span" parent="4" relname="elaboration" />
 <group id="20" type="multinuc" parent="4" relname="elaboration" />
-<group id="21" type="span" parent="23" relname="span" />
-<group id="22" type="span" parent="21" relname="evidence" />
+<group id="21" type="span" parent="22" relname="summary" />
+<group id="22" type="span" parent="23" relname="span" />
+<group id="24" type="span" parent="17" relname="span" />
+<group id="25" type="span" parent="22" relname="span" />
 <group id="23" type="span" />
   </body>
 </rst>

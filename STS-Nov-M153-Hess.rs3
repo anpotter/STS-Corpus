@@ -48,14 +48,16 @@ these are justified and deployed in various contexts, including
 &quot;science&quot;. </segment>
     <segment id="3" parent="4" relname="solutionhood"> Does ayone recognize any of the authors as regular participants in
 STS enterprises? </segment>
-    <segment id="4" parent="6" relname="span"> If not, why aren&apos;t the editors turning our way when
+    <segment id="4" parent="6" relname="span"> If not,</segment>
+    <segment id="10" parent="11" relname="span"> why aren&apos;t the editors turning our way when
 asking for commentary? </segment>
     <segment id="5" parent="7" relname="span"> Perhaps SSSS could put together a resource
 list of researchers and their interests to forward to the various
 popular science and the public policy journals.</segment>
-<group id="6" type="span" parent="5" relname="solutionhood" />
+<group id="6" type="span" parent="10" relname="condition" />
 <group id="7" type="span" parent="9" relname="span" />
 <group id="8" type="span" parent="7" relname="background" />
 <group id="9" type="span" />
+<group id="11" type="span" parent="5" relname="solutionhood" />
   </body>
 </rst>

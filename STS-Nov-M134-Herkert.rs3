@@ -39,74 +39,19 @@
     </relations>
   </header>
   <body>
-    <segment id="1" parent="2" relname="concession">I agree with David Hakken that there is a need to move beyond &quot;shit shoveling.&quot;</segment>
-    <segment id="2" parent="5" relname="span">
+    <segment id="1" parent="8" relname="concession">I agree with David Hakken that there is a need to move beyond &quot;shit shoveling.&quot;</segment>
+    <segment id="2" parent="8" relname="span">
 My point in using the retort, &quot;So grab a shovel and join us!&quot;, was to suggest that
-the STS vision of  &quot;the way forward&quot; might well be enhanced if more STSers
+the STS vision of  &quot;the way forward&quot; might well be enhanced</segment>
+    <segment id="7" parent="2" relname="condition"> if more STSers
 would take a turn or two at the shit pile. </segment>
-    <segment id="3" parent="2" relname="elaboration"> This view is consistent, I think, with
+    <segment id="3" parent="9" relname="elaboration"> This view is consistent, I think, with
 Hakken&apos;s implied criticism of STSers who hesitate to &quot;get their hands 
-dirty.&quot;  </segment>
-    <segment id="4" parent="5" relname="background">
+dirty.&quot;  
 
-&amp;gt; On Fri, 28 Oct 1994, Dr. Joseph R. Herkert drew attention to my comment on
-&amp;gt; constructing a dialogue with technoscience practitioners who share 
-&amp;gt; important elements of the STS perspective and are active in their own
-&amp;gt; fields.  I wondered about how can we help these individuals move beyond being
-&amp;gt; what Hilary
-&amp;gt; Rose has called &quot;shit shovelers&quot; (exposing &quot;bad practice&quot; in their fields) toward a more general discussion of the way forward?  
-&amp;gt; 
-&amp;gt; Heckert responded by suggesting participation in section on the social
-&amp;gt; implications of technology (SSIT) of the IEEE as one place where such a
-&amp;gt; dialogue can take place. He then went for the neat rhetorical phrase: 
-&amp;gt; &amp;gt; 
-&amp;gt; &amp;gt; So grab a shovel and join us! 
-&amp;gt; 
-&amp;gt; I would like to use Heckert&apos;s intervention as an occasion to comment on
-&amp;gt; the discourse which took place in the sci-tech-studies cyberspace while I
-&amp;gt; was off talking with technoscientists at the Participatory Design
-&amp;gt; Conference.  Much of this discussion has been over what are the
-&amp;gt; appropriate modalities for discussion between STSers and technoscientists,
-&amp;gt; and in outlining their various positions on this issues, participants
-&amp;gt; have also been more indirectly than directly identifying their position on
-&amp;gt; Bailer&apos;s query--why do we do this?  What&apos;s it for?
-&amp;gt; 
-&amp;gt; In my case, I was arguing for a discourse with technoscientists to address
-&amp;gt; a specific current conjunction, a backlash against STS by some natural
-&amp;gt; scientists.  My idea was that the STS enterprise, whatever the motivations
-&amp;gt; or preferred modalities of its participants, was vulnerable to this
-&amp;gt; backlash as long as we failed to project commitment to discussion of how
-&amp;gt; we would reconstruct scientific practice in light of our critique of its
-&amp;gt; current forms.  &quot;Beyond shit shoveling&quot; was my way of labeling an aspect
-&amp;gt; of this discussion which I feel is necessary, one in which STSers find
-&amp;gt; ways to engage technoscientists in a discussion over both specific
-&amp;gt; technoscience practices but also the general nature of the technoscience
-&amp;gt; enterprise.
-&amp;gt; 
-&amp;gt; While the comments on the net have been fascinating, I feel many of them
-&amp;gt; have been abstracted from this specific conjunction, so I thought I&apos;d try
-&amp;gt; one more time to state the issue as I see it: How do we respond to the
-&amp;gt; backlash, and should a substantial part of this response be a discourse
-&amp;gt; with interested technoscientists over what a technoscience practice
-&amp;gt; informed by STS critique would look like?  Further, are there ways that we
-&amp;gt; should be moving corporately (as groups) to construct this specific discourse?
-&amp;gt; 
-&amp;gt; I am aware that this more activist posture may be uncomfortable both for
-&amp;gt; some of my anthropological colleagues and for some technoscientists.  In
-&amp;gt; the Participatory Design community, for example, there are technologists
-&amp;gt; who are suspicious of the attempts of anthropologists to move beyond
-&amp;gt; trying to understand information system development to becoming involved
-&amp;gt; in the system development process itself, just as there are
-&amp;gt; anthropologists who would feel compromised were they to become too heavily
-&amp;gt; involved in practice.  At the same time, I have talked to systems
-&amp;gt; developers who are angry about the anthropologists&apos; hesitation to &quot;get
-&amp;gt; their hands dirty&quot; and take some responsibility for the character of the
-&amp;gt; systems which get constructed.
-&amp;gt; 
-&amp;gt; My argument is that the current conjunction should shift the ground of
-&amp;gt; this discussion toward more intense engagement, both in practice and in
-&amp;gt; theory.  I really do mean something more than shit shoveling.</segment>
-<group id="5" type="span" parent="6" relname="span" />
-<group id="6" type="span" />
+</segment>
+<group id="5" type="span" />
+<group id="8" type="span" parent="9" relname="span" />
+<group id="9" type="span" parent="5" relname="span" />
   </body>
 </rst>

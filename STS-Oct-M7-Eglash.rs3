@@ -28,6 +28,7 @@
       <rel name="volitional-cause" type="rst" />
       <rel name="volitional-result" type="rst" />
       <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
       <rel name="conjunction" type="multinuc" />
       <rel name="contrast" type="multinuc" />
       <rel name="disjunction" type="multinuc" />
@@ -38,7 +39,7 @@
     </relations>
   </header>
   <body>
-    <segment id="1" parent="2" relname="preparation">
+    <segment id="1" parent="2" relname="attribution">
 Steve Fuller writes:</segment>
     <segment id="2" parent="8" relname="span">
 
@@ -50,7 +51,7 @@ Steve Fuller writes:</segment>
        (2) STSers want to open up &apos;public understanding of science&apos; to
           include... discussions about the kinds of scientific
           research that should be supported.&quot;
-    --------------------------------------------------------------</segment>
+  </segment>
     <segment id="3" parent="12" relname="span">
 
 I&apos;m not sure this dichotomy covers all cases. </segment>

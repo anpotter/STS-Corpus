@@ -45,7 +45,7 @@ I&apos;ve been lurking on this list for a bit becoming increasingly puzzled by
 the shape and tone of the exchanges.</segment>
     <segment id="2" parent="1" relname="circumstance">  At the same time, I&apos;ve been deleting
 files and came across the one enclosed.</segment>
-    <segment id="3" parent="23" relname="span">  It seemed a propos somehow at
+    <segment id="3" parent="30" relname="span">  It seemed a propos somehow at
 this juncture in your/our social constructions. </segment>
     <segment id="4" parent="3" relname="evidence"> Work of the sort
 suggested below might provide a more substantial basis for &quot;backlashes&quot;
@@ -53,7 +53,7 @@ and antagonisms. </segment>
     <segment id="5" parent="3" relname="evidence"> It might also address other needs and possibilities of
 STS work (and students who look us up as if we were relevent) that is not 
 now claiming attention from within or without. </segment>
-    <segment id="6" parent="22" relname="span">
+    <segment id="6" parent="41" relname="span">
 
 &amp;gt;From a letter the National Science Foundation, 12-22-1991, commenting on 
 a draft announcement for a Research on Research and Technology program </segment>
@@ -84,7 +84,7 @@ involved. </segment>
     <segment id="13" parent="14" relname="nonvolitional-cause"> They were drafted a bit hastily due to 
 time constraints</segment>
     <segment id="14" parent="24" relname="span"> so they are by no means complete.</segment>
-    <segment id="15" parent="30" relname="span">  At the same time, I 
+    <segment id="15" parent="27" relname="elaboration">  At the same time, I 
 see very little progress in either our systematic (STS, TA, soc. sci.) 
 understanding of the relations outlined, or in the availability of funds 
 for their pursuit (from NSF or any other agency).</segment>
@@ -129,7 +129,7 @@ destructive processes, and technologies like those listed in c) above.</segment>
 e) The criteria and dynamics in technological design processes which 
 might take into account social and regulatory impacts as well as economic 
 benefits.&quot;</segment>
-    <segment id="17" parent="41" relname="span">
+    <segment id="17" parent="38" relname="interpretation">
 
 These all have to do with the uses of scientific knowledge made manifest 
 as physical and organizational phenomena.</segment>
@@ -137,32 +137,34 @@ as physical and organizational phenomena.</segment>
 and should be the object of systematic inquiry -- potentially the source 
 of strategies and design knowledge -- that could inform decision making 
 and operational development. </segment>
-    <segment id="19" parent="48" relname="span"> STSers could turn to such questions</segment>
+    <segment id="19" parent="50" relname="span"> STSers could turn to such questions</segment>
     <segment id="20" parent="19" relname="concession"> (though 
 I am not persuaded they/we are now particularly skilled in doing so).</segment>
-    <segment id="21" parent="19" relname="motivation"> The 
+    <segment id="21" parent="50" relname="motivation"> The 
 result should be a more fully formed basis for affirming (new or 
 continuing) technical systems in the interest of more than &quot;technical&quot; or 
 &quot;economic&quot; progress.</segment>
 <group id="22" type="span" parent="7" relname="background" />
-<group id="23" type="span" parent="6" relname="background" />
+<group id="23" type="span" parent="41" relname="background" />
 <group id="24" type="span" parent="12" relname="background" />
 <group id="25" type="span" parent="9" relname="antithesis" />
-<group id="26" type="span" parent="44" relname="span" />
+<group id="26" type="span" parent="43" relname="span" />
 <group id="27" type="span" parent="29" relname="span" />
-<group id="28" type="span" parent="26" relname="solutionhood" />
-<group id="29" type="span" parent="43" relname="span" />
-<group id="30" type="span" parent="27" relname="elaboration" />
+<group id="28" type="span" parent="43" relname="solutionhood" />
+<group id="29" type="span" parent="26" relname="elaboration" />
 <group id="38" type="multinuc" parent="42" relname="span" />
 <group id="39" type="span" parent="38" relname="list" />
 <group id="40" type="span" parent="38" relname="list" />
-<group id="41" type="span" parent="38" relname="interpretation" />
 <group id="42" type="span" parent="46" relname="span" />
-<group id="43" type="span" parent="26" relname="elaboration" />
 <group id="44" type="span" parent="46" relname="background" />
-<group id="45" type="span" parent="3" relname="background" />
+<group id="45" type="span" parent="30" relname="background" />
 <group id="46" type="span" parent="47" relname="span" />
-<group id="47" type="span" parent="19" relname="background" />
+<group id="47" type="span" parent="49" relname="background" />
 <group id="48" type="span" />
+<group id="30" type="span" parent="23" relname="span" />
+<group id="41" type="span" parent="22" relname="span" />
+<group id="43" type="span" parent="44" relname="span" />
+<group id="49" type="span" parent="48" relname="span" />
+<group id="50" type="span" parent="49" relname="span" />
   </body>
 </rst>

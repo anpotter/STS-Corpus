@@ -28,6 +28,7 @@
       <rel name="volitional-cause" type="rst" />
       <rel name="volitional-result" type="rst" />
       <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
       <rel name="conjunction" type="multinuc" />
       <rel name="contrast" type="multinuc" />
       <rel name="disjunction" type="multinuc" />
@@ -38,10 +39,11 @@
     </relations>
   </header>
   <body>
-    <segment id="1" parent="2" relname="span">
+    <segment id="1" parent="3" relname="span">
 
-The remarks by Fuller suggest that Rosenberg was right in titling his 1976 
+The remarks by Fuller suggest that Rosenberg was right</segment>
+    <segment id="2" parent="1" relname="elaboration"> in titling his 1976 
 book on the history of science, NO OTHER GODS.</segment>
-<group id="2" type="span" />
+<group id="3" type="span" />
   </body>
 </rst>

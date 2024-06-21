@@ -45,7 +45,7 @@ seems a good time to make one. </segment>
     <segment id="3" parent="23" relname="span"> Recent mentions of special nastiness 
 toward feminist critics of science (such as my colleague Sandra Harding) 
 suggest something fairly obvious to me. </segment>
-    <segment id="6" parent="19" relname="span"> The acronym STS is being used 
+    <segment id="6" parent="26" relname="span"> The acronym STS is being used 
 much too monolithically. </segment>
     <segment id="7" parent="4" relname="span"> Already several years ago, Malcolm Ashmore 
 noted a variety of approaches within the Sociology of Scientific 
@@ -77,8 +77,9 @@ need much more nuanced uses of the acronym STS.</segment>
 <group id="20" type="span" parent="5" relname="elaboration" />
 <group id="21" type="span" parent="6" relname="evidence" />
 <group id="22" type="span" parent="3" relname="preparation" />
-<group id="23" type="span" parent="6" relname="background" />
+<group id="23" type="span" parent="26" relname="background" />
 <group id="24" type="span" parent="25" relname="span" />
 <group id="25" type="span" />
+<group id="26" type="span" parent="19" relname="span" />
   </body>
 </rst>

@@ -38,7 +38,7 @@
     </relations>
   </header>
   <body>
-    <segment id="1" parent="2" relname="preparation">
+    <segment id="1" parent="6" relname="preparation">
 On Mon, 3 Oct 1994, Steve Fuller wrote:</segment>
     <segment id="2" parent="6" relname="span">
  
@@ -54,6 +54,7 @@ facts? </segment>
 It&apos;s an appeal to scientists by the National Association of Scholars, a 
 contrived attack on what Paul Gross and others call &quot;the academic left.&quot;</segment>
 <group id="5" type="span" parent="2" relname="evaluation" />
-<group id="6" type="span" />
+<group id="6" type="span" parent="7" relname="span" />
+<group id="7" type="span" />
   </body>
 </rst>

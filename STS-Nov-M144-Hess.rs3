@@ -64,7 +64,7 @@ generate backlash.</segment>
     <segment id="7" parent="25" relname="preparation">  I agree, in part, with Fuller;</segment>
     <segment id="25" parent="34" relname="span"> we can&apos;t avoid this 
 altogether without giving up our enterprise.</segment>
-    <segment id="8" parent="38" relname="span">  What we might be able to
+    <segment id="8" parent="52" relname="span">  What we might be able to
 do is work against polarization.</segment>
     <segment id="9" parent="37" relname="span">  One approach is to refuse to cede the
 ability to represent STS to technoscience communities to our critics.</segment>
@@ -119,7 +119,7 @@ what the goal of our whole enterprise is?</segment>
 <group id="31" type="span" parent="30" relname="evidence" />
 <group id="32" type="span" parent="3" relname="elaboration" />
 <group id="33" type="span" parent="1" relname="elaboration" />
-<group id="34" type="span" parent="8" relname="antithesis" />
+<group id="34" type="span" parent="52" relname="antithesis" />
 <group id="35" type="span" parent="9" relname="motivation" />
 <group id="36" type="span" parent="9" relname="motivation" />
 <group id="37" type="span" parent="45" relname="span" />
@@ -137,5 +137,6 @@ what the goal of our whole enterprise is?</segment>
 <group id="49" type="span" parent="38" relname="solutionhood" />
 <group id="50" type="span" parent="51" relname="joint" />
 <group id="51" type="multinuc" />
+<group id="52" type="span" parent="38" relname="span" />
   </body>
 </rst>
