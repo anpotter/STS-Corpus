@@ -1,0 +1,84 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="21" relname="span">
+I&apos;d like to respond to something Fuller said 2 days ago about the appl;ied
+ethics model.</segment>
+    <segment id="2" parent="19" relname="span">  I&apos;m not sure that it is all that clear to him,</segment>
+    <segment id="3" parent="2" relname="evidence"> as he tended
+to dismiss it with associations like public relations and sophistry.</segment>
+    <segment id="4" parent="22" relname="span">  
+
+It may be the case that, say, physicians and surgeons turned to ethicists
+as a response to crisis. </segment>
+    <segment id="5" parent="14" relname="sequence"> But that doesn&apos;t mean that ethicists simply wait
+around for practitioners to hand them a problem,</segment>
+    <segment id="6" parent="14" relname="sequence"> and then seek some ;way
+to smooth things over.</segment>
+    <segment id="7" parent="16" relname="span">  some, but definitely not all, do this. </segment>
+    <segment id="8" parent="20" relname="span"> But many
+in the field have taken a critical stance f the sort SF would like to see
+iin STS.</segment>
+    <segment id="9" parent="17" relname="concession">  For example, I may be wrong about this,</segment>
+    <segment id="10" parent="11" relname="antithesis"> but it was not doctors
+who came to philosophers asking them how they could act less paternalistic-
+ally.</segment>
+    <segment id="11" parent="17" relname="span">  I think it was philosophers who were bringing traditional, perhaps
+Kantian, concerns about the moral autonomy of human  beings to bear on 
+a &quot;practical&quot; question.</segment>
+    <segment id="12" parent="23" relname="span">
+
+In your book, Steve, you argue theoretically against giving rhetoric a
+bad name.</segment>
+    <segment id="13" parent="12" relname="antithesis">  But you continue to use it on the list in a way that 
+contributes to its bad reputation!</segment>
+<group id="14" type="multinuc" parent="15" relname="span" />
+<group id="15" type="span" parent="7" relname="background" />
+<group id="16" type="span" parent="8" relname="antithesis" />
+<group id="17" type="span" parent="18" relname="span" />
+<group id="18" type="span" parent="8" relname="evidence" />
+<group id="19" type="span" parent="1" relname="motivation" />
+<group id="20" type="span" parent="24" relname="span" />
+<group id="21" type="span" parent="4" relname="background" />
+<group id="22" type="span" parent="14" relname="concession" />
+<group id="23" type="span" parent="20" relname="background" />
+<group id="24" type="span" />
+  </body>
+</rst>

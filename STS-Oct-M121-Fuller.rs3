@@ -1,0 +1,102 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">
+
+Response to MORMAN and FROST:</segment>
+    <segment id="2" parent="17" relname="span">
+
+I agree that _Telling the Truth..._ is a good ideological resource for STS
+fending off the attacks of scientists,</segment>
+    <segment id="3" parent="16" relname="span"> since it shows how many of the
+constructivist critiques of science (and its history) make sense,</segment>
+    <segment id="4" parent="3" relname="concession"> even
+within an Enlightenment framework of &apos;the truth will set you free.&apos;</segment>
+    <segment id="5" parent="21" relname="span">
+
+However, matters aren&apos;t so cut-and-dry</segment>
+    <segment id="6" parent="20" relname="span"> because Appleby, Hunt &amp; Jacob (AHJ)
+don&apos;t see themselves as mere ideological resources.</segment>
+    <segment id="7" parent="18" relname="span"> They actually believe
+in the Enlightenment project,</segment>
+    <segment id="8" parent="7" relname="elaboration"> and, between the lines, you can see that
+they&apos;re none too pleased about the cultural consequences of an unrepentant
+relativism.</segment>
+    <segment id="9" parent="19" relname="span"> In fact, their positive thesis is that a strong commitment to
+freedom of inquiry -- which for them, like JS Mill, is the cornerstone of
+democracy -- requires that the consequences of inquiry be taken seriously,</segment>
+    <segment id="10" parent="9" relname="elaboration">
+i.e. you can be shown wrong or right by some &apos;truth&apos; (however corrigible)
+that someone uncovers.</segment>
+    <segment id="11" parent="23" relname="span"> They argue that the more radical
+postmodernist/relativist forms of inquiry undermines this requirement by
+denying that any claim ever decisively bears on any other claim.</segment>
+    <segment id="12" parent="11" relname="elaboration"> By the
+end of the book, it becomes clear that they see this devaluation of the
+consequences of inquiry to be just as bad as placing political
+restrictions on inquiry. </segment>
+    <segment id="13" parent="22" relname="evidence">
+
+An indicator of AHJ&apos;s sensibilities is their endorsement of the &apos;Hard 
+Program&apos; that Segerstrale, Schmaus, and Jesseph pubished in _Social 
+Epistemology_ a couple of years ago -- the key to which is that you need 
+to account for the scientist&apos;s own understanding of her pursuit in order 
+to have an adequate understanding of science.</segment>
+    <segment id="14" parent="26" relname="span">
+
+My guess is that FROST&apos;s synthesis of AHJ and the radical core of science 
+studies is not going to be very easy</segment>
+    <segment id="15" parent="14" relname="nonvolitional-cause"> because it would first require that 
+the people on &apos;our&apos; side take more seriously the political consequences of 
+their epistemological commitments.</segment>
+<group id="16" type="span" parent="2" relname="volitional-cause" />
+<group id="17" type="span" parent="5" relname="concession" />
+<group id="18" type="span" parent="25" relname="span" />
+<group id="19" type="span" parent="22" relname="span" />
+<group id="20" type="span" parent="7" relname="antithesis" />
+<group id="21" type="span" parent="6" relname="antithesis" />
+<group id="22" type="span" parent="24" relname="span" />
+<group id="23" type="span" parent="19" relname="elaboration" />
+<group id="24" type="span" parent="18" relname="elaboration" />
+<group id="25" type="span" parent="27" relname="span" />
+<group id="26" type="span" parent="25" relname="elaboration" />
+<group id="27" type="span" />
+  </body>
+</rst>

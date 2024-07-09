@@ -1,0 +1,91 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">          I&apos;d like to add a caveat to Paul Edward&apos;s story</segment>
+    <segment id="2" parent="20" relname="span"> -- an
+          assignment involving human factors engineering may be a
+          great way to inject some STS concerns into an otherwise
+          socially unconcerned engineering course,</segment>
+    <segment id="3" parent="21" relname="span"> BUT the discipline
+          of human factors (or &quot;ergonomics,&quot; as the Europeans prefer)
+          itself is a bit more compromised than that.</segment>
+    <segment id="4" parent="15" relname="justify">
+
+          I did my masters in human factors engineering at UCLA, and
+          worked for a year in industry.</segment>
+    <segment id="5" parent="13" relname="span">  At school it was certainly a
+          more humane/politically interested group</segment>
+    <segment id="6" parent="5" relname="elaboration"> (so much so that
+          the dean tried to eliminate the department, claiming that
+          that it was &quot;too empirical&quot; for the theoretical orientation
+          of a University of Cal engineering school). </segment>
+    <segment id="7" parent="15" relname="span"> In terms of the
+          professional society of human factors engineers, however,
+          the majority of the money comes from military sources (even
+          for disabled tech research),</segment>
+    <segment id="8" parent="9" relname="concession"> and although the society
+          newsletter occasionally prints letters with political/social
+          criticism (e.g. protesting against the &quot;custer&apos;s revenge&quot;
+          video game),</segment>
+    <segment id="9" parent="14" relname="span"> they are usually concerned more with trying to
+          get conservative interests (industry-military)
+          interested in hiring human factors engineers, and
+          tend to shy away from any taint of social critique.</segment>
+    <segment id="10" parent="17" relname="means">
+
+          In becoming an STSer (or cyborg anthropologist or
+          ethnomathematician or whatever the hell I am),</segment>
+    <segment id="12" parent="11" relname="antithesis"> I would have
+          to say that I have not gained any more effective vantage
+          point from which to effect the kinds of social change I&apos;d
+          like to see,</segment>
+    <segment id="11" parent="17" relname="span"> but rather have tied a different hand
+          behind my back.</segment>
+<group id="13" type="span" parent="7" relname="concession" />
+<group id="14" type="span" parent="7" relname="elaboration" />
+<group id="15" type="span" parent="16" relname="span" />
+<group id="16" type="span" parent="18" relname="sequence" />
+<group id="17" type="span" parent="19" relname="span" />
+<group id="18" type="multinuc" parent="3" relname="evidence" />
+<group id="19" type="span" parent="18" relname="sequence" />
+<group id="20" type="span" parent="3" relname="concession" />
+<group id="21" type="span" />
+  </body>
+</rst>

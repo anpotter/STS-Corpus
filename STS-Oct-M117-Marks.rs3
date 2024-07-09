@@ -1,0 +1,258 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="64" relname="motivation">        Steve Fuller, Merry Maisel and others suggest that those of us
+who ask pointed questions come out of the closet with some of their own 
+answers/opinions,arguments. </segment>
+    <segment id="2" parent="3" relname="preparation"> Fair enough:</segment>
+    <segment id="3" parent="64" relname="span"> as one of the self-accused, let 
+me sketch out some articulations and reflections.</segment>
+    <segment id="4" parent="107" relname="span">
+
+        Marks&apos; practice. </segment>
+    <segment id="5" parent="82" relname="span"> For eight years or so, I&apos;ve been trying to 
+write a historical account of how statistical methods and expertise 
+entered into clinical medicine in the post-World War II period. </segment>
+    <segment id="6" parent="5" relname="elaboration">  A crude caricature of the thesis is that I argue that randomized 
+experiments are a kind of social engineering which ultimately won&apos;t do 
+the job of making social decisions about the appropriateness of medical 
+care, medical technologies, etc.</segment>
+    <segment id="7" parent="68" relname="span">  My practical goals for this book are
+relatively modest</segment>
+    <segment id="66" parent="7" relname="concession"> (I think):</segment>
+    <segment id="8" parent="67" relname="list"> to get some 
+medical practitioners to reflect a little more about their ideas about 
+evidence, methodology, and clinical decision-making,</segment>
+    <segment id="9" parent="67" relname="list"> and to get some 
+statistical practitioners to do the same. </segment>
+    <segment id="10" parent="81" relname="span"> 
+
+        Along the way, I participate 
+in some seminars with statisticians and physicians, and ask questions 
+about why they choose the kinds of models they do to analyze data, why 
+they ask the kind of research questions they do, and argue with them 
+about the scientific, methodological and political assumptions of what 
+they do.</segment>
+    <segment id="11" parent="71" relname="span">  I do this, I suppose, for several reasons:</segment>
+    <segment id="12" parent="70" relname="list"> like Gale (and 
+Traweek?), I am truly fascinated by the science here, and enjoy thinking 
+about it;</segment>
+    <segment id="13" parent="70" relname="list"> like Edwards and others, I think that this community is 
+generally extremely insular--in Fuller&apos;s sense--</segment>
+    <segment id="15" parent="70" relname="elaboration">they operate in a 
+community where until recently (recently for a historian) no one has ever 
+questioned much less challenged what it is they do, and that it is 
+worthwhile to be an outsider in the community, bringing in metholodigcal, 
+political and social perspectives 
+and questions which they might not choose to ask.</segment>
+    <segment id="14" parent="74" relname="span">  Occasionally, I even 
+do the kind of thing van Meulen proposes and which worries Steve Fuller: </segment>
+    <segment id="16" parent="73" relname="span">
+giving them advice on how to better present their case in non-academic 
+forums.</segment>
+    <segment id="17" parent="16" relname="elaboration">  So, for example, these people strongly believe that the pressure 
+from Congress to include in clinical trials groups which have been--it is 
+said--traditionally underrepresented--is pressure premised on a 
+misunderstanding of the nature and magnitude of sub-group differences in 
+clinical trials. </segment>
+    <segment id="18" parent="75" relname="concession"> I have been telling them for about a year that they may 
+be right analytically,</segment>
+    <segment id="19" parent="20" relname="unless"> but unless they make their case clearly and 
+effectively outside the pages of the New England Journal of Medicine, </segment>
+    <segment id="20" parent="75" relname="span">
+they will have little effect on the public debate.</segment>
+    <segment id="21" parent="79" relname="span">
+        Now, with the exception, possibly, of this last example, I don&apos;t 
+see any of this activity as any different than what I do in the 
+classroom:</segment>
+    <segment id="22" parent="78" relname="span"> asking questions about assumptions, goals, evidence, and 
+social relations. </segment>
+    <segment id="23" parent="24" relname="concession"> I&apos;m personally pretty comfortable with this--more 
+comfortable than I am going door to door to raise money for the 
+Chesapeake Bay fund or solicit votes for a referendum on toxic waste--and 
+certainly much more comfortable than I ever was in demonstrations or 
+public meetings. </segment>
+    <segment id="24" parent="77" relname="span"> But I don&apos;t overestimate the political import of this 
+activity--</segment>
+    <segment id="25" parent="24" relname="elaboration">I don&apos;t even, by and large, confuse it with politics, which one 
+of my teachers once described as &quot;the mobilization of bias&quot;. </segment>
+    <segment id="26" parent="106" relname="span"> It seems to 
+me that there are some differences between education and politics which 
+get overlooked in some of these discussions.</segment>
+    <segment id="27" parent="28" relname="concession">
+        1) To take my statistical arena, I think I have some credibility 
+in a small community of practitioners, in the sense that what I say gets 
+listened to, and argued with. </segment>
+    <segment id="28" parent="86" relname="span"> But statistical reasoning and a social 
+engineering approach to the world is deep in the bones of these people 
+who, are, moreover, as physicians deeply practical individuals who care 
+far less about critique than about doing and fixing. </segment>
+    <segment id="29" parent="30" relname="unless"> So, unless there 
+are practical consequences to my questions/doubts,</segment>
+    <segment id="30" parent="84" relname="span"> they rarely serve as 
+more than light entertainment. </segment>
+    <segment id="31" parent="32" relname="concession"> Which is, I think, as it should be.</segment>
+    <segment id="32" parent="85" relname="span"> But 
+the implication of this for the practitioner of science studies is that 
+unless one is willing to take an activist stance to change certain kinds 
+of statistical practices/institutional forms of expert evaluation, and 
+seek allies outside the academy in this effort,</segment>
+    <segment id="33" parent="32" relname="elaboration"> one&apos;s efforts are bound 
+to be of limited effect.</segment>
+    <segment id="34" parent="83" relname="span">  The argument is not that people don&apos;t change 
+their ideas--</segment>
+    <segment id="35" parent="34" relname="elaboration">many of the heterodox ideas about statistical inference and 
+clinical categories I was pushing ten years ago are now 
+&quot;respectable&quot;--</segment>
+    <segment id="36" parent="87" relname="span">but that the sources of change have little to do with one 
+outsider who occasionally has conversations with practitioners.  </segment>
+    <segment id="37" parent="90" relname="span">
+        2) For those people who think that education [about science]  alone is the 
+way to 
+go to transform the place of science in society, I suggest they take a 
+look at the &quot;Worm in the Core,&quot; an account of the general science 
+curriculum reforms at Harvard in the 1950s, which produced the case 
+studies in the history of science. </segment>
+    <segment id="38" parent="37" relname="elaboration"> The analysis, by Peter Buck and 
+Barbara Rosenkrantz, published in a collection called Tradition and 
+Transformation in the Sciences [Transformation &amp; Tradition?] edited by 
+Everett Mendelsohn, shows how difficult it is to implement a program of 
+cultural and political change armed only with the weapons of curricular 
+reform.</segment>
+    <segment id="39" parent="40" relname="preparation">
+        3) On the politics of science. </segment>
+    <segment id="40" parent="92" relname="span"> From various sources over the 
+past 25 years, we have been learning the lesson that many situations 
+involve/construct power:</segment>
+    <segment id="41" parent="91" relname="list"> the classroom,</segment>
+    <segment id="42" parent="91" relname="list"> the laboratory,</segment>
+    <segment id="43" parent="91" relname="list"> the housework and 
+childcare,</segment>
+    <segment id="44" parent="91" relname="list"> the seminar,</segment>
+    <segment id="45" parent="91" relname="list"> etc.</segment>
+    <segment id="46" parent="93" relname="span">  This has been probably the most important 
+intellectual and practical accomplishment in what the French like to call 
+the human sciences.</segment>
+    <segment id="47" parent="46" relname="nonvolitional-cause">  When applied to science studies, it has been 
+extremely feccund and generative.</segment>
+    <segment id="48" parent="101" relname="span">  BUT there is a kind of danger in
+recognizing the widespread distribution/sources of power--that it 
+encourages a confusion about the relative amounts of power.</segment>
+    <segment id="49" parent="95" relname="span">  I don&apos;t believe 
+that 
+there is a single scientist/laboratory group/pick your unit which has the 
+power of a Rush Limbaugh or a Saddam Hussein or, for that matter, a Bill 
+Clinton.</segment>
+    <segment id="50" parent="97" relname="span">  Their &quot;levers&quot;--to invoke Latour--are bigger and they are loaded
+with something more powerful than a scientific paper or a 
+deconstructionist argument.</segment>
+    <segment id="51" parent="96" relname="list">  For one thing, they are loaded with 
+emotions, and the skill to use them, which is something most of us
+have either foresworn to use, or are nowhere near as good at using as 
+these folks.</segment>
+    <segment id="52" parent="96" relname="list">  For another, they have more followers.</segment>
+    <segment id="53" parent="96" relname="list"> [ And, in many cases, a 
+monopoly on weapons in the territory they control.] </segment>
+    <segment id="54" parent="98" relname="antithesis"> I just don&apos;t 
+believe that any scientist is powerful in this degree:</segment>
+    <segment id="55" parent="98" relname="span"> in fact, I find 
+most scientists to be rather powerless</segment>
+    <segment id="56" parent="55" relname="circumstance"> once they take a few steps into 
+the political arena.   </segment>
+    <segment id="57" parent="103" relname="span">
+        4) Where all this takes me in light of the past few weeks of 
+discussion about STS is to observe that the only allies people in STS 
+seem to be talking about enlisting are scientists: </segment>
+    <segment id="58" parent="102" relname="list">
+scientist-colleagues,</segment>
+    <segment id="59" parent="102" relname="list"> dissident scientists,</segment>
+    <segment id="60" parent="102" relname="list"> scientists in training,</segment>
+    <segment id="61" parent="102" relname="list"> etc. </segment>
+    <segment id="62" parent="104" relname="span"> 
+That seems to me a rather insular approach,</segment>
+    <segment id="63" parent="62" relname="condition"> if one&apos;s goals are political 
+or social change.</segment>
+<group id="64" type="span" parent="65" relname="span" />
+<group id="65" type="span" parent="4" relname="background" />
+<group id="67" type="multinuc" parent="69" relname="span" />
+<group id="68" type="span" parent="67" relname="preparation" />
+<group id="69" type="span" parent="5" relname="elaboration" />
+<group id="70" type="multinuc" parent="72" relname="span" />
+<group id="71" type="span" parent="10" relname="purpose" />
+<group id="72" type="span" parent="11" relname="elaboration" />
+<group id="73" type="span" parent="14" relname="elaboration" />
+<group id="74" type="span" parent="10" relname="elaboration" />
+<group id="75" type="span" parent="76" relname="span" />
+<group id="76" type="span" parent="16" relname="elaboration" />
+<group id="77" type="span" parent="22" relname="elaboration" />
+<group id="78" type="span" parent="21" relname="elaboration" />
+<group id="79" type="span" parent="109" relname="span" />
+<group id="80" type="multinuc" parent="108" relname="span" />
+<group id="81" type="span" parent="80" relname="list" />
+<group id="82" type="span" parent="80" relname="list" />
+<group id="83" type="span" parent="36" relname="antithesis" />
+<group id="84" type="span" parent="28" relname="nonvolitional-result" />
+<group id="85" type="span" parent="30" relname="nonvolitional-result" />
+<group id="86" type="span" parent="88" relname="span" />
+<group id="87" type="span" parent="86" relname="summary" />
+<group id="88" type="span" parent="89" relname="list" />
+<group id="89" type="multinuc" parent="26" relname="elaboration" />
+<group id="90" type="span" parent="89" relname="list" />
+<group id="91" type="multinuc" parent="40" relname="elaboration" />
+<group id="92" type="span" parent="94" relname="span" />
+<group id="93" type="span" parent="92" relname="evaluation" />
+<group id="94" type="span" parent="48" relname="concession" />
+<group id="95" type="span" parent="100" relname="span" />
+<group id="96" type="multinuc" parent="50" relname="evidence" />
+<group id="97" type="span" parent="49" relname="evidence" />
+<group id="98" type="span" parent="99" relname="span" />
+<group id="99" type="span" parent="95" relname="summary" />
+<group id="100" type="span" parent="48" relname="evidence" />
+<group id="101" type="span" parent="89" relname="list" />
+<group id="102" type="multinuc" parent="57" relname="elaboration" />
+<group id="103" type="span" parent="105" relname="span" />
+<group id="104" type="span" parent="103" relname="elaboration" />
+<group id="105" type="span" parent="89" relname="list" />
+<group id="106" type="span" parent="79" relname="elaboration" />
+<group id="107" type="span" parent="80" relname="preparation" />
+<group id="108" type="span" />
+<group id="109" type="span" parent="80" relname="list" />
+  </body>
+</rst>

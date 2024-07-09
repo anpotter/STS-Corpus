@@ -1,0 +1,96 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="32" relname="background">          For what its worth, here&apos;s yet another example of
+          scientist-meets-STS:</segment>
+    <segment id="2" parent="3" relname="volitional-cause">
+
+          I was working with a physicist who finally asked me what STS
+          was all about,</segment>
+    <segment id="3" parent="30" relname="span"> so I took him to two lectures:</segment>
+    <segment id="4" parent="3" relname="elaboration"> one by Donna
+          Haraway and the other by Sharon Traweek.</segment>
+    <segment id="5" parent="6" relname="background">  Donna&apos;s lecture
+          was pitched to getting the Santa Cruz feminist/lit crit
+          crowd more interested in science,</segment>
+    <segment id="6" parent="21" relname="span"> it was a great success
+          with her audience </segment>
+    <segment id="7" parent="8" relname="circumstance">(afterwards African-American lit maven
+          bell hooks said in an astonished voice</segment>
+    <segment id="8" parent="20" relname="span"> &quot;hey, this is the
+          same thing we&apos;re trying to do in Black women&apos;s literature!&quot;)</segment>
+    <segment id="9" parent="29" relname="span">
+          but was a catastrophe for my physicist,</segment>
+    <segment id="11" parent="9" relname="elaboration"> who said &quot;typical
+          view of science-is-male-domination.&quot; </segment>
+    <segment id="10" parent="12" relname="volitional-cause"> Sharon&apos;s lecture was
+          given to the anthro dept,</segment>
+    <segment id="12" parent="22" relname="span"> so it focused on the way
+          physicists create their own subculture. </segment>
+    <segment id="13" parent="23" relname="span"> My physicist was a
+          bit shook up by it</segment>
+    <segment id="14" parent="13" relname="elaboration"> (&quot;it makes me feel like a primate&quot;)</segment>
+    <segment id="15" parent="24" relname="span"> but
+          also fascinated.</segment>
+    <segment id="16" parent="25" relname="preparation">
+
+          Moral of the testimony: </segment>
+    <segment id="17" parent="25" relname="list"> (1)  We need to speak in different
+          registers to different audiences.  </segment>
+    <segment id="18" parent="19" relname="nonvolitional-cause">(2)  We often have mixed
+          audiences,</segment>
+    <segment id="19" parent="26" relname="span"> so someone is bound to get the wrong register.</segment>
+<group id="20" type="span" parent="6" relname="evidence" />
+<group id="21" type="span" parent="9" relname="concession" />
+<group id="22" type="span" parent="24" relname="nonvolitional-cause" />
+<group id="23" type="span" parent="15" relname="concession" />
+<group id="24" type="span" parent="28" relname="span" />
+<group id="25" type="multinuc" parent="31" relname="span" />
+<group id="26" type="span" parent="25" relname="list" />
+<group id="27" type="multinuc" parent="32" relname="span" />
+<group id="28" type="span" parent="27" relname="list" />
+<group id="29" type="span" parent="27" relname="list" />
+<group id="30" type="span" parent="27" relname="background" />
+<group id="31" type="span" parent="33" relname="span" />
+<group id="32" type="span" parent="34" relname="span" />
+<group id="33" type="span" />
+<group id="34" type="span" parent="31" relname="evidence" />
+  </body>
+</rst>

@@ -1,0 +1,206 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="94" relname="preparation">Reply to VAN DER MEULEN</segment>
+    <segment id="2" parent="54" relname="antithesis">
+
+First, it is easy to castigate the idea of &apos;criticism&apos; as a way of
+communicating with scientists,</segment>
+    <segment id="3" parent="53" relname="concession"> but &apos;criticism&apos; has the rhetorical
+advantage of making it clear that we&apos;re actually addressing scientists</segment>
+    <segment id="53" parent="54" relname="span">
+yet, at the same time, we do not necessarily accept their goals as our
+own.</segment>
+    <segment id="4" parent="55" relname="background"> Science studies has a tendency to veer in one of two directions.</segment>
+    <segment id="5" parent="57" relname="span"> On
+the one hand, there are those who don&apos;t criticize scientists</segment>
+    <segment id="8" parent="5" relname="volitional-cause"> because
+they&apos;re not talking to scientists but only to other (virtual?) science
+studies practitioners.</segment>
+    <segment id="6" parent="56" relname="span"> On the other hand, there are those who don&apos;t
+criticize scientists</segment>
+    <segment id="7" parent="6" relname="volitional-cause"> because they basically see themselves as helping
+scientists accomplish their goals -- a bit like public relations people. </segment>
+    <segment id="9" parent="10" relname="purpose">
+I see &apos;criticism&apos; as designed to avoid these two extremes,</segment>
+    <segment id="10" parent="59" relname="span"> so as to 
+maintain an engaged independence. </segment>
+    <segment id="11" parent="58" relname="antithesis">
+
+Moreover, I find it a bit disappointing that in the past few years,
+several leaders in the field have tried to distance science studies from
+science criticism.</segment>
+    <segment id="12" parent="58" relname="span"> Scientists read the work as critical</segment>
+    <segment id="13" parent="12" relname="nonvolitional-cause"> because it IS
+critical.</segment>
+    <segment id="14" parent="15" relname="concession">  Maybe some of our leaders feel uncomfortable with having to
+face the kinds of questions that invariably hound people who are
+identified as &apos;critics&apos;,</segment>
+    <segment id="15" parent="84" relname="span"> but the damage has already been done,</segment>
+    <segment id="16" parent="15" relname="elaboration"> and we
+should make the most of it.</segment>
+    <segment id="17" parent="64" relname="span">  But having said all that, VAN DER MEULEN is
+certainly right that criticism needs to be something more than mere
+carping from the sidelines. </segment>
+    <segment id="18" parent="62" relname="span">The Dutch examples he cites are quite good.</segment>
+    <segment id="19" parent="20" relname="purpose"> In
+fact, it might pay to have cases of that kind put in a convenient place (a
+booklet perhaps)</segment>
+    <segment id="20" parent="61" relname="span"> so that science studies practitioners in other countries
+can demonstrate ways in which the field has been successfully fitted into
+the state policy apparatus.</segment>
+    <segment id="21" parent="62" relname="elaboration"> From the standpoint of the current discussion,
+it would be interesting to hear whether some Dutch science studies
+practitioners feel they&apos;re &apos;selling their souls&apos; by being so intimately
+involved in policy issues. </segment>
+    <segment id="22" parent="87" relname="span">
+
+On matters of democratization, I agree also that there are many ways to
+go.</segment>
+    <segment id="23" parent="22" relname="background"> I raise several of them in my _Philosophy, Rhetoric, and the End of
+KNowledge_ (Wisconsin 93).</segment>
+    <segment id="24" parent="88" relname="span"> With regard to US science policy, the big
+problem with agenda setting is that there is no central clearing house for
+science policy decisionmaking.</segment>
+    <segment id="25" parent="65" relname="span"> Different agencies do their own thing,</segment>
+    <segment id="26" parent="66" relname="span"> and
+the &apos;megaprojects&apos; (e.g. Supercollider, Human Genome, etc.) have most of
+their budgets decided directly by Congress.</segment>
+    <segment id="27" parent="26" relname="elaboration"> In Congress, e.g., scientific
+projects often have to compete with non-scientific projects for the same
+pool of funds, which is one way in which &apos;pork&apos; makes its presence felt.</segment>
+    <segment id="28" parent="68" relname="span">
+In an ideal world -- perhaps the Netherlands is such a place! -- all the
+science-based projects would go through the same channels</segment>
+    <segment id="30" parent="28" relname="elaboration"> and we&apos;d be able
+to compare them by whatever (democratic) criteria we like.</segment>
+    <segment id="29" parent="67" relname="span"> STSers are
+often quite good with criteria.</segment>
+    <segment id="31" parent="70" relname="span"> Unfortunately, no such forum exists in the
+US for such criteria to be tested or applied on a regular basis.</segment>
+    <segment id="32" parent="33" relname="antithesis">  The 1991
+OTA Report, _Federally Funded Science: Decisions for a Decade_, hinted at
+the need for more consolidation of the US science policy agenda.</segment>
+    <segment id="33" parent="69" relname="span"> However,
+short of restructuring the federal bureaucracy,</segment>
+    <segment id="34" parent="69" relname="evaluation"> I doubt that this will be 
+coming soon. </segment>
+    <segment id="35" parent="91" relname="span">
+
+However, in my mind, the most realistic site for science democratization
+is science education,</segment>
+    <segment id="36" parent="35" relname="elaboration"> where students get exposed to what it is to be a
+scientist,</segment>
+    <segment id="37" parent="35" relname="elaboration"> how is science done,</segment>
+    <segment id="38" parent="35" relname="elaboration"> what is its significance,</segment>
+    <segment id="39" parent="35" relname="elaboration"> etc.</segment>
+    <segment id="40" parent="75" relname="span"> STS will
+always have a hard time with senior scientists who often have rather fixed
+ideas about the nature of science,</segment>
+    <segment id="42" parent="72" relname="span"> and may be unwilling to budge largely</segment>
+    <segment id="41" parent="74" relname="span">
+because those ideas have helped them get ahead in science.</segment>
+    <segment id="43" parent="44" relname="antithesis"> (This is not to
+say that no meeting of minds is possible with them</segment>
+    <segment id="44" parent="73" relname="span"> - it is just much
+harder.)</segment>
+    <segment id="45" parent="79" relname="span"> However, there is a younger generation that is more uncertain
+about the future and is therefore ready to consider alternative visions of
+science.</segment>
+    <segment id="46" parent="77" relname="span"> For example, in the NOvember 94 _Social Studies of Science_,
+Steven Weinberg and Lewis WOlpert respond to the review essay I did of
+their books earlier this year.</segment>
+    <segment id="47" parent="76" relname="span"> In my reply to them, I cite a passage from
+the recent ballot for council members in the American Physics Society.</segment>
+    <segment id="48" parent="78" relname="span">
+There were 4 write-in candidates who basically said that the physics
+community had let its younger generation down by enticing them into
+projects that have left them without jobs.</segment>
+    <segment id="49" parent="48" relname="elaboration"> You can tell from their
+statements that they are groping for some kind of social understanding of
+science in which to frame their predicament.</segment>
+    <segment id="50" parent="79" relname="evaluation"> Here STS can make a big
+contribution, it seems to me. 
+</segment>
+<group id="54" type="span" parent="80" relname="span" />
+<group id="55" type="multinuc" parent="81" relname="span" />
+<group id="56" type="span" parent="55" relname="contrast" />
+<group id="57" type="span" parent="55" relname="contrast" />
+<group id="58" type="span" parent="60" relname="span" />
+<group id="59" type="span" parent="83" relname="span" />
+<group id="60" type="span" parent="85" relname="span" />
+<group id="61" type="span" parent="18" relname="elaboration" />
+<group id="62" type="span" parent="63" relname="span" />
+<group id="63" type="span" parent="17" relname="elaboration" />
+<group id="64" type="span" parent="86" relname="span" />
+<group id="65" type="span" parent="90" relname="span" />
+<group id="66" type="span" parent="25" relname="elaboration" />
+<group id="68" type="span" parent="89" relname="span" />
+<group id="67" type="span" parent="68" relname="means" />
+<group id="69" type="span" parent="71" relname="span" />
+<group id="70" type="span" parent="29" relname="antithesis" />
+<group id="71" type="span" parent="31" relname="evidence" />
+<group id="72" type="span" parent="40" relname="elaboration" />
+<group id="73" type="span" parent="41" relname="background" />
+<group id="74" type="span" parent="42" relname="volitional-cause" />
+<group id="75" type="span" parent="45" relname="concession" />
+<group id="76" type="span" parent="46" relname="elaboration" />
+<group id="77" type="span" parent="45" relname="elaboration" />
+<group id="78" type="span" parent="47" relname="elaboration" />
+<group id="79" type="span" parent="93" relname="span" />
+<group id="80" type="span" parent="82" relname="span" />
+<group id="81" type="span" parent="53" relname="evidence" />
+<group id="82" type="span" parent="64" relname="concession" />
+<group id="83" type="span" parent="80" relname="summary" />
+<group id="84" type="span" parent="60" relname="elaboration" />
+<group id="85" type="span" parent="59" relname="elaboration" />
+<group id="86" type="span" parent="92" relname="list" />
+<group id="87" type="span" parent="92" relname="list" />
+<group id="88" type="span" parent="35" relname="solutionhood" />
+<group id="89" type="span" parent="65" relname="antithesis" />
+<group id="90" type="span" parent="24" relname="elaboration" />
+<group id="91" type="span" parent="92" relname="list" />
+<group id="92" type="multinuc" parent="94" relname="span" />
+<group id="93" type="span" parent="92" relname="summary" />
+<group id="94" type="span" parent="95" relname="span" />
+<group id="95" type="span" />
+  </body>
+</rst>

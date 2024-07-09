@@ -1,0 +1,121 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="antithesis">M.A. Turton observes, &quot;There&apos;s no reason (theoretically) why
+government can&apos;t step in to cover research in, say, technologies
+relating to the handicapped.&quot;</segment>
+    <segment id="2" parent="32" relname="span">
+
+No need to be theoretical -</segment>
+    <segment id="3" parent="20" relname="span"> The U.S. Government has a National Institute
+for Disability and Rehabilitation Research, one of several agencies
+which sponsor this sort of technology development.</segment>
+    <segment id="4" parent="3" relname="elaboration">  Others include the
+Department of Veterans Affairs and the Office of Special Education Research
+in the Dept. of Education.</segment>
+    <segment id="5" parent="24" relname="span">
+
+Not only that, but to at least a limited extent, they have had the benefit,
+such as it is, of an STS-type approach for quite a while. </segment>
+    <segment id="6" parent="5" relname="justify"> I have been
+a contractor for technology development and technology assessment to these
+and other agencies with programs in this area, for more than ten years,
+and have sought to bring STS-informed methodologies to bear in
+several areas, which in summary, seek to bring the social knowledge resident
+in communities of persons with disabilities into the technology development
+process in order to enhance the liklihood that resulting protoypes will
+meet real needs of real people and to reduce the risk of innovation.</segment>
+    <segment id="7" parent="25" relname="span">
+Major insight:  </segment>
+    <segment id="8" parent="22" relname="span">The notion of &quot;technology transfer&quot; is an artefact of the
+conceptual framework technology developers bring to their practice.</segment>
+    <segment id="9" parent="21" relname="span">
+Technologies are not transferred to a using community, but learned or
+adopted by them. </segment>
+    <segment id="10" parent="9" relname="elaboration"> Or rejected.  </segment>
+    <segment id="11" parent="23" relname="span">Democratization of practices of
+technology development as sponsored by government agencies and labs makes
+practical as well as political sense,</segment>
+    <segment id="12" parent="11" relname="volitional-result"> because it enhances the liklihood of
+innovation, and thus the overall success of the lab or agency, measured
+in technologies actually adopted and used by some group of people.</segment>
+    <segment id="13" parent="27" relname="span">
+
+Anyway, I am finishing a study of the developmet and innovation
+of reading machines for the blind which traces the history
+of some of these practices and their successes and failures since
+1943,</segment>
+    <segment id="14" parent="13" relname="circumstance"> when the U.S. government first undertook the development
+of assistive technologies.</segment>
+    <segment id="15" parent="28" relname="span">
+
+By the way, the continuing interaction of defense-sponsored research
+and the development of assistive technologies makes for a complex
+and fascinating story in itself.</segment>
+    <segment id="16" parent="15" relname="elaboration">  Suffice it to say that the 1943
+work was sponsored by Vannevar Bush (personally) and the OSRD, and
+that the research leading to the first commercial reading machine
+for the blind (the Optacon around 1971) was performed by a team
+at Stanford U. whose major funding through 1967 came from the
+Navy and the Air Force.</segment>
+    <segment id="17" parent="30" relname="purpose">
+
+One of my hopes and a high item on my personal STS agenda is to influence
+technology developers in this and other fields to employ STS-generated
+insights regarding the social construction of knowledge to construct
+more democratically</segment>
+    <segment id="18" parent="19" relname="antithesis"> - not because it is politically correct,</segment>
+    <segment id="19" parent="30" relname="span"> but because
+it results in better products and more efficient R&amp;D.</segment>
+<group id="20" type="span" parent="2" relname="evidence" />
+<group id="21" type="span" parent="8" relname="elaboration" />
+<group id="22" type="span" parent="11" relname="solutionhood" />
+<group id="23" type="span" parent="26" relname="span" />
+<group id="24" type="span" parent="7" relname="background" />
+<group id="25" type="span" parent="23" relname="background" />
+<group id="26" type="span" parent="2" relname="evidence" />
+<group id="27" type="span" parent="29" relname="span" />
+<group id="28" type="span" parent="27" relname="background" />
+<group id="29" type="span" parent="2" relname="evidence" />
+<group id="30" type="span" parent="31" relname="span" />
+<group id="31" type="span" parent="2" relname="evidence" />
+<group id="32" type="span" />
+  </body>
+</rst>

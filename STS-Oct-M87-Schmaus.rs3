@@ -1,0 +1,128 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="30" relname="span">
+Participants on this list have raised a classic chicken-and-egg question:</segment>
+    <segment id="2" parent="1" relname="elaboration">
+which comes first? </segment>
+    <segment id="3" parent="30" relname="elaboration"> How do we get scientists involved in what we&apos;re doing?</segment>
+    <segment id="4" parent="30" relname="elaboration">
+Do we have anything useful to contribute to what they&apos;re doing anyway?</segment>
+    <segment id="5" parent="34" relname="span">   
+My associates and I addressed these issues in our gently satirical &quot;Hard
+Program&quot; manifesto in _Social Epistemology_ 1992, # 3.</segment>
+    <segment id="6" parent="33" relname="span">  We argue for 
+using what scientists say about themselves as &quot;prima facie&quot; evidence for
+judging the adequacy of our interpretations -- with the prima facie 
+strongly emphasized.</segment>
+    <segment id="7" parent="9" relname="antithesis">  The existence of disagreement should not lead to 
+automatic rejection of our interpretation,</segment>
+    <segment id="9" parent="32" relname="span"> so much as point to a problem
+that needs to be addressed. </segment>
+    <segment id="8" parent="10" relname="condition"> If science studies &quot;brings the scientist
+back in&quot; in the way that we describe,</segment>
+    <segment id="10" parent="35" relname="span"> then the field may very well have
+important contributions to make in the form of how research is carried out,
+organized, and disseminated.  </segment>
+    <segment id="11" parent="49" relname="span">
+
+Which raises the question: </segment>
+    <segment id="12" parent="36" relname="span"> HOw to get the ball rolling? </segment>
+    <segment id="13" parent="50" relname="span"> Here, I don&apos;t 
+think that we lack models.</segment>
+    <segment id="14" parent="37" relname="span">  The professional ethics community has been
+very successful at getting practitioners involved in what they&apos;re doing.</segment>
+    <segment id="15" parent="14" relname="nonvolitional-cause">
+One reason has been the pressure of scandals, lawsuits, etc.</segment>
+    <segment id="16" parent="37" relname="elaboration"> Physicians
+and surgeons turned to ethicists in the heat of the abortion debates, 
+scandals over research on human subjects, and so on. </segment>
+    <segment id="17" parent="39" relname="span"> We should look 
+upon the SSC fiasco as an opportunity</segment>
+    <segment id="18" parent="17" relname="nonvolitional-cause"> -- scientists will turn to us when
+they feel like they&apos;re in trouble.</segment>
+    <segment id="19" parent="44" relname="span">  The other important consideration of 
+course is money.</segment>
+    <segment id="20" parent="40" relname="span">  There&apos;s money in ethics today.</segment>
+    <segment id="21" parent="20" relname="evidence">  One can get grants
+to hold workshops and attract practioners with stipends and honoraria.</segment>
+    <segment id="22" parent="41" relname="span">
+Although scientists may not be as bad as lawyers</segment>
+    <segment id="23" parent="22" relname="circumstance"> when it comes to the
+ticking meter,</segment>
+    <segment id="24" parent="42" relname="span"> nevertheless they know they can be earning consulting 
+fees while they are talking to us.</segment>
+    <segment id="25" parent="47" relname="span">
+
+On a different matter, I&apos;m not sanguine about a central science clearing-
+house for the US govt.</segment>
+    <segment id="26" parent="45" relname="disjunction">  Maybe because we&apos;re much bigger than Holland,</segment>
+    <segment id="27" parent="45" relname="disjunction"> or
+maybe because I don&apos;t know where science ends and other things begin,</segment>
+    <segment id="28" parent="46" relname="span"> it
+strikes me as an unworkable idea. </segment>
+    <segment id="29" parent="28" relname="evidence"> Do we really want one office to review
+everything from proposals to study ways of increasing chicken production, to
+increasing student performance in public schools, to searching for the top
+quark?</segment>
+<group id="30" type="span" parent="31" relname="span" />
+<group id="31" type="span" parent="5" relname="solutionhood" />
+<group id="32" type="span" parent="6" relname="elaboration" />
+<group id="33" type="span" parent="5" relname="elaboration" />
+<group id="34" type="span" parent="48" relname="span" />
+<group id="35" type="span" parent="34" relname="elaboration" />
+<group id="36" type="span" parent="13" relname="solutionhood" />
+<group id="37" type="span" parent="38" relname="span" />
+<group id="38" type="span" parent="13" relname="elaboration" />
+<group id="39" type="span" parent="37" relname="elaboration" />
+<group id="40" type="span" parent="43" relname="span" />
+<group id="41" type="span" parent="24" relname="concession" />
+<group id="42" type="span" parent="40" relname="evidence" />
+<group id="43" type="span" parent="19" relname="circumstance" />
+<group id="44" type="span" parent="13" relname="elaboration" />
+<group id="45" type="multinuc" parent="28" relname="nonvolitional-cause" />
+<group id="46" type="span" parent="25" relname="elaboration" />
+<group id="47" type="span" parent="51" relname="joint" />
+<group id="48" type="span" parent="11" relname="background" />
+<group id="49" type="span" parent="12" relname="background" />
+<group id="50" type="span" parent="51" relname="joint" />
+<group id="51" type="multinuc" />
+  </body>
+</rst>

@@ -1,0 +1,178 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">Ed Mormon writes:</segment>
+    <segment id="2" parent="31" relname="span">
+
+&amp;gt;This book just appeared on my desk.  By Joyce Appleby (UCLA), Lynn Hunt
+&amp;gt;(Pennsyvania), and Margaret Jacob (The New School), _Telling the Truth
+&amp;gt;about History_ at first glance looks to be analogous to Gross and Levitt&apos;s
+&amp;gt;_Higher Superstition_.  Three historians (like Gross and Levitt, two
+&amp;gt;scientists) complain about how history (rather than science) is misused
+&amp;gt;and misunderstood. The villains (and this I get from the blurbs on the
+&amp;gt;book jackets) are (1) unscrupulous popularizers (Oliver Stone by
+&amp;gt;implication), (2) &quot;critics who dissolve the author herself into one among
+&amp;gt;many sources of meaning, reducing historical knowledge to a series of
+&amp;gt;texts engaged with each other, not with the past,&quot; and (3) &quot;powerful
+&amp;gt;constituencies [that] call for histories that affirm more than inform.&quot;
+&amp;gt;
+&amp;gt;The key difference is that this critique of post-structuralist
+&amp;gt;methodologies and abuses of the multiculturalist program seems not to
+&amp;gt;descend into name calling and attacks on an &quot;academic left&quot; that really
+&amp;gt;doesn&apos;t seem to exist (at least as Gross and Levitt portray it).</segment>
+    <segment id="3" parent="53" relname="span">
+
+
+I heartily disagree,</segment>
+    <segment id="4" parent="33" relname="span"> and as an STSer and an avid constructionist generally,
+I find Hunt, et al, excellent, probably the best allies we can have.</segment>
+    <segment id="5" parent="32" relname="span"> Hunt
+et al defend our flanks very nicely against attacks from the Gross and
+Leavitt types</segment>
+    <segment id="6" parent="5" relname="means"> precisely because they keep us from falling into the purely
+idealist/relativist traps that lit-crit po-mos seem to.</segment>
+    <segment id="7" parent="34" relname="span"> They view &quot;external
+reality&quot; (for lack of a better term -- the use is mine alone, not Hunt&apos;s)
+not as a necessary evil to which we must make concessions, but as an active
+referent to keep our speculations well grounded.</segment>
+    <segment id="9" parent="36" relname="span">
+
+The position that Hunt et al take reminds me a bit of Rorty, in that they
+recognize the validity of po-mo and constructivist criticisms, but worry
+about the ability to say anything at all if we take those positions to
+their logical extents.</segment>
+    <segment id="8" parent="9" relname="elaboration"> Not unlike Latour&apos;s notion of speed bumps (that
+American can call them spped bumps, Brits can call them sleeping policemen,
+but if you hit them too fast, regardless of what they&apos;re called, they&apos;ll
+bang the hell out of your car), Hunt et al and Rorty&apos;s observations give us
+practical ways to bring reality back in.</segment>
+    <segment id="10" parent="41" relname="span">
+
+We must remember that Hunt et al (and I) are historians,</segment>
+    <segment id="11" parent="37" relname="span"> and we
+professionally know that we&apos;d be stupid to deny that Pearl Harbor was
+bombed on 7 Dec 1941, and criminal to deny that the Holocaust happened.</segment>
+    <segment id="12" parent="38" relname="span">
+Indeed, in conversations among historians over the past five years or so,
+the latter issue has been one of considerable concern, especially given the
+(shall we say) uncomfortable personal past of Paul de Man. </segment>
+    <segment id="13" parent="12" relname="elaboration">Historians have
+to make the distinction between &quot;facts out there&quot; and meanings and
+interpretations.</segment>
+    <segment id="14" parent="39" relname="span"> The approach of Hunt, et al also tries to come to terms
+with, by the way, the methodologically and epistemologically conservative
+orientation of the historical profession.</segment>
+    <segment id="15" parent="43" relname="span"> As professional historians, those
+of us on the leading edge (as I immodestly categorize myself) get far
+better mileage out of setting prescriptions, constructions, and
+representations against &quot;realities.&quot;</segment>
+    <segment id="16" parent="17" relname="antithesis"> While some of our STS allies might
+consider such an approach to be a sellout (in that it places historians
+back in the center as arbiters of &quot;truth&quot; and believers in same),</segment>
+    <segment id="17" parent="42" relname="span"> it does
+come to grips in some fashion with the idealism vs. realism/materialism
+problem.</segment>
+    <segment id="18" parent="51" relname="span">
+
+Better still, our emerging use of a &quot;representations vs realities&quot;
+framework is quite powerful in explaining the formation of popular
+consciousness and ideology.</segment>
+    <segment id="19" parent="18" relname="elaboration"> In my own work, I can set constructions of
+housewifery, happy taylorized workers, and ideologies of progress,
+promulgated by modernizers, against the grim realities I find in the
+archives and set a nice dialectic into motion.</segment>
+    <segment id="20" parent="18" relname="elaboration"> It gets us around weak
+concepts like false consciousness and conspiracies, and allows us to
+believe, when necessary, that most people in the past believed what they
+were saying.</segment>
+    <segment id="21" parent="46" relname="span"> Best of all, it allows us to comprehend what we all must
+recognize if we are to be philosophically responsible:</segment>
+    <segment id="22" parent="45" relname="span"> that several
+contradictory notions of truth can coexist and condradict each other</segment>
+    <segment id="23" parent="22" relname="circumstance"> while
+the world still remains coherent to those who hold apparently
+internally-contradictory views.</segment>
+    <segment id="24" parent="25" relname="concession">
+
+I have to admit my initial rejection of Hunt et al, for many of the same
+reasons Ed Morman cites.</segment>
+    <segment id="25" parent="48" relname="span"> Nonetheless, placed in context, I believe the work
+represents the necessary squaring off between
+post-modernism/constructionism and materialism that all historians (if not
+STSers) must pursue. </segment>
+    <segment id="26" parent="47" relname="span">The book represents a way to radicalize
+traditionalists and to mainstream radicals so that a new synthesis can
+begin to emerge.</segment>
+    <segment id="27" parent="26" relname="elaboration"> In short, thus, I believe we need to view the work of
+Hunt, et al, as an effort by some pretty solid allies.</segment>
+    <segment id="28" parent="48" relname="background"> I concluded after
+reading it that the jacket blurbs were there to lure obdurate mainstreamers
+into new waters, not to confirm their prejudices.</segment>
+    <segment id="29" parent="30" relname="background"> (A minor concession,
+though, to Mormon:</segment>
+    <segment id="30" parent="49" relname="span"> the section on the Scientific Revolution, written I
+assume by Jacob, is a bit on the pollyanna and positivist side for my
+tastes).</segment>
+<group id="31" type="span" parent="3" relname="antithesis" />
+<group id="32" type="span" parent="35" relname="span" />
+<group id="33" type="span" parent="3" relname="elaboration" />
+<group id="34" type="span" parent="32" relname="elaboration" />
+<group id="35" type="span" parent="44" relname="span" />
+<group id="36" type="span" parent="7" relname="elaboration" />
+<group id="37" type="span" parent="10" relname="elaboration" />
+<group id="38" type="span" parent="11" relname="elaboration" />
+<group id="39" type="span" parent="10" relname="elaboration" />
+<group id="41" type="span" parent="35" relname="evidence" />
+<group id="42" type="span" parent="52" relname="span" />
+<group id="43" type="span" parent="14" relname="elaboration" />
+<group id="44" type="span" parent="4" relname="evidence" />
+<group id="45" type="span" parent="21" relname="elaboration" />
+<group id="46" type="span" parent="18" relname="elaboration" />
+<group id="47" type="span" parent="25" relname="elaboration" />
+<group id="48" type="span" parent="50" relname="span" />
+<group id="49" type="span" parent="48" relname="background" />
+<group id="50" type="span" parent="53" relname="summary" />
+<group id="51" type="span" parent="42" relname="elaboration" />
+<group id="52" type="span" parent="15" relname="evaluation" />
+<group id="53" type="span" parent="54" relname="span" />
+<group id="54" type="span" />
+  </body>
+</rst>

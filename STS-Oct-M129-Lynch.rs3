@@ -1,0 +1,115 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="concession">Although I suppose I am a &quot;constructivist&quot; in my theory of knowledge and
+social theory,</segment>
+    <segment id="2" parent="22" relname="span"> I am not a relativist, methodological or otherwise. </segment>
+    <segment id="3" parent="23" relname="span"> I don&apos;t
+know why these are always linked.</segment>
+    <segment id="4" parent="24" relname="span"> BUT, why would relativism count against
+academic freedom?</segment>
+    <segment id="5" parent="33" relname="span"> Wouldn&apos;t the most obvious political implication be a
+concern with expanded, more effective academic freedom as against allegedly
+free but in fact coercive institutions?</segment>
+    <segment id="6" parent="34" relname="span">
+
+Of course, this raises a whole can of worms,</segment>
+    <segment id="7" parent="31" relname="span"> but they have been discussed
+with more precision elsewhere. </segment>
+    <segment id="8" parent="25" relname="span"> See for instance the discsussions about
+radical democracry in the post-marxism of Laclau, Mouffe, Zizek and the like
+which simultaneously takes marxism to task for its (antidemocratic) critique
+of &quot;bourgeous democracy&quot; and still insists upon a critique of the
+limitations of increasingly (end-of-history style) hegemonic but empty
+appeals to actually existing liberal democracy</segment>
+    <segment id="9" parent="8" relname="elaboration"> [precisely when it is being
+attacked in practice by the same people].</segment>
+    <segment id="10" parent="26" relname="preparation"> Zizek, for one, raises the
+question:</segment>
+    <segment id="11" parent="12" relname="condition"> if metanarratives don&apos;t really work</segment>
+    <segment id="12" parent="26" relname="span"> why do we have to explicitly
+avoid them rather than taking them seriously until they self-deconstruct?</segment>
+    <segment id="13" parent="14" relname="preparation">
+
+The point being:</segment>
+    <segment id="14" parent="28" relname="span"> why treat materialists and deconstructionists as two ideal
+types that help to &quot;check each other&apos;s excesses&quot; instead of thinking through
+the types of &quot;obvious consequences&quot; which are alleged to follow from a
+critique of representations.</segment>
+    <segment id="15" parent="7" relname="elaboration"> Another source might be Christopher Norris&apos;
+work on What&apos;s Wrong With Postmodernism</segment>
+    <segment id="16" parent="7" relname="elaboration"> or the sensitivity to the
+implications of the constructivist arguments you might find about race or
+gender in Paul Gilroy, David Roediger, Judith Butler, Edward Said, bell
+hooks, Nancy Fraser, just to name a few.</segment>
+    <segment id="18" parent="7" relname="elaboration"> (Closer to home, what about
+Haraway?)</segment>
+    <segment id="17" parent="19" relname="circumstance">
+
+Whether you skim _Social Text_ or read the lastest empirical history on
+labor history,</segment>
+    <segment id="19" parent="32" relname="span"> there is a great deal of analysis of the political
+consequences of constructivist positions that leads not just to
+self-flagellation but to reformulating the import and relevance of those
+arguments.</segment>
+    <segment id="20" parent="36" relname="span"> The point is they much less frequently resort to a &quot;political
+veto&quot; style of argument in which there is a tacit presumption what genuinely
+progressive politics entails but instead question whether &quot;obviously&quot;
+progressive politics disguise a host of problematic premises?</segment>
+    <segment id="21" parent="20" relname="nonvolitional-result"> One does not
+have to imagine oneself at the vanguard of history to try to learn from
+history in this fashion.</segment>
+<group id="22" type="span" parent="3" relname="background" />
+<group id="23" type="span" parent="4" relname="concession" />
+<group id="24" type="span" parent="5" relname="solutionhood" />
+<group id="25" type="span" parent="30" relname="span" />
+<group id="26" type="span" parent="27" relname="span" />
+<group id="27" type="span" parent="29" relname="span" />
+<group id="28" type="span" parent="27" relname="restatement" />
+<group id="29" type="span" parent="25" relname="elaboration" />
+<group id="30" type="span" parent="7" relname="elaboration" />
+<group id="31" type="span" parent="35" relname="span" />
+<group id="32" type="span" parent="31" relname="summary" />
+<group id="33" type="span" parent="6" relname="nonvolitional-cause" />
+<group id="34" type="span" parent="7" relname="concession" />
+<group id="35" type="span" parent="20" relname="evidence" />
+<group id="36" type="span" />
+  </body>
+</rst>

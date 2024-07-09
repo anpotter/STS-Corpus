@@ -1,0 +1,90 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="justify">I&apos;ve been chatting with several people [a dozen or two] who do research 
+on the diurnal practices of producing sci/tech/med knowledge</segment>
+    <segment id="2" parent="26" relname="span"> and we all 
+find the recent discussions on this list about how to talk with scientists 
+tragic and comic. </segment>
+    <segment id="3" parent="16" relname="span"> 
+
+During our own careers as researchers in sci/tech/med studies most of us 
+have spent about a quarter to a third of our time in laboratories/clinics.</segment>
+    <segment id="4" parent="3" relname="volitional-cause">
+We could not do our work without talking, all the time, with 
+scientists/engineers/clinicians, and they with us.</segment>
+    <segment id="5" parent="16" relname="elaboration">  We always read their 
+work and vice versa;</segment>
+    <segment id="6" parent="16" relname="elaboration"> we discuss our projects at length. </segment>
+    <segment id="7" parent="20" relname="span"> Among such 
+researchers I am NOT atypical at all in giving about a quarter of my 
+invited talks to scientists, in being invited regularly to participate 
+in conferences organized by scientists, and in that some scientists use 
+my work in their courses. </segment>
+    <segment id="8" parent="9" relname="concession"> I am NOT suggesting that all these people like 
+or agree with our work,</segment>
+    <segment id="9" parent="19" relname="span"> but we are most certainly engaged in rich, 
+complex conversations with them. </segment>
+    <segment id="10" parent="21" relname="span"> I would say the same about people 
+engaged in policy making and people engaged in education issues;</segment>
+    <segment id="11" parent="18" relname="span"> that is, 
+that they read our research, approach us to talk,</segment>
+    <segment id="12" parent="11" relname="elaboration"> and we have rich, 
+complex conversations with them, not necessarily leading to agreement.</segment>
+    <segment id="13" parent="14" relname="antithesis">
+These relationships are not built in a day or in one meeting,</segment>
+    <segment id="14" parent="24" relname="span"> but the 
+process of building them is also not the least bit mysterious. </segment>
+    <segment id="15" parent="14" relname="elaboration"> I would 
+say that &apos;effort&apos; is the keyword and, of course, a complete absence of 
+any dominance/submission moves.</segment>
+<group id="16" type="span" parent="17" relname="span" />
+<group id="17" type="span" parent="23" relname="span" />
+<group id="18" type="span" parent="10" relname="elaboration" />
+<group id="19" type="span" parent="22" relname="span" />
+<group id="20" type="span" parent="17" relname="elaboration" />
+<group id="21" type="span" parent="19" relname="elaboration" />
+<group id="22" type="span" parent="7" relname="elaboration" />
+<group id="23" type="span" parent="25" relname="span" />
+<group id="24" type="span" parent="23" relname="interpretation" />
+<group id="25" type="span" />
+<group id="26" type="span" parent="3" relname="background" />
+  </body>
+</rst>

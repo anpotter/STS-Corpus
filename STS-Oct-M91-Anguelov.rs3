@@ -1,0 +1,221 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">On Oct. 24 FULLER wrote:</segment>
+    <segment id="2" parent="49" relname="span">
+
+&amp;lt;In the case of reducing human suffering from cancer, some of the above
+&amp;lt;remarks about &apos;magic bullets&apos; apply here as well. Also, much of the
+&amp;lt;grandiose rhetoric about fighting a &apos;war on cancer&apos; has backfired on the
+&amp;lt;scientific community, even though it licensed vast amounts of government
+&amp;lt;money in the early days. Once again, STSers could point out the value of a
+&amp;lt;tempered rhetoric to prevent manic-depressive public responses. In
+&amp;lt;addition, there may be something to be said for STSers destabilizing the
+&amp;lt;idea that life is worth preserving at any cost, including endless
+&amp;lt;suffering from treatments that merely retard the advance of cancer. Here
+&amp;lt;some anthropology of medicine -- and indeed some history of our own
+&amp;lt;culture from before the hegemony of scientific medicine -- would offer
+&amp;lt;alternative models for dealing with matters of life-and-death.
+&amp;lt;
+&amp;lt;As my last remarks suggest, one thing STSers can do generally is to
+&amp;lt;juxtapose examples from practices in our own cultural past or from that of
+&amp;lt;other cultures to show that things have been -- and can be -- done
+&amp;lt;differently.  This applies no less to the science policy apparatus itself,
+&amp;lt;which -- as was pointed out by several of us a few weeks ago -- is a
+&amp;lt;relatively recent invention. Showing how the &apos;peer review vs. pork&apos;
+&amp;lt;distinction got constructed in the first place can be very illuminating in
+&amp;lt;helping us now construct alternative courses of action. Scientists are
+&amp;lt;professionally trained to have historical amnesia with regard to such
+&amp;lt;sacred matters as the social construction of merit, and here STSers can
+&amp;lt;refresh their memories.</segment>
+    <segment id="3" parent="50" relname="span">
+
+       In general, what FULLER says here reads very reasonable.</segment>
+    <segment id="4" parent="82" relname="span"> But let me point
+out another aspect of this intractable problem.</segment>
+    <segment id="5" parent="81" relname="list"> First of all, in the whole
+enterprise of STS it is not clear who is to be rectified: scientists or science?</segment>
+    <segment id="6" parent="51" relname="span">
+And second of all, if it is scientists</segment>
+    <segment id="7" parent="6" relname="background"> (as seems to be the implication of
+FULLER&apos;s and VAN DEN MEULEN&apos;s examples),</segment>
+    <segment id="8" parent="77" relname="span"> who has assigned the task of rectifiers
+to the STSents?</segment>
+    <segment id="9" parent="8" relname="nonvolitional-cause"> [STSents themselves are scientists as well, at least in terms of
+being dependable on funding, public recognition and some social status.]</segment>
+    <segment id="10" parent="52" relname="span">
+
+       Ideally, and also in the context of FULLER&apos;s and VAN DEN MEULEN&apos;s example
+STS should be regarded as a form of narcissism:</segment>
+    <segment id="11" parent="10" relname="elaboration"> scientists look upon scientists
+in the endeavour to prove how good and beautiful scientists&apos; products may be.</segment>
+    <segment id="12" parent="10" relname="elaboration">
+They should be advertisers of scientists.</segment>
+    <segment id="13" parent="76" relname="span"> In the real world out there just the
+opposite happens:</segment>
+    <segment id="14" parent="13" relname="elaboration"> STS have been bitterly critical to scientists and in the same
+time have sought for recognition by those people they so relentlessly criticize.</segment>
+    <segment id="15" parent="16" relname="antithesis">
+It turns out, in the real world, that the self-hired STSents do not prove how
+admirable scientists are,</segment>
+    <segment id="16" parent="53" relname="span"> but demonstrate how disgustingly scientists behave.</segment>
+    <segment id="17" parent="16" relname="elaboration"> Th
+trigger of STS was the doubt that science - in a philosophical sense - wasn&apos;t
+constructed on first principles;</segment>
+    <segment id="18" parent="16" relname="elaboration"> the result of STS has been so far that
+scientists - in practical sense - are arrogant, useless, truthless, helpless, yo
+have it.</segment>
+    <segment id="19" parent="20" relname="background">
+
+       I&apos;ll take AIDS as an example and will stick to the provision of VAN DEN
+MEULEN that &quot;Scientists [...] face problems in how science goes and how it is
+embedded in society&quot;.</segment>
+    <segment id="20" parent="54" relname="span"> From the very onset of the pandemic, and especially during
+the hot 1988-1991, AIDS activists and HIV-people pushed US government for more
+money and US science for more involvement presuming that the delay of the
+solution (some panaceic medicine) is due to negligence and carelessness, to
+filthy political calculations, etc. </segment>
+    <segment id="21" parent="22" relname="condition">If you discard the rhetoric,</segment>
+    <segment id="22" parent="56" relname="span"> the message was
+crystal clear:</segment>
+    <segment id="23" parent="24" relname="concession"> we believe that science is able to do everything,</segment>
+    <segment id="24" parent="55" relname="span"> but scientists
+are corrupt bastards and play on the tune of politicians.</segment>
+    <segment id="25" parent="59" relname="span"> It is hard to find
+better example of a socially constructed, viable idea of the scientific
+enterprise by lay people.</segment>
+    <segment id="26" parent="60" relname="span"> Isn&apos;t this very idea implied in the STS strain to
+attack scientists, to be against, to be nasty?</segment>
+    <segment id="27" parent="62" relname="span">
+
+       Scientists, on their part, knew that at that time the desperately needed
+solution was nowhere - and knew this without recourse to STSents - and that the
+believed omnipotence of science is only a myth. </segment>
+    <segment id="28" parent="29" relname="concession">True, they benefited from the
+conjuncture to raise more money toward AIDS-research,</segment>
+    <segment id="29" parent="61" relname="span"> but did not abandon the
+systemic approach, which is the only possible and reasonable approach.</segment>
+    <segment id="30" parent="66" relname="span"> Where wer
+STS in this case?</segment>
+    <segment id="31" parent="32" relname="condition"> And if they were out there,</segment>
+    <segment id="32" parent="65" relname="span"> how could STS advise AIDS-research
+to do better?</segment>
+    <segment id="33" parent="34" relname="antithesis"> It is one thing to shake the fundamental authority of the natural
+sciences in order to acquire authority for the social ones,</segment>
+    <segment id="34" parent="63" relname="span"> and another thing to
+try to help science policies that promote the social usefulness of science.</segment>
+    <segment id="35" parent="36" relname="concession"> To
+take a good contrast in the near neighbourhood, linguists of the Chomskian type
+study assiduously the structure of language,</segment>
+    <segment id="36" parent="64" relname="span"> but they don&apos;t teach people how to
+speak their native language.</segment>
+    <segment id="37" parent="68" relname="span">
+
+       What I&apos;m heading to is the contention that STS might be a refined
+instrument to study the anatomy and physiology of the sciences and the
+technologies, </segment>
+    <segment id="38" parent="37" relname="condition">if it shrugs off the political momentum and the complex of the non
+recognized.</segment>
+    <segment id="39" parent="69" relname="span"> It is sufficiently anti-narcistic, I believe, to embark on systemic
+studies of the sciences and the technologies as systems acquiring and applying
+knowledge in a social and cultural context.</segment>
+    <segment id="40" parent="70" relname="span"> In this regard, I fully concur with
+JOHN (apologies, but my machine saved his Oct 25th&apos;s post without the address
+part) that the 4 general implications of this current debate are &quot;odd things&quot;.</segment>
+    <segment id="41" parent="40" relname="elaboration">
+We don&apos;t necessarily need a dialogue between STSents and scientists to achieve
+meaning, recognition and &quot;bright future&quot; for STS.</segment>
+    <segment id="42" parent="72" relname="span"> I find it naive, too, to gathe
+crumble by crumble &quot;positive&quot; projects to counter the sense of inferiority or,
+at least, to jump out of the critical niche.</segment>
+    <segment id="43" parent="71" relname="span">
+
+       As a matter of fact, it is in FULLER (&quot;Philosophy, Rhetoric and the End o
+Knowledge:... UW Press, Madison, 1993)</segment>
+    <segment id="44" parent="43" relname="elaboration"> where STS is rightly defined as &quot;capable
+[...] of making the academy more permeable to the rest of society&quot;.</segment>
+    <segment id="45" parent="75" relname="span"> The point is
+HOW to do this.</segment>
+    <segment id="46" parent="47" relname="antithesis"> By begrudging academy&apos;s power, by belittling academy&apos;s authority
+by dismissing academy&apos;s epistemology?</segment>
+    <segment id="47" parent="73" relname="span"> Or by acknowledging it as a system for
+acquiring knowledge among many, and analytically representing its features?</segment>
+    <segment id="48" parent="47" relname="elaboration"> I
+assume that STS may well become the so needed anthropology of scientists
+providing the lacking cultural dimension of academic science as just one sociall
+constructed complex of cognition and adaptation.</segment>
+<group id="49" type="span" parent="3" relname="background" />
+<group id="50" type="span" parent="4" relname="concession" />
+<group id="51" type="span" parent="8" relname="condition" />
+<group id="52" type="span" parent="13" relname="antithesis" />
+<group id="53" type="span" parent="78" relname="span" />
+<group id="54" type="span" parent="58" relname="span" />
+<group id="55" type="span" parent="57" relname="span" />
+<group id="56" type="span" parent="55" relname="background" />
+<group id="57" type="span" parent="20" relname="elaboration" />
+<group id="58" type="span" parent="53" relname="elaboration" />
+<group id="59" type="span" parent="54" relname="evaluation" />
+<group id="60" type="span" parent="25" relname="evidence" />
+<group id="61" type="span" parent="27" relname="elaboration" />
+<group id="62" type="span" parent="26" relname="evidence" />
+<group id="63" type="span" parent="67" relname="span" />
+<group id="64" type="span" parent="63" relname="evidence" />
+<group id="65" type="span" parent="30" relname="elaboration" />
+<group id="66" type="span" parent="63" relname="solutionhood" />
+<group id="67" type="span" parent="25" relname="evidence" />
+<group id="68" type="span" parent="74" relname="span" />
+<group id="69" type="span" parent="68" relname="elaboration" />
+<group id="70" type="span" parent="39" relname="elaboration" />
+<group id="71" type="span" parent="42" relname="enablement" />
+<group id="72" type="span" parent="40" relname="elaboration" />
+<group id="73" type="span" parent="45" relname="elaboration" />
+<group id="74" type="span" parent="45" relname="background" />
+<group id="75" type="span" parent="81" relname="list" />
+<group id="76" type="span" parent="77" relname="elaboration" />
+<group id="77" type="span" parent="79" relname="span" />
+<group id="78" type="span" parent="80" relname="span" />
+<group id="79" type="span" parent="78" relname="antithesis" />
+<group id="80" type="span" parent="37" relname="evidence" />
+<group id="81" type="multinuc" parent="83" relname="span" />
+<group id="82" type="span" parent="81" relname="background" />
+<group id="83" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,100 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="30" relname="preparation">Harry Marks has said it well. </segment>
+    <segment id="2" parent="3" relname="concession"> I have been veryglad indeed to
+learn from all the mail about Respect,</segment>
+    <segment id="3" parent="21" relname="span"> but much of it has not
+addressed my continuing concern. </segment>
+    <segment id="4" parent="30" relname="span"> What is the ultimate purpose
+of doing STS and related things? </segment>
+    <segment id="5" parent="6" relname="unless"> Unless we have some notion
+about this,</segment>
+    <segment id="6" parent="31" relname="span"> we can hardly tell whether we are doing our work
+well,</segment>
+    <segment id="7" parent="6" relname="elaboration"> nor can we tell whether there are ways to do it better. </segment>
+    <segment id="8" parent="9" relname="nonvolitional-cause">
+I am sorry now about the title I put on my first message about
+this,</segment>
+    <segment id="9" parent="33" relname="span"> because it seems to have diverted attention to whether
+and how we should seek the approval and cooperation of working
+scientists. </segment>
+    <segment id="10" parent="22" relname="span"> (In passing, I did not mean to suggest that
+&quot;respect&quot; would have to be built on friendly collaboration and
+mutual support;</segment>
+    <segment id="11" parent="10" relname="elaboration"> the hardest taskmaster might elicit respect
+without approval or friendly feelings.)</segment>
+    <segment id="12" parent="13" relname="concession">
+
+I don&apos;t want to get us into an infinite regress,</segment>
+    <segment id="13" parent="27" relname="span"> but a step or
+two in that direction might help.</segment>
+    <segment id="14" parent="25" relname="list">  What are we really trying
+to accomplish in the long run?</segment>
+    <segment id="15" parent="25" relname="list">  What lies behink our concern
+with individual disciplines, or programs, or research
+projects, or scientists, or whatever? </segment>
+    <segment id="16" parent="25" relname="list"> Do we want to make a
+difference in anything that matters? </segment>
+    <segment id="17" parent="25" relname="list"> If so, what and how? </segment>
+    <segment id="23" parent="24" relname="span">
+Steve Fuller has written a bit on this, which I found quite
+informative,</segment>
+    <segment id="18" parent="23" relname="elaboration"> and so have Bernie Lieberman and one or two
+others,</segment>
+    <segment id="19" parent="26" relname="span"> but I don&apos;t feel much closer to a well formulated and 
+broadly accepted answer.</segment>
+    <segment id="20" parent="19" relname="elaboration">  Am I asking for too much?</segment>
+<group id="21" type="span" parent="4" relname="antithesis" />
+<group id="22" type="span" parent="9" relname="antithesis" />
+<group id="24" type="span" parent="29" relname="span" />
+<group id="25" type="multinuc" parent="28" relname="span" />
+<group id="26" type="span" parent="35" relname="span" />
+<group id="27" type="span" parent="25" relname="background" />
+<group id="28" type="span" parent="24" relname="solutionhood" />
+<group id="29" type="span" parent="19" relname="concession" />
+<group id="30" type="span" parent="32" relname="span" />
+<group id="31" type="span" parent="30" relname="elaboration" />
+<group id="32" type="span" parent="34" relname="span" />
+<group id="33" type="span" parent="32" relname="background" />
+<group id="34" type="span" parent="26" relname="background" />
+<group id="35" type="span" />
+  </body>
+</rst>

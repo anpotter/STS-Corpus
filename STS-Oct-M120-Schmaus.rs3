@@ -1,0 +1,79 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="12" relname="background">Ed Morman posted a message to this list recently about a new book by 
+Appleby, Hunt, and Jacob.</segment>
+    <segment id="2" parent="3" relname="concession">  I haven&apos;t read this book yet,</segment>
+    <segment id="3" parent="12" relname="span"> but I have 
+corresponded with one of the authors who feels her work has been
+mis-used by the Strong Programme.</segment>
+    <segment id="4" parent="16" relname="span">
+
+The Strong Programme strikes me as an excellent example of history taking
+science as a model. </segment>
+    <segment id="5" parent="15" relname="span"> In their early days, they made brave claims about 
+being inductive. </segment>
+    <segment id="6" parent="5" relname="elaboration"> They cited long lists of scholarly works that they
+purported to be the foundation of their interest model.</segment>
+    <segment id="7" parent="14" relname="sequence">  Now the
+authors of some of these studies are turning against them. </segment>
+    <segment id="8" parent="9" relname="concession"> 
+
+The Strong Programme may be out of fashion in science studies today,</segment>
+    <segment id="9" parent="17" relname="span"> but
+I still hear echoes of their claims about a growing body of literature
+that is supposed to establish something or other. </segment>
+    <segment id="10" parent="19" relname="span"> 
+
+I propose a topic for debate: </segment>
+    <segment id="11" parent="20" relname="span"> is it better to be able cite a long biblio-
+graphy that reflects a broad reading on the part of the author, or to be 
+able to critically examine a few articles or books in great depth?</segment>
+<group id="12" type="span" parent="13" relname="span" />
+<group id="13" type="span" parent="4" relname="background" />
+<group id="14" type="multinuc" parent="4" relname="evidence" />
+<group id="15" type="span" parent="14" relname="sequence" />
+<group id="16" type="span" parent="18" relname="span" />
+<group id="17" type="span" parent="16" relname="elaboration" />
+<group id="18" type="span" parent="10" relname="motivation" />
+<group id="19" type="span" parent="11" relname="background" />
+<group id="20" type="span" />
+  </body>
+</rst>

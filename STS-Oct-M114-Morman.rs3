@@ -1,0 +1,73 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="background">This book just appeared on my desk.</segment>
+    <segment id="2" parent="8" relname="span">  By Joyce Appleby (UCLA), Lynn Hunt
+(Pennsyvania), and Margaret Jacob (The New School), _Telling the Truth
+about History_ at first glance looks to be analogous to Gross and Levitt&apos;s
+_Higher Superstition_. </segment>
+    <segment id="3" parent="2" relname="elaboration"> Three historians (like Gross and Levitt, two
+scientists) complain about how history (rather than science) is misused
+and misunderstood.</segment>
+    <segment id="4" parent="2" relname="elaboration"> The villains (and this I get from the blurbs on the
+book jackets) are (1) unscrupulous popularizers (Oliver Stone by
+implication), (2) &quot;critics who dissolve the author herself into one among
+many sources of meaning, reducing historical knowledge to a series of
+texts engaged with each other, not with the past,&quot; and (3) &quot;powerful
+constituencies [that] call for histories that affirm more than inform.&quot; </segment>
+    <segment id="5" parent="2" relname="elaboration">
+
+The key difference is that this critique of post-structuralist 
+methodologies and abuses of the multiculturalist program seems not to 
+descend into name calling and attacks on an &quot;academic left&quot; that really 
+doesn&apos;t seem to exist (at least as Gross and Levitt portray it).</segment>
+    <segment id="6" parent="9" relname="span">
+
+I hope others on this list take a look at this book, and have 
+something to say about it on this list. </segment>
+    <segment id="7" parent="6" relname="elaboration"> Look especially at
+its discussion of how the establishment of science as a model for 
+gaining objective truth influenced the development of the historical 
+enterprise beginning in the eighteenth century.</segment>
+<group id="8" type="span" parent="6" relname="motivation" />
+<group id="9" type="span" />
+  </body>
+</rst>

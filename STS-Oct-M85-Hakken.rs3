@@ -1,0 +1,93 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="19" relname="span">Steve Fuller does a good job arguing for keeping a critical edge in
+technoscience studies.</segment>
+    <segment id="2" parent="16" relname="span">  He also points out some of the difficulties in
+participating in a national dialogue over science in the US</segment>
+    <segment id="3" parent="17" relname="span">--e.g., there
+isn&apos;t anything like a central place in which this takes place. </segment>
+    <segment id="4" parent="3" relname="concession"> (Of
+course, the fact that there are more central places in The Netherlands and
+in Denmark is a consequence of deliberate agitation for such places, as
+well, of course as scale.) </segment>
+    <segment id="5" parent="6" relname="concession"> While I agree on the importance of science
+education as a locus for the reconstruction of technoscience,</segment>
+    <segment id="6" parent="18" relname="span"> an
+educational strategy which is too isolated is both doomed to fail and fits
+into an all too typical American pattern</segment>
+    <segment id="7" parent="6" relname="elaboration"> (e.g., substituting equal
+educational opportunity for equal opportunity).</segment>
+    <segment id="8" parent="25" relname="span">
+
+Fuller&apos;s comments about the write-in candidates for the Physical Society
+opens up an avenue that I think we need to explore more fully,</segment>
+    <segment id="9" parent="21" relname="span"> the notion
+of constructing a dialogue with technoscience practitioners who share
+important elements of the STS perspective and are active in their own
+fields. </segment>
+    <segment id="10" parent="22" relname="list"> How can we help these individuals move beyond being what Hilary
+Rose has called &quot;shit shovelers&quot; (exposing &quot;bad practice&quot; in their fields)
+toward a more general discussion of the way forward?</segment>
+    <segment id="11" parent="22" relname="list">  Where can we meet
+them? </segment>
+    <segment id="12" parent="22" relname="list"> How can we get more of them to participate in our meetings, and us in
+theirs? </segment>
+    <segment id="13" parent="23" relname="span"> In my work in computing, the process of &quot;finding allies from the
+side of the practitioners&quot; is slow but progressing. </segment>
+    <segment id="14" parent="24" relname="span"> Can we move this
+outside of particular fields into a more general discourse? </segment>
+    <segment id="15" parent="9" relname="means"> The history
+of radical science movements, both that of the thirties (Bernal et. al.) and
+that of the sixties (e.g. science for people and science for the people)
+may have much to tell us on these questions.</segment>
+<group id="16" type="span" parent="1" relname="elaboration" />
+<group id="17" type="span" parent="2" relname="elaboration" />
+<group id="18" type="span" parent="20" relname="span" />
+<group id="19" type="span" parent="18" relname="antithesis" />
+<group id="20" type="span" parent="26" relname="joint" />
+<group id="21" type="span" parent="8" relname="evidence" />
+<group id="22" type="multinuc" parent="13" relname="solutionhood" />
+<group id="23" type="span" parent="14" relname="solutionhood" />
+<group id="24" type="span" parent="9" relname="means" />
+<group id="25" type="span" parent="26" relname="joint" />
+<group id="26" type="multinuc" />
+  </body>
+</rst>

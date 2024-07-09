@@ -1,0 +1,108 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="background">
+
+Here&apos;s something that, if true, would offer an answer to the question
+BAILAR has been posing, concerning the point of STS.</segment>
+    <segment id="2" parent="26" relname="span"> If someone can
+actually confirm what SCHMAUS is saying below,</segment>
+    <segment id="3" parent="19" relname="span"> then that would indeed be
+an example of the kind of thing I&apos;m endorsing as good STS practice. </segment>
+    <segment id="4" parent="20" relname="span">
+
+However, until shown otherwise, I remain skeptical of the existence of a
+Kantian philosophical lobby that goes around hounding the American Medical
+Association.</segment>
+    <segment id="5" parent="24" relname="span">  What strikes me as more likely is that there were already
+some social movements interested in promoting the autonomy of patients </segment>
+    <segment id="6" parent="5" relname="elaboration">
+and the Kantian rhetoric had an edifying quality that was likely to prove 
+persuasive in public settings.</segment>
+    <segment id="7" parent="21" relname="span"> The use of philosophy as a resource for 
+legitimating social projects is not new,</segment>
+    <segment id="8" parent="7" relname="elaboration"> and it&apos;s not even bad.</segment>
+    <segment id="9" parent="22" relname="span"> But it&apos;s not 
+quite the same as the philosopher herself being &apos;proactive&apos;.</segment>
+    <segment id="10" parent="9" relname="concession"> But I&apos;m 
+prepared to be proven wrong on this point. </segment>
+    <segment id="11" parent="12" relname="preparation">
+
+On Thu, 27 Oct 1994 STXSCHMAUS@minna.acc.iit.edu wrote</segment>
+    <segment id="12" parent="27" relname="span">
+
+For example, I may be wrong about this, but it was not doctors
+&amp;gt; who came to philosophers asking them how they could act less paternalistic-
+&amp;gt; ally.  I think it was philosophers who were bringing traditional, perhaps
+&amp;gt; Kantian, concerns about the moral autonomy of human  beings to bear on 
+&amp;gt; a &quot;practical&quot; question.</segment>
+    <segment id="13" parent="31" relname="span">
+
+Finally, I am genuinely baffled by the following remark, </segment>
+    <segment id="14" parent="29" relname="span">since for -- 
+better or worse</segment>
+    <segment id="15" parent="14" relname="concession"> (and it may be the latter) --</segment>
+    <segment id="16" parent="30" relname="span"> I make a point of 
+practicing what I preach.</segment>
+    <segment id="17" parent="32" relname="span"> What it may mean is that I have a bad theory of 
+rhetoric!</segment>
+    <segment id="18" parent="17" relname="background">
+
+&amp;gt; 
+&amp;gt; In your book, Steve, you argue theoretically against giving rhetoric a
+&amp;gt; bad name.  But you continue to use it on the list in a way that 
+&amp;gt; contributes to its bad reputation!
+&amp;gt;</segment>
+<group id="19" type="span" parent="4" relname="antithesis" />
+<group id="21" type="span" parent="9" relname="concession" />
+<group id="22" type="span" parent="24" relname="background" />
+<group id="20" type="span" parent="5" relname="antithesis" />
+<group id="24" type="span" parent="25" relname="span" />
+<group id="25" type="span" parent="28" relname="span" />
+<group id="26" type="span" parent="3" relname="condition" />
+<group id="27" type="span" parent="25" relname="background" />
+<group id="28" type="span" parent="33" relname="joint" />
+<group id="29" type="span" parent="16" relname="concession" />
+<group id="30" type="span" parent="13" relname="nonvolitional-cause" />
+<group id="31" type="span" parent="17" relname="solutionhood" />
+<group id="32" type="span" parent="33" relname="joint" />
+<group id="33" type="multinuc" />
+  </body>
+</rst>

@@ -1,0 +1,183 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="solutionhood">A journalist once asked Ernest Hemingway why he had rewritten the last
+page of _Farewell to Arms_ forty-seven times.</segment>
+    <segment id="2" parent="40" relname="span">  Hemingway replied, &quot;To get
+it right.&quot; </segment>
+    <segment id="3" parent="41" relname="span"> In that spirit, I&apos;m happy to make another attempt to establish
+a clear signal between here and Durham.</segment>
+    <segment id="4" parent="3" relname="elaboration">  Besides, it appears that I have
+been hailed.</segment>
+    <segment id="5" parent="41" relname="background">  [Warning: this is a long one....]</segment>
+    <segment id="6" parent="7" relname="preparation">
+
+On Thu, 27 Oct 1994, Steve Fuller wrote:</segment>
+    <segment id="7" parent="42" relname="span">
+
+&amp;gt; I want to explain why I had misgivings about what [Traweek] and some of the
+&amp;gt; anthropologists (I include here HEATH, STOCKDALE, EGLASH) were saying
+&amp;gt; about the STS-scientist interaction. 
+&amp;gt; It seemed to me that the tenor of your (plural) remarks was that the
+&amp;gt; entire question was being framed wrong, and that once we look at things
+&amp;gt; somewhat differently, the question will dissolve: i.e., in some sense
+&amp;gt; there is NO problem with STS-scientist interaction. Given the sorts of
+&amp;gt; things that both STSers and scientists have been writing lately about
+&amp;gt; their interactions, I found the claim surprising and wanted to find out
+&amp;gt; more.</segment>
+    <segment id="8" parent="57" relname="span"> 
+
+&amp;gt;From the ethnographic perspective, the question about _whether_ to engage
+in interactions with scientists, et al., &quot;dissolves&quot; to this extent:</segment>
+    <segment id="9" parent="44" relname="span"> for 
+us, [long-term, on-site] interaction is the sine qua non of our 
+methodology.</segment>
+    <segment id="10" parent="11" relname="solutionhood">  Does this mean that interactions are never problematic? </segment>
+    <segment id="11" parent="43" relname="span">
+Certainly not,</segment>
+    <segment id="12" parent="11" relname="concession"> though as resident aliens in labs and clinics, we may 
+choose to negotiate culture clash differently than short term visitors.</segment>
+    <segment id="13" parent="50" relname="solutionhood">
+
+
+&amp;gt; I was then puzzled by some of the things I read: For example, HEATH said
+&amp;gt; that scientists were &apos;sources&apos;, no mere objects of critique of both the
+&amp;gt; STSers&apos; and the scientists&apos; practices. I wondered what this meant in
+&amp;gt; practice</segment>
+    <segment id="14" parent="45" relname="list">
+
+I could mention, for ex., a biochemist who cites Marx in critiquing
+scientific citation practices that deny technicians credit for their work. </segment>
+    <segment id="15" parent="45" relname="list">
+Or, perhaps, in response to Ron Eglash&apos;s account of the physicist who was
+annoyed by Donna Haraway&apos;s pep talk to ecofeminists, I could put him in
+touch with any number of women scientists and technicians whose accounts
+of &quot;science-as-male-domination&quot; are based on their lived experience (and
+often on their readings of works in feminist science studies);</segment>
+    <segment id="16" parent="47" relname="span"> these
+accounts are part of the &quot;native&quot; cultural terrain. </segment>
+    <segment id="17" parent="16" relname="elaboration"> As Bakhtin reminds
+us, all signifying practice contains both &quot;centripetal&quot; and &quot;centrifugal&quot;
+[dominant and oppositional] discourses. </segment>
+    <segment id="18" parent="19" relname="preparation"> The point is this: </segment>
+    <segment id="19" parent="48" relname="span"> 1)&quot;Science&quot;
+is heterogeneous. </segment>
+    <segment id="20" parent="46" relname="list"> 1(a) Given the permeable boundaries of science, both 
+STSers and technoscientists draw on the same field of cultural-critical 
+resources more often than one might expect.</segment>
+    <segment id="21" parent="46" relname="list">  1(b) This suggests 
+possibilities for those who maintain that the most productive forms 
+of &quot;critical engagement&quot; proceed from alliance building.</segment>
+    <segment id="22" parent="23" relname="preparation">
+
+&amp;gt;  it MAY mean that both STSers and scientists benefit from
+&amp;gt; the interaction, but for different reasons -- much like exchange relations
+&amp;gt; in capitalism, in which each trader has something that the other wants.
+&amp;gt; There is constructive interaction, in a sense, but no one comes away
+&amp;gt; fundamentally changed. In fact, the traders are reinforced in their 
+&amp;gt; positions.</segment>
+    <segment id="23" parent="26" relname="span">
+
+Instrumentalist exchange theory may certainly account for some encounters 
+between STSers and technoscientists. </segment>
+    <segment id="24" parent="27" relname="span"> There are also other models or 
+metaphors-- actant networks? interethnic marriage? cyborgian unions?-- that 
+admit the possibility [and even the desirability] that both parties to 
+these encounters [esp. the long-term variety] end up seeing the world[s] 
+differently, or at least understanding one another&apos;s worldviews as more 
+complex, less caricatural.</segment>
+    <segment id="28" parent="25" relname="antithesis">
+
+
+&amp;gt; [T]he interests of
+&amp;gt; the scientist and the STSer never really intersect at a point of critical
+&amp;gt; engagement, where both sides are forced to recognize incompatibilities    
+&amp;gt; between the scientist&apos;s project and the STSer&apos;s project....
+&amp;gt; Is there NO place for critical engagement in this picture, or 
+&amp;gt; am I just not looking at things the right way?</segment>
+    <segment id="25" parent="54" relname="span">
+
+Well, Steve, from my perspective, you&apos;re just not looking at things the
+right way.</segment>
+    <segment id="29" parent="25" relname="evidence">  There is no monolithic &quot;scientist&apos;s project,&quot;</segment>
+    <segment id="30" parent="25" relname="evidence"> and the exchanges
+on this list certainly put to rest any illusions that there is a unified
+TOE in STS! </segment>
+    <segment id="31" parent="53" relname="span"> I see my work on the cultural practices of genetics and the
+life sciences as being all about critical engagement-- based on modest
+interventions meant to *enhance* intersections among various
+constituencies:</segment>
+    <segment id="32" parent="52" relname="list"> biologists,</segment>
+    <segment id="33" parent="52" relname="list"> clinicians,</segment>
+    <segment id="34" parent="52" relname="list"> patient advocates,</segment>
+    <segment id="35" parent="52" relname="list"> informaticians,</segment>
+    <segment id="36" parent="52" relname="list">
+venture capitalists... </segment>
+    <segment id="37" parent="38" relname="span"> Both the disjunctures and the partial connections
+among them/us are resources in a long-term, high stakes conversation that
+is framing new forms of &quot;biosociality&quot; [Rabinow].</segment>
+    <segment id="39" parent="37" relname="elaboration">  It seems to me that 
+the work that needs to be done is much too important to rely (pace 
+Lakoff) on the model/metaphor &quot;Argument as war.&quot;</segment>
+<group id="40" type="span" parent="3" relname="background" />
+<group id="41" type="span" parent="58" relname="span" />
+<group id="42" type="span" parent="8" relname="antithesis" />
+<group id="43" type="span" parent="9" relname="elaboration" />
+<group id="44" type="span" parent="8" relname="elaboration" />
+<group id="45" type="multinuc" parent="49" relname="span" />
+<group id="46" type="multinuc" parent="19" relname="elaboration" />
+<group id="47" type="span" parent="45" relname="summary" />
+<group id="48" type="span" parent="50" relname="span" />
+<group id="49" type="span" parent="48" relname="background" />
+<group id="50" type="span" parent="51" relname="span" />
+<group id="51" type="span" parent="56" relname="list" />
+<group id="27" type="span" parent="56" relname="list" />
+<group id="26" type="span" parent="24" relname="concession" />
+<group id="52" type="multinuc" parent="31" relname="elaboration" />
+<group id="53" type="span" parent="25" relname="evidence" />
+<group id="54" type="span" parent="55" relname="span" />
+<group id="38" type="span" parent="54" relname="summary" />
+<group id="55" type="span" parent="56" relname="list" />
+<group id="56" type="multinuc" parent="59" relname="span" />
+<group id="57" type="span" parent="56" relname="list" />
+<group id="58" type="span" parent="56" relname="background" />
+<group id="59" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,90 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="9" relname="attribution">On Thu, 27 Oct 1994 ggale@VAX1.UMKC.EDU wrote:</segment>
+    <segment id="9" parent="12" relname="span">
+&quot;Sorry, S. Traweek!&quot;</segment>
+    <segment id="11" parent="9" relname="background"> [see excerpt below]</segment>
+    <segment id="10" parent="16" relname="span">
+
+I do not understand this last sentence of the first entry in Gale&apos;s goals 
+list;</segment>
+    <segment id="2" parent="13" relname="span"> why in the world would I have an investment, one way or the other,
+in what he persuaded a theorist to do? </segment>
+    <segment id="3" parent="14" relname="span"> That Gale and his colleague were 
+discussing their research decisions and goals with each other is 
+precisely what I was suggesting in my posting that we discuss more.</segment>
+    <segment id="4" parent="15" relname="span">  To 
+that end, I would be extremely interested, as I&apos;m sure many of our 
+colleagues would, in an  account, written by both Gale and his colleague, 
+as to how that discussion proceeded. </segment>
+    <segment id="5" parent="4" relname="background"> Gale&apos;s other two goals [intellectual 
+curiousity and commitment to curricular improvement/teacher education] 
+seem to me widespread among our colleagues and highly commendable. </segment>
+    <segment id="6" parent="7" relname="antithesis"> 
+Again, the tone of the full posting suggests that Gale expected 
+disagreement, particularly from me;</segment>
+    <segment id="7" parent="17" relname="span"> actually, I agree that serious 
+discussion about research with our colleagues, intellectual curiousity, 
+and commitment to teaching are important, and, again, I think those 
+goals are widespread among us.</segment>
+    <segment id="8" parent="18" relname="attribution">
+
+On Thu, 27 Oct 1994 ggale@VAX1.UMKC.EDU wrote:
+&amp;gt; My goals are at least three in nature.
+&amp;gt; 1. To accomplish something substantive in theoretical physics. I&apos;ve been
+&amp;gt; partnered with a theoretical physicist since &apos;73, and we&apos;ve done some neat
+&amp;gt; things together that we couldn&apos;t have done apart. [My greatest
+&amp;gt; accomplishment in our personal friendship was to finally convince him that
+&amp;gt; particles were a waste of his talent, and that general relativity was
+&amp;gt; &apos;where it was at&apos;! Sorry, S. Traweek!]
+&amp;gt; 
+&amp;gt;</segment>
+<group id="12" type="span" parent="10" relname="antithesis" />
+<group id="13" type="span" parent="10" relname="elaboration" />
+<group id="14" type="span" parent="2" relname="evidence" />
+<group id="15" type="span" parent="3" relname="elaboration" />
+<group id="16" type="span" parent="18" relname="span" />
+<group id="17" type="span" parent="16" relname="summary" />
+<group id="18" type="span" parent="19" relname="span" />
+<group id="19" type="span" />
+  </body>
+</rst>

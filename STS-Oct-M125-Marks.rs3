@@ -1,0 +1,164 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">
+
+On Sun, 30 Oct 1994, Steve Fuller wrote:</segment>
+    <segment id="2" parent="4" relname="span">
+
+&amp;gt; 
+&amp;gt; 
+&amp;gt; Response to MORMAN and FROST:
+&amp;gt; 
+&amp;gt; I agree that _Telling the Truth..._ is a good ideological resource for STS
+&amp;gt; fending off the attacks of scientists, since it shows how many of the
+&amp;gt; constructivist critiques of science (and its history) make sense, even
+&amp;gt; within an Enlightenment framework of &apos;the truth will set you free.&apos;
+&amp;gt; 
+&amp;gt; However, matters aren&apos;t so cut-and-dry because Appleby, Hunt &amp; Jacob (AHJ)
+&amp;gt; don&apos;t see themselves as mere ideological resources. They actually believe
+&amp;gt; in the Enlightenment project, and, between the lines, you can see that
+&amp;gt; they&apos;re none too pleased about the cultural consequences of an unrepentant
+&amp;gt; relativism. [...] By the
+&amp;gt; end of the book, it becomes clear that they see this devaluation of the
+&amp;gt; consequences of inquiry to be just as bad as placing political
+&amp;gt; restrictions on inquiry. 
+&amp;gt; 
+&amp;gt; 
+&amp;gt; My guess is that FROST&apos;s synthesis of AHJ and the radical core of science 
+&amp;gt; studies is not going to be very easy because it would first require that 
+&amp;gt; the people on &apos;our&apos; side take more seriously the political consequences of 
+&amp;gt; their epistemological commitments. 
+&amp;gt; 
+&amp;gt; </segment>
+    <segment id="3" parent="37" relname="span">
+        There&apos;s either a very lot or not so much packed into Steve 
+Fuller&apos;s remarks about Appleby, Jacob and Hunt&apos;s stance towards the 
+&quot;Enlightenment project.&quot; </segment>
+    <segment id="5" parent="36" relname="span"> Exactly which parts of the Enlightenment 
+project does Fuller recommend we jettison and why? </segment>
+    <segment id="6" parent="5" relname="elaboration"> What do we put into 
+its place? </segment>
+    <segment id="7" parent="50" relname="span"> What would a positive vision of political society without the 
+Englightenment project look like? </segment>
+    <segment id="8" parent="39" relname="span"> 
+        For the moment, let&apos;s assume we are all [most of us are] 
+methodological relativists.</segment>
+    <segment id="9" parent="38" relname="span">  That is, in explaining what happens in 
+science, we assume that reference to the truth conditions of particular 
+claims is not very useful to understanding what happened,</segment>
+    <segment id="11" parent="9" relname="elaboration"> especially when 
+we use the truth conditions supplied by contemporary science.</segment>
+    <segment id="10" parent="40" relname="span">  As an 
+historian, I do this</segment>
+    <segment id="13" parent="10" relname="nonvolitional-cause"> because it&apos;s the only practical way to write history 
+without assuming that 2/3rs of past inhabitants were benighted idiots 
+whose ideas about the world can only be explained by delusion, coercion, 
+etc.  </segment>
+    <segment id="12" parent="44" relname="span">
+        One might, however, be more than a methodological relativist:</segment>
+    <segment id="14" parent="41" relname="sequence"> one 
+might be a thoroughgoing relativist and believe in the impossibility of 
+truth and/or of deciding things without reference to truth claims.</segment>
+    <segment id="15" parent="41" relname="sequence">  One 
+might take this even further and say that all claims to truth and those 
+who make them are coercive and authoritarian,</segment>
+    <segment id="16" parent="41" relname="sequence"> and one might go even 
+further and say that the procedures by which truth claims are 
+socially/culturally enshired are in themselves coercive and oppressive.</segment>
+    <segment id="17" parent="45" relname="span">
+Each of these moves gets one closer and closer toward a rejection of the 
+Englihtenment project, </segment>
+    <segment id="18" parent="17" relname="elaboration">but it seems to me that the last, which I take to 
+be more or less Neiztsche&apos;s position, is the one with the greatest 
+political weight, in that if you believe this, you are committed to some 
+kind of systematic war on all forms of intellectual authority, on any 
+uses of intellectual authority in political debate, etc. </segment>
+    <segment id="19" parent="20" relname="concession"> 
+        Now I&apos;ve probably missed a few analytical steps along the way, 
+which is why I washed out in philosophy, </segment>
+    <segment id="20" parent="42" relname="span">but if you&apos;ll cut me a little 
+slack, Steve,</segment>
+    <segment id="21" parent="43" relname="span"> could you explain to me where you think we should be/are 
+with relation to the Englightenment project,</segment>
+    <segment id="22" parent="34" relname="span"> and if we are/should be 
+somewhere around where Neitzsche left us</segment>
+    <segment id="24" parent="22" relname="background"> [and I honestly don&apos;t see that 
+the post-modernist/deconstructionist footnote to Nietzsche has moved us 
+much beyond this, thought the feminist project has covered new ground], </segment>
+    <segment id="23" parent="32" relname="list">
+on what basis is political community/authority constructed?</segment>
+    <segment id="25" parent="32" relname="list">  Do we want 
+to jettison constitutional government?</segment>
+    <segment id="26" parent="32" relname="list"> freedom of information?</segment>
+    <segment id="27" parent="32" relname="list"> etc.</segment>
+    <segment id="28" parent="33" relname="antithesis"> This 
+is not some wild Bloomian leap into cultural paranoia, but a naive, 
+sincere question:</segment>
+    <segment id="29" parent="30" relname="condition"> if we beieve knowledge claims and procedures and their 
+uses are inherently, not incidentally, coercive,</segment>
+    <segment id="30" parent="33" relname="span"> on what basis would we 
+desire/defend the kinds of institutions which make lives like ours 
+possible? </segment>
+    <segment id="31" parent="47" relname="elaboration"> Is this what you meant by taking the political consequences of 
+our epistemological position seriously?</segment>
+<group id="4" type="span" parent="3" relname="antithesis" />
+<group id="32" type="multinuc" parent="34" relname="nonvolitional-result" />
+<group id="33" type="span" parent="47" relname="span" />
+<group id="34" type="span" parent="35" relname="span" />
+<group id="35" type="span" parent="21" relname="elaboration" />
+<group id="36" type="span" parent="3" relname="elaboration" />
+<group id="37" type="span" />
+<group id="38" type="span" parent="46" relname="span" />
+<group id="39" type="span" parent="12" relname="background" />
+<group id="40" type="span" parent="38" relname="background" />
+<group id="41" type="multinuc" parent="12" relname="elaboration" />
+<group id="42" type="span" parent="21" relname="condition" />
+<group id="43" type="span" parent="49" relname="span" />
+<group id="44" type="span" parent="17" relname="nonvolitional-cause" />
+<group id="46" type="span" parent="8" relname="elaboration" />
+<group id="45" type="span" parent="43" relname="background" />
+<group id="47" type="span" parent="48" relname="span" />
+<group id="48" type="span" parent="43" relname="elaboration" />
+<group id="49" type="span" parent="7" relname="elaboration" />
+<group id="50" type="span" parent="3" relname="elaboration" />
+  </body>
+</rst>

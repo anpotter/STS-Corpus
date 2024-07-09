@@ -1,0 +1,94 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="30" relname="solutionhood">John BAILAR asks &quot;What are we really trying to accomplish in the long run?&quot;</segment>
+    <segment id="4" parent="17" relname="span">
+Let me tell you about my goal in one particular STS project</segment>
+    <segment id="3" parent="4" relname="background"> (in collaboration
+with Mary Cawte).</segment>
+    <segment id="2" parent="18" relname="span"> Of course other people will have different goals,</segment>
+    <segment id="5" parent="2" relname="elaboration"> as I do
+myself in other projects.</segment>
+    <segment id="6" parent="25" relname="span">
+
+The ultimate goal is a world without war, in which conflicts are waged using
+only nonviolent methods.</segment>
+    <segment id="7" parent="20" relname="span"> A step towards this is to help promote the use of
+nonviolent methods of struggle,</segment>
+    <segment id="8" parent="23" relname="span"> such as strikes, boycotts and noncooperation,
+as an alternative to military defence.</segment>
+    <segment id="9" parent="22" relname="span"> There is a considerable historical
+experience and literature on this alternative,</segment>
+    <segment id="21" parent="9" relname="concession"> though it is not widely known.</segment>
+    <segment id="10" parent="11" relname="antithesis">
+
+Currently a large portion of R&amp;D is directly or indirectly related to
+military goals.</segment>
+    <segment id="11" parent="24" relname="span"> Our project is to see how science and technology can be used
+instead to make nonviolent struggle more effective.</segment>
+    <segment id="12" parent="11" relname="elaboration"> We have searched many
+literatures, interviewed scientists and engineers, given talks, and published
+queries and accounts in magazines and electronic lists to stimulate
+responses.</segment>
+    <segment id="13" parent="26" relname="summary"> The project itself is part of the process of creating awareness of
+nonviolent alternatives to military systems.</segment>
+    <segment id="14" parent="15" relname="concession">
+
+One doesn&apos;t have to be an STS specialist to carry out this research,</segment>
+    <segment id="15" parent="28" relname="span"> but it&apos;s
+as good a location as any.</segment>
+    <segment id="16" parent="29" relname="span"> For those who are interested in our topic,</segment>
+    <segment id="27" parent="16" relname="enablement"> I would
+be happy to provide copies of articles.</segment>
+<group id="17" type="span" parent="19" relname="span" />
+<group id="18" type="span" parent="17" relname="concession" />
+<group id="19" type="span" parent="26" relname="background" />
+<group id="20" type="span" parent="6" relname="elaboration" />
+<group id="22" type="span" parent="8" relname="background" />
+<group id="23" type="span" parent="7" relname="elaboration" />
+<group id="24" type="span" parent="25" relname="elaboration" />
+<group id="25" type="span" parent="26" relname="span" />
+<group id="26" type="span" parent="30" relname="span" />
+<group id="28" type="span" parent="16" relname="motivation" />
+<group id="29" type="span" />
+<group id="30" type="span" parent="31" relname="span" />
+<group id="31" type="span" parent="16" relname="motivation" />
+  </body>
+</rst>

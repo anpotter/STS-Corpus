@@ -1,0 +1,85 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="background">
+I
+d like to add my voice to those of Sharon Traweek, Deborah
+Heath and others who have been disturbed by the recent 
+discussion on this list about the relation between science studies 
+and science. </segment>
+    <segment id="2" parent="13" relname="span">
+
+The potential contribution of science studies lies in disrupting the 
+simple categories and crude narratives we typically use to discuss 
+science.</segment>
+    <segment id="3" parent="2" relname="elaboration"> Science consists of a rich tapestry of localized practices 
+and discourses that is difficult or impossible to reduce.</segment>
+    <segment id="4" parent="17" relname="span"> Our goal 
+should be to restore a sense of this richness and diversity to our 
+conversations and our conversations with others by involving 
+ourselves in the web of relationships and practices that scientists 
+are engaged in.</segment>
+    <segment id="5" parent="11" relname="span"> The current polarized debate appears to be a 
+retreat from this position.</segment>
+    <segment id="6" parent="10" relname="span"> It has shifted back into an abstract 
+discussion that is made possible by disengaging from the practice 
+of science,</segment>
+    <segment id="7" parent="6" relname="concession"> although, ironically, the debate in part claims to be 
+about having a practical effect. </segment>
+    <segment id="8" parent="9" relname="attribution">
+
+Let me just quote Mike Lynch
+s therapy: </segment>
+    <segment id="9" parent="15" relname="span"> &quot;Stop talking about 
+science! Go to a laboratory - any laboratory will do - hang around 
+for a while, listen to conversations, watch the technicians work, 
+ask them to explain what they do, read their notes, observe what 
+they say when they examine data, and watch how they move 
+equipment around!&quot; (from Scientific Practice and Ordinary 
+Action).</segment>
+<group id="15" type="span" parent="11" relname="summary" />
+<group id="10" type="span" parent="5" relname="elaboration" />
+<group id="13" type="span" parent="4" relname="background" />
+<group id="11" type="span" parent="12" relname="span" />
+<group id="17" type="span" parent="5" relname="concession" />
+<group id="12" type="span" />
+  </body>
+</rst>

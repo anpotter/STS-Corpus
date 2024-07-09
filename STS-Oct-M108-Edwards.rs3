@@ -1,0 +1,130 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="circumstance">
+When I was teaching at Cornell,</segment>
+    <segment id="2" parent="31" relname="span"> I once drove from Ithaca to Boston with an
+undergraduate engineering student.</segment>
+    <segment id="3" parent="27" relname="span"> He told me that in a required
+introductory course, his entire class had been assigned to build a device
+for assisting handicapped people to get into and out of cars.</segment>
+    <segment id="4" parent="3" relname="elaboration"> The only
+constraints were that the device be simple, fairly inexpensive to
+construct, and entirely mechanical in nature (i.e., no electric
+components).</segment>
+    <segment id="5" parent="27" relname="evaluation">
+
+I found this an ingenious and intriguing assignment, and said so.</segment>
+    <segment id="6" parent="30" relname="span"> He then
+told me that he and everyone he knew hated it.</segment>
+    <segment id="7" parent="29" relname="sequence"> They wanted to build cool
+machines with lots of motors and computer controllers,</segment>
+    <segment id="8" parent="29" relname="sequence"> and as long as they
+could work with what they thought of as cutting-edge components,</segment>
+    <segment id="9" parent="29" relname="sequence"> they
+didn&apos;t care much about the thing&apos;s purpose.</segment>
+    <segment id="10" parent="29" relname="sequence"> In fact, they&apos;d prefer to think
+up purposes themselves.</segment>
+    <segment id="11" parent="45" relname="span">
+
+This parable points me (at least) toward two of the goals of STS in
+education.</segment>
+    <segment id="12" parent="33" relname="list"> First is helping people who&apos;ve come under the seductive power of
+techno-wizardry to see, comprehend, and care about what sorts of problems
+really need to be solved.</segment>
+    <segment id="13" parent="43" relname="span"> Second is teaching how people actually interact
+with and use designed products, which involves teaching certain social
+values, such as the appropriate-technology goal of making devices as
+simple, cheap, energy-efficient, and user-transparent as practically
+possible.</segment>
+    <segment id="14" parent="15" relname="concession"> The engineering professor who made up that assignment may have
+had the same goal,</segment>
+    <segment id="15" parent="34" relname="span"> but it certainly isn&apos;t common.  </segment>
+    <segment id="16" parent="17" relname="concession">
+
+In a way this is simply a plea for a broad, balanced approach to
+techno-science education.</segment>
+    <segment id="17" parent="41" relname="span"> In another way, it&apos;s more profound than that.</segment>
+    <segment id="18" parent="36" relname="span"> My
+Silicon Valley-based engineering students assume that the problems they&apos;ll
+work to solve will be posed for them by the marketplace,</segment>
+    <segment id="19" parent="18" relname="means"> via the companies
+they work for.</segment>
+    <segment id="20" parent="35" relname="sequence"> They want to invent cool stuff</segment>
+    <segment id="21" parent="35" relname="sequence"> and then see if they can sell
+it.</segment>
+    <segment id="22" parent="38" relname="span"> The idea of interacting with potential users, especially in any kind of
+thorough or systematic way, doesn&apos;t get much press in their world since
+it&apos;s assumed to be perfectly mediated by the market. </segment>
+    <segment id="23" parent="39" relname="span">
+
+In the Computer Science Dept. here, Terry Winograd has started a program in
+Human-Computer Interaction.</segment>
+    <segment id="24" parent="23" relname="elaboration"> Its focus is on developing and teaching methods
+of software design which include potential users in the design process from
+the beginning.</segment>
+    <segment id="25" parent="26" relname="concession">  This is one big step toward a more complete approach to
+engineering,</segment>
+    <segment id="26" parent="40" relname="span"> but the other -- which really requires STS types -- lies in
+helping engineers understand themselves as _social_ engineers and seeing
+how important that is.</segment>
+<group id="27" type="span" parent="28" relname="span" />
+<group id="28" type="span" parent="6" relname="antithesis" />
+<group id="29" type="multinuc" parent="6" relname="nonvolitional-cause" />
+<group id="30" type="span" parent="32" relname="span" />
+<group id="31" type="span" parent="30" relname="background" />
+<group id="32" type="span" parent="11" relname="evidence" />
+<group id="33" type="multinuc" parent="46" relname="span" />
+<group id="34" type="span" parent="13" relname="elaboration" />
+<group id="35" type="multinuc" parent="36" relname="elaboration" />
+<group id="36" type="span" parent="37" relname="span" />
+<group id="37" type="span" parent="22" relname="antithesis" />
+<group id="38" type="span" parent="17" relname="elaboration" />
+<group id="39" type="span" parent="42" relname="span" />
+<group id="40" type="span" parent="39" relname="evaluation" />
+<group id="41" type="span" parent="43" relname="elaboration" />
+<group id="42" type="span" parent="46" relname="elaboration" />
+<group id="43" type="span" parent="44" relname="span" />
+<group id="44" type="span" parent="33" relname="list" />
+<group id="45" type="span" parent="33" relname="background" />
+<group id="46" type="span" parent="47" relname="span" />
+<group id="47" type="span" />
+  </body>
+</rst>

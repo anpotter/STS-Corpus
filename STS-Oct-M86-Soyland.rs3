@@ -1,0 +1,101 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="23" relname="background">
+There seems to be a few odd things about the general line in this debate:</segment>
+    <segment id="2" parent="23" relname="list">
+1. The general consensus that dialogue between STSers &amp; scientists is a
+good idea.</segment>
+    <segment id="3" parent="23" relname="list">
+2. The so far implicit idea that STS actually needs to be recognised and
+engaged with by scientists in order that STSers feel that their practice is
+legitimate.</segment>
+    <segment id="4" parent="23" relname="list">
+3. The general assumption that academic work on a topic (studies of
+science) should/will/ought to have an impact on later work in the sciences.</segment>
+    <segment id="5" parent="23" relname="list">
+4. That dialogue will somehow &apos;move things forward&apos;.</segment>
+    <segment id="6" parent="24" relname="span">
+The first of these is rather strange:</segment>
+    <segment id="7" parent="6" relname="elaboration"> change the context and see how it
+might work: </segment>
+    <segment id="8" parent="24" relname="evidence"> why should, say, novelists &amp; artists have a need to talk to
+literary critics?;</segment>
+    <segment id="9" parent="24" relname="evidence"> why should politicians be assumed to have an interest in
+the work of historians?; </segment>
+    <segment id="10" parent="24" relname="evidence">and, more specific to STS, why should someone
+trying to build a laser first go and read Harry Collins?</segment>
+    <segment id="11" parent="26" relname="background">
+The second in my list might help to pose some awkward questions for our own
+practice here:</segment>
+    <segment id="12" parent="13" relname="concession"> sure, it might be nice for some of us to have work read by
+scientists,</segment>
+    <segment id="13" parent="26" relname="list"> but does academic enquiry really need this sort of post-hoc
+legitimation?</segment>
+    <segment id="14" parent="26" relname="list">  Reversing the order of point 2, is this merely a way of
+increasing the importance of STS work by building a quasi-requirement that
+scientists do engage with it in order that their own practice is cosher?</segment>
+    <segment id="15" parent="22" relname="list">
+On the third point: this seems to be a misguided - if not downright silly -
+thing to hold.</segment>
+    <segment id="17" parent="29" relname="span">
+On the fourth point: forward towards what exactly? </segment>
+    <segment id="19" parent="18" relname="span"> Doesn&apos;t this sound like
+very basic progressionist talk?</segment>
+    <segment id="20" parent="28" relname="span">  There seems to be the strange assumption
+here that, after dialogue is achieved, drains will be unblocked and the
+passage will be clear towards a bright new future - and that some of us can
+even see what gifts will arrive if such a dialogue is undertaken. </segment>
+    <segment id="21" parent="20" relname="evaluation"> Somehow,
+I just don&apos;t buy this.
+</segment>
+<group id="23" type="multinuc" parent="30" relname="span" />
+<group id="24" type="span" parent="25" relname="span" />
+<group id="25" type="span" parent="22" relname="list" />
+<group id="26" type="multinuc" parent="27" relname="span" />
+<group id="27" type="span" parent="22" relname="list" />
+<group id="18" type="span" parent="17" relname="elaboration" />
+<group id="28" type="span" parent="19" relname="elaboration" />
+<group id="22" type="multinuc" parent="31" relname="span" />
+<group id="29" type="span" parent="22" relname="list" />
+<group id="30" type="span" parent="22" relname="antithesis" />
+<group id="31" type="span" />
+  </body>
+</rst>

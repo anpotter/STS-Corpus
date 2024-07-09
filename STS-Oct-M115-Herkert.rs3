@@ -1,0 +1,104 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">
+On  Tue, 25 Oct 1994 David Hakken wrote:</segment>
+    <segment id="2" parent="15" relname="span">
+
+&amp;gt; Fuller&apos;s comments about the write-in candidates for the Physical Society
+&amp;gt; opens up an avenue that I think we need to explore more fully, the notion
+&amp;gt; of constructing a dialogue with technoscience practitioners who share
+&amp;gt; important elements of the STS perspective and are active in their own
+&amp;gt; fields.  How can we help these individuals move beyond being what Hilary
+&amp;gt; Rose has called &quot;shit shovelers&quot; (exposing &quot;bad practice&quot; in their fields)
+&amp;gt; toward a more general discussion of the way forward?  Where can we meet
+&amp;gt; them?  How can we get more of them to participate in our meetings, and us in
+&amp;gt; theirs?  In my work in computing, the process of &quot;finding allies from the
+&amp;gt; side of the practitioners&quot; is slow but progressing.  Can we move this
+&amp;gt; outside of particular fields into a more general discourse?  The history
+&amp;gt; of radical science movements, both that of the thirties (Bernal et. al.) and
+&amp;gt; that of the sixties (e.g. science for people and science for the people)
+&amp;gt; may have much to tell us on these questions.</segment>
+    <segment id="3" parent="16" relname="span">
+
+As Vice-President (soon to be President) of the Society on Social 
+Implications of Technology (SSIT) of the Institute of Electrical and 
+Electronics Engineers (IEEE), I cordially invite my STS colleagues to 
+participate in the activities of our society.</segment>
+    <segment id="4" parent="13" relname="span">  SSIT has about 2500 
+members worldwide.</segment>
+    <segment id="5" parent="6" relname="concession">  Some of our members identify 
+professionally with STS or allied fields (e.g. history of 
+technology),</segment>
+    <segment id="6" parent="14" relname="span"> but most are employed in engineering positions in 
+business, government or academia.</segment>
+    <segment id="7" parent="3" relname="motivation">  The scope of the society includes such issues as 
+health and safety implications of technology; engineering ethics and 
+professional responsibility; history of electrotechnology; technical 
+expertise and public policy; peace technology; and social issues 
+related to energy, information technology and telecommunications.</segment>
+    <segment id="8" parent="3" relname="motivation">  We 
+publish a quarterly journal, _IEEE Technology and Society_, and 
+sponsor periodic conferences entitled &quot;The International Symposium on 
+Technology and Society&quot; (ISTAS). </segment>
+    <segment id="9" parent="3" relname="enablement">  Affiliate membership in SSIT is 
+available to persons who are not members of IEEE.</segment>
+    <segment id="10" parent="3" relname="motivation">
+
+So grab a shovel and join us!</segment>
+    <segment id="12" parent="3" relname="enablement">
+
+
+
+
+p.s. For information or submission guidelines regarding _Technology 
+and Society_ please contact the incoming editor, Ron Kline, e-mail: 
+rkline@paxvax.ee.cornell.edu; </segment>
+    <segment id="11" parent="3" relname="enablement">suggestions for programs or panels at 
+the next ISTAS (tentatively scheduled for late spring 1996 at 
+Princeton), please contact the conference organizer, Clint Andrews, 
+e-mail: candrews@phoenix.princeton.edu</segment>
+<group id="13" type="span" parent="3" relname="motivation" />
+<group id="14" type="span" parent="4" relname="elaboration" />
+<group id="15" type="span" parent="3" relname="solutionhood" />
+<group id="16" type="span" />
+  </body>
+</rst>

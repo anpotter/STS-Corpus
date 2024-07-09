@@ -1,0 +1,124 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">Paul Edwards writes:</segment>
+    <segment id="2" parent="43" relname="span">
+
+&amp;gt;In a way this is simply a plea for a broad, balanced approach to
+&amp;gt;techno-science education. In another way, it&apos;s more profound than that. My
+&amp;gt;Silicon Valley-based engineering students assume that the problems they&apos;ll
+&amp;gt;work to solve will be posed for them by the marketplace, via the companies
+&amp;gt;they work for. They want to invent cool stuff and then see if they can sell
+&amp;gt;it. The idea of interacting with potential users, especially in any kind of
+&amp;gt;thorough or systematic way, doesn&apos;t get much press in their world since
+&amp;gt;it&apos;s assumed to be perfectly mediated by the market.</segment>
+    <segment id="3" parent="2" relname="evaluation">
+
+He is so right!</segment>
+    <segment id="4" parent="44" relname="span"> The problem is, once we begin to contemplate alternatives
+to market-mediated modes of connecting needs to expertise,</segment>
+    <segment id="5" parent="42" relname="span"> things get very
+murky.</segment>
+    <segment id="6" parent="27" relname="span"> This is all the more so as, for example, the PC industry, becomes
+more and more monopolized (or, at least, dominated by a few mammoth firms).</segment>
+    <segment id="7" parent="25" relname="sequence">
+We all recall the arrogance of IBM in the years of its haughty successes;</segment>
+    <segment id="8" parent="25" relname="sequence">
+now Microsoft is getting into a similar position. </segment>
+    <segment id="9" parent="10" relname="antithesis">These firms dictate to
+the public what will be available, based on the firms&apos; assessments of what
+is most profitable (or most conducive to extending industrial dominance),</segment>
+    <segment id="10" parent="26" relname="span">
+not what putative consumers might actually want.</segment>
+    <segment id="11" parent="28" relname="span"> For those working within
+specific firms, the gee-whiz incentives are consequently lowered.</segment>
+    <segment id="12" parent="13" relname="preparation">
+
+In this respect I consider the pharmaceutical industry.</segment>
+    <segment id="13" parent="32" relname="span"> While its
+propaganda brags of the sums spent on R&amp;D (still &amp;lt; what it spends on
+advertising!),</segment>
+    <segment id="14" parent="30" relname="span"> we know that a good bit of their &quot;innovation&quot; is not to
+bring new &quot;cures&quot; to the public, but to grab patents in order to forestall
+competitive products.</segment>
+    <segment id="15" parent="33" relname="span"> Lab scientists within are therefore relegated the
+task of targeting research toward smaller, more corporate-interest goals,
+leaving to the side efforts to (excuse the naivete) improve human-kind.</segment>
+    <segment id="16" parent="31" relname="span">
+
+In STS we can teach all we want about market &quot;imperfections&quot; </segment>
+    <segment id="17" parent="16" relname="background">(I won&apos;t try
+to deconstruct the normative notion of successful, efficient market
+mechanisms at this point...),</segment>
+    <segment id="18" parent="40" relname="span"> but we risk probably exacerbating the
+cynicism and alienation of the future experts in our classes.</segment>
+    <segment id="19" parent="20" relname="concession"> So be it.</segment>
+    <segment id="20" parent="38" relname="span"> How
+far should we push that sort of thing?</segment>
+    <segment id="21" parent="22" relname="antithesis"> We don&apos;t want mercenary experts,</segment>
+    <segment id="22" parent="36" relname="span"> but
+we also don&apos;t want to risk dividing their consciousness, turning their good
+intentions against them.</segment>
+    <segment id="23" parent="24" relname="condition"> Until we can change the system of market-idealism,</segment>
+    <segment id="24" parent="35" relname="span">
+we get stuck in this conundrum, I fear...</segment>
+<group id="25" type="multinuc" parent="6" relname="elaboration" />
+<group id="26" type="span" parent="11" relname="nonvolitional-cause" />
+<group id="27" type="span" parent="29" relname="span" />
+<group id="28" type="span" parent="34" relname="span" />
+<group id="29" type="span" parent="5" relname="elaboration" />
+<group id="30" type="span" parent="15" relname="nonvolitional-cause" />
+<group id="31" type="span" parent="18" relname="nonvolitional-cause" />
+<group id="32" type="span" parent="14" relname="antithesis" />
+<group id="33" type="span" parent="28" relname="evidence" />
+<group id="34" type="span" parent="27" relname="elaboration" />
+<group id="35" type="span" parent="37" relname="span" />
+<group id="36" type="span" parent="35" relname="antithesis" />
+<group id="37" type="span" parent="39" relname="span" />
+<group id="38" type="span" parent="41" relname="span" />
+<group id="39" type="span" />
+<group id="40" type="span" parent="38" relname="preparation" />
+<group id="41" type="span" parent="37" relname="solutionhood" />
+<group id="42" type="span" parent="16" relname="preparation" />
+<group id="43" type="span" parent="4" relname="concession" />
+<group id="44" type="span" parent="5" relname="nonvolitional-cause" />
+  </body>
+</rst>

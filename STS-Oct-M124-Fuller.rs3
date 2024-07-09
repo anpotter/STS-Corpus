@@ -1,0 +1,144 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">
+
+On Sun, 30 Oct 1994, Robert L. Frost wrote:</segment>
+    <segment id="2" parent="42" relname="span">
+
+&amp;gt; 
+&amp;gt; But what do you mean about STS taking the political consequences of
+&amp;gt; their epistemological commitments more seriously? I never thought of
+&amp;gt; science studies as a program for idle chatter or navel-gazing.... I&apos;ve
+&amp;gt; always respected STS as	 being rather more politically astute than the
+&amp;gt; somnulent drek that often passes as historical scholarship... Perhaps I
+&amp;gt; have deceived myself, assuming STS to be more right-on than it is?
+&amp;gt; </segment>
+    <segment id="3" parent="43" relname="span">
+
+A lot depends on what you mean by &apos;politically astute&apos;.</segment>
+    <segment id="4" parent="24" relname="span"> For some in this
+field, being &apos;politically astute&apos; means making oneself usable as a
+resource in many different contexts by not explicitly raising the
+political consequences of what one does -- or by saying that they will
+vary so much across contexts that there&apos;s much one can do about it, except
+to fight specific political battles one cares about deeply.</segment>
+    <segment id="5" parent="4" relname="elaboration"> In both 
+cases, politics gets taken out of the STS arena and situated somewhere 
+else (e.g. in your conscience). </segment>
+    <segment id="6" parent="44" relname="span">
+
+Ironically, when scientists were the ones doing a kind of science studies
+-- e.g. J.D. Bernal v. Michael Polanyi in Cold War UK --</segment>
+    <segment id="25" parent="31" relname="span"> the politics of
+science would be a major topic of discussion.</segment>
+    <segment id="7" parent="26" relname="span"> Maybe this had to with the
+fact that they were essentially talking about themselves,</segment>
+    <segment id="8" parent="28" relname="span"> and hence
+whatever claims they made about science had clear consequences for what
+they ought to do next.</segment>
+    <segment id="9" parent="27" relname="span"> And in fact, their discussions about freedom of
+inquiry (e.g. who&apos;s covered and not covered by it) were often quite
+sophisticated,</segment>
+    <segment id="10" parent="9" relname="concession"> even though they were conducted in the context of highly
+charged issues like Lysenkoism and Eugenics. </segment>
+    <segment id="11" parent="27" relname="background">(Greta Jones has a book on
+this topic, the name of which escapes me.)</segment>
+    <segment id="12" parent="32" relname="span"> As Stephen Turner reminded me
+off-net recently,</segment>
+    <segment id="13" parent="30" relname="span"> it was the social scientists -- Merton in particular --
+who tended to de-politicize the discussion of science</segment>
+    <segment id="14" parent="33" relname="span"> as they were turning
+the natural sciences into an object of social inquiry. </segment>
+    <segment id="15" parent="45" relname="span">
+
+I don&apos;t mean to suggest that all social studies of science has been
+apolitical.</segment>
+    <segment id="16" parent="37" relname="span"> There have been moments of politicization</segment>
+    <segment id="36" parent="16" relname="elaboration"> -- such as the
+Finalizationists in Germany in the 1970s.</segment>
+    <segment id="17" parent="18" relname="concession"> Of course, there have been
+feminist critiques and technology-oriented critiques of science,</segment>
+    <segment id="18" parent="38" relname="span"> but these
+have flourished quite independently of the STS establishment and often
+inspite of hostility from the more &apos;academic&apos; side of the field.</segment>
+    <segment id="19" parent="40" relname="span"> A good
+indication of the difficulty these days to make &apos;political consequences&apos; a
+proper object of discussion in STS circles is the series of exchanges
+between Steve Woolgar, Langdon Winner, and Trevor Pinch in _Science,
+Technology &amp; Human Values_ over &apos;the politics of artifacts&apos;. </segment>
+    <segment id="20" parent="19" relname="elaboration">Another set 
+of exchanges between Harry Collins and Eveleen Richards focused on being 
+&apos;captured&apos; by the politics of the scientific controversies one studies -- 
+&apos;politics&apos; here being something that might taint one&apos;s research practice, 
+products, or reputation. </segment>
+    <segment id="21" parent="46" relname="span">
+
+However hide-bound you (or I!) may think the historical profession is in 
+the US,</segment>
+    <segment id="22" parent="34" relname="span"> the fact remains that the professional identity of American 
+historians is very closely bound up with debates over the relationship 
+between objectivity and politics that we&apos;re nowhere near approximating in 
+STS today.</segment>
+    <segment id="23" parent="34" relname="justify"> See Peter Novick, _That Noble Dream_ (Cambridge 1988).</segment>
+<group id="24" type="span" parent="6" relname="background" />
+<group id="26" type="span" parent="25" relname="nonvolitional-cause" />
+<group id="27" type="span" parent="29" relname="span" />
+<group id="28" type="span" parent="7" relname="nonvolitional-result" />
+<group id="29" type="span" parent="8" relname="elaboration" />
+<group id="30" type="span" parent="14" relname="circumstance" />
+<group id="31" type="span" parent="12" relname="antithesis" />
+<group id="32" type="span" parent="13" relname="circumstance" />
+<group id="33" type="span" parent="15" relname="background" />
+<group id="34" type="span" parent="35" relname="span" />
+<group id="35" type="span" />
+<group id="37" type="span" parent="39" relname="span" />
+<group id="38" type="span" parent="37" relname="elaboration" />
+<group id="39" type="span" parent="41" relname="span" />
+<group id="40" type="span" parent="39" relname="elaboration" />
+<group id="41" type="span" parent="21" relname="background" />
+<group id="42" type="span" parent="3" relname="background" />
+<group id="43" type="span" parent="4" relname="background" />
+<group id="44" type="span" parent="25" relname="antithesis" />
+<group id="45" type="span" parent="16" relname="antithesis" />
+<group id="46" type="span" parent="22" relname="antithesis" />
+  </body>
+</rst>
