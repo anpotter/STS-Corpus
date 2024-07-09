@@ -1,0 +1,84 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="concession">The recent volley back-and-forth on re-describing science from other language
+frames not only seemed to me right,</segment>
+    <segment id="2" parent="9" relname="span"> it awoke a nagging half-memory in me,
+of having seen something relevant to the same topic.</segment>
+    <segment id="3" parent="13" relname="span"> A bit of searching (of
+memory, and of texts) revealed the following from the Jan &apos;93 issue of
+the _American Jl. of Physics_.</segment>
+    <segment id="4" parent="3" relname="elaboration">
+&quot;What follows is a tale of physicists entangled among philosophical 
+snares, scientists attempting to discover that well-disguised trail they 
+thought most likely to lead to the goal sought by all, namely, good, 
+solid science.  We relate this tale in philosophical terms, from the 
+point of view of the philosopher, since that, after all, is indeed our 
+perspective.  Yet, even though the terms and identifications might seem 
+alien to today&apos;s students of the physicist&apos;s art, there most probably 
+exists none the less some rude edification for them to encounter along 
+the way.  For, no matter the philosopher&apos;s penchant to deploy and 
+exploit ancient taxonomies and arcane systems of categories, in the end 
+it is physics and physicists which recognizably serve as targets of the 
+philosophical exercise, and its is the activities of these targets which 
+contain the message modulating the medium.  In any case, in the end it 
+is perhaps useful and exhilarating to see one&apos;s life pinned-down, laid 
+out, exposed in someone else&apos;s dissecting pan. &quot;</segment>
+    <segment id="5" parent="6" relname="antithesis">
+
+The bald truth of the fact that memory is the second thing to go is most
+unfortunately revealed by the further fact that I wrote the damn passage,
+and had forgotten specifically that I had done so,</segment>
+    <segment id="6" parent="14" relname="span"> but generally remembered
+that I agreed with what was going on between KEITH and EDWARDS.</segment>
+    <segment id="7" parent="11" relname="span">
+Uhhh, (or rather &quot;duh&quot;) I still agree with what I wrote three long years ago,</segment>
+    <segment id="8" parent="7" relname="nonvolitional-result">
+and quote above:</segment>
+    <segment id="10" parent="11" relname="elaboration"> it the end it is perhaps useful and exhilarating to see
+one&apos;s life pinned-down...etc.</segment>
+<group id="9" type="span" parent="3" relname="background" />
+<group id="11" type="span" parent="12" relname="span" />
+<group id="12" type="span" parent="6" relname="background" />
+<group id="13" type="span" parent="15" relname="span" />
+<group id="14" type="span" parent="13" relname="background" />
+<group id="15" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,148 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">
+
+Response to COLLINS&apos;s Flaming Letter:</segment>
+    <segment id="2" parent="36" relname="span">
+
+Now, I see why this debate doesn&apos;t get anywhere...</segment>
+    <segment id="3" parent="56" relname="span"> But on to the main points.</segment>
+    <segment id="4" parent="39" relname="span">
+
+(1) I decided to approach the scientists first because I figured that 
+they would be the hardest to get involved in the project, especially 
+given that a Sociology Department was getting the ball rolling. </segment>
+    <segment id="5" parent="38" relname="span">
+Conceivably, they might feel like they were being ambushed,</segment>
+    <segment id="6" parent="7" relname="condition"> and if they 
+did,</segment>
+    <segment id="7" parent="37" relname="span"> we had no conference. </segment>
+    <segment id="8" parent="4" relname="circumstance">In any case, these guys were only contacted 
+the day before yesterday,</segment>
+    <segment id="9" parent="4" relname="circumstance"> and I was going to be in New Orleans next week to 
+see many of the UK sociologists en masse. </segment>
+    <segment id="10" parent="55" relname="span">
+
+(2) There is an open question as to who exactly is attacking whom.</segment>
+    <segment id="11" parent="12" relname="antithesis"> Harry&apos;s 
+article is just one of several in the THES issue.</segment>
+    <segment id="12" parent="40" relname="span"> Many of the scientists 
+feel like they&apos;re under attack,</segment>
+    <segment id="13" parent="12" relname="elaboration"> and the lead article by the THES reporter 
+portrays the issue that way.</segment>
+    <segment id="14" parent="15" relname="concession"> I realize that Harry himself has taken a lot 
+of blows from scientists in his day,</segment>
+    <segment id="15" parent="41" relname="span"> but he&apos;s not the only one suffering 
+here.</segment>
+    <segment id="16" parent="47" relname="span">
+
+(3) Another thing that Harry fails to ackowledge -- and which this
+conference aims to address -- is that the hardcore of SSK people (are we
+talking about 15 or 20 people maybe?) is not the only sociologically
+oriented position under consideration in these debates.</segment>
+    <segment id="17" parent="43" relname="span"> Certainly, hard
+core SSK is a minority of the people who identify with the STS movement. </segment>
+    <segment id="18" parent="17" relname="evidence">
+In the UK alone, there are places like Manchester and Sussex that do STS
+work but have little to do with SSK. </segment>
+    <segment id="19" parent="44" relname="span">I imagine that even the historians of
+science who have been inspired by the insights of SSK are bound to be miffed</segment>
+    <segment id="20" parent="19" relname="nonvolitional-cause">
+when Harry says that no one has done a case study of the DNA episode.</segment>
+    <segment id="21" parent="22" relname="concession">
+Maybe no one has done a Collins-like case study,</segment>
+    <segment id="22" parent="45" relname="span"> but certainly historical
+studies have been done,</segment>
+    <segment id="23" parent="22" relname="elaboration"> and these deserve to be aired, too, along with the
+rest.</segment>
+    <segment id="24" parent="25" relname="concession"> Historically, SSK has been very important in establishing the
+academic identity of STS,</segment>
+    <segment id="25" parent="48" relname="span"> but it is not the whole story by any means.</segment>
+    <segment id="26" parent="25" relname="evaluation"> And 
+nobody is served by making it look as though the entire sociology of 
+science is summed up in _The Golem_. </segment>
+    <segment id="27" parent="28" relname="antithesis">
+
+(4) I know Harry likes to pull the expert line, and draw a sharp 
+distinction between what scientists know and what sociologists of science 
+know.</segment>
+    <segment id="28" parent="53" relname="span"> Unfortunately, Harry hasn&apos;t yet convinced the scientists that there 
+is a distinction,</segment>
+    <segment id="29" parent="50" relname="span"> and his rhetoric just invites them to throw the charge
+back in his face:</segment>
+    <segment id="30" parent="29" relname="elaboration"> &apos;Harry, what do you know about physics?!&apos;</segment>
+    <segment id="31" parent="51" relname="span"> Part of the 
+problem here is that there are many different reasons why people think 
+sociology of science is worth doing</segment>
+    <segment id="32" parent="31" relname="background"> -- scientists even think this --</segment>
+    <segment id="33" parent="52" relname="span"> and 
+that will influence how one wants to draw the line between the authority 
+of the science studies practitioner and the scientist.</segment>
+    <segment id="34" parent="33" relname="evaluation"> Again, this needs 
+to be aired.</segment>
+    <segment id="35" parent="57" relname="motivation">
+
+I invite you all to get involved!</segment>
+<group id="36" type="span" parent="3" relname="preparation" />
+<group id="37" type="span" parent="5" relname="nonvolitional-result" />
+<group id="38" type="span" parent="4" relname="nonvolitional-cause" />
+<group id="39" type="span" parent="54" relname="list" />
+<group id="40" type="span" parent="42" relname="span" />
+<group id="41" type="span" parent="40" relname="elaboration" />
+<group id="42" type="span" parent="10" relname="evidence" />
+<group id="43" type="span" parent="16" relname="elaboration" />
+<group id="44" type="span" parent="46" relname="span" />
+<group id="45" type="span" parent="44" relname="evidence" />
+<group id="46" type="span" parent="16" relname="elaboration" />
+<group id="47" type="span" parent="49" relname="span" />
+<group id="48" type="span" parent="47" relname="summary" />
+<group id="49" type="span" parent="54" relname="list" />
+<group id="50" type="span" parent="28" relname="elaboration" />
+<group id="51" type="span" parent="33" relname="nonvolitional-cause" />
+<group id="52" type="span" parent="28" relname="evidence" />
+<group id="53" type="span" parent="54" relname="list" />
+<group id="54" type="multinuc" parent="57" relname="span" />
+<group id="55" type="span" parent="54" relname="list" />
+<group id="56" type="span" parent="54" relname="preparation" />
+<group id="57" type="span" parent="58" relname="span" />
+<group id="58" type="span" />
+  </body>
+</rst>

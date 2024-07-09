@@ -40,7 +40,7 @@
   <body>
     <segment id="1" parent="20" relname="preparation">
 Reply to John Bailar</segment>
-    <segment id="2" parent="20" relname="span">
+    <segment id="2" parent="22" relname="span">
 
 Speaking for myself, I would strongly resist any attempt to settle on the
 goals or essence of STS. </segment>
@@ -65,8 +65,8 @@ importance of variation. </segment>
     <segment id="11" parent="12" relname="condition"> Settle
 on common goals,</segment>
     <segment id="12" parent="16" relname="span"> and that might just spell the end of things.</segment>
-<group id="13" type="span" parent="2" relname="evidence" />
-<group id="14" type="span" parent="2" relname="evidence" />
+<group id="13" type="span" parent="22" relname="evidence" />
+<group id="14" type="span" parent="22" relname="evidence" />
 <group id="15" type="span" parent="10" relname="antithesis" />
 <group id="16" type="span" parent="18" relname="span" />
 <group id="17" type="span" parent="19" relname="span" />
@@ -74,5 +74,6 @@ on common goals,</segment>
 <group id="20" type="span" parent="17" relname="span" />
 <group id="21" type="span" parent="16" relname="motivation" />
 <group id="18" type="span" parent="17" relname="restatement" />
+<group id="22" type="span" parent="20" relname="span" />
   </body>
 </rst>

@@ -1,0 +1,126 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="27" relname="span">I have followed the discussion on Sts and its critics with a half an eye</segment>
+    <segment id="2" parent="1" relname="background"> (as 
+we can say in Dutch),</segment>
+    <segment id="3" parent="44" relname="span"> but now Harry Marks has posed some more interesting 
+questions I like to join.</segment>
+    <segment id="4" parent="28" relname="span"> I can feel sympathetic to scientists complaining 
+that STS&apos;ers deconstruct their traditional legitimation,</segment>
+    <segment id="5" parent="4" relname="elaboration"> especially if they 
+call themselves constructivists, but do not feel the responsibility to add 
+something constructive to the science-society relation.</segment>
+    <segment id="6" parent="43" relname="span"> Mark Hinelines 
+aesthetics of science will hardly help those scientists.</segment>
+    <segment id="7" parent="8" relname="preparation"> 
+
+Well let me explain my own background.</segment>
+    <segment id="8" parent="40" relname="span"> I am one of those working in the group 
+that came up already in the discussion:</segment>
+    <segment id="9" parent="8" relname="elaboration"> the University of Twente group.</segment>
+    <segment id="10" parent="41" relname="span"> We 
+indeed have some people working within an engineering science program on 
+micro-optics.</segment>
+    <segment id="11" parent="42" relname="span"> But generally our relations with scientists, firms,governments 
+and all those guys and institutions that make this world running so badly are 
+quite positive.</segment>
+    <segment id="12" parent="13" relname="antithesis"> That is, we do not adopt one dimensional legitimations or 
+policy stories.</segment>
+    <segment id="13" parent="29" relname="span"> But instead of just criticizing them, as part of some 
+alternative program, we feel also responsible for the creation of new 
+legitimations.</segment>
+    <segment id="14" parent="30" relname="conjunction"> So, some of us work with biotechnological firms on issues like 
+technology assessment and public acceptance.</segment>
+    <segment id="15" parent="30" relname="conjunction"> And others can get the 
+participation of genetic engineering scientists to study it.</segment>
+    <segment id="16" parent="36" relname="span">
+
+I myself try to be constructive in science policy and presently working part 
+time for the Dutch Foresight Program --again with real scientist.</segment>
+    <segment id="17" parent="18" relname="concession"> Althought 
+my PhD thesis has recently been criticed in the EASST Newsletter of not being 
+relevant for science policy, </segment>
+    <segment id="18" parent="35" relname="span">it turns out that the research I did on science 
+policy can be put positively into use to design foresight processes, to write 
+draft opinion papers for the foresight committee on issues like fundamental 
+science, priority setting and the like.</segment>
+    <segment id="19" parent="20" relname="concession"> All right, I have to compromise 
+sometimes,</segment>
+    <segment id="20" parent="33" relname="span"> but the insights STS studies give on have science works and how it 
+is embedded in society is a good source to improve tradional legitimations.</segment>
+    <segment id="21" parent="32" relname="span"> 
+One of the main lessons I repeatedly bring in is that general statements 
+about science society relations are only usefull as a starting point.</segment>
+    <segment id="22" parent="23" relname="condition"> If you 
+want to do something really effective,</segment>
+    <segment id="23" parent="31" relname="span"> you have to adjust the policy 
+instruments, or more specific the foresight process to the specific context. </segment>
+    <segment id="24" parent="33" relname="summary">
+STS and constructivist science policy studies provide part of the tool box 
+that enables you to analyse the specific context.</segment>
+    <segment id="25" parent="26" relname="antithesis">
+
+Well, I cannot give a full overview of my experiences,</segment>
+    <segment id="26" parent="38" relname="span"> but I really think 
+that STS is better served by seeking and articulating constructive roles (in 
+both senses!) in all kind of science-society relations, than complaining 
+about criticism.</segment>
+<group id="27" type="span" parent="3" relname="concession" />
+<group id="28" type="span" parent="6" relname="concession" />
+<group id="29" type="span" parent="11" relname="elaboration" />
+<group id="30" type="multinuc" parent="13" relname="elaboration" />
+<group id="31" type="span" parent="21" relname="elaboration" />
+<group id="32" type="span" parent="20" relname="elaboration" />
+<group id="33" type="span" parent="34" relname="span" />
+<group id="34" type="span" parent="35" relname="elaboration" />
+<group id="35" type="span" parent="37" relname="span" />
+<group id="36" type="span" parent="39" relname="span" />
+<group id="37" type="span" parent="16" relname="elaboration" />
+<group id="38" type="span" parent="36" relname="summary" />
+<group id="39" type="span" parent="13" relname="elaboration" />
+<group id="40" type="span" parent="10" relname="background" />
+<group id="41" type="span" parent="11" relname="concession" />
+<group id="42" type="span" parent="45" relname="span" />
+<group id="43" type="span" parent="42" relname="background" />
+<group id="44" type="span" parent="4" relname="background" />
+<group id="45" type="span" />
+  </body>
+</rst>

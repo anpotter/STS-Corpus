@@ -1,0 +1,88 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="background"> 
+ 
+I strongly support the views brought forward in earlier messages of Paul
+Edwards and Barend van der Meulen about respectfully working with natural
+scientists and engineers on establishing new relations between science,
+technology and society.</segment>
+    <segment id="2" parent="19" relname="span"> There is a whole generation of scientists and
+engineers who are keenly aware about the social relations of the sciences,
+and who wish to develop new programs which include social and scientific
+qualifications, including a STS perspective.</segment>
+    <segment id="3" parent="2" relname="concession"> The latter, of course, as long
+as it is a contribution to their program, i.e., the programme of the
+enlightenment.</segment>
+    <segment id="4" parent="20" relname="span">
+ 
+Personally, I have recently worked more than half a year as the secretary
+of an interfaculty advisory committee of the Board of the University of
+Amsterdam.</segment>
+    <segment id="5" parent="16" relname="span"> In the committee we try to draft new programmes for
+freshmanyears, including both social science and natural science subjects.</segment>
+    <segment id="6" parent="13" relname="span">
+It is always a pleasure:</segment>
+    <segment id="7" parent="6" relname="nonvolitional-cause"> most people are really interested in philosophy,
+history and sociology of science.</segment>
+    <segment id="8" parent="17" relname="span"> In my opinion, the hostility in the
+debate is an artifact of the extreme positions by some of our colleagues.</segment>
+    <segment id="9" parent="15" relname="span">
+These extreme positions are sometimes perceived as anti-scientific.</segment>
+    <segment id="10" parent="11" relname="concession"> (Of
+course, there are also hard core conservatives,</segment>
+    <segment id="11" parent="14" relname="span"> but among scientists they
+are usually a minority.)</segment>
+    <segment id="12" parent="18" relname="span">
+ 
+Thus, I think that we should more clearly distinguish between our sometimes
+esoteric research interests and the discourse which we maintain with our
+colleagues in other disciplines.</segment>
+<group id="13" type="span" parent="5" relname="evaluation" />
+<group id="14" type="span" parent="9" relname="background" />
+<group id="15" type="span" parent="8" relname="elaboration" />
+<group id="16" type="span" parent="8" relname="background" />
+<group id="17" type="span" parent="12" relname="evidence" />
+<group id="18" type="span" />
+<group id="19" type="span" parent="4" relname="background" />
+<group id="20" type="span" parent="5" relname="background" />
+  </body>
+</rst>

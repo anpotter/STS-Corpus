@@ -1,0 +1,123 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="24" relname="span"> 
+ 
+There is nothing against SSK or social constructivism except
+its self-understanding:</segment>
+    <segment id="2" parent="1" relname="antithesis"> it is not a comprehensive programme
+for understanding the development of the sciences.</segment>
+    <segment id="3" parent="1" relname="evidence">  The social
+construction of the sciences focusses on a sub-dynamics,
+notably its social construction. </segment>
+    <segment id="4" parent="23" relname="span"> The value of its
+contribution for STS has been that the programme emphasizes
+the contingency of the development, perhaps ad absurdum.</segment>
+    <segment id="5" parent="6" relname="antithesis">
+ 
+For example, scientific results are not expected to be
+symmetrical.</segment>
+    <segment id="6" parent="22" relname="span"> Instead, one expects the scientific relevance of
+a scientific discovery to be different from its social or
+institutional relevance.</segment>
+    <segment id="7" parent="6" relname="elaboration">  We do not remember Pasteur because
+of his role in French politics, but because of his role in
+bio-medics.</segment>
+    <segment id="8" parent="9" relname="antithesis">
+ 
+The crucial point is that knowledge cannot be reduced to an
+attribute of authors or their social institutions nor to its
+literary manifestations.</segment>
+    <segment id="9" parent="26" relname="span">  On the contrary, as Slezak (1989)
+has argued before, one expects a larger variation in the
+knowledge content of science than in these other dimensions,</segment>
+    <segment id="10" parent="25" relname="span">
+and one should a fortiori not try to explain the larger
+variation in terms of the much smaller (&quot;socio-cognitive&quot;)
+interaction terms. </segment>
+    <segment id="11" parent="10" relname="evaluation"> That is just not good in sociological
+terms.</segment>
+    <segment id="12" parent="30" relname="span">
+ 
+In other words, the sciences are not belief systems </segment>
+    <segment id="28" parent="12" relname="background">(beliefs
+are attributes of human beings or their collectives)</segment>
+    <segment id="29" parent="33" relname="span"> but
+rational expectation systems. </segment>
+    <segment id="13" parent="14" relname="antithesis"> The rationality is sometimes
+erroneously considered as part of the subject of study
+(&quot;scientificiation&quot;),</segment>
+    <segment id="14" parent="31" relname="span"> but it hopefully remains a property of
+the model. </segment>
+    <segment id="15" parent="34" relname="span"> A construction can always be analysed in terms of
+its genesis,</segment>
+    <segment id="16" parent="32" relname="span"> and indeed that provides us with &quot;nice&quot; stories.</segment>
+    <segment id="17" parent="16" relname="elaboration">
+In my opinion, SSK and other social constructivists have
+provided us with case studies, indeed.</segment>
+    <segment id="18" parent="19" relname="antithesis">
+ 
+Articles in THES and the NYBR do not really help for those who
+are not yet &quot;believers&quot;.</segment>
+    <segment id="19" parent="38" relname="span">  My advice would be: stop making
+&quot;knowledge claims.&quot; </segment>
+    <segment id="20" parent="21" relname="antithesis"> As noted, they play a role in the genesis
+of scientific knowledge only. </segment>
+    <segment id="21" parent="36" relname="span"> The selection processes are
+eventually more interesting.</segment>
+<group id="22" type="span" parent="4" relname="elaboration" />
+<group id="23" type="span" parent="1" relname="evidence" />
+<group id="24" type="span" parent="27" relname="span" />
+<group id="25" type="span" parent="9" relname="elaboration" />
+<group id="26" type="span" parent="24" relname="summary" />
+<group id="27" type="span" parent="37" relname="span" />
+<group id="30" type="span" parent="29" relname="antithesis" />
+<group id="31" type="span" parent="35" relname="span" />
+<group id="32" type="span" parent="15" relname="nonvolitional-result" />
+<group id="33" type="span" parent="27" relname="restatement" />
+<group id="34" type="span" parent="31" relname="elaboration" />
+<group id="35" type="span" parent="29" relname="evidence" />
+<group id="36" type="span" parent="19" relname="evidence" />
+<group id="37" type="span" parent="39" relname="span" />
+<group id="38" type="span" parent="37" relname="summary" />
+<group id="39" type="span" />
+  </body>
+</rst>

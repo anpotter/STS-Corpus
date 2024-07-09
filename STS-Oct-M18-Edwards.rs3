@@ -1,0 +1,179 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="background">I can&apos;t resist adding a few cantankerous observations to the intriguing
+discussion of STS &quot;under attack.&quot;</segment>
+    <segment id="2" parent="43" relname="span"> Re. the following:</segment>
+    <segment id="3" parent="42" relname="span"> 
+
+&amp;gt;B. Lieberman to STSers -
+&amp;gt;And we shouldn&apos;t be surprised that the debate gets stuck on the existence
+&amp;gt;of an external reality. The notion that there is no such thing is counter
+&amp;gt;to all the layman learns for his or her whole life.</segment>
+    <segment id="4" parent="5" relname="preparation">
+
+Looks like STSers will be filling new slots soon:</segment>
+    <segment id="5" parent="41" relname="span"> hi folks, we&apos;re the
+reality experts.</segment>
+    <segment id="6" parent="7" relname="solutionhood"> Guess what?</segment>
+    <segment id="7" parent="40" relname="span"> Everything you know is wrong.</segment>
+    <segment id="8" parent="67" relname="span"> I think I&apos;ll
+stick with the mere laymen in this regard, despite an awful lot of
+training. </segment>
+    <segment id="9" parent="10" relname="condition">
+
+If LIEBERMAN or anyone else genuinely believes that STS convincingly
+demonstrates that external reality doesn&apos;t exist,</segment>
+    <segment id="10" parent="44" relname="span"> I would like to be
+notified of just where and how this has been done.</segment>
+    <segment id="11" parent="47" relname="span"> On my reading, most STS
+literature asserts, and often demonstrates, some form of interpretive
+flexibility in scientific claims or technological design.</segment>
+    <segment id="12" parent="46" relname="span"> But there is a
+vast difference between flexibility, an excellent metaphor whose
+connotations should be taken seriously, and infinite malleability - which
+doesn&apos;t even work as a metaphor (from what experiential background could it
+be drawn?), much less as a coherent literal description of anything at all.</segment>
+    <segment id="13" parent="45" relname="span">
+The most common philosophical mistake in STS is to leap from the
+possibility of _multiple_ interpretations or constructions to the
+possibility of an _infinite_ number.</segment>
+    <segment id="14" parent="13" relname="elaboration"> When something flexes too far, it
+breaks.</segment>
+    <segment id="15" parent="49" relname="span">
+
+Solipsism and full-on epistemological relativism are ancient and, in my
+humble opinion, idiotic doctrines;</segment>
+    <segment id="16" parent="15" relname="elaboration"> STS can claim neither to have invented
+them nor to have proven them (proof, in any case, not being possible at all
+within a consistent relativist frame).</segment>
+    <segment id="17" parent="50" relname="span"> If people in our community seriously
+want to defend them,</segment>
+    <segment id="18" parent="48" relname="span"> then I think we deserve the lambasting we&apos;ve been
+getting.</segment>
+    <segment id="19" parent="58" relname="span"> We should all, like Samuel Johnson, go kick some stones once in a
+while.</segment>
+    <segment id="20" parent="52" relname="span">
+
+And unfortunately, contra the sensible folks who&apos;ve expressed amazement
+that informed readers would find STS anti-science, I have often heard such
+views expressed (privately) by various figures in our field.</segment>
+    <segment id="21" parent="51" relname="span"> They say not
+just that science is only one of many justifiable, useful, intelligible
+ways of knowing (an important and perfectly defensible idea),</segment>
+    <segment id="22" parent="21" relname="evaluation"> but that it
+is _worse_ (less truthful, less productive) than most, perhaps all, other
+ways.</segment>
+    <segment id="23" parent="56" relname="span"> This goes along, in the cases I&apos;m thinking of, with the extreme
+relativism/solipsism mentioned above.</segment>
+    <segment id="24" parent="25" relname="condition"> If people want references,</segment>
+    <segment id="25" parent="54" relname="span"> I&apos;ll dig
+them out,</segment>
+    <segment id="53" parent="55" relname="span"> but I think you know what I&apos;m talking about.</segment>
+    <segment id="26" parent="59" relname="span">
+
+I must say that like GROSS, I am impressed with the arrogance of this
+position, which at least matches that of the scientists it criticizes.</segment>
+    <segment id="27" parent="26" relname="background"> This
+is the arrogance of the 19th-century anthropologist before his tribal
+subjects and their childish, magical thought,</segment>
+    <segment id="28" parent="26" relname="evaluation"> and it deserves to be chased
+from the stage wherever it appears. </segment>
+    <segment id="29" parent="30" relname="background">
+
+On another note, and more seriously, the discussion of COLLINS&apos; and others&apos;
+appearance in the THES brings up a thought that&apos;s been nagging at me with
+increasing frequency:</segment>
+    <segment id="30" parent="65" relname="span">
+
+It&apos;s time a discussion of STS and its critics made its way into the New
+York Review of Books.</segment>
+    <segment id="31" parent="32" relname="concession"> I&apos;ve considered writing such a review myself,</segment>
+    <segment id="32" parent="64" relname="span"> but I
+think others might be better positioned to do so.</segment>
+    <segment id="33" parent="63" relname="span"> It&apos;s a daunting task,</segment>
+    <segment id="34" parent="61" relname="span">
+since it would require choosing a few fairly recent, major works from the
+many excellent candidates</segment>
+    <segment id="35" parent="60" relname="span"> (and the NYRB generally reviews only books
+accessible to the educated lay public,</segment>
+    <segment id="36" parent="35" relname="nonvolitional-result"> so a lot of more technical/local STS
+stuff wouldn&apos;t work).</segment>
+    <segment id="37" parent="33" relname="elaboration"> It would also require a reviewer willing to give the
+Grosses and Leavitts of the world serious consideration, instead of the
+rather self-righteous pooh-poohing in which many of us indulge on this net.</segment>
+    <segment id="38" parent="33" relname="elaboration">
+Finally, it would require a reviewer able to get past the rather strict
+gatekeepers at the NYRB.</segment>
+    <segment id="39" parent="66" relname="span"> If anybody out there wants to take this on,</segment>
+    <segment id="62" parent="39" relname="enablement"> I&apos;d be
+happy to help think it through.</segment>
+<group id="40" type="span" parent="5" relname="elaboration" />
+<group id="41" type="span" parent="3" relname="interpretation" />
+<group id="42" type="span" parent="8" relname="antithesis" />
+<group id="44" type="span" parent="11" relname="antithesis" />
+<group id="45" type="span" parent="12" relname="elaboration" />
+<group id="46" type="span" parent="11" relname="elaboration" />
+<group id="47" type="span" parent="8" relname="volitional-cause" />
+<group id="49" type="span" parent="17" relname="preparation" />
+<group id="50" type="span" parent="18" relname="condition" />
+<group id="51" type="span" parent="20" relname="elaboration" />
+<group id="52" type="span" parent="57" relname="span" />
+<group id="48" type="span" parent="19" relname="antithesis" />
+<group id="54" type="span" parent="53" relname="concession" />
+<group id="55" type="span" parent="23" relname="evidence" />
+<group id="56" type="span" parent="52" relname="elaboration" />
+<group id="57" type="span" parent="68" relname="span" />
+<group id="58" type="span" parent="69" relname="span" />
+<group id="59" type="span" parent="57" relname="evaluation" />
+<group id="60" type="span" parent="34" relname="elaboration" />
+<group id="61" type="span" parent="33" relname="elaboration" />
+<group id="63" type="span" parent="32" relname="nonvolitional-cause" />
+<group id="64" type="span" parent="30" relname="means" />
+<group id="65" type="span" parent="39" relname="motivation" />
+<group id="66" type="span" parent="70" relname="joint" />
+<group id="67" type="span" parent="70" relname="joint" />
+<group id="68" type="span" parent="58" relname="elaboration" />
+<group id="69" type="span" parent="8" relname="elaboration" />
+<group id="70" type="multinuc" />
+<group id="43" type="span" parent="3" relname="preparation" />
+  </body>
+</rst>

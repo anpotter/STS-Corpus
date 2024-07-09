@@ -1,0 +1,175 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">
+Bill Keith&apos;s comments are exceptionally perceptive.</segment>
+    <segment id="2" parent="33" relname="span">
+
+&amp;gt; Using an
+&amp;gt;alternative vocabulary to redescribe a practice seems to automatically
+&amp;gt;destablize it -- even if that was not part of the intention behind the
+&amp;gt;redescription!  So, if we use social, economic or rhetorical vocabularies
+&amp;gt;to redescribe science, no matter how great our respect and good
+&amp;gt;intentions, the effect, for participants and observers, is that an
+&amp;gt;effective redescription destablizes science as a genuine practice. </segment>
+    <segment id="3" parent="43" relname="span">
+
+I think the issue is in fact even more complicated than this.</segment>
+    <segment id="4" parent="34" relname="span"> Some people -
+primarily scientists and ex-scientists who&apos;ve gone into the recent-history
+biz - seem able to redescribe events in terms of lab and institutional
+politics without offending most of their colleagues.</segment>
+    <segment id="5" parent="4" relname="evidence"> (I&apos;m thinking of e.g._
+The Double Helix_, Herbert York&apos;s _Making Weapons, Talking Peace_, or Steve
+Schneider&apos;s _Global Warming_.) </segment>
+    <segment id="6" parent="42" relname="span"> So not only the redescription, but the
+relative authorization of its source as an insider/outsider, enters into
+whether or not a redescription destabilizes. </segment>
+    <segment id="7" parent="8" relname="background">
+
+It&apos;s outsider redescriptions that are _viewed as_ destabilizing.</segment>
+    <segment id="8" parent="35" relname="span"> The odd
+thing is that neither scientists nor their funding agencies usually pay
+much attention to these.</segment>
+    <segment id="9" parent="36" relname="span"> So are they really destabilizing (of actual
+practice)?</segment>
+    <segment id="10" parent="41" relname="span"> Or is this an idealization? </segment>
+    <segment id="11" parent="37" relname="span">
+
+I tend to think it&apos;s the latter</segment>
+    <segment id="12" parent="39" relname="span"> - STS, as Weiss and others correctly point
+out, is hardly the huge, well-funded, well-organized attack on science that
+Gross et al. seem to see.</segment>
+    <segment id="13" parent="14" relname="condition"> If Gross is right (as per his recent reply to my
+comments) that no anti-realist conjecture has ever had any impact on
+standard views of objectivity and knowledge in scientific practice, </segment>
+    <segment id="14" parent="38" relname="span">then I
+don&apos;t see why the redescriptions of a few more sociologists and historians
+will matter much. </segment>
+    <segment id="15" parent="40" relname="span">
+
+I would guess that _sufficiently critical_ insider redescriptions, e.g.
+Joseph Weizenbaum&apos;s _Computer Power and Human Reason_ or Winograd&apos;s
+_Understanding Computers and Cognition_,  have more of an effect on
+scientific practice than any number of Thomas Kuhns or Harry Collins.</segment>
+    <segment id="16" parent="15" relname="elaboration"> Even
+here, immediate ostracism is the more common effect of serious challenges
+to dominant views, especially from a humanities/historical/linguistic
+perspective.</segment>
+    <segment id="17" parent="56" relname="background">
+
+&amp;gt; In general nobody, I
+&amp;gt;think, likes to be redescribed, either as a product of Freudian forces, or
+&amp;gt;a carrier for genes, or as a wetware computational device -- what&apos;s at
+&amp;gt;issue here?   Thoughts?  </segment>
+    <segment id="18" parent="56" relname="span">
+
+I wrote in previous comments that scientists&apos; self-understanding is
+integral to, but not exhaustive of, a comprehensive analysis of science.</segment>
+    <segment id="19" parent="45" relname="span"> As
+in politics, in science inherent tensions between people&apos;s &quot;objective&quot; and
+&quot;subjective&quot; positions (both terms used under erasure) helps drive the
+machine.</segment>
+    <segment id="20" parent="44" relname="span"> Gilbert and Mulkay&apos;s _Opening Pandora&apos;s Box_ is brilliant on this
+point:</segment>
+    <segment id="21" parent="20" relname="elaboration"> scientists themselves have alternate descriptions of their work as
+an intellectual and as a socio-political project, whose production depends
+upon the context and purposes of description. </segment>
+    <segment id="22" parent="50" relname="span">
+
+The climate scientists I study are alternately </segment>
+    <segment id="24" parent="48" relname="list">intellectuals working on
+issues about radiative transfer, etc.;</segment>
+    <segment id="46" parent="48" relname="list"> participants in the major political
+project of creating social responses to climate change;</segment>
+    <segment id="47" parent="48" relname="list"> and
+institution-builders competing for resources and support.</segment>
+    <segment id="23" parent="51" relname="span"> These various
+descriptions (of which many are well aware) don&apos;t mesh all that well,</segment>
+    <segment id="25" parent="49" relname="span"> but
+human affairs are like that.</segment>
+    <segment id="26" parent="55" relname="span"> I think what needs explaining is more the
+expectation that descriptions at different levels will be compatible (an
+effect of scientific worldviews?)</segment>
+    <segment id="27" parent="26" relname="antithesis"> than the fact that they aren&apos;t.</segment>
+    <segment id="28" parent="52" relname="span">
+
+&amp;gt;Edwards wants science to be permeable and accountable (and so do I) but do
+&amp;gt;accomplish this, he&apos;s going to have to invoke a redescription of science
+&amp;gt;and scientific practice which will make Gross uncomfortable, no matter how
+&amp;gt;much he appreciates Edwards&apos; respect and goodwill.  In addition, Gross
+&amp;gt;seems to take any redescription as a sort of &quot;net translation loss,&quot; where
+&amp;gt;the acheivements of Science since 1580 disappear in a haze of STS talk. </segment>
+    <segment id="29" parent="28" relname="evaluation">
+
+Right on.</segment>
+    <segment id="30" parent="53" relname="span"> What I&apos;m looking for are thick descriptions that don&apos;t depend on
+debunking strategies,</segment>
+    <segment id="31" parent="30" relname="elaboration"> but really face the complexities of what Peter Taylor
+is calling &quot;heterogeneous construction.&quot;</segment>
+    <segment id="32" parent="53" relname="elaboration"> I think it&apos;s possible, and
+necessary, to do this without casting science or scientists as idiots,
+cultural dopes, or villains.</segment>
+<group id="33" type="span" parent="3" relname="concession" />
+<group id="34" type="span" parent="6" relname="nonvolitional-cause" />
+<group id="35" type="span" parent="9" relname="nonvolitional-cause" />
+<group id="36" type="span" parent="10" relname="antithesis" />
+<group id="37" type="span" parent="10" relname="evaluation" />
+<group id="38" type="span" parent="12" relname="elaboration" />
+<group id="39" type="span" parent="11" relname="evidence" />
+<group id="40" type="span" parent="11" relname="evidence" />
+<group id="41" type="span" parent="6" relname="elaboration" />
+<group id="42" type="span" parent="3" relname="elaboration" />
+<group id="43" type="span" parent="58" relname="joint" />
+<group id="44" type="span" parent="19" relname="evidence" />
+<group id="45" type="span" parent="18" relname="elaboration" />
+<group id="48" type="multinuc" parent="22" relname="elaboration" />
+<group id="49" type="span" parent="26" relname="nonvolitional-cause" />
+<group id="50" type="span" parent="23" relname="background" />
+<group id="51" type="span" parent="25" relname="concession" />
+<group id="52" type="span" parent="30" relname="background" />
+<group id="53" type="span" parent="54" relname="span" />
+<group id="54" type="span" parent="58" relname="joint" />
+<group id="55" type="span" parent="56" relname="elaboration" />
+<group id="56" type="span" parent="57" relname="span" />
+<group id="57" type="span" parent="58" relname="joint" />
+<group id="58" type="multinuc" />
+  </body>
+</rst>

@@ -1,0 +1,119 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">
+Re Schmauss&apos;s puzzlement about whigg history etc.</segment>
+    <segment id="2" parent="33" relname="span">
+
+There is nothing in my piece that is incompatible with a thoroughgoing 
+unwhiggish approach to the histgory of science. </segment>
+    <segment id="3" parent="23" relname="span"> That is why I am 
+surprised to have been attacked even by my colleagues (eg Hilary Rose, Steve
+Woolgar [in latest THES]). </segment>
+    <segment id="4" parent="32" relname="span"> I wrote what I thought would be a piece that 
+would be pretty inoffensive to almost anyone concerned with these topics;</segment>
+    <segment id="5" parent="4" relname="background">
+one lives and learns!</segment>
+    <segment id="6" parent="34" relname="span">
+
+The only difference between the methodological relativism that I espoused
+in THES, and what, some others might do, is methodological.</segment>
+    <segment id="7" parent="8" relname="antithesis">  To achieve
+thoroughgoing unwhiggishness amounts to forgetting the `truth&apos; about what
+is being argued. </segment>
+    <segment id="8" parent="24" relname="span"> Proclaiming one&apos;s sensitivity to non-retrospection is
+rarely enough when it comes to the history of science.</segment>
+    <segment id="9" parent="8" relname="background">  Rational
+reconstruction a la Lakatos, by the way, seems to be something 
+completely different. </segment>
+    <segment id="10" parent="35" relname="span">
+
+As for the aether, the story is not mine. </segment>
+    <segment id="11" parent="25" relname="span"> I took it from Michael Polanyi and
+Lloyd Swenson</segment>
+    <segment id="12" parent="11" relname="background"> (as is made clear in the Preface to The Golem).</segment>
+    <segment id="13" parent="11" relname="background">  [I also used
+some original sources]. </segment>
+    <segment id="14" parent="11" relname="elaboration"> Neither were/are noted relativists.</segment>
+    <segment id="15" parent="36" relname="span">  The same 
+applies, of course, to the Eddington story - which we took from Earman and
+Glymour.</segment>
+    <segment id="16" parent="17" relname="nonvolitional-cause">  It seems to me, however, that what they have done is studies which
+are genuinely unwhiggish</segment>
+    <segment id="17" parent="26" relname="span"> and therefore amount to their having done their 
+history while forgetting the outcome.</segment>
+    <segment id="18" parent="17" relname="elaboration">  Methodological relativism formalises
+and tightens this principle.</segment>
+    <segment id="19" parent="27" relname="span">
+
+Finally, re Lakatos, the point is not that Michelson was checking on 
+theories of the luminiferous aether</segment>
+    <segment id="20" parent="19" relname="background"> [in any case, Swenson says they were 
+trying to measure the speed of the Earth],</segment>
+    <segment id="21" parent="37" relname="span"> the point is that whatever they
+were looking for the best experiments seemed to find an aether drift at 
+least until the 1930s.</segment>
+    <segment id="22" parent="39" relname="span">
+
+
+
+PS Readers might be interested to know that this morning the BBC (Start the
+Week with Melving Bragg), had a programme discussing the Loughborough debate.</segment>
+    <segment id="28" parent="31" relname="span">
+I had no inkling of this</segment>
+    <segment id="29" parent="28" relname="circumstance"> until a colleague mentioned to me that he had heard
+it.</segment>
+    <segment id="30" parent="22" relname="background">  I am not sure who represented the SSK position.</segment>
+<group id="24" type="span" parent="6" relname="elaboration" />
+<group id="25" type="span" parent="10" relname="evidence" />
+<group id="26" type="span" parent="15" relname="elaboration" />
+<group id="31" type="span" parent="22" relname="background" />
+<group id="32" type="span" parent="3" relname="elaboration" />
+<group id="23" type="span" parent="2" relname="background" />
+<group id="33" type="span" parent="38" relname="joint" />
+<group id="34" type="span" parent="2" relname="evidence" />
+<group id="35" type="span" parent="2" relname="evidence" />
+<group id="36" type="span" parent="2" relname="evidence" />
+<group id="27" type="span" parent="21" relname="antithesis" />
+<group id="37" type="span" parent="2" relname="evidence" />
+<group id="38" type="multinuc" />
+<group id="39" type="span" parent="38" relname="joint" />
+  </body>
+</rst>

@@ -1,0 +1,116 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">Richardson&apos;s recent comment, namely</segment>
+    <segment id="2" parent="17" relname="span">
+
+&amp;gt;I, for one, am still puzzled by methodological relativism.  The point
+&amp;gt;seems to be: If writing a history of an episode in science, do not
+&amp;gt;presume the outcome in the history.  Or, more narrowly, evaluate each
+&amp;gt;phase of the episode only on the information available to the
+&amp;gt;participants at that phase.
+
+&amp;gt;Sounds utterly uncontroversial -- it is not so much anti-Whig as I
+&amp;gt;commitment to viewing scientists as not blessed with precognition.
+&amp;gt;
+&amp;gt;The question is, again, the very one raised by Schmaus -- who doesn&apos;t do
+&amp;gt;history this way?</segment>
+    <segment id="3" parent="27" relname="span">
+
+reminded me of one case, at least,</segment>
+    <segment id="4" parent="18" relname="span"> where the explanation of a scientist&apos;s
+behavior was made to rely upon information that was not had by that
+scientist,</segment>
+    <segment id="5" parent="4" relname="elaboration"> nor could have been had by him unless things were drastically
+different. </segment>
+    <segment id="6" parent="21" relname="span"> Mary Hesse (1973), for example, explains Maxwell&apos;s belief in
+the displacement current by reference to the fact that it rendered his
+equations Lorentz-invariant, pace Maxwell&apos;s own &quot;relatively unconvincing
+reasons&quot; which involved, on Hesse&apos;s account, a &quot;superficial analogy with
+magnetism&quot; and a &quot;dubious mechanical model of the ether&quot; (138). </segment>
+    <segment id="7" parent="20" relname="span"> Hesse is
+aware of what she&apos;s doin,g and comments that</segment>
+    <segment id="8" parent="7" relname="elaboration">
+
+          It may not always be improper to &apos;explain&apos; a scientist&apos;s
+apparently baseless
+          intuition by such mathematical truths..., particularly if our
+later knowledge
+          of them enables us to interpret hints in Maxwell that could not
+have been
+
+intelligible to his contemporaries.  (138)</segment>
+    <segment id="9" parent="24" relname="conjunction">
+
+This is one example,</segment>
+    <segment id="10" parent="22" relname="span"> and Hesse may count as a philosopher, not an
+historian, in many books,</segment>
+    <segment id="11" parent="10" relname="nonvolitional-result"> so perhaps it is just barely an answer to
+Richardson&apos;s challenge.</segment>
+    <segment id="12" parent="25" relname="span">  Still, I&apos;m curious if historians who know Maxwell
+and the displacement current better than I aren&apos;t attracted by Hesse&apos;s
+strategy, if only slightly.</segment>
+    <segment id="13" parent="23" relname="disjunction">  Is this just poor history,</segment>
+    <segment id="14" parent="23" relname="disjunction"> or is there more to
+it than that?</segment>
+    <segment id="15" parent="28" relname="span">
+
+The full reference, by the way, is</segment>
+    <segment id="16" parent="15" relname="elaboration">
+
+Hesse, M. (1973)  &quot;Reasons and Evaluation in the History of Science,&quot; in
+Teich and Young (eds.), *Changing Perspectives in the History of Science:
+Essay in Honor of Joseph Needham*  (London:  Heineman, 1973), pp. 127-147.</segment>
+<group id="17" type="span" parent="3" relname="background" />
+<group id="18" type="span" parent="19" relname="span" />
+<group id="19" type="span" parent="26" relname="span" />
+<group id="20" type="span" parent="6" relname="elaboration" />
+<group id="21" type="span" parent="18" relname="elaboration" />
+<group id="24" type="multinuc" parent="12" relname="concession" />
+<group id="22" type="span" parent="24" relname="conjunction" />
+<group id="23" type="multinuc" parent="12" relname="elaboration" />
+<group id="25" type="span" parent="19" relname="elaboration" />
+<group id="26" type="span" parent="29" relname="span" />
+<group id="27" type="span" />
+<group id="28" type="span" parent="26" relname="background" />
+<group id="29" type="span" parent="3" relname="concession" />
+  </body>
+</rst>

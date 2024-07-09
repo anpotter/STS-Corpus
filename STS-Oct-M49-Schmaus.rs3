@@ -1,0 +1,91 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="nonvolitional-cause">
+I just got around to reading Collins&apos;s defense of SSK in the THES,</segment>
+    <segment id="2" parent="26" relname="span"> and I
+found something in it rather mystifying that I hope someone on this list
+can clarify.</segment>
+    <segment id="3" parent="19" relname="span">
+
+As an example of what he means by &quot;methodological relativism,&quot; he contrasts
+how to do the history of the Michelson-Morley experiment, with, somewhat
+cryptically in the passive voice, he claims it has been written.</segment>
+    <segment id="4" parent="16" relname="span">
+
+That&apos;s just what I find mystifying:</segment>
+    <segment id="5" parent="18" relname="span">  Who writes it that way? </segment>
+    <segment id="6" parent="17" relname="span"> I didn&apos;t need
+to read Collins to learn that M &amp; M weren&apos;t trying to measure the speed of
+light and that we should put aside &quot;the right answer&quot; when doing the 
+history of science.</segment>
+    <segment id="7" parent="6" relname="evidence">  Imre Lakatos, a quarter century ago, argued that the
+experiment was done originally to test between different versions of the
+luminiferous ether theory. </segment>
+    <segment id="8" parent="22" relname="preparation"> 
+
+Some questions:</segment>
+    <segment id="9" parent="24" relname="span">
+
+1.  Is Collins beating a straw man? </segment>
+    <segment id="10" parent="9" relname="elaboration"> What recent scholar has talked about
+    M &amp; M the way he describes?  </segment>
+    <segment id="11" parent="12" relname="circumstance">
+2.  When Collins traces SSK back a quarter of a century,</segment>
+    <segment id="12" parent="21" relname="span"> is he tracing     
+    it back to Lakatos?  </segment>
+    <segment id="13" parent="20" relname="span"> Is Lakatos a methodological relativist in Collins&apos;s
+    sense, too?</segment>
+    <segment id="14" parent="13" relname="elaboration">  If not, why not? </segment>
+    <segment id="15" parent="21" relname="elaboration"> What distinguishes methodological 
+    relativism from other rejections of &quot;Whig history of science&quot;?</segment>
+<group id="16" type="span" parent="3" relname="elaboration" />
+<group id="17" type="span" parent="5" relname="elaboration" />
+<group id="18" type="span" parent="4" relname="elaboration" />
+<group id="20" type="span" parent="12" relname="elaboration" />
+<group id="21" type="span" parent="23" relname="span" />
+<group id="22" type="multinuc" parent="25" relname="span" />
+<group id="23" type="span" parent="22" relname="list" />
+<group id="24" type="span" parent="22" relname="list" />
+<group id="19" type="span" parent="2" relname="elaboration" />
+<group id="25" type="span" parent="2" relname="elaboration" />
+<group id="26" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,80 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="volitional-cause">         Being neither an enemy of the philosophy of science, nor one 
+who places uncommon store by the scientific method, which I 
+understand is frequently more observed in the breach than in the 
+normal course of day-to-day science,</segment>
+    <segment id="2" parent="15" relname="span"> I would suggest a &quot;common 
+ground&quot; where philosophers of science and  practicing scientists may 
+meet--in the tradition of the gedanken experiment. </segment>
+    <segment id="3" parent="2" relname="elaboration">
+         This noble device provides a medium for the deployment of 
+philosophy of science qua science, as well as the opportunity for 
+critical discourse between scientist and philospher.</segment>
+    <segment id="4" parent="12" relname="span"> There have been 
+numerous and productive gedanken experiments in physics, biology and 
+chemistry, as well as the more applied sciences.</segment>
+    <segment id="5" parent="4" relname="elaboration"> Quantum mechanics 
+owes much to the gedanken experiment as a means of active dialogue in 
+understanding the phenomenon.</segment>
+    <segment id="6" parent="4" relname="elaboration"> Indeed, one might consider Einstein&apos;s 
+imaginative image of himself as a beam of light approaching the speed 
+of light and the consequences of this on mass as one example of the 
+successful fruits of a gendanken experiment.</segment>
+    <segment id="7" parent="8" relname="condition"> 
+         If it is empirical claims for the role of the philosophy of 
+science that we seek,</segment>
+    <segment id="8" parent="16" relname="span"> then where better to look than in the gedanken 
+experiment? </segment>
+    <segment id="9" parent="10" relname="condition"> I would suggest that if philosophers have a role in 
+science,</segment>
+    <segment id="10" parent="13" relname="span"> it lies in the imaginative use of the thought experiment as 
+a way of suggesting new and fertile avenues of research. </segment>
+    <segment id="11" parent="13" relname="elaboration">
+        I await your comments with interest.</segment>
+<group id="12" type="span" parent="2" relname="elaboration" />
+<group id="13" type="span" parent="14" relname="span" />
+<group id="14" type="span" parent="8" relname="motivation" />
+<group id="15" type="span" parent="17" relname="span" />
+<group id="16" type="span" parent="15" relname="summary" />
+<group id="17" type="span" />
+  </body>
+</rst>

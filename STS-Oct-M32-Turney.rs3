@@ -1,0 +1,494 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="4" relname="preparation">Attention ontological relativists (and others).</segment>
+    <segment id="4" parent="34" relname="span">
+
+I indicated that I would post the text of the THES articles currently being
+discussed. </segment>
+    <segment id="5" parent="4" relname="background"> Harry Collins has already posted the preferred version of his
+piece.</segment>
+    <segment id="6" parent="27" relname="span">  My former colleagues have now sent me a further set of files. </segment>
+    <segment id="7" parent="24" relname="span"> On
+inspection, these appear to be the original texts submitted, before editing,
+so any further commentary will need to bear this in mind! </segment>
+    <segment id="8" parent="7" relname="elaboration">  In particular,
+Atkins is longer here than the printed version, as is Ziman.</segment>
+    <segment id="9" parent="4" relname="background">  There is also
+a piece here (by the British astronomer Alec Boksenberg) which never
+appeared in the paper- and two pieces printed which I don&apos;t have (by Aisling Irwin,
+the THES reporter, and a short piece by microbiologist John Postgate).</segment>
+    <segment id="10" parent="26" relname="nonvolitional-cause">  I
+don&apos;t propose to bother the paper any further about this.</segment>
+    <segment id="11" parent="25" relname="condition">  If you want the
+newspaper text as printed,</segment>
+    <segment id="25" parent="26" relname="span"> a library visit will still be needed, I&apos;m afraid.</segment>
+    <segment id="12" parent="29" relname="span">
+
+
+I gather the paper will print a  selection of letters on the subject tomorrow
+(Oct 7).</segment>
+    <segment id="13" parent="12" relname="elaboration"> More can be sent by e-mail to THESCHAT@timsup2.demon.co.uk</segment>
+    <segment id="14" parent="32" relname="span">
+
+I hope what follows is of interest.</segment>
+    <segment id="15" parent="30" relname="preparation">
+The order below is:</segment>
+    <segment id="16" parent="30" relname="list">
+John Ziman</segment>
+    <segment id="18" parent="30" relname="list">
+Alec Boksenberg</segment>
+    <segment id="17" parent="30" relname="list">
+Richard Dawkins</segment>
+    <segment id="19" parent="30" relname="list">
+Brian Goodwin</segment>
+    <segment id="20" parent="30" relname="list">
+Peter Atkins</segment>
+    <segment id="21" parent="30" relname="list">
+Hilary Rose</segment>
+    <segment id="22" parent="33" relname="span">
+
+Herewith are the THES articles requested by you through Sian Griffiths.</segment>
+    <segment id="23" parent="22" relname="background">
+Each article is separated by a row of asterix.</segment>
+    <segment id="2" parent="36" relname="span">
+
+
+To say science is a social construct seems to me to be a truism. How else
+is science made except through human activity? It is closely connected
+with other human interests: scientific knowledge plays an important part
+in politics and other matters, and is not independent of them. But that does
+not mean that it is not constrained by observation and experiment on the
+natural world.
+I think the sociology of science is fundamental to the understanding of
+science. But sociology, the understanding of social systems and
+interactions, is very broad, and is not to be hijacked by any one particular
+school which talks about &quot;the sociology of science knowledge&quot; as if that
+were all that need be said on the subject.
+One of the key points which I think the &quot;strong programme&quot; people are
+missing is that science itself is a peculiar social system, like any large
+social organisation or institution. If they were serious sociologists, then
+they would be looking at some of the broader social relationships which
+make a lot of difference in the sort of knowledge that is produced. For
+example, there is the traditional academic type of science where knowledge
+had to be made public. Someone who had worked entirely in secret was
+not a scientist, and what they claimed they had discovered could not be
+considered scientific knowledge until it had been publicly tested by others. 
+I like to use the word &quot;metascience&quot;, encompassing science studies
+generally, bringing in bits of history, philosophy, sociology, psychology,
+anthropology, economics, etcetera. People have long considered a historical
+and philosophical point of view appropriate in thinking about the nature
+of science, but it is quite inadequate if you don&apos;t see it as also involving
+insights from the social sciences and humanities. 
+
+John Ziman. 
+
+
+*********************************************************
+
+To assert that science is a social construct is to confuse the fundamental
+drives of scientific endeavour and the influences of social environments.
+These influences may appear to cultivate, facilitate or constrain scientific
+activity. In turn science has influenced and indeed become part of the
+wider phenomena of social change.
+It is clear that as a pursuit science can be regarded as a social occupation,
+but is science nothing but an internal creation of society? Emphatically it
+is not. While aspects of scientific thought and practice can be looked at as
+ examples of thought and practice in general, and it is indeed false to
+claim that science and society are autonomous entities with science
+developing in some sort of cultural vacuum, it is the business of science
+to transcend the social constraints and moderators and to set sights on the
+underlying truths of nature. If conclusions to scientific debates seem
+sometimes to be matters of social consensus this is only an ephemeral
+condition. Any disputes in science are settled both by more careful
+observation of the facts and from the perspective of an ever widening
+knowledge bases. Normal science -- call it the ultimate problem-solving
+activity -- is a highly cumulative enterprise, eminently successful in its
+aim, the steady extension of the horizon and precision of natural
+knowledge. This is not to deny that, at any time, our whole scientific
+picture of the natural world is limited both by our understanding and the
+methods available to us. This picture merely is a description of what we
+observe and infer of a complex reality. It can never claim to be the
+absolute truth but always it is the best picture we can have. 
+In the last analysis what is perceived will depend on what is &quot;there&quot; to be
+seen: this has no place in the social sphere. While it may be of interest to
+sociologists to explore social influences in science it is simplistic, and
+wrong, for them to assume ownership of science.
+Similarly, in my view, the sociology of science has contributed nothing to
+the understanding of science. Given the spectacular growth and success of
+science it is tempting to associate this with the overall concurrent social
+change. Science is indeed linked with society, by its practical application.
+Whether in improving industrial processes, communications or medical
+techniques, the effects of science are evident. But here one must make a
+distinction between science and technology. Technology may be seen
+ as a direct product of scientific endeavour, and science often can be
+identified as the catalyst for developments in technology that have led to
+social change, but these are not to be confused with the single-minded
+exploration of nature that is the hallmark of basic science. 
+With the above said, whether scientists ought to know what is going on in
+the sociology of science is a matter for the individual. I believe is it of no
+consequence to the practice or achievements of science to know how
+sociologists assess scientific activity or what conclusions stem from this.
+And from the point of view of the sociologist it is not necessary to care
+at all about the scientific fact of theory whose pursuit by scientists is the
+subject of study. But in so far as sociology impinges on the socio-
+economic climate in which science is promoted and supported, then
+scientists should know what is going on.
+
+Alec Boksenberg FRS is director of the Royal Observatories
+
+***********************************************************
+
+Lewis Wolpert is to be congratulated for standing up at the British
+Association and blowing the whistle on chic drivel of the &quot;All knowledge
+is a social construct and merits equal attention&quot; persuasion. 
+A sociologist of science could usefully defend the more modest claim that
+scientists are influenced by their own social and cultural background, but
+this does not seem to have been the issue at Loughborough. Darwin might
+have been inspried by Victorian economics when he thought of natural
+selection. If true, this is an interesting contribution to the history of ideas,
+but it does not affect the primary question of whether life does, as a matter
+of fact evolve by natural selection. &quot;As a matter of fact&quot; is not a phrase
+one should apologise for using.
+I once put the following question to a social scientist colleague: &quot;Suppose
+there is a tribe which believes that the moon is an old calabash tossed just
+above the treetops. Are you saying that this tribe&apos;s belief is just as true as
+ our scientific belief that the moon is a large Earth satellite about a quarter
+of a million miles away?&quot; His reply was that truth is a social construct and
+therefore the tribe&apos;s view of the moon is just as true as ours. That there
+ is something deeply silly about this sort of thing soon appears when you
+ask practical questions. If a consultant gastro-enterologist says that a
+tribesman is suffering from cancer of the colon, and the tribe&apos;s own witch-
+doctor says he is suffering from evil spirits, which treatment is, as a matter
+of fact, most likely to cure him, a colonectomy or an exorcism? Why,
+when Harry Collins was asked if he believed scientific knowledge to be
+only a social construct, did he refuse to answer?
+
+Western science works. The theory that leads a cargo-cult tribe to build a
+wooden plane in a jungle clearing does not work. Admittedly the plane is
+not meant to fly, but it doesn&apos;t even have its proposed effect of
+summoning rich cargo-dispensing ancestors either. When you take a 747
+to an international convention of sociologists or literary critics, the reason
+you will arrive in one piece is that a lot of western-trained scientists and
+engineers got their sums right. If it gives you satisfaction to say that the
+theory of aerodynamics is a social construct that is your privilege, but why
+do you then entrust your air-travel plans to a Boeing rather than a magic
+carpet or a levitating fakir? As I have put it before, show me a cultural
+relativist at 30,000 feet and I will show you a hypocrite.
+
+Richard Dawkins is reader in zoology at Oxford university and a fellow of
+New College. He is the author of The Selfish Gene and The Blind
+Watchmaker 
+
+
+************************************************************
+***
+
+The answer to the question &quot;Is science a social construct?&quot; seems to me so
+obviously &quot;yes&quot; that only some misunderstanding about its meaning could
+lead anyone to say &quot;no&quot;. Perhaps it is being confused with two related 
+questions. 
+First: Do you believe that the object of scientific investigation is a social
+construct? My answer to this is no. The reason is that I am a realist: I
+believe that there is a real world that exists independently of us 
+even though we are entangled in it, and that we can obtain knowledge
+about it. The second related question is: Do you believe that scientific
+knowledge is a social construct? My answer to this is yes. Saying no
+implies that scientific knowledge exists independently of human activity,
+which requires that the knowledge be revealed to humans in some special
+way: either from God, for instance, or by nature speaking directly through
+special people. 
+There may be scientists who feel that they are in the latter category, but
+most of us take a more modest position and see scientific knowledge as
+the product of the activities of scientists acting as social beings working
+within a disciplinary framework into which they are socialised. The
+knowledge that is constructed is independent of reality but the aim of
+science is to adequately represent this reality.
+The structure of science is clearly a social construct and the process of
+science is a social activity. Four hundred years ago science as we know it
+did not exist. It was not discovered on the beach one day. It was
+constructed historically and socially. I believe that historians and
+sociologists of science do an important job in examining this process. Why
+did Darwin formulate his theory of evolution as he did? What were the
+influences that led him to make certain assumptions and not others? It is
+important for scientists to see theories in historical and social context, as
+well as in relation to evidence, in order to consider options. Darwin&apos;s
+theory as the conceptual basis of biology has severe limitations, and we
+may expect that there will be another theory that does a better job both in
+understanding biological reality and in relation to social meaning and
+action. These two faces of science are equally important. So my answer is
+yes to questions 2 and 3 also.
+
+Brian Goodwin is professor of biology at the Open University
+
+
+**************************************************************
+
+Somewhere, buried in the awesome complexity of Nature, lies the truth.
+It is the task of science to disclose that truth, and the scientific method --
+essentially edging forward by experimentation guided by and guiding
+theorizing -- appers to be the most reliable mode of discovery. 
+It may also be the only method of reliable discovery, but that we shall
+probably never be able to test. There have certainly been other claimants
+to the possession of modes of discovering the truth, and some are with us
+still. They include religions, where the mode is personal revelation allied
+with social coercion, and meditation, which is an inward form of religion
+without the component of social coercion. Religion is definitely socially
+conditioned, and its manifest failure to elucidate, as distinct from its
+seemingly infinite power to confuse, could perhaps be construed as an
+indication of the dangers that lie in wait for &quot;socially constructed&quot; modes
+of discovering information. How can we be confident that science is
+independent of society? First, there are the superficial indications.
+Specifically, scientific conclusions -- its laws (its summaries of experience)
+and its theories (its rationalization and revelation of interconnection) -- are
+seemingly universal. Laws and theories, provided they are substantiated,
+are accepted worldwide in cultures of endless variety, in societies with
+different religions, political systems, personal deportments, and histories.
+There is no Second Law for Christians and another Second Law for
+Moslems; there is no General Relativity for Shintoists and another General
+Relativity for Voodoo-ists. 
+It might be argued that the Behemoth of Western science has trampled
+underfoot the green shoots of alternative science, but there is not one iota
+of experimental evidence for this view and every reason to believe that
+those who hold it are motivated by jealousy in one of its disguises (such
+as political correctness) or by a wish to see science&apos;s progress tripped.
+That science is so successful at elucidation both trans-culturally and trans-
+nationally is a first clear indication that it is not a social construct. 
+Second, although societies change, sometimes by revolution and sometimes
+regressively, science evolves smoothly and progressively. There is in fact,
+no such thing as a total scientific revolution. Even those paradigms of
+purported revolution, quantum theory and relativity, can, from our current
+perspective, be seen to be elaborations of classical physics, for they
+preserve much of its concepts, procedures, and attitudes. Science proceeds
+by progressive, never regressive, evolution, gradually accreting information
+and concepts that jointly enable its web to be extended. True, concepts are
+discarded as they are found to be unnecessary, inappropriate, or
+misleading; but their discarding is based on experimental evidence or
+theoretical argument, not on political, legal, or social expediency. It is
+noteworthy that the development of the theory of natural selection during
+the 19th century effectively demolished the authority of the establishment
+within which the theory had emerged. Truth will out despite the
+consequences and despite the social milieu.
+Third, science constitutes a network that has been built by investigations
+in a wide variety of fields. Our current science springs from observation
+as diverse as the abstract remoteness of the interpretation of tracks
+recorded at CERN to the physical remoteness of monitoring sea-slugs in
+Peru. Yet, despite the variety, both intellectually and socially, of these
+sources, where they impinge on one another they invariably augment. If
+science were a social construct, one would expect concepts and
+observations that emerge from disparate sources and disciplines to clash.
+Yet they invariably slot together like a key into a well-oiled lock.
+Fourth, the pinnacle of scientific explanation is to be found in
+mathematics. It is certainly true that not all scientific concepts are to be
+found expressed mathematically, and some theories of high science, such
+as the theory of evolution by natural selection, can be expressed without
+it. Nevertheless, it is certainly true that fundamental ideas touching on the
+deep structure of the Universe, the nature of elementary particles, the
+nature of spacetime, cosmogenesis, motion, and in due course perhaps the
+attributes of consciousness, can be expressed only in terms of mathematics.
+Mathematics is aloof from being a social construct, being essentially a
+distillation of the logic of relationships and utterly dry of any drips of
+sentiment. It is thus hard to see how it can be maintained, if the deepest
+results of science are discovered and expressed in a language that is so
+utterly remote from sociological aspects of society, that the knowledge so
+obtained is a social construct.
+The universal character of science, by which I mean its independence of
+lasting national, racial, religious, and political influences, must argue
+strongly against the view that it is a social construct. Even if one social
+group were so to dominate the landscape of scientific achievement, any
+conscious conspiracy of silence would soon be exposed. The sociology of
+science is such that scientists are desperate to discover: their reputation and 
+funding -- their professional lives -- depend on it. If a scientist has a 
+whiff of a discovery, then he will pursue it to the ends of the Earth partly
+for the pure joy of exposing a hitherto unknown continent or even tiny
+island of knowledge, but partly for the sake of self-advancement and a
+ species of immortality. Regions of the unknown simply cannot remain
+hidden under the onslaught of the activities of this refinement of market
+forces. 
+Of course, it could be argued that there are regions of knowledge that are
+so in conflict with current paradigms that there is an unconscious
+conspiracy of silence: the paranormal is an example. However, for all such
+heresies there is virtually no sound evidence. Heretical &quot;observations&quot; are
+all unrepeatable, contrived, or explicable by some adaptation of
+conventional science. Unlike true science, which is a progression founded
+in a globally coherent theoretical structure, the paranormal pseudosciences 
+are speculative islands unsupported by any theoretical framework that
+meshes into accepted and verified observations. The only sociology of
+science involved in their exclusion from the pantheon of true science is
+contempt for the evidence and scpticism of the power of free-form
+speculation without the discipline and rigour of coherence within the
+otherwise globally accepted paradigm.. in other words, the paranormal is
+almost certainly speculative rubbish.
+If science were a social construct, it would be hard to see how so much of
+modern technology could work. The whole of the ubiquitous electronics
+industry relies on quantum theory and a knowledge of materials that draws
+on the deep principles of conventional science. It is simply absurd to
+suppose that the development of technology is part of a conspiracy, even
+an unconscious one. The same is equally true of the foundations of life and
+the cautiously emerging industry based on genetic engineering and hence 
+ultimately on molecular biology. 
+The wonder of science is that it is a union (not a Mafia) of minds. Far
+from being locally cohesive but globally exclusive, like religion and other
+socially constructed codes, science is globally inclusive. Regardless of
+background, a scientist can enter the sociological framework of science
+provided he maintains the standards of integrity that (apart from a few
+soon-exposed warts) generally characterize the activity, and adopts the
+procedure of public experimentation that is science&apos;s principal route to
+knowledge.
+Why, though, do some people hope that science is a social construct? In
+the main, I suspect, they are a subset of those who fear the achievements
+of science in exposing the unsentimental core of the world. Moreover, it
+is inevitable that practitioners of a particular cause are likely to consider
+their discipline more royal than another, and to justify this view by seeking
+to undermine what is widely regarded as superior. Social scientists, I
+suspect, are not immune to this disease, as true scientists (as this article
+reveals) are not also. However, science has much to show, whereas social
+science does not.
+Although the sociology of science is worthless epistemologically, it can
+illuminate its procedures. Science is certainly a social activity, and hence
+it is subject to the dynamics that attend any tribal association. There are
+cautious revolutions, dominant and submissive members; there is crime and
+there is politics. All this is a proper and worthwhile object of investigation,
+and in certain respects social scientists are well equipped to contribute.
+They are also entirely within their rights to probe the
+authority of science and to invite scientists to reflect on the nature of their
+activity. But they have virtually nothing to contribute to the pursuit of
+science itself, which is best left to that most effective and constructive
+group of human beings, the scientists themselves.
+
+Peter Atkins is a fellow of Lincoln College, Oxford, and university lecturer
+in physical chemistry.
+
+************************************************************
+*******
+
+
+
+
+The question of the impact of the sociology of science on science looks all
+too likely to be framed by the debate between biologist Lewis Wolpert and
+sociologist Harry Collins at the British Association. This poses a problem
+ for observers, for each holds a very particular epistemological stance
+which is by no means generically held by other members of their
+disciplines. 
+
+Thus as we saw from the debate Lewis takes a realist view of science
+whereas Harry takes a relativistic view -- the point being that it is entirely
+possible to take a social constructionist view, as most social scientists do,
+without taking issue with the truth claims of science. Some do, some do
+not, and some regard their own accounts reflexively. However, it is
+precisely at this moment that the essentially macho debate begins, for both
+Harry and Lewis believe that what they say about the sociology of science
+is unequivocally &quot;true&quot;. For Lewis this seems to be a sort of spill over
+from the claims of certainty of the experimental sciences. For Harry, while
+natural science is socially constructed
+ and has only relativistic truth, his own sociological account of science
+calims truth. With both Harry and Lewis being &quot;right&quot; we get an exchange
+which tells us more about constructions of academic masculinity than how
+much science and the sociology of science can learn from one another.
+Pass please.
+
+Hilary rose is author ofLove Power and Knowledge: Towards a feminist
+transformation of the sciences.
+
+</segment>
+    <segment id="3" parent="35" relname="joint">
+Date: Thu, 06 Oct 1994 11:57:39
+From: aeweiss@mtu.edu (Andrew Weiss)
+To: SCI-TECH-STUDIES@UCSD.EDU
+Subject: Gross&apos;s response to Weiss
+
+STS-Oct-M33-Weiss
+Thanks to Gross for his reasoned reply to my posting (and thanks to those
+with far more expertise than I who followed up).  However, I think Gross
+missed a number of my points (and perhaps my embellished rhetoric interfered
+with my message, for which I won&apos;t apologize).  First, I did not mean to
+imply that technoscience (for lack of a better word) was THE CAUSE of
+overpopulation and world travel, merely a vital contributor.  The extension
+of this position (illustrated by Marks), is to ask if there is something in
+the nature of technoscience or in the manner in which it is practiced that
+leads it to often exacerbate the very problems it seeks to ameliorate? 
+Iatrogenesis is but one example; another is military technology (do better
+weapons bring more or less national security and global conflict?).  I&apos;m not
+saying this is a black-or-white issue, but that there are enough instances
+of technoscience better serving the needs of its practitioners and its
+powerful patrons than the needs of ordinary people, that the institution
+deserves critical scrutiny of a fundamental nature.
+
+Gross later asks why STSers don&apos;t apply for guidance on what to study.  I&apos;m
+not against this, and I think it would probably be useful.  But I&apos;m not
+going to start pushing for it relentlessly until we begin to get hundreds of
+millions of dollars to pursue our research and until the fruits of our study
+show the potential to change the ways people live their lives.  I do, by the
+way, think their is a clear strain of fear-of-the-people (or fear of
+democracy) in technoscientists (see, for example, Fischer, _Technocracy and
+the Politics of Expertise_, Sage 1990).
+
+Finally, the only alternative to having agendas set by the experts is not
+having it set by members of Congress according to their own, often
+parochical, agendas.  Another alternative is reasoned public debate. 
+Farfetched perhaps, but primarily because none of the parties are adequately
+prepared for it.  The general awareness of the transformatory power and
+limitations of technoscience, as well as the tentative nature of many
+knowledge claims, is poor among the public, the experts, and policy makers. 
+In my humble opinion, the best of STS is what seeks to address this problem.
+And it is not a problem that will be solved quickly, or that can be solved
+by the cogitation of academics.  It will take political conflict and
+negotiation, social learning, and deliberate experimentation.  We will have
+to muddle through it, which is not the same thing as proceeding in a
+muddleheaded manner.  We can muddle intelligently, deliberately, and with
+respect for the inevitably differing positions various stakeholders.  We may
+not find THE ANSWER (in fact, I think answers are overrated), but we at
+least will be talking to and not past each other (cf. Stone, _Policy Paradox
+and Political Reason_, HarperCollins 1988).</segment>
+<group id="24" type="span" parent="6" relname="elaboration" />
+<group id="26" type="span" parent="28" relname="span" />
+<group id="27" type="span" parent="4" relname="background" />
+<group id="28" type="span" parent="4" relname="background" />
+<group id="29" type="span" parent="4" relname="background" />
+<group id="30" type="multinuc" parent="31" relname="span" />
+<group id="31" type="span" parent="14" relname="elaboration" />
+<group id="32" type="span" parent="22" relname="preparation" />
+<group id="33" type="span" parent="2" relname="background" />
+<group id="34" type="span" parent="2" relname="background" />
+<group id="35" type="multinuc" />
+<group id="36" type="span" parent="35" relname="joint" />
+  </body>
+</rst>

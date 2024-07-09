@@ -1,0 +1,87 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="solutionhood">Steve.Fuller@durham.ac.uk wrote Oct. 10 from Charlottesville VA
+&amp;gt;REPLY TO SHANKS AND RICHARDSON ON ENEMIES OF SCIENCE:
+&amp;gt;
+&amp;gt;Nobody is denying that philosophical considerations have informed and 
+&amp;gt;motivated scientific work. In fact, it would be hard to comprehend the 
+&amp;gt;point of doing science without smuggling in philosophy. However, there 
+&amp;gt;are still a few open questions. First, whether scientists really need a 
+&amp;gt;class of people called &apos;philosophers of science&apos; to help them with their 
+&amp;gt;philosophizing. Second, whether philosophers of science should be in the 
+&amp;gt;business of &apos;helping scientists&apos; rather than doing something a bit more 
+&amp;gt;independent and/or critical. . . .</segment>
+    <segment id="2" parent="20" relname="span">
+
+There are obvious answers to Fuller&apos;s enumerated questions.</segment>
+    <segment id="3" parent="13" relname="span">  First, there
+appears to be ample evidence that scientists do not need philosophers&apos;
+help to do good science; </segment>
+    <segment id="4" parent="3" relname="elaboration"> and usually derive any related philosophy
+directly from the science rather than through the discipline of philosophy. </segment>
+    <segment id="5" parent="13" relname="background">
+(Peter Medawar has commented on this.)</segment>
+    <segment id="6" parent="7" relname="concession">  Second, one may test
+for &quot;helpfulness&quot; in any enterprise by asking the views of either the
+helpers or the people helped: </segment>
+    <segment id="7" parent="19" relname="span"> but it would be naive to expect these tests
+to be equivalent.</segment>
+    <segment id="8" parent="9" relname="concession">
+
+In Canada where the discipline of &quot;political science&quot; is old and strong,</segment>
+    <segment id="9" parent="17" relname="span"> I
+see a similar relation. </segment>
+    <segment id="10" parent="16" relname="span"> The PS discipline needs politicians to keep going
+but not vice versa.</segment>
+    <segment id="11" parent="12" relname="antithesis">  (Politicians will cite PS when to their advantage,</segment>
+    <segment id="12" parent="15" relname="span">
+but have no functional need for its scholarly activity or people.)</segment>
+<group id="13" type="span" parent="14" relname="span" />
+<group id="14" type="span" parent="18" relname="list" />
+<group id="15" type="span" parent="10" relname="background" />
+<group id="16" type="span" parent="9" relname="elaboration" />
+<group id="17" type="span" parent="7" relname="elaboration" />
+<group id="18" type="multinuc" parent="21" relname="span" />
+<group id="19" type="span" parent="18" relname="list" />
+<group id="20" type="span" parent="18" relname="background" />
+<group id="21" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,138 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="33" relname="span">Reply to EDWARDS:</segment>
+    <segment id="2" parent="1" relname="elaboration">
+
+On getting science studies into the New York Review of Books:</segment>
+    <segment id="3" parent="34" relname="span"> In
+principle, it&apos;s a great idea,</segment>
+    <segment id="4" parent="50" relname="span"> but I wonder just how receptive NYRB is to
+science studies.</segment>
+    <segment id="5" parent="4" relname="evidence"> Didn&apos;t Clifford Geertz do a number on Donna Haraway and
+some other feminist writers a few years ago?</segment>
+    <segment id="6" parent="48" relname="span"> Also, does anyone know of a 
+case where they accepted a review that hadn&apos;t first commissioned?</segment>
+    <segment id="7" parent="6" relname="elaboration"> The 
+same people always seem to crop up as reviewers. </segment>
+    <segment id="8" parent="9" relname="concession">
+
+However, assuming these are not insurmountable barriers,</segment>
+    <segment id="9" parent="36" relname="span"> the question
+becomes who does the review.</segment>
+    <segment id="10" parent="35" relname="span"> I doubt if a high-profile person in this
+field would actually be allowed to do the review.</segment>
+    <segment id="11" parent="10" relname="elaboration"> Either they&apos;d pick a
+well-placed scientist (like GROSS) or someone who is professionally
+disposed to be detached and neutral, like a historian.</segment>
+    <segment id="12" parent="47" relname="span"> A good person for
+the latter role would be David Hollinger, this year&apos;s HSS banquet speaker,
+whose own work is in contemporary intellectual history.</segment>
+    <segment id="13" parent="12" relname="elaboration"> He identifies
+himself as a Rortyan pragmatist, which means that he is sympathetic with
+all but the more radical fringes of STS.</segment>
+    <segment id="14" parent="37" relname="span"> At the same time, he was able to
+write a polite review of Gerald Holton&apos;s latest effort, _Science and
+anti-science_, which contains some of the NAS-ish stuff that HAMLETT
+started us off with.</segment>
+    <segment id="15" parent="14" relname="background"> This appeared in _Science_. </segment>
+    <segment id="16" parent="17" relname="preparation">
+
+On that lunatic fringe in STS:</segment>
+    <segment id="17" parent="46" relname="span"> Actually, I&apos;d like to see some names 
+named.</segment>
+    <segment id="18" parent="17" relname="elaboration"> Who is on record as saying that there is no external reality and 
+that science is overall worse than other forms of knowledge?</segment>
+    <segment id="19" parent="38" relname="span"> What people 
+DO say is that the question of external reality is irrelevant to 
+understanding what scientists do and why they do it.</segment>
+    <segment id="20" parent="39" relname="span"> This is quite a 
+different claim, and should be thought of in the same light as trying to 
+explain religion without making reference to a deity.</segment>
+    <segment id="21" parent="20" relname="background"> One need not be an 
+atheist to think this a worthwhile project.</segment>
+    <segment id="22" parent="23" relname="concession"> Now, I will grant that some 
+people attached to the political movement side of feminism, ecology, and 
+multiculturalism often sound anti-science,</segment>
+    <segment id="23" parent="45" relname="span"> but I think we need to go 
+beyond the injudicious soundbite to get at what bothers them.</segment>
+    <segment id="24" parent="25" relname="circumstance"> As we get 
+closer to the &apos;academic&apos; side of our field,</segment>
+    <segment id="25" parent="43" relname="span"> more hostility is vented 
+toward philosophers than scientists.</segment>
+    <segment id="26" parent="40" relname="span"> Latour, e.g., once described 
+philosophers of science as &apos;the strumpets and whores of science&apos; </segment>
+    <segment id="27" parent="26" relname="background">
+(something like this appears in the interview he did with Werner 
+Callebaut in _Taking the Naturalistic Turn_).</segment>
+    <segment id="28" parent="29" relname="circumstance"> And when scientists are 
+harangued,</segment>
+    <segment id="29" parent="44" relname="span"> it&apos;s usually because they&apos;ve bought into some philosophical 
+theory of science that leads them to capitalize their references to &apos;truth&apos;. </segment>
+    <segment id="30" parent="41" relname="span">
+For example, I&apos;ve never read anything by Harry Collins that was 
+anti-science.</segment>
+    <segment id="31" parent="42" relname="span"> In fact, in his piece for the THES, he actually goes out of 
+his way to say how much he likes science and how he&apos;s trying to get 
+people to relate to it better</segment>
+    <segment id="32" parent="31" relname="background"> (The piece is written as a long 
+advertisement for _The Golem_, recently released in paperback.)</segment>
+<group id="34" type="span" parent="4" relname="concession" />
+<group id="35" type="span" parent="9" relname="antithesis" />
+<group id="36" type="span" parent="12" relname="solutionhood" />
+<group id="37" type="span" parent="12" relname="elaboration" />
+<group id="39" type="span" parent="19" relname="elaboration" />
+<group id="40" type="span" parent="25" relname="elaboration" />
+<group id="41" type="span" parent="29" relname="circumstance" />
+<group id="42" type="span" parent="30" relname="evidence" />
+<group id="43" type="span" parent="23" relname="elaboration" />
+<group id="44" type="span" parent="23" relname="elaboration" />
+<group id="45" type="span" parent="51" relname="span" />
+<group id="47" type="span" parent="48" relname="solutionhood" />
+<group id="48" type="span" parent="49" relname="span" />
+<group id="49" type="span" parent="4" relname="evidence" />
+<group id="50" type="span" parent="52" relname="joint" />
+<group id="33" type="span" parent="3" relname="preparation" />
+<group id="46" type="span" parent="19" relname="antithesis" />
+<group id="38" type="span" parent="45" relname="background" />
+<group id="51" type="span" parent="52" relname="joint" />
+<group id="52" type="multinuc" />
+  </body>
+</rst>

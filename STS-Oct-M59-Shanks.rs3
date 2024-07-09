@@ -1,0 +1,359 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">I am going to respond to the following remarks by STEVE FULLER:</segment>
+    <segment id="2" parent="88" relname="span">
+&amp;gt; 
+ First off, SHANKS claims that philosophers of scinece don&apos;t see 
+&amp;gt; themselves as underlaborers to scientists, but in fact several have 
+&amp;gt; openly embraced this Lockean image.</segment>
+    <segment id="3" parent="2" relname="evaluation">
+
+This is quite consistent with what I said. </segment>
+    <segment id="4" parent="92" relname="span"> All I was trying to 
+suggest is that philosophers of science were legitimate participants, 
+along with the scientists themselves (theoretical and experimental), 
+in shared enterprises with (some) shared goals.</segment>
+    <segment id="5" parent="87" relname="span">  I sense that some 
+participants in this debate would like to &quot;down-size&quot; science</segment>
+    <segment id="6" parent="5" relname="elaboration"> -- and 
+as usual, the first to go are the underlaborers.</segment>
+    <segment id="7" parent="8" relname="antithesis">
+
+ In his book of interviews with 
+&amp;gt; philosophers of science, Werner Callebaut observed this pattern very 
+&amp;gt; strongly. Some guys, like Robert Brandon, made it very clear that  the 
+&amp;gt; scientists set the agenda for philosophers of science (at least teh ones 
+&amp;gt; he associates with). </segment>
+    <segment id="8" parent="93" relname="span">
+
+The sense in which philosophers of science might legitimately be 
+called underlaborers is the sense in which, if there was no science, 
+there would be no philosophy of science. </segment>
+    <segment id="9" parent="91" relname="span"> The &quot;underlaborer&quot; image 
+has other connotations. </segment>
+    <segment id="10" parent="89" relname="span"> Some of the great artists had 
+underlaborers -- skilled artisans who completed their works and put 
+in the details. </segment>
+    <segment id="11" parent="10" relname="evaluation"> Very important work too.</segment>
+    <segment id="12" parent="89" relname="elaboration">  I guess you don&apos;t have to 
+be a simpering lackey to be an underlaborer.</segment>
+    <segment id="13" parent="14" relname="background">
+
+
+I made a big deal about this in the review I did of 
+&amp;gt; Callebaut&apos;s book in _Science_ (May 94). Philosophers involved in 
+&amp;gt; cognitive science also talk this way. (I recall Jerry Fodor invoking the 
+&amp;gt; underlaborer image a couple of times in his books.)
+&amp;gt; 
+&amp;gt; Moreover, if you see the work of philosophy of science as primarily one 
+&amp;gt; of clarifying concepts and arguments -- as SHANKS seems to -- then you&apos;ve 
+&amp;gt; embraced the underlaborer role. The only sort of criticism being provided 
+&amp;gt; is internal to the scientific enterprise.</segment>
+    <segment id="14" parent="95" relname="span">
+
+I guess I&apos;m guilty as charged. </segment>
+    <segment id="15" parent="94" relname="span"> The contribution of philosophy of 
+science can indeed be valuable as an internal-to-science activity. </segment>
+    <segment id="16" parent="100" relname="span"> 
+Here I think we finally come to something like the internal/external 
+distinction that RICHARDSON mentioned a few days ago. </segment>
+    <segment id="17" parent="96" relname="preparation"> 
+
+Here are some questions.</segment>
+    <segment id="18" parent="96" relname="list">  Are all external criticisms of science 
+equally valid?</segment>
+    <segment id="19" parent="96" relname="list">  Or are some more valid than others? </segment>
+    <segment id="20" parent="96" relname="list"> What is the 
+standard for making a judgement here? </segment>
+    <segment id="21" parent="97" relname="solutionhood"> Are evidential considerations 
+relevent? </segment>
+    <segment id="22" parent="97" relname="span"> If so, we run the danger of sneaking across the 
+(internal/external) border into the province of science</segment>
+    <segment id="23" parent="22" relname="circumstance"> -- where the 
+grading of evidence for quality is one of the hallmarks of the 
+activity properly done.  </segment>
+    <segment id="24" parent="101" relname="circumstance">
+
+When BERNIE LIEBERMAN criticizes science (Bernie, I hope I&apos;m not 
+misrepresenting you)</segment>
+    <segment id="101" parent="105" relname="span"> he is concerned with (among other things) 
+misleading claims made by scientists in public policy debates, 
+especially in the context of Big Science.</segment>
+    <segment id="25" parent="101" relname="enablement">  He is also worried, I take 
+it, by the lack of promised results from some of the Big Science 
+projects -- raising issues about value for money.</segment>
+    <segment id="26" parent="106" relname="span">  Let me add that 
+this can all be legitimate criticism.</segment>
+    <segment id="27" parent="104" relname="span">  But how external to science is 
+it? </segment>
+    <segment id="28" parent="29" relname="circumstance"> When BERNIE has a go at the Cancer Gang,</segment>
+    <segment id="29" parent="102" relname="span"> he is an external 
+critic in the sense that he is not a cancer researcher.</segment>
+    <segment id="30" parent="103" relname="span">  But he 
+thinks there is relevant evidence for his claims. </segment>
+    <segment id="31" parent="30" relname="elaboration"> Marshalling that 
+evidence in a rational manner could be construed as an activity 
+internal to science itself, on a suitably broad and catholic 
+construal of science.</segment>
+    <segment id="32" parent="33" relname="condition">  If there is an external/internal border,</segment>
+    <segment id="33" parent="107" relname="span"> it 
+might turn out to be vague and/or shifty.</segment>
+    <segment id="34" parent="117" relname="span">
+
+I take it (though perhaps this is hasty) that there will be few 
+takers for the claim that criticisms of the misleading statements 
+made by policy advocates on behalf of cancer researchers (and also by 
+the researchers themselves) on the basis of a rational assessment of 
+the evidence, is DIFFERENT IN KIND from the mindless meanderings of 
+New Age critics of science (who are not infrequently indifferent to 
+rational assessments of the evidence). </segment>
+    <segment id="35" parent="36" relname="concession"> This latter (along with the 
+sort of crapulous nonsense produced by (external) philosophical 
+commentators such as Jacques Derrida) is certainly external to 
+science,</segment>
+    <segment id="36" parent="109" relname="span"> but it hardly gains legitimization thereby!</segment>
+    <segment id="37" parent="116" relname="span">
+
+Certainly you can have a scientific criticism (one based on a 
+rational assessment of the evidence) of aspects of science itself -- </segment>
+    <segment id="38" parent="110" relname="span">
+these will, in the nature of the case, be local (cancer gangs, fusion 
+gangs)</segment>
+    <segment id="39" parent="38" relname="antithesis"> rather than global (science itself)</segment>
+    <segment id="40" parent="110" relname="antithesis"> if the critical activity 
+is not to become self-stultifying.</segment>
+    <segment id="41" parent="141" relname="span">
+
+Now I&apos;ve done it!</segment>
+    <segment id="42" parent="112" relname="span">  I&apos;ve mentioned the possibility of rational 
+assessemnts of the evidence.</segment>
+    <segment id="43" parent="113" relname="span">  Let me also mention truth, and come out 
+of the wretched closet and say openly that I think truth and 
+rationality DO have an explanatory role in science. </segment>
+    <segment id="44" parent="43" relname="elaboration"> More of this 
+below! </segment>
+    <segment id="45" parent="46" relname="circumstance"> Since this is a bit &quot;old fashioned&quot;,</segment>
+    <segment id="46" parent="114" relname="span"> you may regard me as a 
+&quot;Young Fogey&quot;.</segment>
+    <segment id="47" parent="48" relname="antithesis">
+
+ In fact, when you survey the 
+&amp;gt; assortment of philosophers of science who line up between this or that 
+&amp;gt; side in current theoretical controversies in science, it&apos;s easy to get 
+&amp;gt; the impression that the philosophers are functioning much like defense 
+&amp;gt; attorneys providing their clients with a clearer voice than the clients 
+&amp;gt; themselves could. (Of course, minus the connotation that the attorneys 
+&amp;gt; might bend a premise here or there to help the client win. Needless to 
+&amp;gt; say, philosophical reconstructions of the history of science that 
+&amp;gt; vindicate realism or instrumentalism would NEVER count as examples of 
+&amp;gt; such behavior.)</segment>
+    <segment id="48" parent="123" relname="span">
+
+There is a substantial disanalogy here.</segment>
+    <segment id="49" parent="51" relname="span">  Clarification of meaning is 
+usually the first step towards establishing whether a particular 
+statement is true or false.</segment>
+    <segment id="50" parent="121" relname="span">  To the extent that statements are 
+imprecise, to that extent it will be hard to know what evidence would 
+count as confirming/disconfirming evidence.</segment>
+    <segment id="52" parent="120" relname="span">  Speaking in a clear 
+voice is essential for the pursuit of truth</segment>
+    <segment id="53" parent="54" relname="concession"> (granted, you may not 
+always hit the target,</segment>
+    <segment id="54" parent="119" relname="span"> but it helps to shoot in the right direction).</segment>
+    <segment id="55" parent="51" relname="elaboration">
+
+The philosopher&apos;s role is substantially different from that of the 
+shyster attorney whose job it is to get his/her client off at any 
+cost, and regardless of actual innocence or guilt.</segment>
+    <segment id="56" parent="142" relname="span">
+
+OK, here it comes:</segment>
+    <segment id="57" parent="128" relname="span"> truth and rationality have a legitimate 
+explanatory role to play in science. </segment>
+    <segment id="58" parent="124" relname="span"> First off, many scientists go 
+into science as a career, and behave in the ways they do,</segment>
+    <segment id="59" parent="58" relname="volitional-result"> because 
+they BELIEVE that rational assessments of evidence (characteristic of 
+science at its best) are the best ways to arrive at the truth of 
+various matters of interest (choose your favorite field).</segment>
+    <segment id="60" parent="61" relname="concession">  In the 
+end, there will be much trading in probabilities,</segment>
+    <segment id="61" parent="125" relname="span"> but rational 
+individuals, all other things being equal, will tend to place more 
+faith in the probable than the improbable (unlike new agers, for 
+example).</segment>
+    <segment id="62" parent="63" relname="concession">  Truth may also be approximated to various degrees</segment>
+    <segment id="63" parent="126" relname="span"> -- but 
+it is a fact, for example, the E = mc squared, rather than mc to the 
+millionth power, or even mc cubed.</segment>
+    <segment id="64" parent="65" relname="justify">  And as Quine tells us,</segment>
+    <segment id="65" parent="127" relname="span"> all claims 
+are revisable in the light of new EVIDENCE</segment>
+    <segment id="67" parent="65" relname="elaboration"> -- even claims about the 
+value-for-money of specific research programs.</segment>
+    <segment id="66" parent="129" relname="span">
+
+If most scientists did not believe they were aiming at the truth, and 
+did not try to uphold the highest standards of rational inquiry </segment>
+    <segment id="68" parent="66" relname="concession">
+(sometimes falling by the wayside -- for even science has sinners), </segment>
+    <segment id="69" parent="131" relname="span">
+they would not behave the way they do </segment>
+    <segment id="70" parent="69" relname="elaboration">(e.g, examining the contents of 
+test tubes for properties of interest, as opposed to throwing the 
+tubes against the floor or out of the window.) </segment>
+    <segment id="71" parent="132" relname="span"> Science succeeds </segment>
+    <segment id="73" parent="71" relname="nonvolitional-cause">
+because the belief that rational inquiry is more likely than 
+irrational inquiry to get you in TRUTH&apos;s ballpark, is itself true. </segment>
+    <segment id="72" parent="130" relname="span"> 
+There is obviously much more to science than this</segment>
+    <segment id="74" parent="72" relname="elaboration"> (the economics of 
+big-ticket projects, and so on),</segment>
+    <segment id="75" parent="134" relname="span"> but it nevertheless seems to be 
+correct that truth and rationality have explanatory value.</segment>
+    <segment id="76" parent="77" relname="background">
+
+&amp;gt; 
+&amp;gt; I know that some of you out there will think I am being incredibly unfair
+&amp;gt; to philosophers of science by saying these things. Nevertheless, I would
+&amp;gt; ask you to think about the suspicion with which people trained in the more
+&amp;gt; traditional branches of philosophy (epistemology, metaphysics, ethics --
+&amp;gt; but not the applied stuff) often regard philosophers of science. </segment>
+    <segment id="77" parent="137" relname="span">
+
+Not to mention the suspicion with which philosophers of science 
+regard cavalier commentaries (often motivated not a little by Science 
+Envy) of their non-scientific colleagues.</segment>
+    <segment id="78" parent="136" relname="span">  Interested readers may 
+wish to plumb the depths of Jacques Derrida&apos;s wisdom on the constancy 
+of the speed of light</segment>
+    <segment id="79" parent="78" relname="enablement"> (I think it is quoted by G&amp;L).</segment>
+    <segment id="80" parent="81" relname="antithesis">
+
+Many in
+&amp;gt; these fields feel that philosophers of science have simply surrendered the
+&amp;gt; domain of philosophical inquiry to the scientists. In fact, &quot;naturalism&quot;
+&amp;gt; is often presented as a reasoned defense of such a move. Admittedly, this 
+&amp;gt; tension between philosophers of science and other philosophers often 
+&amp;gt; surfaces very abstractly. </segment>
+    <segment id="81" parent="138" relname="span"> 
+
+And often not so abstractly,</segment>
+    <segment id="82" parent="81" relname="evidence"> as when religious critics of the 
+theory of evolution (along with assorted fellow-travellers) use a 
+critique of naturalism in order to persuade the courts for equal time 
+for loony creationist hypotheses and even school prayer!</segment>
+    <segment id="83" parent="84" relname="antithesis">
+&amp;gt; 
+&amp;gt; In any case, it does seem to me that philosophers of science -- of the
+&amp;gt; underlaboring variety -- have a vested interest in science in a way that
+&amp;gt; other philosophers do not have in other institutions.</segment>
+    <segment id="84" parent="139" relname="span">
+
+Hardly surprising,</segment>
+    <segment id="85" parent="84" relname="evidence"> since philosophy of science, like medical ethics 
+and so forth, is an applied discipline -- or is becoming increasingly 
+so.
+</segment>
+<group id="87" type="span" parent="4" relname="elaboration" />
+<group id="88" type="span" parent="4" relname="antithesis" />
+<group id="89" type="span" parent="90" relname="span" />
+<group id="90" type="span" parent="9" relname="elaboration" />
+<group id="91" type="span" parent="8" relname="elaboration" />
+<group id="92" type="span" parent="86" relname="list" />
+<group id="93" type="span" parent="86" relname="list" />
+<group id="94" type="span" parent="14" relname="elaboration" />
+<group id="95" type="span" parent="86" relname="list" />
+<group id="96" type="multinuc" parent="99" relname="span" />
+<group id="97" type="span" parent="98" relname="span" />
+<group id="98" type="span" parent="96" relname="list" />
+<group id="99" type="span" parent="16" relname="elaboration" />
+<group id="100" type="span" parent="15" relname="nonvolitional-result" />
+<group id="102" type="span" parent="30" relname="concession" />
+<group id="103" type="span" parent="108" relname="span" />
+<group id="104" type="span" parent="103" relname="antithesis" />
+<group id="105" type="span" parent="26" relname="background" />
+<group id="106" type="span" parent="27" relname="concession" />
+<group id="107" type="span" parent="118" relname="span" />
+<group id="108" type="span" parent="107" relname="evidence" />
+<group id="109" type="span" parent="34" relname="elaboration" />
+<group id="110" type="span" parent="111" relname="span" />
+<group id="111" type="span" parent="37" relname="elaboration" />
+<group id="112" type="span" parent="86" relname="list" />
+<group id="113" type="span" parent="115" relname="span" />
+<group id="114" type="span" parent="113" relname="background" />
+<group id="115" type="span" parent="42" relname="elaboration" />
+<group id="116" type="span" parent="117" relname="evidence" />
+<group id="117" type="span" parent="140" relname="span" />
+<group id="51" type="span" parent="122" relname="span" />
+<group id="119" type="span" parent="52" relname="elaboration" />
+<group id="120" type="span" parent="50" relname="elaboration" />
+<group id="121" type="span" parent="49" relname="elaboration" />
+<group id="122" type="span" parent="48" relname="evidence" />
+<group id="123" type="span" parent="56" relname="background" />
+<group id="124" type="span" parent="57" relname="evidence" />
+<group id="125" type="span" parent="57" relname="evidence" />
+<group id="126" type="span" parent="57" relname="evidence" />
+<group id="127" type="span" parent="57" relname="evidence" />
+<group id="128" type="span" parent="143" relname="span" />
+<group id="129" type="span" parent="69" relname="condition" />
+<group id="130" type="span" parent="75" relname="concession" />
+<group id="131" type="span" parent="133" relname="span" />
+<group id="132" type="span" parent="131" relname="evidence" />
+<group id="133" type="span" parent="135" relname="span" />
+<group id="134" type="span" parent="133" relname="summary" />
+<group id="135" type="span" parent="128" relname="evidence" />
+<group id="136" type="span" parent="77" relname="elaboration" />
+<group id="137" type="span" parent="86" relname="list" />
+<group id="138" type="span" parent="86" relname="list" />
+<group id="139" type="span" parent="86" relname="list" />
+<group id="86" type="multinuc" parent="144" relname="span" />
+<group id="118" type="span" parent="34" relname="concession" />
+<group id="140" type="span" parent="41" relname="preparation" />
+<group id="141" type="span" parent="42" relname="background" />
+<group id="142" type="span" parent="57" relname="preparation" />
+<group id="143" type="span" parent="86" relname="list" />
+<group id="144" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,158 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="59" relname="background">
+
+It is apparently dangerous to write a provocative message to our list. </segment>
+    <segment id="2" parent="42" relname="sequence">
+
+It was first said that I believe no external reality exists</segment>
+    <segment id="3" parent="42" relname="sequence"> and then that
+I do not think history and philosophy of science are not of much value. </segment>
+    <segment id="4" parent="59" relname="span">
+
+Neither is my belief.</segment>
+    <segment id="5" parent="44" relname="span"> I said that there is dispute about the existence
+of external reality</segment>
+    <segment id="6" parent="43" relname="span"> and indeed there has been as has been pointed out since
+the Greek skeptics.</segment>
+    <segment id="7" parent="6" relname="elaboration"> But on such matters I am an amateur. </segment>
+    <segment id="8" parent="9" relname="antithesis">
+
+It was also said that I do not value those who write on history and
+philosophy of science.</segment>
+    <segment id="9" parent="60" relname="span"> That too is not what I believe.</segment>
+    <segment id="10" parent="11" relname="preparation">
+
+Let me clarify.</segment>
+    <segment id="11" parent="46" relname="span"> I do believe it is profitable to talk about external realities.</segment>
+    <segment id="12" parent="45" relname="span">
+My position is closest to one that is expressed by Stephen Cole in MAKING
+SCIENCE.</segment>
+    <segment id="13" parent="12" relname="elaboration"> He calls his position a realist-constructivist position.</segment>
+    <segment id="14" parent="61" relname="span">
+
+I also believe that scientists do many impressie things.</segment>
+    <segment id="15" parent="16" relname="nonvolitional-cause"> The astronomers
+predicted quite precisely (at least precisely enough for me) when the
+Shoemake Levy comet (or debris) would hit Jupiter,</segment>
+    <segment id="16" parent="49" relname="span"> and by George it did
+did hit when they said it would.</segment>
+    <segment id="17" parent="48" relname="span"> That they are now in deep confusion over
+what actually happened doesn&apos;t disturb me in the least.</segment>
+    <segment id="18" parent="47" relname="span"> They talk openly
+of their uncertainties and confusions.</segment>
+    <segment id="19" parent="18" relname="evaluation"> Good science to me.</segment>
+    <segment id="20" parent="21" relname="volitional-cause"> And some
+physicians announced they would rid the Western hemisphere of polio</segment>
+    <segment id="21" parent="52" relname="span"> and
+by George they seem to have done it.</segment>
+    <segment id="22" parent="50" relname="condition"> If they actually have,</segment>
+    <segment id="50" parent="51" relname="span"> my hat is off
+to them. </segment>
+    <segment id="23" parent="24" relname="circumstance">
+
+When I speak of the supercollider gang, the genome gang, the hot fusion gang,
+and the cancer gang</segment>
+    <segment id="24" parent="53" relname="span"> I am trying to provoke the realization that these 
+people are deliberately misrepresenting various things in the name
+of objective inquiry</segment>
+    <segment id="25" parent="24" relname="elaboration"> --- and they are consuming billions and billions
+of dollars.</segment>
+    <segment id="26" parent="24" relname="volitional-cause"> They need to misrepresent to get such amounts of money.</segment>
+    <segment id="27" parent="62" relname="span">
+
+Historians and philosophers of science do interesting things on a 
+shoestring.</segment>
+    <segment id="28" parent="27" relname="evaluation"> I read them with great pleasure.</segment>
+    <segment id="29" parent="55" relname="span">
+
+Some criticize me as being naive</segment>
+    <segment id="31" parent="54" relname="span"> ---- saying that I should not object
+to the misrepresentations</segment>
+    <segment id="30" parent="31" relname="nonvolitional-cause"> because they have always existed and they are
+a normal event in science.</segment>
+    <segment id="32" parent="58" relname="span"> I argue offering various contraries which I
+will not present here.</segment>
+    <segment id="33" parent="34" relname="antithesis">
+
+I do not have detailed knowledge of the accomplishments of all the gangs</segment>
+    <segment id="34" parent="57" relname="span"> but
+few say that I am being too harsh on these investigators.</segment>
+    <segment id="35" parent="56" relname="list"> I would love
+to see clean, safe, cheap fusion energy.</segment>
+    <segment id="36" parent="56" relname="list"> I would love to see a supercollider
+produce knowledge that will somehow contribute to our society.</segment>
+    <segment id="37" parent="56" relname="list"> I would love
+to see cures for cancer.</segment>
+    <segment id="38" parent="56" relname="list"> And I would love to see our knowledge of the
+genome produce benefits to society.</segment>
+    <segment id="39" parent="56" relname="list">
+
+I search with the proverbial lantern for the contributions of my favorite
+gangs.</segment>
+    <segment id="40" parent="56" relname="list"> I welcome evidence that I am too harsh on these investigators.</segment>
+    <segment id="41" parent="56" relname="list"> I
+would love to believe that the billions we are spending on these projects
+are well spent.</segment>
+<group id="42" type="multinuc" parent="4" relname="antithesis" />
+<group id="43" type="span" parent="5" relname="elaboration" />
+<group id="44" type="span" parent="4" relname="elaboration" />
+<group id="45" type="span" parent="11" relname="elaboration" />
+<group id="46" type="span" parent="9" relname="elaboration" />
+<group id="47" type="span" parent="17" relname="elaboration" />
+<group id="48" type="span" parent="16" relname="background" />
+<group id="49" type="span" parent="14" relname="elaboration" />
+<group id="51" type="span" parent="21" relname="evaluation" />
+<group id="52" type="span" parent="14" relname="elaboration" />
+<group id="53" type="span" parent="27" relname="antithesis" />
+<group id="54" type="span" parent="29" relname="elaboration" />
+<group id="55" type="span" parent="32" relname="antithesis" />
+<group id="56" type="multinuc" parent="63" relname="list" />
+<group id="57" type="span" parent="63" relname="list" />
+<group id="58" type="span" parent="63" relname="list" />
+<group id="59" type="span" parent="64" relname="span" />
+<group id="60" type="span" parent="63" relname="list" />
+<group id="61" type="span" parent="63" relname="list" />
+<group id="62" type="span" parent="63" relname="list" />
+<group id="63" type="multinuc" />
+<group id="64" type="span" parent="63" relname="list" />
+  </body>
+</rst>

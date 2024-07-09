@@ -1,0 +1,95 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="18" relname="antithesis">
+Steve Fuller is incorrect in saying that I refused to share a platform with
+Wolpert. </segment>
+    <segment id="2" parent="3" relname="concession"> I have refused in the past</segment>
+    <segment id="3" parent="18" relname="span"> but on this occasion I did not realise
+he was on the programme</segment>
+    <segment id="4" parent="3" relname="circumstance"> until I saw the printed version. </segment>
+    <segment id="5" parent="23" relname="span"> The problem is that
+there are a group of scientist-critics of SSK who have not read the material</segment>
+    <segment id="6" parent="22" relname="span">
+and I do not believe in legitimating their position. </segment>
+    <segment id="7" parent="19" relname="span"> It is perfectly 
+natural and healthy that scientists who have read the literature might 
+disagree with the conclusions,</segment>
+    <segment id="8" parent="7" relname="elaboration"> and this could lead to a productive debate,</segment>
+    <segment id="9" parent="21" relname="span">
+but the style of Wolpert and similar is not helpful</segment>
+    <segment id="10" parent="9" relname="nonvolitional-result"> - nothing moves forward.</segment>
+    <segment id="20" parent="11" relname="concession">
+
+The debate at Loughborough (the venue of the British Association meeting)
+was very heated indeed. </segment>
+    <segment id="11" parent="34" relname="span"> The Times Higher piece that I wrote is much
+calmer.</segment>
+    <segment id="12" parent="33" relname="span">  I urge people to read it before jumping to conclusions about what
+is in it. </segment>
+    <segment id="13" parent="25" relname="condition"> If someone has a scanner,</segment>
+    <segment id="25" parent="32" relname="span"> perhaps they could scan the whole
+thing, including responses, and put it on the net.</segment>
+    <segment id="14" parent="28" relname="span">  Otherwise I&apos;ll send my
+piece alone to the net</segment>
+    <segment id="27" parent="14" relname="condition"> if you like</segment>
+    <segment id="15" parent="26" relname="nonvolitional-cause"> - but I&apos;m not a regular subscriber</segment>
+    <segment id="26" parent="29" relname="span"> so
+someone will have to email me directly (or on mersenne)</segment>
+    <segment id="16" parent="26" relname="condition"> if it would be
+useful. </segment>
+    <segment id="17" parent="30" relname="evaluation"> (But scanning the whole thing would be better.)</segment>
+<group id="18" type="span" parent="24" relname="span" />
+<group id="19" type="span" parent="9" relname="concession" />
+<group id="21" type="span" parent="6" relname="nonvolitional-cause" />
+<group id="22" type="span" parent="5" relname="elaboration" />
+<group id="23" type="span" parent="18" relname="background" />
+<group id="24" type="span" parent="35" relname="joint" />
+<group id="28" type="span" parent="30" relname="span" />
+<group id="29" type="span" parent="28" relname="means" />
+<group id="30" type="span" parent="31" relname="span" />
+<group id="31" type="span" parent="25" relname="otherwise" />
+<group id="32" type="span" parent="12" relname="enablement" />
+<group id="33" type="span" parent="11" relname="elaboration" />
+<group id="34" type="span" parent="35" relname="joint" />
+<group id="35" type="multinuc" />
+  </body>
+</rst>

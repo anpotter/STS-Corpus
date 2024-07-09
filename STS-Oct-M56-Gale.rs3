@@ -1,0 +1,87 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">Donal Phillipson, in answer to Steve Fuller, who, in turn was responding
+to Richardson and Shanks (whew!), claims:</segment>
+    <segment id="2" parent="22" relname="span">
+
+&amp;gt;First, there
+appears to be ample evidence that scientists do not need philosophers&apos;
+help to do good science;  and usually derive any related philosophy
+directly from the science rather than through the discipline of philosophy.&amp;lt;</segment>
+    <segment id="3" parent="23" relname="span">
+
+Of course.</segment>
+    <segment id="4" parent="14" relname="span"> And, on the other hand, there is ample evidence that scientists
+have frequently used philosopher&apos;s help in doing good science;</segment>
+    <segment id="5" parent="4" relname="elaboration"> and
+have derived some related science directly from the philosophy rather than
+through the discipline of their science.</segment>
+    <segment id="6" parent="19" relname="span">
+[I&apos;m thinking of the case of the origins of modern cosmology, 1932-1940,
+with special focus upon the work of E.A. Milne.</segment>
+    <segment id="7" parent="8" relname="condition"> If you&apos;re interested in
+the evidence I present,</segment>
+    <segment id="8" parent="15" relname="span"> check out &quot;Philosophical Midwifery and the Birth
+Pangs of Modern Cosmology&quot;, _AMERICAN JL. OF PHYSICS_, Jan. 93]</segment>
+    <segment id="9" parent="21" relname="span">
+
+My main point in turning Philipson&apos;s assertion on its head, however, is to
+point out the futility of general claims on these issues.</segment>
+    <segment id="10" parent="11" relname="condition"> If we want to talk
+usefully about the relations between philosophy, science and the various
+social perspectives on either or both,</segment>
+    <segment id="11" parent="16" relname="span"> then we have come to the end of the
+purely generalities.</segment>
+    <segment id="12" parent="17" relname="span"> Gentlefolks, it&apos;s time to get down to cases;</segment>
+    <segment id="13" parent="12" relname="elaboration"> empirical
+claims only, from this point on?</segment>
+<group id="14" type="span" parent="20" relname="span" />
+<group id="15" type="span" parent="6" relname="elaboration" />
+<group id="16" type="span" parent="18" relname="span" />
+<group id="17" type="span" parent="16" relname="elaboration" />
+<group id="18" type="span" parent="9" relname="elaboration" />
+<group id="19" type="span" parent="14" relname="background" />
+<group id="20" type="span" parent="9" relname="background" />
+<group id="21" type="span" />
+<group id="22" type="span" parent="3" relname="background" />
+<group id="23" type="span" parent="4" relname="concession" />
+  </body>
+</rst>

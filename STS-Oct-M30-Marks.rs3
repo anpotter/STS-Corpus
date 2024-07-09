@@ -1,0 +1,191 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">
+On Wed, 5 Oct 1994, Paul R. Gross wrote:</segment>
+    <segment id="2" parent="54" relname="span">
+
+&amp;gt; Separating, as well as my limited skills allow, Andrew Weiss&apos;s
+&amp;gt; two points from their deeply felt embellishments, I make them as
+&amp;gt; follows:
+&amp;gt; 
+&amp;gt; Response:  WHATEVER caused the rate of human population growth to
+&amp;gt; attain its current value, and made mass air transport possible,
+&amp;gt; we have both of them NOW.  A third-world nation (with a deep
+&amp;gt; commitment to &quot;technoscience&quot; and thousands of intelligent people
+&amp;gt; doing it) has just--last week--turned to pathology, public
+&amp;gt; health, and sanitary engineering to stop in its tracks (it is
+&amp;gt; hoped!) a threatened pandemic of pneumonic plague.  It even made
+&amp;gt; the papers. </segment>
+    <segment id="3" parent="40" relname="span"> 
+        In 1882, Robert Koch publishing a path breaking paper in which he 
+identified the tubercle bacillus as the cause of tuberculosis.</segment>
+    <segment id="4" parent="5" relname="antithesis">  The paper 
+was pathbreaking not only because it identified the agent reponsible for 
+the [then] leading cause of death,</segment>
+    <segment id="5" parent="37" relname="span"> but because it laid out a set of 
+protocols for what would constiute proof of causality in such matters. </segment>
+    <segment id="6" parent="5" relname="elaboration">
+Along with the exquisite techniques developed by Koch, these protocols 
+led 12 years later to the identification of yersina pestis as the 
+causative organism in bubonic plague.</segment>
+    <segment id="7" parent="38" relname="span">
+        At the end of his article (which I happened to be teaching 
+yesterday), Koch&apos;s says, in effect, it was previously thought that social 
+ills were the cause of tuberculosis. </segment>
+    <segment id="8" parent="7" relname="elaboration"> I have now shown that we don&apos;t have 
+to concern ourselves with these in order to eliminate disease;</segment>
+    <segment id="9" parent="7" relname="elaboration"> we have 
+only to concern ourselves with microorganisms to solve our problems.</segment>
+    <segment id="10" parent="44" relname="antithesis">
+        Gross says that what happened in India last week is to the credit 
+of our science, which is essentially, in these matters, Koch&apos;s science.</segment>
+    <segment id="11" parent="43" relname="background"> I
+agree:</segment>
+    <segment id="12" parent="41" relname="span"> the toll would have been far worse were we not living in this age </segment>
+    <segment id="13" parent="12" relname="concession">
+[though what part of our advantage lies in knowledge and technique, and 
+what part in social organization is a question over which historians of 
+medicine still disagree.]</segment>
+    <segment id="14" parent="42" relname="span">  But, I would suggest, if we give 
+Koch/science the credit,</segment>
+    <segment id="15" parent="43" relname="span"> we must also ask whether Koch/science do not 
+have a share of the blame:</segment>
+    <segment id="16" parent="39" relname="span"> that is, there is no reason for that epidemic 
+to have happened at all,</segment>
+    <segment id="17" parent="16" relname="elaboration"> and Koch was one of the people who historically 
+turned our backs [in the name of science] to the necessity for dealing with 
+the social conditions which led quite directly to the outbreak of the 
+epidemic.</segment>
+    <segment id="18" parent="46" relname="background">
+        I have been in enough of these discussions to anticipate two of 
+the responses:</segment>
+    <segment id="19" parent="46" relname="list"> 1) Science cannot be held responsible for all the social 
+ills of the world;</segment>
+    <segment id="20" parent="46" relname="list"> 2) I, am, personally a liberal, and agree that what 
+happened should not have happened.</segment>
+    <segment id="21" parent="48" relname="span">
+        My response would be that science [e.g. scientists] cannot at one 
+and same time take credit for curing/obviating social ills and then place 
+all responsibility for social ills on the politicians and/or the 
+political process. </segment>
+    <segment id="22" parent="23" relname="antithesis"> 
+ The last major programs supporting only science Good
+&amp;gt; for the People, after WWII, and banning science Not Good for the
+&amp;gt; People, were in Stalin&apos;s Soviet Union and Mao&apos;s China.  The
+&amp;gt; People didn&apos;t get much Good.
+&amp;gt;      </segment>
+    <segment id="23" parent="56" relname="span"> Actually, I though the last [.e.g most recent] programs vending 
+science in the name of the nation came from R.M. Nixon [the war on 
+cancer]; and prior to that Eisenhower [the space program] and Truman [the 
+atomic program]. </segment>
+    <segment id="24" parent="25" relname="concession"> While the lst and 2nd of these may have led to some 
+beautiful science,</segment>
+    <segment id="25" parent="57" relname="span"> let&apos;s not forget some ofthe other things all three led 
+to. </segment>
+    <segment id="26" parent="49" relname="evidence"> So far as the Soviets are concerned, there is a good deal of work 
+being done by historians east of the Urals on Soviet Science,</segment>
+    <segment id="28" parent="27" relname="concession"> all of 
+which suggests that while the organization of science may have been 
+different [e.g. more centralized],</segment>
+    <segment id="27" parent="49" relname="span"> the uses of politics by science and 
+science by politics look remarkably similar to those which went here in 
+the 1950s. </segment>
+    <segment id="29" parent="49" relname="background"> As for Lysenko, I thought we had stopped scaring our children 
+with boogymen a few decades ago.</segment>
+    <segment id="30" parent="52" relname="antithesis">
+
+&amp;gt; 
+&amp;gt; Response:  A grudging and vigilant contract with elitism is what
+&amp;gt; we have NOW.  Maybe Weiss thinks it should be MORE grudging and
+&amp;gt; vigilant.  OK.  No argument.  Maybe also more informed.  The
+&amp;gt; distortion is to suggest that all politicians (who are supposed
+&amp;gt; to represent the public, after all) have signed a contract that
+&amp;gt; has NO vigilance or grudges.  Anybody who believes that has not,
+&amp;gt; again, been reading the papers.  Are scientists afraid of the
+&amp;gt; people?  No: they ARE the people, or a part of it, as are
+&amp;gt; professors of STS.  Why do not the latter apply for guidance on
+&amp;gt; _what_ to study?  (Some) scientists (I hope) ARE afraid of
+&amp;gt; referenda on WHAT and HOW.  Some are old enough to remember the
+&amp;gt; consternation and waste that followed, many years ago, the demand
+&amp;gt; from an influential Congressman, speaking, presumably, for his
+&amp;gt; constituents, that the NIH immediately deploy major resources in
+&amp;gt; an attack upon Athlete&apos;s Foot.</segment>
+    <segment id="31" parent="32" relname="concession">
+        One does not have to look to science policy to see evidence of waste 
+and costernation in government;</segment>
+    <segment id="32" parent="52" relname="span"> personally, I still prefer living in a 
+democracy,</segment>
+    <segment id="33" parent="34" relname="condition"> and if Prof. Gross prefers it as well,</segment>
+    <segment id="34" parent="50" relname="span"> I think the appropriate 
+response is to try and speak publically to either politicians or others 
+about one&apos;s concerns. </segment>
+    <segment id="35" parent="51" relname="span"> One needs to be able to accept from the start that 
+not all of them will listen, and that often even the ones who listen best 
+may not agree. </segment>
+    <segment id="36" parent="35" relname="background"> Professors used to the venue of the classroom may find 
+this situation a bit unsettling.</segment>
+<group id="37" type="span" parent="3" relname="elaboration" />
+<group id="38" type="span" parent="3" relname="elaboration" />
+<group id="40" type="span" parent="55" relname="span" />
+<group id="39" type="span" parent="15" relname="evidence" />
+<group id="41" type="span" parent="14" relname="concession" />
+<group id="42" type="span" parent="15" relname="condition" />
+<group id="43" type="span" parent="44" relname="span" />
+<group id="44" type="span" parent="45" relname="span" />
+<group id="45" type="span" parent="59" relname="list" />
+<group id="46" type="multinuc" parent="47" relname="span" />
+<group id="47" type="span" parent="21" relname="antithesis" />
+<group id="48" type="span" parent="59" relname="list" />
+<group id="49" type="span" parent="58" relname="span" />
+<group id="50" type="span" parent="32" relname="elaboration" />
+<group id="51" type="span" parent="34" relname="elaboration" />
+<group id="52" type="span" parent="53" relname="span" />
+<group id="53" type="span" parent="59" relname="list" />
+<group id="54" type="span" parent="40" relname="antithesis" />
+<group id="55" type="span" parent="59" relname="list" />
+<group id="56" type="span" parent="59" relname="list" />
+<group id="57" type="span" parent="23" relname="evaluation" />
+<group id="58" type="span" parent="59" relname="list" />
+<group id="59" type="multinuc" />
+  </body>
+</rst>

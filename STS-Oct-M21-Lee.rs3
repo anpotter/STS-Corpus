@@ -1,0 +1,158 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">     
+   Gentle STSers:</segment>
+    <segment id="2" parent="30" relname="span">
+   
+   Reply to BOUZID, WHO WRITES:</segment>
+    <segment id="3" parent="31" relname="span">
+   
+   ---------------
+   As far as I am concerned, the &quot;reflexivity problem&quot; is a non problem
+   (beyond a certain point, e.g., beyond one level of reflexion),
+   and the more we dwell on it, by that much we are wasting time.  It&apos;s
+   a very nice academic question, but a question that I think has been
+   inflated too much.  It is time we let that big balloon float away.
+   ----------------------------</segment>
+    <segment id="4" parent="52" relname="span">
+   
+   Well, BOUZID, taking it at ONE level of relexion and not dwelling on 
+   it...  I still ask:</segment>
+    <segment id="5" parent="6" relname="nonvolitional-cause"> Do we, as STSers, polemicize the debate</segment>
+    <segment id="6" parent="32" relname="span"> if we claim 
+   disciplinary immunity for our research? </segment>
+    <segment id="7" parent="33" relname="span"> On what basis can we make that 
+   claim for ourselves, yet deny it to the &apos;hard sciences&apos;?</segment>
+    <segment id="8" parent="35" relname="span">  We can&apos;t have 
+   it both ways! </segment>
+    <segment id="9" parent="34" relname="span"> In pointing out the social dimensions of &apos;doing science&apos; 
+   are we critiquing the way &apos;natural&apos; science is done? </segment>
+    <segment id="10" parent="9" relname="nonvolitional-result"> If so, we must be 
+   willing to listen to and engage our own critics on the way we do 
+   &apos;social&apos; science.</segment>
+    <segment id="11" parent="12" relname="preparation"> 
+   
+   ----------------
+   Also, FULLER seems to be concerned a bit by the question of &quot;expert&quot;....
+   It&apos;s not the notion of &quot;expert&quot; that should bother
+   us, per se, but the notion that the expert has control and
+   TAKES THE INITIATIVE to define what is a problem, how to solve
+   it, and what counts as a solution.  That experts are allowed
+   to do that is what should bother us.  In a more democratic
+   society, the expert still has his/her role to play: but,
+   the way I see it, this expert would not be the one taking the
+   initiative, but would be, as it were, at the service ofthe larger 
+   populace.
+   ----------------------------------</segment>
+    <segment id="12" parent="40" relname="span">
+   
+   BOUZID seems to hit directly on a very widely accepted definition of 
+   &apos;expert&apos;:</segment>
+    <segment id="13" parent="36" relname="span"> One who belongs to a group who reserves for members of the 
+   group the ONLY right to define what is a problem, how to solve
+   it, and what counts as a solution!</segment>
+    <segment id="14" parent="13" relname="elaboration">  All in the name of service to the
+   larger, less informed, populace. </segment>
+    <segment id="15" parent="37" relname="disjunction"> Is BOUZID proposing to use a new 
+   definition just amoung us STSers,</segment>
+    <segment id="16" parent="37" relname="disjunction"> or does the definition need to change 
+   within the &apos;larger populace&apos;?</segment>
+    <segment id="17" parent="18" relname="nonvolitional-cause">
+   
+   As BOUZID goes on to say he doesn&apos;t think we can &quot;try to raise the 
+   consciousness of the public&quot;,</segment>
+    <segment id="18" parent="38" relname="span"> I assume he wants a new definition within 
+   STS. </segment>
+    <segment id="19" parent="42" relname="span"> But I&apos;m not sure this gets at the problem of &apos;democratizing&apos; 
+   science.</segment>
+    <segment id="20" parent="22" relname="circumstance">
+   
+   When FULLER talks about &apos;democratizing&apos; science, (correct me if I&apos;m 
+   wrong),</segment>
+    <segment id="22" parent="46" relname="span"> he generally thinks about that as a job for the &apos;social 
+   epistemologist&apos; as a mediator. </segment>
+    <segment id="21" parent="22" relname="elaboration"> I think of that mediation as being the 
+   pursuit of commensurable models within both the &apos;natural&apos; and the 
+   &apos;social&apos; sciences, not to mention humanism.</segment>
+    <segment id="23" parent="50" relname="span">
+   
+   But, I don&apos;t think we can place too much hope on &quot;blue collar 
+   scientists&quot;,</segment>
+    <segment id="24" parent="48" relname="span"> are they not &apos;experts&apos;, as well? </segment>
+    <segment id="25" parent="45" relname="span"> Will they be willing to 
+   give-up their rights to define what is a problem, how to solve
+   it, and what counts as a solution? </segment>
+    <segment id="26" parent="27" relname="concession"> While some of their approaches, or, 
+   to be Kuhnian, paradigms, may differ,</segment>
+    <segment id="27" parent="47" relname="span"> but I&apos;m not sure they want to give 
+   up autonomy.</segment>
+    <segment id="44" parent="49" relname="span">
+   
+   And do we, in STS, really want to say to the &apos;natural&apos; scientists: </segment>
+    <segment id="28" parent="51" relname="conjunction"> 
+   &quot;Bring us your grantless, your tenureless, your dissaffected . . .,</segment>
+    <segment id="29" parent="51" relname="conjunction"> and 
+   we&apos;ll turn them into &apos;real&apos; experts&quot;?</segment>
+<group id="30" type="span" parent="3" relname="preparation" />
+<group id="31" type="span" parent="4" relname="antithesis" />
+<group id="32" type="span" parent="4" relname="elaboration" />
+<group id="33" type="span" parent="6" relname="evaluation" />
+<group id="34" type="span" parent="8" relname="elaboration" />
+<group id="35" type="span" parent="7" relname="elaboration" />
+<group id="36" type="span" parent="12" relname="elaboration" />
+<group id="37" type="multinuc" parent="38" relname="solutionhood" />
+<group id="38" type="span" parent="39" relname="span" />
+<group id="39" type="span" parent="41" relname="span" />
+<group id="40" type="span" parent="39" relname="background" />
+<group id="41" type="span" parent="19" relname="antithesis" />
+<group id="42" type="span" parent="54" relname="span" />
+<group id="46" type="span" parent="19" relname="background" />
+<group id="47" type="span" parent="25" relname="elaboration" />
+<group id="49" type="span" parent="23" relname="evidence" />
+<group id="45" type="span" parent="24" relname="elaboration" />
+<group id="48" type="span" parent="23" relname="evidence" />
+<group id="50" type="span" parent="42" relname="elaboration" />
+<group id="51" type="multinuc" parent="44" relname="elaboration" />
+<group id="52" type="span" parent="53" relname="joint" />
+<group id="53" type="multinuc" />
+<group id="54" type="span" parent="53" relname="joint" />
+  </body>
+</rst>

@@ -1,0 +1,74 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">Paul Gross writes:</segment>
+    <segment id="2" parent="9" relname="span">
+
+&amp;gt; The NIH method is
+&amp;gt; not quite the Danish one (as Hakken describes it), but it has a
+&amp;gt; similar purpose and effect.  The trouble is, decent and socially
+&amp;gt; conscious activities of this kind never get coverage in the media
+&amp;gt; or by academic commentators on science and technology.  They have
+&amp;gt; little or no interpretable aspects of Privilege or Hegemony.</segment>
+    <segment id="3" parent="10" relname="span">
+
+Never?</segment>
+    <segment id="4" parent="13" relname="span">  Those academic commentators concerned with Privilege and Hegemony
+deserve a little more credit.</segment>
+    <segment id="5" parent="11" relname="span">  I, in fact, first learned about the Danish
+&quot;consensus conferences&quot; through an essay written by Richard Sclove which
+I think appeared on the op-ed page of _The Washington Post_;</segment>
+    <segment id="6" parent="5" relname="elaboration"> I know he
+mentioned them more recently in an article in the January 12, 1994 _Chronicle
+of Higher Ed_ (pp. B1-B2).</segment>
+    <segment id="7" parent="8" relname="antithesis">
+
+I don&apos;t mean to pick nits;</segment>
+    <segment id="8" parent="12" relname="span"> rather, I want to suggest that publicizing
+Examples of How Things Might Better Be Done is integral to the project
+of many anti-Privilege academic commentators.</segment>
+<group id="9" type="span" parent="3" relname="antithesis" />
+<group id="10" type="span" parent="4" relname="solutionhood" />
+<group id="11" type="span" parent="4" relname="evidence" />
+<group id="12" type="span" parent="13" relname="elaboration" />
+<group id="13" type="span" parent="14" relname="span" />
+<group id="14" type="span" />
+  </body>
+</rst>

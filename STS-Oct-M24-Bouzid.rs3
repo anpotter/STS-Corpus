@@ -1,0 +1,109 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">
+&amp;gt;From GROSS:</segment>
+    <segment id="2" parent="23" relname="span">
+
+&amp;gt; Well, maybe.  But how about responding substantively to the
+&amp;gt; substantive arguments made by such fascist beasts as Gross and
+&amp;gt; Levitt.  Is it not remotely possible that they--and other &quot;elite&quot;
+&amp;gt; scientists--would respond? </segment>
+    <segment id="3" parent="31" relname="span">
+
+Of course they will respond--</segment>
+    <segment id="4" parent="22" relname="span">and it&apos;s as easy as one-two-three
+what they will say.</segment>
+    <segment id="5" parent="4" relname="elaboration">  (See HAMLETT&apos;s posting.) </segment>
+    <segment id="6" parent="7" relname="preparation"> I believe that
+I made myself clear:</segment>
+    <segment id="7" parent="27" relname="span"> rationality in and of itself leads nowhere
+when one is in a position of inferiority. </segment>
+    <segment id="8" parent="9" relname="concession"> Reasonable and 
+strong as our arguments may be,</segment>
+    <segment id="9" parent="25" relname="span"> they will go nowhere with
+people who are biased such as yourself. </segment>
+    <segment id="10" parent="11" relname="condition"> But not only that,
+even if you were convinced, </segment>
+    <segment id="11" parent="26" relname="span">they would go nowhere,</segment>
+    <segment id="12" parent="24" relname="span"> because
+their implications have serious ramifications on the status
+quo. </segment>
+    <segment id="13" parent="12" relname="elaboration"> (For one thing, the budding niche from which some of these 
+Big scientists are making a nice living would be disrupted.  </segment>
+    <segment id="14" parent="29" relname="span">
+Ineed, it&apos;s an interesting twist (with many hints to the larger cultural,
+political, etc., context) to the old story of glorifying science 
+to have creepy  and weird creatures crawling around now. </segment>
+    <segment id="15" parent="28" relname="span"> It adds drama 
+and suspense </segment>
+    <segment id="17" parent="15" relname="background">(Weinberg and Wolpert devote a chapter each to us), </segment>
+    <segment id="16" parent="14" relname="elaboration">
+a nice detour and a fresh thing to confront, to the usual run-of-the-mill, 
+and after a while, boring and predictable Science Story). </segment>
+    <segment id="18" parent="34" relname="span">
+
+&amp;gt; Your strategy, rather, is to Get the
+&amp;gt; Bastards from behind, isolate them from the &quot;malcontents&quot; of
+&amp;gt; science (your word), and go on to Victory.  Sounds familiar.
+&amp;gt; Quite a few of the tyrants of history have set that strategy down
+&amp;gt; in writing.</segment>
+    <segment id="19" parent="32" relname="span">
+
+Yes, with your conception of what history is about (remember, folks,
+it&apos;s _muddleheadedness_ that is at the root of all humankind&apos;s ills)</segment>
+    <segment id="20" parent="19" relname="elaboration">
+I need not worry too much. </segment>
+    <segment id="21" parent="19" relname="elaboration"> All the same, watch your back....</segment>
+<group id="22" type="span" parent="3" relname="elaboration" />
+<group id="23" type="span" parent="3" relname="antithesis" />
+<group id="24" type="span" parent="11" relname="nonvolitional-cause" />
+<group id="25" type="span" parent="7" relname="evidence" />
+<group id="26" type="span" parent="7" relname="evidence" />
+<group id="27" type="span" parent="30" relname="span" />
+<group id="28" type="span" parent="14" relname="elaboration" />
+<group id="29" type="span" parent="27" relname="background" />
+<group id="30" type="span" parent="3" relname="elaboration" />
+<group id="31" type="span" parent="33" relname="joint" />
+<group id="32" type="span" parent="18" relname="interpretation" />
+<group id="33" type="multinuc" />
+<group id="34" type="span" parent="33" relname="joint" />
+  </body>
+</rst>

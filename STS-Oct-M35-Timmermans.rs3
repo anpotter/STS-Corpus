@@ -1,0 +1,61 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="concession">
+I am sorry to interrupt the fascinating threat-to-STS debate.</segment>
+    <segment id="2" parent="4" relname="span">  But maybe 
+some people would like to discuss this debate in a cozier space than 
+cyberspace.</segment>
+    <segment id="3" parent="10" relname="span">  As a student representative of SSSS, I would like to 
+organize a meeting for graduate and undergraduate students in New 
+Orleans.</segment>
+    <segment id="5" parent="3" relname="enablement">  The plan is to go on Thursday evening around 8:30 pm to 
+one of the city&apos;s famous bars.</segment>
+    <segment id="6" parent="7" relname="antithesis">  I am not sure where exactly</segment>
+    <segment id="7" parent="9" relname="span"> but I 
+will post signs. </segment>
+    <segment id="8" parent="12" relname="span"> So, look for the signs </segment>
+    <segment id="11" parent="8" relname="motivation">and hopefully we&apos;ll meet,</segment>
+<group id="9" type="span" parent="3" relname="enablement" />
+<group id="4" type="span" parent="3" relname="motivation" />
+<group id="10" type="span" />
+<group id="12" type="span" parent="3" relname="enablement" />
+  </body>
+</rst>

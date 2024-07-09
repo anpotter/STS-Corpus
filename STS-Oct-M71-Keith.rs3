@@ -1,0 +1,133 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="concession">I liked Paul Edwards&apos; comments</segment>
+    <segment id="2" parent="47" relname="span">, but I would like to point out that the
+problem might be a good deal deeper than the &quot;attitudes&quot;  of STS
+researchers.</segment>
+    <segment id="3" parent="2" relname="elaboration"> (Also, that line feeds in an unfortunate way to Gross, who
+seems to think that STSers will know enough science and have the right
+attitude when they say about Science what scientists themselves would
+say.)</segment>
+    <segment id="4" parent="48" relname="span">
+
+The problem seems to emerge from the process of redescription. </segment>
+    <segment id="5" parent="29" relname="span"> Using an
+alternative vocabulary to redescribe a practice seems to automatically
+destablize it</segment>
+    <segment id="6" parent="5" relname="circumstance"> -- even if that was not part of the intention behind the
+redescription!</segment>
+    <segment id="7" parent="30" relname="span">  So, if we use social, economic or rhetorical vocabularies
+to redescribe science, no matter how great our respect and good
+intentions,</segment>
+    <segment id="8" parent="42" relname="span"> the effect, for participants and observers, is that an
+effective redescription destablizes science as a genuine practice. </segment>
+    <segment id="9" parent="28" relname="span">
+(Latour, e.g., seems to express endless puzzlement that anybody reacts
+negatively to his very thick redescriptions</segment>
+    <segment id="10" parent="9" relname="antithesis"> -- as if their accuracy
+precluded that!)</segment>
+    <segment id="11" parent="31" relname="preparation">
+
+Two things should be noted immediately:</segment>
+    <segment id="12" parent="33" relname="span">
+
+--the problem also runs the other way as way;</segment>
+    <segment id="13" parent="12" relname="evidence"> witness the dicomfiture of
+the religious and social thinkers as their values and preferred modes of
+life are redescribed by sociobiologists in terms of gene preservation and
+such,</segment>
+    <segment id="14" parent="12" relname="evidence"> or how offensive many people find computational descriptions of
+intelligence. </segment>
+    <segment id="15" parent="32" relname="span">
+
+--redescriptions of Science by philosophers, for the most part, don&apos;t 
+seem to destablize it, which makes one wonder if an alternative vocablary 
+is actually in play.</segment>
+    <segment id="16" parent="15" relname="evaluation"> :)</segment>
+    <segment id="17" parent="44" relname="span">
+
+What I don&apos;t know, at this point, is if there as any way to avoid this
+destablization problem, or even its exact etiology.</segment>
+    <segment id="18" parent="17" relname="elaboration">  In general nobody, I
+think, likes to be redescribed, either as a product of Freudian forces, or
+a carrier for genes, or as a wetware computational device</segment>
+    <segment id="19" parent="41" relname="span"> -- what&apos;s at
+issue here?  </segment>
+    <segment id="20" parent="19" relname="elaboration"> Thoughts?  </segment>
+    <segment id="21" parent="36" relname="span">
+
+Edwards wants science to be permeable and accountable</segment>
+    <segment id="35" parent="21" relname="background"> (and so do I)</segment>
+    <segment id="22" parent="39" relname="span"> but do
+accomplish this, he&apos;s going to have to invoke a redescription of science
+and scientific practice which will make Gross uncomfortable,</segment>
+    <segment id="23" parent="22" relname="circumstance"> no matter how
+much he appreciates Edwards&apos; respect and goodwill.</segment>
+    <segment id="24" parent="37" relname="span">  In addition, Gross
+seems to take any redescription as a sort of &quot;net translation loss,&quot;</segment>
+    <segment id="25" parent="24" relname="concession"> where
+the acheivements of Science since 1580 disappear in a haze of STS talk. </segment>
+    <segment id="26" parent="27" relname="condition">
+Edwards&apos; comment make clear that he (and, likely, many others) don&apos;t see
+this implication.</segment>
+    <segment id="27" parent="38" relname="span"> Why does Gross?</segment>
+<group id="28" type="span" parent="8" relname="elaboration" />
+<group id="29" type="span" parent="7" relname="nonvolitional-cause" />
+<group id="30" type="span" parent="8" relname="nonvolitional-cause" />
+<group id="31" type="multinuc" parent="34" relname="span" />
+<group id="32" type="span" parent="31" relname="list" />
+<group id="33" type="span" parent="31" relname="list" />
+<group id="34" type="span" parent="42" relname="elaboration" />
+<group id="36" type="span" parent="22" relname="concession" />
+<group id="37" type="span" parent="40" relname="span" />
+<group id="38" type="span" parent="37" relname="elaboration" />
+<group id="39" type="span" parent="45" relname="span" />
+<group id="40" type="span" parent="39" relname="elaboration" />
+<group id="41" type="span" parent="17" relname="elaboration" />
+<group id="42" type="span" parent="43" relname="span" />
+<group id="43" type="span" parent="4" relname="elaboration" />
+<group id="44" type="span" parent="46" relname="span" />
+<group id="45" type="span" parent="44" relname="elaboration" />
+<group id="46" type="span" parent="15" relname="elaboration" />
+<group id="47" type="span" parent="4" relname="background" />
+<group id="48" type="span" />
+  </body>
+</rst>

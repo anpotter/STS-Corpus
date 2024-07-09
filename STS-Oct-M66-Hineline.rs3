@@ -1,0 +1,115 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="background">
+Harry Marks, in response to Bailar, raises useful questions about
+the import of &quot;STS&quot; projects.</segment>
+    <segment id="2" parent="34" relname="span"> Except to note that STS is very
+far from monolothic, I shall conclude this preface and get
+to discussion.</segment>
+    <segment id="3" parent="4" relname="nonvolitional-cause">
+
+1. It seems to me that the core project in STS, in all its
+variants, has been to demonstrate that components of the
+social order are embedded in the conclusions of science.</segment>
+    <segment id="4" parent="20" relname="span"> This
+has a variety of consequences,</segment>
+    <segment id="5" parent="21" relname="span"> but the central consequence
+is that the conclusions of science are not independent of the
+social/civil/politiccal order,</segment>
+    <segment id="7" parent="32" relname="span"> and therefore cannot be used
+as an independent means of adjudicating social/civil/political
+questions -- contrary to opposing claims, made from a range of
+interests, some of them successful.</segment>
+    <segment id="8" parent="23" relname="preparation">
+
+Some upshots:</segment>
+    <segment id="19" parent="9" relname="nonvolitional-cause">
+
+a. Because the program is not monolithic,</segment>
+    <segment id="9" parent="23" relname="list"> the message has been
+mixed and therefore is too easily dismissed through obfuscation 
+(in some pernicious cases) and through direct quotation (some
+STS analysts are self-obfuscating).</segment>
+    <segment id="6" parent="24" relname="span">
+
+b. Whether true or not, the message has been deemed a message from
+the left.</segment>
+    <segment id="10" parent="11" relname="concession"> It might as easily be embraced by the (American) right,</segment>
+    <segment id="11" parent="22" relname="span">
+but apart from Creationist appropriations, it has not.</segment>
+    <segment id="12" parent="29" relname="span">
+
+2. There are alternative programs, the possibilities of which have
+not, I think, been explored.</segment>
+    <segment id="13" parent="27" relname="span"> I&apos;ll confine my comment to one such
+alternative: developing an aesthetics of science.</segment>
+    <segment id="14" parent="26" relname="span"> It appears to me
+that a significant number of philosophers of science have mixed
+their (unremarked) aesthetics with their epistemologies.</segment>
+    <segment id="15" parent="14" relname="elaboration"> This
+is both implicitly the case (which calls for some tricky analysis
+to tease the aesthetic judgments from justification) and explicitly,
+as in attempts to identify &quot;simplicity&quot; (a 20th century aesthetic
+virtue) in the conditions for theory choice.</segment>
+    <segment id="16" parent="28" relname="contrast">
+
+Restated, some science may be pretty but not true;</segment>
+    <segment id="17" parent="28" relname="contrast"> some science may
+be unpretty but true.</segment>
+    <segment id="18" parent="28" relname="elaboration"> One might devise a means for making this distinction.</segment>
+<group id="20" type="span" parent="5" relname="background" />
+<group id="21" type="span" parent="7" relname="evidence" />
+<group id="22" type="span" parent="6" relname="background" />
+<group id="23" type="multinuc" parent="25" relname="span" />
+<group id="24" type="span" parent="23" relname="list" />
+<group id="25" type="span" parent="7" relname="elaboration" />
+<group id="26" type="span" parent="13" relname="elaboration" />
+<group id="27" type="span" parent="12" relname="elaboration" />
+<group id="28" type="multinuc" parent="30" relname="span" />
+<group id="29" type="span" parent="31" relname="span" />
+<group id="30" type="span" parent="29" relname="summary" />
+<group id="31" type="span" parent="33" relname="list" />
+<group id="32" type="span" parent="33" relname="list" />
+<group id="33" type="multinuc" parent="35" relname="span" />
+<group id="34" type="span" parent="33" relname="background" />
+<group id="35" type="span" />
+  </body>
+</rst>

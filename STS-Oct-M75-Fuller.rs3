@@ -1,0 +1,174 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">Response to EDWARDS, KEITH, et al.:</segment>
+    <segment id="2" parent="67" relname="span"> Do science studies
+redescriptions destabilize science?</segment>
+    <segment id="3" parent="63" relname="span">
+
+I think the UK experience of the past few weeks supports KEITH&apos;s
+view that they do indeed destabilize, usually quite unwittingly
+and perhaps not productively.</segment>
+    <segment id="4" parent="5" relname="concession"> In the THES, Harry Collins talks
+about science as working like a craft guild and thinks he&apos;s
+paying a compliment to the skilled practices of scientists,</segment>
+    <segment id="5" parent="38" relname="span"> but
+he is then read by scientists as trivializing the entire
+enterprise.</segment>
+    <segment id="6" parent="39" relname="span"> This is quite striking,</segment>
+    <segment id="7" parent="6" relname="elaboration"> especially considering that
+Collins has made a studious effort to avoid sounding like he&apos;s
+debunking scientists. </segment>
+    <segment id="8" parent="42" relname="span">
+
+I doubt that a much better reception would be forthcoming to
+people who produce &quot;thick&quot; descriptions, such as Karin Knorr-
+Cetina.</segment>
+    <segment id="9" parent="44" relname="span"> You can&apos;t quite repair the damage done to the
+&quot;specialness&quot; of science by saying that aspects of science
+resemble a myriad of non-scientific practices.</segment>
+    <segment id="10" parent="43" relname="span"> By comparison,
+even the most carefully wrought anthropology of religion is bound
+to provide some offense to the True Believer,</segment>
+    <segment id="11" parent="10" relname="nonvolitional-cause"> since the
+anthropologist has made a methodological decision not to take
+professions of faith as self-explanatory. </segment>
+    <segment id="12" parent="45" relname="span">
+
+It&apos;s not that hard to open up space for scientists to voice their
+opinions in science studies narratives. </segment>
+    <segment id="13" parent="12" relname="elaboration">In fact, this is
+routinely done.</segment>
+    <segment id="14" parent="64" relname="span"> The tough question -- which EDWARDS hasn&apos;t really
+addressed -- is how much authority you grant those opinions in
+directing the course of your own narrative.</segment>
+    <segment id="15" parent="49" relname="span"> Usually, this
+question is answered by simply not addressing your narrative to
+scientists (or hoping they don&apos;t read you!).</segment>
+    <segment id="16" parent="46" relname="span"> In that case,
+scientists&apos; words are quickly converted to symptoms</segment>
+    <segment id="17" parent="16" relname="background"> (or &apos;signs&apos;,
+if one is a bit more neutral).</segment>
+    <segment id="18" parent="19" relname="nonvolitional-cause"> But scientists are now beginning
+to take our stuff seriously,</segment>
+    <segment id="19" parent="47" relname="span"> and so this particular form of
+evasion is not going to work much longer. </segment>
+    <segment id="20" parent="57" relname="span">
+
+Also, it&apos;s much too facile to say that scientists and science
+studies practitioners are doing &apos;different but complementary&apos;
+things.</segment>
+    <segment id="21" parent="22" relname="antithesis"> (Nobody has actually said this yet,</segment>
+    <segment id="22" parent="50" relname="span"> but I bet many of you
+out there believe this.)</segment>
+    <segment id="23" parent="22" relname="evidence"> Gross &amp; Levitt -- and other scientists
+who&apos;ve written about science studies recently -- clearly think
+we&apos;ve moved into their epistemic turf.</segment>
+    <segment id="24" parent="51" relname="disjunction"> Have we all collectively
+misspoken,</segment>
+    <segment id="26" parent="51" relname="disjunction"> or the scientists collectively misheard?</segment>
+    <segment id="25" parent="54" relname="span">  I doubt it. </segment>
+    <segment id="27" parent="28" relname="antithesis">
+While it is definitely wrong to say that science studies as a
+whole should be lumped with &apos;anti-science&apos; movements (pace Gerald
+Holton),</segment>
+    <segment id="28" parent="53" relname="span"> science studies IS anti-something-about-science.</segment>
+    <segment id="29" parent="52" relname="span"> What
+that something is, however, is rarely made clear in our work</segment>
+    <segment id="30" parent="29" relname="nonvolitional-cause"> --
+in part because it&apos;s probably different things for different
+people.</segment>
+    <segment id="31" parent="56" relname="span"> But it&apos;s got to be made more explicit.</segment>
+    <segment id="32" parent="31" relname="evidence"> Simply saying that
+we have methodologically rigorous ways of going about our
+business (a common defense currently used) doesn&apos;t address the
+question of WHY we&apos;re interested in generating the particular
+redescriptions of science that science studies tends to produce,
+especially given the way they jar with popular, philosophical,
+and scientists&apos; own descriptions of what science is like. </segment>
+    <segment id="33" parent="60" relname="span">
+
+By the way, it&apos;s also worth noting that there are lots of ways
+in which science studies can &apos;destabilize&apos; science.</segment>
+    <segment id="34" parent="35" relname="concession"> Of course,
+discouraging young people from entering science at all -- a
+particular concern of Gross &amp; Levitt -- is one way.</segment>
+    <segment id="35" parent="59" relname="span"> But another
+way is to discourage young people, already set on scientific
+careers, from pursuing basic research or, more modestly, from
+pursuing certain sciences (e.g. high energy physics) that seem
+especially oblivious to its social dimensions.</segment>
+    <segment id="36" parent="61" relname="span"> My guess is that
+even Paul Gross wouldn&apos;t mind some &apos;destabilization&apos; of science,</segment>
+    <segment id="37" parent="36" relname="condition">
+if done in the &apos;right&apos; way.</segment>
+<group id="38" type="span" parent="40" relname="span" />
+<group id="39" type="span" parent="41" relname="span" />
+<group id="40" type="span" parent="3" relname="evidence" />
+<group id="41" type="span" parent="38" relname="evaluation" />
+<group id="42" type="span" parent="39" relname="elaboration" />
+<group id="43" type="span" parent="9" relname="elaboration" />
+<group id="44" type="span" parent="8" relname="elaboration" />
+<group id="45" type="span" parent="14" relname="antithesis" />
+<group id="46" type="span" parent="15" relname="elaboration" />
+<group id="50" type="span" parent="55" relname="span" />
+<group id="51" type="multinuc" parent="25" relname="antithesis" />
+<group id="52" type="span" parent="31" relname="antithesis" />
+<group id="53" type="span" parent="29" relname="background" />
+<group id="54" type="span" parent="50" relname="elaboration" />
+<group id="55" type="span" parent="20" relname="evidence" />
+<group id="56" type="span" parent="66" relname="span" />
+<group id="59" type="span" parent="33" relname="elaboration" />
+<group id="60" type="span" parent="62" relname="span" />
+<group id="61" type="span" parent="60" relname="elaboration" />
+<group id="62" type="span" parent="56" relname="background" />
+<group id="63" type="span" parent="64" relname="concession" />
+<group id="64" type="span" parent="58" relname="span" />
+<group id="47" type="span" parent="48" relname="span" />
+<group id="49" type="span" parent="47" relname="antithesis" />
+<group id="48" type="span" parent="65" relname="span" />
+<group id="57" type="span" parent="48" relname="elaboration" />
+<group id="65" type="span" parent="14" relname="elaboration" />
+<group id="58" type="span" parent="31" relname="solutionhood" />
+<group id="66" type="span" />
+<group id="67" type="span" parent="3" relname="solutionhood" />
+  </body>
+</rst>

@@ -1,0 +1,77 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">
+
+&amp;gt;From Lieberman</segment>
+    <segment id="2" parent="15" relname="span">
+
+Please let me clarify what I referred to elliptically about the existence
+of reality.</segment>
+    <segment id="3" parent="10" relname="span"> I will give an example that I offer my undergraduate students
+in a course on sexuality.</segment>
+    <segment id="4" parent="11" relname="span">
+
+I ask them what is happening when an   engaged man has sexual relations
+with a married prostitute who does not take any money.</segment>
+    <segment id="5" parent="13" relname="span"> Is it premarital
+intercourse, extramarital intercourse, extrapremarital intercourse (cheating
+on your lover) or intercourse with a prostitute --- one of Kinsey&apos;s
+categories.</segment>
+    <segment id="6" parent="12" relname="disjunction"> Premarital intercourse does not exist in the sense that my
+undergraduate students understand it,</segment>
+    <segment id="7" parent="12" relname="disjunction"> nor does it exist in the sense that
+almost all legislators who allocate the money for science believe it does.</segment>
+    <segment id="8" parent="14" relname="span">
+
+My own position is closest to that of Stephen Cole who in MAKING SCIENCE
+refers to himself as a realist-constructivist.</segment>
+    <segment id="9" parent="8" relname="elaboration">
+
+As for the Mannheim paradox and social constructionists who inevitably
+&quot;lapse&quot; into realism --- that is our fate.</segment>
+<group id="10" type="span" parent="2" relname="elaboration" />
+<group id="11" type="span" parent="3" relname="elaboration" />
+<group id="12" type="multinuc" parent="5" relname="interpretation" />
+<group id="13" type="span" parent="4" relname="elaboration" />
+<group id="14" type="span" parent="2" relname="elaboration" />
+<group id="15" type="span" />
+  </body>
+</rst>

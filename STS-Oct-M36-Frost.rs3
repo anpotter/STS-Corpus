@@ -1,0 +1,103 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">Paul Edwards writes:</segment>
+    <segment id="2" parent="23" relname="span">
+
+&amp;gt;If LIEBERMAN or anyone else genuinely believes that STS convincingly
+&amp;gt;demonstrates that external reality doesn&apos;t exist, I would like to be
+&amp;gt;notified of just where and how this has been done. On my reading, most STS
+&amp;gt;literature asserts, and often demonstrates, some form of interpretive
+&amp;gt;flexibility in scientific claims or technological design. But there is a
+&amp;gt;vast difference between flexibility, an excellent metaphor whose
+&amp;gt;connotations should be taken seriously, and infinite malleability - which
+&amp;gt;doesn&apos;t even work as a metaphor (from what experiential background could it
+&amp;gt;be drawn?), much less as a coherent literal description of anything at all.
+&amp;gt;The most common philosophical mistake in STS is to leap from the
+&amp;gt;possibility of _multiple_ interpretations or constructions to the
+&amp;gt;possibility of an _infinite_ number. When something flexes too far, it
+&amp;gt;breaks.</segment>
+    <segment id="3" parent="18" relname="span">
+
+Excellent!</segment>
+    <segment id="4" parent="3" relname="antithesis"> Social construction needn&apos;t be philosophically assimilated with
+the more perverse spinoffs of German idealism.</segment>
+    <segment id="5" parent="20" relname="span"> To Paul Edwards&apos; perceptive
+comments on the value of the notion of interpretive flexibility, I&apos;d add
+that not only are meanings and truths implicitly negotiated, the more
+durable outcome of such controversies or fact-makings is a sort of
+constructive ambiguity.</segment>
+    <segment id="6" parent="7" relname="condition"> If a meaning or truth is subject to multiple social
+meanings</segment>
+    <segment id="7" parent="19" relname="span"> it is less brittle and less apt to crack under social or political
+pressure.</segment>
+    <segment id="8" parent="7" relname="elaboration"> Take nuclear power (which, of course didn&apos;t have a sufficiently
+flexible/ambiguous meaning)--it had many meanings from &quot;too cheap to meter&quot;
+to a symboll of American (or French) techno-prowess.</segment>
+    <segment id="9" parent="10" relname="antithesis">
+
+Excuse my naivete, friends,</segment>
+    <segment id="10" parent="21" relname="span"> but I still can see why scientists are soo
+irritated with us</segment>
+    <segment id="11" parent="10" relname="evidence"> (cf. the article on Latour in Lingua Franca as well as
+Gross &amp; Levitt, etc).</segment>
+    <segment id="12" parent="16" relname="span"> Doesn&apos;t ideologically bolting oneself to a particular
+conception of reality risk rendering oneself obsolete once the facts or
+cultural winds change?</segment>
+    <segment id="13" parent="12" relname="elaboration"> How many scholasticists or royally-supported
+astrologists (or alchemists) are around these days, anyway?</segment>
+    <segment id="14" parent="17" relname="span"> As a historian
+of technology, I can envision the day when Taylorists and industrializers
+are commonly seen not as avatars of objective truth,</segment>
+    <segment id="15" parent="14" relname="antithesis"> but as silly
+fad-followers (at best), self-serving experts, or politically dense tools
+of their employers...</segment>
+<group id="16" type="span" parent="10" relname="evidence" />
+<group id="17" type="span" parent="10" relname="evidence" />
+<group id="18" type="span" parent="5" relname="background" />
+<group id="19" type="span" parent="5" relname="evidence" />
+<group id="20" type="span" parent="22" relname="span" />
+<group id="21" type="span" parent="20" relname="background" />
+<group id="22" type="span" parent="24" relname="span" />
+<group id="23" type="span" parent="22" relname="background" />
+<group id="24" type="span" />
+  </body>
+</rst>

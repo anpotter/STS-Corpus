@@ -1,0 +1,61 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="solutionhood">KEITH asks why GROSS, unlike EDWARDS and others, sees the
+achievements of science since 1580 disappearing in a haze of STS
+talk.</segment>
+    <segment id="2" parent="7" relname="span">  It would be a violation of netiquette to answer THAT
+question, an even GROSSER one to say that he DOESN&apos;T,</segment>
+    <segment id="3" parent="8" relname="span"> BUT:.  An
+answer of sorts can be found, however, INTER ALIA, in David
+Stove&apos;s POPPER AND AFTER: FOUR MODERN IRRATIONALISTS.</segment>
+    <segment id="4" parent="3" relname="background">  Pergamon,
+I think, around 1982. </segment>
+    <segment id="5" parent="3" relname="background"> Apologies to whose who have read it
+already. </segment>
+    <segment id="6" parent="3" relname="elaboration"> Alternatively, for those put off by Stove&apos;s nasty
+insistence on logic alone, a look at Susan Haack&apos;s more recent,
+and crystal-clear  EVIDENCE AND INQUIRY (Blackwell, &apos;92 of &apos;93)
+might serve.</segment>
+<group id="7" type="span" parent="3" relname="concession" />
+<group id="8" type="span" />
+  </body>
+</rst>

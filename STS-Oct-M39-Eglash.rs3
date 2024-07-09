@@ -1,0 +1,79 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">
+
+Robert L. Frost writes:</segment>
+    <segment id="2" parent="14" relname="span">
+
+&amp;gt;Fine idea. Suggestions? Now that those of us on the left have pretty well
+&amp;gt;run the anti-nuclear stuff and eco-feminist stuff pretty hard (to the point
+&amp;gt;that the issues are pretty worn and threadbare for media exposure), que
+&amp;gt;faire?</segment>
+    <segment id="3" parent="16" relname="span">
+
+My comment was simply that &quot;political correctness&quot; has been a fairly
+effective strategy to use against the academic left and now, apparently, 
+against STS as well.</segment>
+    <segment id="4" parent="5" relname="concession">  Some of it stinks (Byron v.s. Toni Morrison)</segment>
+    <segment id="5" parent="13" relname="span"> and
+some of it is well grounded (civil liberties, academic freedom). </segment>
+    <segment id="6" parent="15" relname="span"> We
+should be able to use that parts that make sense to our own advantage, rather
+than running away from it.</segment>
+    <segment id="7" parent="11" relname="span">
+
+One example is the national cyberspace debates:</segment>
+    <segment id="8" parent="7" relname="elaboration"> here issues like the 
+clipper chip and information highway on-ramps allow STS-style arguments to 
+converge with civil liberties concerns rather than be defending against
+them. </segment>
+    <segment id="9" parent="12" relname="span"> I suspect that such convergence could be better adopted in other 
+STS areas as well,</segment>
+    <segment id="10" parent="9" relname="elaboration"> and I wonder if we aren&apos;t in such a habit of defending
+against charges of Lysenkoism that we fail to see such opportunities.</segment>
+<group id="11" type="span" parent="6" relname="evidence" />
+<group id="12" type="span" parent="6" relname="elaboration" />
+<group id="13" type="span" parent="6" relname="background" />
+<group id="14" type="span" parent="3" relname="antithesis" />
+<group id="15" type="span" parent="3" relname="elaboration" />
+<group id="16" type="span" />
+  </body>
+</rst>

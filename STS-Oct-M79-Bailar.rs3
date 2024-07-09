@@ -1,0 +1,86 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">Hakken wrote, in part,</segment>
+    <segment id="2" parent="15" relname="span"> &quot;Two final points.  I believe we need
+other philosophical resources on which to base a
+reconstruction--I find them in emerging non-modernist forms of
+realism (inspired by, e.g., Roy Bhaskar).  And we need to talk
+concretely about the practices we project--e.g., not just
+identify more democratic decisions about what technoscience to
+pursue, but discuss specific mechanisms for how to accomplish
+this. 
+
+&quot;I know there are some scientist and technologists who are
+willing to join such a discourse.  How to we reach others and
+how do we create the forms in which to pursue it?&quot;</segment>
+    <segment id="3" parent="16" relname="span">
+
+There is much food for thought here,</segment>
+    <segment id="4" parent="3" relname="elaboration"> and I would be very glad 
+to join the discussion he proposes. </segment>
+    <segment id="5" parent="17" relname="span"> One point for early 
+attention is the extent to which the issues pursued by science 
+are and should be based on democratic decisions.</segment>
+    <segment id="6" parent="14" relname="span">  We have a lot 
+of institutions that function (sometimes more, sometimes less 
+well) in other ways. </segment>
+    <segment id="7" parent="13" relname="span"> Think of the nuclear family,</segment>
+    <segment id="8" parent="7" relname="circumstance"> where votes 
+are rare. </segment>
+    <segment id="9" parent="6" relname="elaboration"> Or most churches, or the military, or how your 
+doctor should treqt your very own next serious illness.</segment>
+    <segment id="10" parent="18" relname="span">  Would 
+any of these function better at the level of the big strategic 
+decisions (equivalent to the choice of questions to be 
+studied in science)</segment>
+    <segment id="11" parent="10" relname="condition"> if we made them democratic? </segment>
+    <segment id="12" parent="19" relname="span"> I&apos;d like to 
+see the arguments.</segment>
+<group id="13" type="span" parent="6" relname="elaboration" />
+<group id="14" type="span" parent="5" relname="elaboration" />
+<group id="15" type="span" parent="3" relname="background" />
+<group id="16" type="span" parent="5" relname="background" />
+<group id="17" type="span" parent="10" relname="background" />
+<group id="18" type="span" parent="12" relname="solutionhood" />
+<group id="19" type="span" />
+  </body>
+</rst>

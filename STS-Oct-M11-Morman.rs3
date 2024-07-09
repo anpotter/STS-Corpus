@@ -1,0 +1,120 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="background">Thanks to MILLER for his support. </segment>
+    <segment id="2" parent="34" relname="span"> I had a point, though, beyond
+suggesting that there was no inevitability to a clash between scientists
+and STSers. </segment>
+    <segment id="3" parent="25" relname="span"> I ask that FULLER and others please note that the ad was
+placed in _Science_ by the National Association of Scholars, not by a
+group of scientists. </segment>
+    <segment id="4" parent="26" relname="span">
+
+The National Association of Scholars is a group, composed largely of people
+in the humanities, that advances a particular political agenda under the
+banner of opposing politics in scholarship.</segment>
+    <segment id="5" parent="21" relname="conjunction">  I don&apos;t wish to question the
+honesty and good intentions (or the scholarly credentials, for that
+matter) of many people who may be involved,</segment>
+    <segment id="6" parent="21" relname="conjunction"> not would I suggest that they
+have not raised some legitimate issues. </segment>
+    <segment id="7" parent="27" relname="span"> I would reiterate, though, that
+they conceive of their opponents not as people who do science studies, but
+rather, as what Gross characterizes as &quot;the academic left.&quot; </segment>
+    <segment id="8" parent="7" relname="elaboration"> These two
+groups overlap (STSers and the &quot;AL&quot;), but are not identical. </segment>
+    <segment id="9" parent="25" relname="summary"> STSers may
+be expressing a little too much of a sense of self-importance in thinking
+that the ad was directed at them. </segment>
+    <segment id="10" parent="31" relname="span">
+
+There is a serious struggle going on here.</segment>
+    <segment id="11" parent="10" relname="elaboration">  Will there be a place for
+feminism, SSK, marxism, and other critical methodologies in studying
+science? </segment>
+    <segment id="12" parent="10" relname="elaboration"> Or will the continuing clamor which conflates under the rubric
+&quot;political correctness&quot; multiculturalism, post-structuralism, and concern
+about speeech that hurts, eventually lead to attempts to root critical
+thinkers out of any location in the academic world. </segment>
+    <segment id="13" parent="29" relname="span"> STSers have a stake 
+in this matter,</segment>
+    <segment id="15" parent="13" relname="antithesis"> but not because the attack is on science studies.</segment>
+    <segment id="14" parent="24" relname="span">
+
+Could someone out there provide more information on the National 
+Association of Scholars? </segment>
+    <segment id="16" parent="23" relname="span"> For example:</segment>
+    <segment id="17" parent="16" relname="elaboration"> Who are the leading figures in it? </segment>
+    <segment id="22" parent="16" relname="elaboration"> 
+Who funds it? </segment>
+    <segment id="18" parent="30" relname="span"> Perhaps then a more significant discussion about the call 
+to arms in _Science_ can proceed.</segment>
+    <segment id="19" parent="20" relname="preparation">
+
+
+On Tue, 4 Oct 1994, Clark Miller wrote:</segment>
+    <segment id="20" parent="35" relname="span">
+&amp;gt; 
+&amp;gt; Here, here to MORMAN. 
+&amp;gt; 
+&amp;gt; As a scientist and an STS scholar, I do not find an inherent conflict
+&amp;gt; in the two positions, but I do find the arguments being made by some
+&amp;gt; of my colleagues (on both sides of the aisle) extremely damaging. Our
+&amp;gt; central thesis is NOT that the real world does not exist. Responses of
+&amp;gt; SCAREDY CAT, SCAREDY CAT..., however, are hardly likely to win
+&amp;gt; moderate and liberal scientists to STS. It seems to me that the way to
+&amp;gt; proceed is to challenge science instead of provoking it.</segment>
+<group id="21" type="multinuc" parent="4" relname="elaboration" />
+<group id="23" type="span" parent="14" relname="elaboration" />
+<group id="24" type="span" parent="18" relname="enablement" />
+<group id="25" type="span" parent="28" relname="span" />
+<group id="26" type="span" parent="3" relname="elaboration" />
+<group id="27" type="span" parent="4" relname="elaboration" />
+<group id="28" type="span" parent="10" relname="background" />
+<group id="29" type="span" parent="32" relname="span" />
+<group id="30" type="span" parent="29" relname="elaboration" />
+<group id="31" type="span" parent="33" relname="span" />
+<group id="32" type="span" parent="31" relname="elaboration" />
+<group id="33" type="span" parent="2" relname="elaboration" />
+<group id="34" type="span" parent="36" relname="span" />
+<group id="35" type="span" parent="34" relname="background" />
+<group id="36" type="span" />
+  </body>
+</rst>

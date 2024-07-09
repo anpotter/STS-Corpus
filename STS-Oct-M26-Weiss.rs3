@@ -1,0 +1,132 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="41" relname="background">Following Hamlett&apos;s post about the article in the Chronicle of Higher Ed., I
+took a look and have two brief comments. </segment>
+    <segment id="4" parent="2" relname="preparation"> On the second page the authors
+claim that </segment>
+    <segment id="2" parent="27" relname="span">
+
+&quot;...democracy, to the extent that it now exists, survives because
+of science as it now exists.  The enormous and growing human population, for
+example, places huge burdens on resources, technology, the productive
+capacity of the environment, and human ingenuity.  Democratic institutions
+would collapse quickly and horribly without science as it is now conducted
+by professional scientists.  Imagine, for example, the consequences of the
+next devastating pandemic (always in the wings!) - with population densities
+and world travel as they now exist - if we had no organized science and
+technologies drawn from pathology, public health, and sanitary engineering.&quot;</segment>
+    <segment id="5" parent="40" relname="span">
+
+There are a number of obvious problems with this assessment. </segment>
+    <segment id="3" parent="6" relname="condition"> Most obvious
+is that if we did not have science and technology as they now exist,</segment>
+    <segment id="6" parent="28" relname="span"> it is
+likely we wouldn&apos;t have population densities and world travel, as they now
+exist, to spread those devastating pandemics.</segment>
+    <segment id="7" parent="31" relname="conjunction">  And by &quot;science as it is now
+conducted,&quot; do the authors mean that high-energy physics, astromomy in its
+various incarnations, science for the military, and the like are necessary
+to address problems of disease and overpopulation?</segment>
+    <segment id="8" parent="31" relname="conjunction">  And is a system of
+science in which women and minorities are grossly underrepresented (and
+their health care issues traditionally understudied) also necessary to
+address these problems? </segment>
+    <segment id="9" parent="29" relname="span"> As for the link between modern science and
+democracy, that sounds like just the sort of underinformed, ideology-laden,
+muddleheaded hypothesis the authors complain about in others. </segment>
+    <segment id="10" parent="9" relname="evidence"> The nations
+where democracy is strongest (and it is rather weak in those) are the ones
+with the least to worry about overpopulation,</segment>
+    <segment id="11" parent="12" relname="concession"> and while some degree of
+science and technology helped them get there,</segment>
+    <segment id="12" parent="30" relname="span"> that is a far cry from showing
+that by no other means than that which led to the current practice of
+technoscience could such progress (!) have been made.</segment>
+    <segment id="13" parent="14" relname="background">
+
+My second observation concerns the last paragraph,</segment>
+    <segment id="14" parent="39" relname="span"> where we are given the
+choice between &quot;a grudging and vigilant contract with elitism&quot; and the
+imposition &quot;by fiat&quot; of &quot;a regime of political rectitude&quot; that would
+&quot;corrupt&quot; science, leaving it &quot;nothing but a process of negotiations,
+servile to power.&quot; </segment>
+    <segment id="15" parent="35" relname="antithesis"> Are these our only choices?</segment>
+    <segment id="16" parent="35" relname="conjunction">  And what makes the authors
+think science isn&apos;t servile to power now? </segment>
+    <segment id="17" parent="16" relname="background"> I doubt it has been non-servile
+since the natural philosophers of independent means went the way of all
+things.</segment>
+    <segment id="18" parent="32" relname="span">  Now, I would be among the first to look with hesitation about doing
+something like putting the speed of light to a national plebiscite</segment>
+    <segment id="19" parent="18" relname="concession"> (although
+the results might be interesting),</segment>
+    <segment id="20" parent="34" relname="span"> but why must we take the scientists&apos; word
+when it comes to deciding _what_ to study (as opposed to how)? </segment>
+    <segment id="21" parent="22" relname="condition"> If it&apos;s our
+money and our future (possibly) at stake,</segment>
+    <segment id="22" parent="33" relname="span"> do we not have the right to some
+sort of input? </segment>
+    <segment id="23" parent="34" relname="interpretation"> Are scientists afraid of the people?</segment>
+    <segment id="24" parent="25" relname="circumstance">  Or perhaps after
+almost two and a quarter centuries (in the U.S., anyway) of somehow muddling
+along and retaining at least a shred of decency and democracy (frequent
+imperialistic tendencies notwithstanding - now there&apos;s another topic, modern
+technoscience and imperialism) without destroying ourselves,</segment>
+    <segment id="25" parent="37" relname="span"> we&apos;re just too
+stupid to know what is and isn&apos;t good for us.</segment>
+<group id="27" type="span" parent="5" relname="antithesis" />
+<group id="28" type="span" parent="31" relname="conjunction" />
+<group id="29" type="span" parent="31" relname="conjunction" />
+<group id="30" type="span" parent="9" relname="evidence" />
+<group id="31" type="multinuc" parent="5" relname="elaboration" />
+<group id="32" type="span" parent="20" relname="concession" />
+<group id="33" type="span" parent="20" relname="evaluation" />
+<group id="34" type="span" parent="36" relname="span" />
+<group id="35" type="multinuc" parent="38" relname="span" />
+<group id="36" type="span" parent="35" relname="conjunction" />
+<group id="37" type="span" parent="35" relname="conjunction" />
+<group id="38" type="span" parent="14" relname="evaluation" />
+<group id="39" type="span" parent="41" relname="joint" />
+<group id="40" type="span" parent="41" relname="joint" />
+<group id="41" type="multinuc" parent="42" relname="span" />
+<group id="42" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,132 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="background">
+I have noticed a curious undertone to this debate concerning the 
+attacks on STS/SSK. </segment>
+    <segment id="3" parent="4" relname="antithesis"> The claim has been put forward that scientists 
+are wrong to think that they are under attack by the SSK folks.  </segment>
+    <segment id="4" parent="2" relname="span">
+Rather, what is being criticized is philosophy of science. </segment>
+    <segment id="5" parent="44" relname="evidence"> 
+
+For example, Fuller (I think -- apologies if I have got the wrong 
+person) quoted Latour to the effect that philosophers of science were 
+whores and strumpets -- as though they are sirens on the street-
+corners of the academy, luring impressionable scientists away for 
+immoral purposes.</segment>
+    <segment id="6" parent="32" relname="span">  Bernie Lieberman seems to have tendencies in this 
+direction.</segment>
+    <segment id="7" parent="8" relname="antithesis">  He talks of fusion gangs, collider gangs, and genome 
+gangs. </segment>
+    <segment id="8" parent="31" relname="span"> But when these neighborhood toughs (or their advocates) 
+take him to task he says words to the effect,</segment>
+    <segment id="9" parent="10" relname="solutionhood"> &quot;What? You guys? </segment>
+    <segment id="10" parent="29" relname="span"> 
+I didn&apos;t mean you,</segment>
+    <segment id="11" parent="30" relname="span"> I meant &quot;Shorty&quot; over there</segment>
+    <segment id="12" parent="11" relname="elaboration"> -- the philosopher of 
+science (with all his stories about the nature of science)&quot;.</segment>
+    <segment id="13" parent="45" relname="span">
+
+Here is my concern:</segment>
+    <segment id="14" parent="46" relname="span"> I don&apos;t know that it makes much sense to conceive 
+of science in such a way that you can make a straightforward &quot;cut&quot; 
+between science and philosophy of science</segment>
+    <segment id="15" parent="35" relname="span"> (and be careful of general 
+arguments here</segment>
+    <segment id="16" parent="33" relname="span"> -- there are several species of philosophy of science, </segment>
+    <segment id="17" parent="34" relname="span">
+and within most species, there is much intra-specific variation -- </segment>
+    <segment id="18" parent="17" relname="elaboration">
+this in itself creates a space for hasty generalizations about 
+philosophers of science, and their wicked ways).</segment>
+    <segment id="19" parent="37" relname="span">  
+
+I do not believe that you can simply carve science out of the 
+intellectual (including philosophical) environment in which it takes 
+place -- certainly in any such way that would allow you to sharply 
+differentiate &quot;the science&quot; from the &quot;stories about the science&quot;. </segment>
+    <segment id="20" parent="36" relname="span"> To 
+pursue a Quinean metaphor, the science and the stories are 
+constitutive of the &quot;web of belief&quot;,</segment>
+    <segment id="21" parent="20" relname="elaboration"> and the parts are made sense of 
+from the perspective of the whole.</segment>
+    <segment id="22" parent="23" relname="concession">
+
+Certainly there is much more to science -- even theoretical science --
+ than philosophy of science.</segment>
+    <segment id="23" parent="43" relname="span">  But it also seems to be true to say 
+that philosophy of science has -- in its many guises -- helped to 
+shape science, and scientific debates in particular.</segment>
+    <segment id="24" parent="38" relname="preparation">  Examples:</segment>
+    <segment id="40" parent="41" relname="span"> the 
+influence of positivism on the formation of special relativity </segment>
+    <segment id="26" parent="40" relname="elaboration">
+(e.g., Einstein&apos;s interpretation of the null result of the 
+Michelson-Morley experiment,</segment>
+    <segment id="25" parent="40" relname="elaboration"> and his rejection of the realism of 
+FitzGerald and Lorentz),</segment>
+    <segment id="27" parent="42" relname="span"> and general relativity</segment>
+    <segment id="39" parent="27" relname="elaboration"> (e.g., the formulation 
+of the principle of equivalence)</segment>
+    <segment id="28" parent="38" relname="list"> -- not to mention the quantum 
+theory!</segment>
+<group id="29" type="span" parent="11" relname="antithesis" />
+<group id="30" type="span" parent="8" relname="elaboration" />
+<group id="31" type="span" parent="6" relname="elaboration" />
+<group id="32" type="span" parent="44" relname="evidence" />
+<group id="2" type="span" parent="44" relname="span" />
+<group id="33" type="span" parent="15" relname="elaboration" />
+<group id="34" type="span" parent="16" relname="elaboration" />
+<group id="35" type="span" parent="14" relname="background" />
+<group id="36" type="span" parent="19" relname="elaboration" />
+<group id="37" type="span" parent="14" relname="evidence" />
+<group id="42" type="span" parent="38" relname="list" />
+<group id="43" type="span" parent="14" relname="evidence" />
+<group id="44" type="span" parent="47" relname="span" />
+<group id="45" type="span" parent="14" relname="preparation" />
+<group id="46" type="span" />
+<group id="47" type="span" parent="13" relname="background" />
+<group id="41" type="span" parent="38" relname="list" />
+<group id="38" type="multinuc" parent="48" relname="span" />
+<group id="48" type="span" parent="23" relname="evidence" />
+  </body>
+</rst>

@@ -1,0 +1,110 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">&amp;gt;From today&apos;s Chronicle of Higher Education, Section 2, front page:</segment>
+    <segment id="2" parent="10" relname="span">
+
+&quot;The Perils of Democratizing Science,&quot; by Normal Levitt &amp; Paul R. 
+Gross
+
+&quot;The old respect [for science]...is being supplanted by hostile 
+criticism, which ranges from the tendentious to ludicrous...Unlike 
+the manifestations of hatred of science in the past, which arose 
+typically from religious orthodoxy or Romantic conservatism, 
+contemporary science bashing is a sport of the academic left. Radical 
+critics insist that science is no more than a social artifact, that 
+its ideas are &quot;constructed&quot; purely on the basis of social pressures 
+and prejudices...
+
+...Any recognition that science pursued according to these viewpoints 
+[i.e., according to the &quot;interests of the dispossessed&quot;] might, in 
+fact, simply be warped by new, though different, political biases is 
+suppressed by scholars steeped in the &quot;sociology of scientific 
+knowledge.&quot; This perspective is firmly grounded in relativism, the 
+central point of which is that any community&apos;s &quot;:way of knowing&quot; is 
+as good as any other&apos;s. Why not, then, &quot;construct&quot; a science that 
+flatters _your_ community&apos;s hopes?&quot;
+
+
+&quot;The proposition that science is merely socially determined 
+convention, that it is ridden with the biases of a hermetic 
+scientific community, that scientists pursue not truth but profitable 
+consensus -- such opinions are not only held by a number of ambitious 
+academics; they also appear to be gaining ground, albeit in toned-
+down form, among a vastly larger audience of journalists, 
+politicians, students, and general readers. Absorbing aspects of 
+these ideological judgments leads otherwise intelligent people to 
+take seriously the idea that the way science &quot;works&quot; is just a 
+matter of negotiation and persuasion.&quot;
+
+&quot;Many intellectuals, new to debates over scientific issues, are 
+convinced that the apparent difficulty of science lies in its jargon, 
+not in the subtlety of its content, and that the ability to contest 
+scientific positions requires only learning the sociology and 
+politics of science. Thus they ignore the wrestling with concepts 
+that is the heart of science education. Even worse, they overlook the 
+methodological savvy needed to understand complex phenomena -- the 
+need to have some grasp of the principles of probability and 
+statistics, for example.&quot;</segment>
+    <segment id="3" parent="9" relname="span">
+
+NB: These are, obviously, selected excerpts from the Levitt &amp; Gross 
+piece.</segment>
+    <segment id="4" parent="3" relname="elaboration"> All are encouraged to read the article in its entirety.</segment>
+    <segment id="5" parent="12" relname="span">
+
+Given this description of what it is we do, how many of you feel 
+emboldened to approach your Dean or Provost for resources to create 
+and build STS programs on your campuses?</segment>
+    <segment id="6" parent="7" relname="circumstance">
+
+We&apos;ve been noticed, folks,</segment>
+    <segment id="7" parent="11" relname="span"> and it&apos;s time to introduce ourselves to 
+the wider world as we understand ourselves,</segment>
+    <segment id="8" parent="7" relname="antithesis"> rather than to allow 
+others to define us, our goals, and our insights for us.</segment>
+<group id="9" type="span" parent="2" relname="background" />
+<group id="10" type="span" parent="5" relname="nonvolitional-cause" />
+<group id="11" type="span" parent="13" relname="span" />
+<group id="12" type="span" parent="11" relname="motivation" />
+<group id="13" type="span" />
+  </body>
+</rst>

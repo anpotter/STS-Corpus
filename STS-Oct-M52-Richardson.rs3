@@ -1,0 +1,86 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="26" relname="solutionhood">I, for one, am still puzzled by methodological relativism.</segment>
+    <segment id="2" parent="16" relname="preparation">  The point 
+seems to be:</segment>
+    <segment id="3" parent="4" relname="condition"> If writing a history of an episode in science,</segment>
+    <segment id="4" parent="17" relname="span"> do not 
+presume the outcome in the history.</segment>
+    <segment id="5" parent="17" relname="restatement">  Or, more narrowly, evaluate each 
+phase of the episode only on the information available to the 
+participants at that phase.</segment>
+    <segment id="6" parent="19" relname="span">
+
+Sounds utterly uncontroversial</segment>
+    <segment id="7" parent="6" relname="elaboration"> -- it is not so much anti-Whig as I 
+commitment to viewing scientists as not blessed with precognition.</segment>
+    <segment id="8" parent="9" relname="background">
+
+The question is, again, the very one raised by Schmaus</segment>
+    <segment id="9" parent="25" relname="span"> -- who doesn&apos;t do 
+history this way?</segment>
+    <segment id="10" parent="23" relname="span">
+
+By the way, this is not a rhetorical question.</segment>
+    <segment id="11" parent="22" relname="span">  I am hoping that Schmaus 
+has raised the tone of the debate by doing just what Collins has asked in 
+the past -- discussing examples. </segment>
+    <segment id="12" parent="11" relname="elaboration"> So, who has written bad history of the 
+Michelson-Morley debate? </segment>
+    <segment id="13" parent="14" relname="solutionhood"> Is it the history in the science textbooks that 
+is at issue? </segment>
+    <segment id="14" parent="20" relname="span"> That would be interesting,</segment>
+    <segment id="15" parent="21" relname="span"> as it would indicate why 
+scientists might react to Collins&apos; cases as falsified history.</segment>
+<group id="17" type="span" parent="18" relname="span" />
+<group id="18" type="span" parent="16" relname="span" />
+<group id="19" type="span" parent="18" relname="evaluation" />
+<group id="16" type="span" parent="24" relname="span" />
+<group id="20" type="span" parent="15" relname="nonvolitional-cause" />
+<group id="21" type="span" parent="11" relname="elaboration" />
+<group id="22" type="span" parent="10" relname="elaboration" />
+<group id="23" type="span" parent="9" relname="background" />
+<group id="24" type="span" parent="26" relname="span" />
+<group id="25" type="span" parent="24" relname="restatement" />
+<group id="26" type="span" parent="27" relname="span" />
+<group id="27" type="span" />
+  </body>
+</rst>

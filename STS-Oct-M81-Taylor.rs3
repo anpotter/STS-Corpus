@@ -1,0 +1,100 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">
+
+On Mon, 24 Oct 1994, John Bailar wrote: </segment>
+    <segment id="2" parent="9" relname="span">
+&amp;gt;
+&amp;gt; But I&apos;m not sure that opening up space for scientists will be
+&amp;gt; enough.  They will need to see some reason to become engaged.
+&amp;gt; And this brings me back to my original question, restated a few
+&amp;gt; weeks ago here, about the ultimate purposes of our work (as
+&amp;gt; well as theirs).  Can we help them produce a strain of rice
+&amp;gt; with a higher yield, or come up with the Grand Unified Theory
+&amp;gt; of physics, or reduce human suffering from cancer, or anything
+&amp;gt; else they may care about?  Conversely, can we show that their
+&amp;gt; talents would be better invested in some other approach to the
+&amp;gt; elucidation of natural phenomena, or that their meritocratic
+&amp;gt; approach to the big decisions of science is sub- optimal in
+&amp;gt; some way not yet defined, or that society would be better
+&amp;gt; served if science were harnessed more directly to political
+&amp;gt; objectives?  Plug in your own favored questions here -- the
+&amp;gt; point is that the working scientist is unlikely to become
+&amp;gt; engaged unless you show him/her, in clear terms, that such
+&amp;gt; engagement may matter.  One approach that will get their
+&amp;gt; attention is, of course, the threat that science will be
+&amp;gt; marginalized, but is that what we want?  If not, what DO we 
+&amp;gt; want, and why, and how can we get there?
+&amp;gt; 
+&amp;gt; Am I too ill-informed, or too slow to pick up on things, or 
+&amp;gt; otherwise behind the rest of you?  Or would I be correct in 
+&amp;gt; concluding that we have little to offer, whether to the 
+&amp;gt; scientist or the public?  Is there reason to think that we will 
+&amp;gt; have more to offer in the future?  (My own answers would be No, 
+&amp;gt; Yes, nsd Yes, but maybe some of you have other answers.)
+&amp;gt; </segment>
+    <segment id="3" parent="10" relname="span">
+I think, at least in some few cases, the scientists are in a position in 
+which they cannot continue their business as usual,</segment>
+    <segment id="5" parent="3" relname="elaboration"> as for example the 
+scientists who have been working on nuclear weapons development suddenly 
+find themselves with no choice but to recognize the political nature of 
+science, and to explore other potentially important research areas.  </segment>
+    <segment id="4" parent="12" relname="span">
+Thus, in the short term at least, one relevant research area we could 
+work on is to serve as a kind of translator between science and 
+government, and between science and public.</segment>
+    <segment id="6" parent="8" relname="concession">  Maybe some see this too much 
+as simple public relations for science.</segment>
+    <segment id="7" parent="8" relname="concession">  Maybe others will argue that 
+this is really the job of the scientists themselves.</segment>
+    <segment id="8" parent="11" relname="span">  But it seems to 
+represent an excellent opportunity to open up communication on multiple 
+levels, and to gain trust from all parties involved, which is a useful 
+first step at any rate.</segment>
+<group id="9" type="span" parent="12" relname="background" />
+<group id="10" type="span" parent="4" relname="nonvolitional-cause" />
+<group id="11" type="span" parent="4" relname="elaboration" />
+<group id="12" type="span" parent="13" relname="span" />
+<group id="13" type="span" />
+  </body>
+</rst>

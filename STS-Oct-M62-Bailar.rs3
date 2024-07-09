@@ -1,0 +1,139 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="circumstance">Some six months ago I sent a short message trying to get some 
+of you readers to understand how scientists tend to look at STS 
+and related matters.</segment>
+    <segment id="2" parent="28" relname="span">  I got a few civil but modestly unfriendly 
+replies</segment>
+    <segment id="3" parent="2" relname="background"> (at least, I took them that way),</segment>
+    <segment id="4" parent="29" relname="span"> and dropped the 
+matter. </segment>
+    <segment id="5" parent="36" relname="span"> Recent mail suggests that there may be a lot more to 
+be said. </segment>
+    <segment id="6" parent="30" relname="span"> The point at immediate issue is what scientists (an 
+impossibly broad and vague term) _think_ about STS,</segment>
+    <segment id="7" parent="6" relname="antithesis"> not what 
+is the truth (even more impossibly broad and vague).</segment>
+    <segment id="8" parent="34" relname="span">
+
+&amp;gt;From their point of view, right or wrong in degrees we do not
+need to analyse now, STSers are a bunch of arrogant upstarts,
+willing to tell everyone else what to think and do</segment>
+    <segment id="9" parent="8" relname="elaboration"> -- all
+despite the everage STSer&apos;s lack of any intimate, firsthand
+understanding of what science is all about and how it
+progresses.</segment>
+    <segment id="10" parent="31" relname="list">  How many of &quot;us&quot; have solid records of productive
+accomplishment in research? </segment>
+    <segment id="11" parent="31" relname="list"> How many have ever gone out on a
+limb with a new theory that could be disproved by a single
+critical experiment?</segment>
+    <segment id="12" parent="31" relname="list"> How many have been responsible for
+building and administering (and funding) a large and complex
+cooperative enterprise such as a busy lab? </segment>
+    <segment id="13" parent="31" relname="list"> How many have
+tried to solve &quot;real&quot; problems of, say, agricultural
+production, or lethal disease, or homelessness, or energy
+production/conservation, or ....... ? </segment>
+    <segment id="14" parent="31" relname="list"> How many have ever had
+the joy of discovering a new and important fact (which I will
+not at this place define) about the physical world? </segment>
+    <segment id="15" parent="32" relname="span"> In short,
+what makes &quot;us&quot; so smart about something we don&apos;t really
+understand from the inside,</segment>
+    <segment id="16" parent="15" relname="elaboration"> and why should we the &quot;real&quot;
+scientists pay any attention to you, or make it easy for
+others to do so? </segment>
+    <segment id="17" parent="32" relname="elaboration"> Are we, the STSers, going to make the world a 
+better place, in any way that matters very much?</segment>
+    <segment id="18" parent="19" relname="concession">
+
+There seem to be sound answers to the skeptics,</segment>
+    <segment id="19" parent="38" relname="span"> but we are not 
+going to get very far by complaining that &quot;We don&apos;t get no
+respect&quot;, or by assuming that the working scientist will be
+convinced if we just yell at him/her loudly enough and long
+enough.</segment>
+    <segment id="20" parent="39" relname="span">
+
+What we need now is more thoughtful discussion (and even
+agreement?) among ourselves about what we are really trying to
+accomplish</segment>
+    <segment id="21" parent="20" relname="elaboration"> -- something that goes beyond the mere
+understanding of science/scientists and considers the uses of
+such understanding -- </segment>
+    <segment id="22" parent="20" relname="elaboration">and then about how we can and should try
+to attain whatever goals we have set for ourselves. </segment>
+    <segment id="23" parent="40" relname="span"> I do not
+believe that we really prefer the somewhat mean-spirited fun
+of being a bunch of fractious kibitzers, full of gossipy 
+conversation in the form of professional communication but 
+having little impact. </segment>
+    <segment id="24" parent="23" relname="elaboration"> (&quot;WOW!  Look what I&apos;ve discovered about 
+that area of science that was hot a decade ago!&quot;)</segment>
+    <segment id="25" parent="26" relname="concession">
+
+The language above is stronger than I would use,</segment>
+    <segment id="26" parent="42" relname="span"> but I so not
+mean it to express my own views.</segment>
+    <segment id="27" parent="42" relname="purpose">  It is meant to convey the
+spirit of what I have heard from colleagues who are a bit 
+unsympathetic about STS.</segment>
+<group id="28" type="span" parent="4" relname="volitional-cause" />
+<group id="29" type="span" parent="5" relname="background" />
+<group id="30" type="span" parent="5" relname="elaboration" />
+<group id="31" type="multinuc" parent="35" relname="span" />
+<group id="32" type="span" parent="33" relname="span" />
+<group id="33" type="span" parent="31" relname="summary" />
+<group id="34" type="span" parent="37" relname="span" />
+<group id="35" type="span" parent="34" relname="elaboration" />
+<group id="36" type="span" parent="44" relname="span" />
+<group id="37" type="span" parent="36" relname="elaboration" />
+<group id="38" type="span" parent="20" relname="antithesis" />
+<group id="39" type="span" parent="41" relname="span" />
+<group id="40" type="span" parent="39" relname="antithesis" />
+<group id="41" type="span" parent="36" relname="elaboration" />
+<group id="42" type="span" parent="43" relname="span" />
+<group id="43" type="span" parent="44" relname="summary" />
+<group id="44" type="span" parent="45" relname="span" />
+<group id="45" type="span" />
+  </body>
+</rst>

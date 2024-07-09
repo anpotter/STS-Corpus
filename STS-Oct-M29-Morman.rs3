@@ -1,0 +1,149 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="3" relname="antithesis">&amp;gt; A third-world nation (with a deep commitment to &quot;technoscience&quot; and
+&amp;gt; thousands of intelligent people doing it) has just--last week--turned to
+&amp;gt; pathology, public health, and sanitary engineering to stop in its tracks
+&amp;gt; (it is hoped!) a threatened pandemic of pneumonic plague.  It even made
+&amp;gt; the papers. </segment>
+    <segment id="3" parent="42" relname="span">
+
+GROSS might do well to consult the literature of historical demography and
+medical history to learn something about the significance (or relative
+lack thereof) of scientific research in the transformation of disease
+patterns in what we now think of as the &quot;developed world.&quot; </segment>
+    <segment id="4" parent="2" relname="span"> Scientists and
+physicians working in pathology and medical bacteriology in the late 19th
+century were indeed learning a lot about pathogenesis, much of which we
+still tend to accept as an accurate depiction of reality. </segment>
+    <segment id="5" parent="30" relname="span"> They were not,
+however, contributing to the huge declines in mortality from most of the
+serious infectious diseases. </segment>
+    <segment id="6" parent="31" relname="span">
+
+19th-century public health and sanitary engineering were not particularly
+science-based.</segment>
+    <segment id="7" parent="6" relname="elaboration">  Most sanitary campaigns were understood in terms of the
+filth theory of disease. </segment>
+    <segment id="8" parent="32" relname="span"> Moreover, the degree to which even public 
+health and engineering influenced disease patterns is subject to debate. </segment>
+    <segment id="9" parent="8" relname="evidence">
+Improvements in nutrition, housing, and other aspects of living standard
+(events incidental to rapidly expanding industrial economies) are
+generally credited with having a major effect. </segment>
+    <segment id="10" parent="43" relname="span"> I urge GROSS to sit down
+with Richard Evans&apos;s _Death in Hamburg_, especially the last few chapters,
+for a very well-informed historical discussion on the relative importance
+of social reform and science in the improvement of the public health. </segment>
+    <segment id="11" parent="10" relname="evidence">
+(More bibliographic citations available on request).</segment>
+    <segment id="12" parent="44" relname="span">
+
+_Death in Hamburg_, by the way, concentrates on the experience of cholera
+in Hamburg in the nineteenth century. </segment>
+    <segment id="13" parent="33" relname="span"> It is shocking that cholera, a
+water-borne bacterial disease, has recently re-emerged in parts of the
+world where it hadn&apos;t been seen in a hundred years. </segment>
+    <segment id="14" parent="15" relname="antithesis"> Do GROSS and his
+co-thinkers believe that this is a result of the absence of science? </segment>
+    <segment id="15" parent="38" relname="span"> It
+has something to do, rather, with the effects of austerity on the public
+works infrastructure.</segment>
+    <segment id="16" parent="40" relname="span">
+
+The resurgence of measles and tuberculosis provides other examples of how
+public policy -- not particularly related to support of or opposition to
+science -- affects health.</segment>
+    <segment id="17" parent="35" relname="span">  (Of course, part of the problem with
+tuberculosis has to do with an over-dependence on science-based medicine.</segment>
+    <segment id="18" parent="19" relname="circumstance"> 
+Antibiotics entered the scene when tb was all but conquered in the
+industrial world. </segment>
+    <segment id="19" parent="34" relname="span"> Use of antibiotics against the bacillus has led to
+drug-resistant strains.</segment>
+    <segment id="20" parent="35" relname="concession">  But this is another question.)</segment>
+    <segment id="21" parent="47" relname="span"> I think it&apos;s worth
+looking at how sociopolitical changes now occurring in India might have
+something to do with the recent outbreaks of plague there,</segment>
+    <segment id="22" parent="21" relname="antithesis"> rather than
+just looking for a &quot;technological fix&quot; to solve the problem. </segment>
+    <segment id="23" parent="24" relname="condition">
+
+If they are really concerned with the health and welfare of people
+in India and other poor countries,</segment>
+    <segment id="24" parent="41" relname="span"> GROSS (and others whose perspective
+tends to be narrowly limited to science) should pay attention to the
+social, economic, and political correlates of decent living standards.</segment>
+    <segment id="25" parent="37" relname="span"> 
+Take off your blinders,</segment>
+    <segment id="26" parent="25" relname="elaboration"> and look at the improvements in literacy, housing,
+and mortality in countries such as Cuba, Nicaragua, Zimbabwe or Angola,
+before they were forced to bear the brunt of either military or economic
+assault from regional or global powers that felt threatened by their
+revolutions. </segment>
+    <segment id="27" parent="39" relname="span"> It&apos;s not that these regimes were (or are) anti-science;</segment>
+    <segment id="28" parent="27" relname="elaboration"> they
+tend to be somewhat scientistic, in fact. </segment>
+    <segment id="29" parent="49" relname="span"> It&apos;s that science has properly 
+been seen only as one element in creating a decent living standard.</segment>
+<group id="2" type="span" parent="3" relname="motivation" />
+<group id="30" type="span" parent="4" relname="elaboration" />
+<group id="31" type="span" parent="5" relname="elaboration" />
+<group id="32" type="span" parent="3" relname="motivation" />
+<group id="33" type="span" parent="12" relname="elaboration" />
+<group id="34" type="span" parent="17" relname="elaboration" />
+<group id="35" type="span" parent="36" relname="span" />
+<group id="36" type="span" parent="16" relname="background" />
+<group id="38" type="span" parent="13" relname="elaboration" />
+<group id="39" type="span" parent="29" relname="antithesis" />
+<group id="37" type="span" parent="27" relname="background" />
+<group id="41" type="span" parent="25" relname="motivation" />
+<group id="42" type="span" parent="46" relname="span" />
+<group id="43" type="span" parent="45" relname="span" />
+<group id="44" type="span" parent="43" relname="motivation" />
+<group id="45" type="span" parent="42" relname="elaboration" />
+<group id="46" type="span" parent="48" relname="span" />
+<group id="40" type="span" parent="46" relname="motivation" />
+<group id="47" type="span" parent="46" relname="motivation" />
+<group id="48" type="span" parent="50" relname="span" />
+<group id="49" type="span" parent="48" relname="summary" />
+<group id="50" type="span" />
+  </body>
+</rst>

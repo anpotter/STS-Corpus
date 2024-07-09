@@ -1,0 +1,107 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="22" relname="background">I believe that Harry Marks&apos; challenge is an interesting starting point for a 
+wider discussion on the &apos;understanding&apos; of public understanding of science 
+(PuS) in STS field. </segment>
+    <segment id="2" parent="3" relname="attribution">  
+
+Harry Marks says: </segment>
+    <segment id="3" parent="20" relname="span">
+
+&amp;gt;Yet the overall impression one would have is that 
+&amp;gt;STS inquiry is a form of &quot;critique,&quot; that is, for the most part, there is 
+&amp;gt;very little in the way of a positive program to account for the place of 
+&amp;gt;science in relation to other institutions/practices or 
+&amp;gt;to change science/practice of science/etc. to be something different.  
+&amp;gt;In a world dominated by a rather simple-minded and falsifying view of 
+&amp;gt;science, there was a good deal of virtue in such critique.  But at this 
+&amp;gt;point, one begins to ask: 1) what is the positive analytical program? 2) 
+&amp;gt;what kinds of changes do STS practitioners envision, and are 
+&amp;gt;they in the self-understanding of scientists? the public understanding of 
+&amp;gt;science? the control of scientific institutions? 3) where do STS 
+practitioners see change taking place: in the classroom? in 
+&amp;gt;the press?  in the Congress?  on the streets?</segment>
+    <segment id="4" parent="21" relname="span">
+
+STS inquiry, I believe, tought us that it is not possible to separate the 
+contextual aspects of science from its content.</segment>
+    <segment id="5" parent="22" relname="span"> The big challenge in STS was 
+until now to understand how previously believed irrelevant elements do shape 
+the direction and the very content of scientific inquiry.</segment>
+    <segment id="6" parent="19" relname="span"> Likewise, I wonder 
+if we should start seriously to consider the epistemological consequences of 
+the discourse of public understanding of science.</segment>
+    <segment id="7" parent="16" relname="list"> Is it so sure that PuS is 
+more made for the public than for science itself? </segment>
+    <segment id="8" parent="16" relname="list">
+
+What if one claims that PuS helps science to be &apos;scientific&apos;?</segment>
+    <segment id="9" parent="16" relname="list"> What would be 
+the implications of such a claim?</segment>
+    <segment id="10" parent="16" relname="list"> Would&apos;nt that open for a reconsideration 
+of PuS &apos;s implications for society and science alike?</segment>
+    <segment id="11" parent="16" relname="list"> Would&apos;nt that open for 
+a reconsideration of the ideological aspects of scientific discourse. </segment>
+    <segment id="12" parent="16" relname="list">
+Would&apos;nt that force us to rethink how the &apos;reality&apos; of science is stabilised 
+and secured?</segment>
+    <segment id="13" parent="16" relname="list"> And at last but not least, would&apos;nt that compell us to rethink 
+the nature of the discourse in social sciences and the political structures  
+based on this discourse? </segment>
+    <segment id="14" parent="15" relname="antithesis">
+
+Not many of these questions are new and unknown to STS field (or to social 
+sciences for that matter).</segment>
+    <segment id="15" parent="17" relname="span"> The question is, however, whether we should 
+seriously start to think about PuS as a component of science equally 
+important as science&apos;s financial sources or its laboratories and study the 
+implications of this fact to our understanding of science and society alike.</segment>
+<group id="16" type="multinuc" parent="18" relname="span" />
+<group id="17" type="span" parent="16" relname="elaboration" />
+<group id="18" type="span" parent="6" relname="elaboration" />
+<group id="19" type="span" parent="5" relname="elaboration" />
+<group id="20" type="span" parent="4" relname="background" />
+<group id="21" type="span" parent="5" relname="background" />
+<group id="22" type="span" parent="23" relname="span" />
+<group id="23" type="span" />
+  </body>
+</rst>

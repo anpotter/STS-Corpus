@@ -1,0 +1,324 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="47" relname="preparation">
+
+The Durham conference</segment>
+    <segment id="2" parent="3" relname="solutionhood">
+
+        What&apos;s the expression?</segment>
+    <segment id="3" parent="39" relname="span">  `Fool&apos;s rush in .....&apos;</segment>
+    <segment id="4" parent="47" relname="span"> I am surprised that
+Steve Fuller has gone such a long way in organising his conference without
+consulting the SSK people involved at first hand;</segment>
+    <segment id="5" parent="40" relname="span"> it is curious that he
+has consulted the scientists.</segment>
+    <segment id="6" parent="41" relname="span">  He seems to have bought the idea of the
+relationship between SSK and the natural sciences that, some, natural
+scientists are trying to sell.</segment>
+    <segment id="7" parent="42" relname="span">  We have, on the one hand, people who have
+made the study of the social relations of science a lifetime project, and
+on th e other hand, those who feel they should pronounce on the matter
+without reading the literature properly or considering what the arguments
+really mean.</segment>
+    <segment id="8" parent="7" relname="interpretation">  This `debate&apos; is conducted at the level of slogans.</segment>
+    <segment id="9" parent="46" relname="span">  It can
+do nothing but harm to SSK to give this ki nd of debate legitimacy. </segment>
+    <segment id="10" parent="44" relname="condition"> If we
+ourselves provide the legitimacy</segment>
+    <segment id="44" parent="45" relname="span"> we are acting foolishly indeed. </segment>
+    <segment id="11" parent="69" relname="span">
+
+        That said, Steve&apos;s conference seems unstoppable now.</segment>
+    <segment id="12" parent="64" relname="span">  The
+important thing will be, I suggest, to try to turn it from a slanging
+match that will harm everyone into a debate about the academic issues.</segment>
+    <segment id="13" parent="49" relname="span"> 
+Turning the arguments around case studies is essential . </segment>
+    <segment id="14" parent="48" relname="span"> Unfortunately,
+the DNA case is inappropriate</segment>
+    <segment id="15" parent="14" relname="nonvolitional-cause"> because, so far as I know, no-one has done a
+serious SSK-style study of DNA. </segment>
+    <segment id="16" parent="17" relname="antithesis"> Steve has not done a case study himself
+so may not realise how much work is involved in such a thing.</segment>
+    <segment id="17" parent="54" relname="span">  It is
+important that the r esearcher knows something of the science which is to
+be discussed and the minute details of the working out of the course of
+the controversy (or whatever), in question.</segment>
+    <segment id="18" parent="52" relname="span">  There is nothing to be gained
+but embarrasment in trying to talk about some case whic h one does not
+know thoroughly;</segment>
+    <segment id="19" parent="50" relname="condition"> if I were a scientist</segment>
+    <segment id="50" parent="51" relname="span"> I would be justifiably angry if
+someone commented on my field in critical terms without knowing the
+detail. </segment>
+    <segment id="20" parent="53" relname="conjunction"> To debate the SSK issues with a scientist practitioner one has to
+know the scientific field in the way that I have suggested,</segment>
+    <segment id="21" parent="53" relname="conjunction"> scientists
+need to know the SSK field before they can understand what is happening
+there. </segment>
+    <segment id="22" parent="56" relname="span"> This is, of course, Steve&apos;s `model of expertise&apos;,</segment>
+    <segment id="23" parent="24" relname="antithesis"> but I thought I
+was supposed to be an expert,</segment>
+    <segment id="24" parent="55" relname="span"> not just someone with their heart in the
+right place. </segment>
+    <segment id="25" parent="59" relname="background"> [Forgive the `flaming&apos;.]</segment>
+    <segment id="58" parent="26" relname="concession">
+
+        In sum, I am suggesting that if the proposed Durham conference is
+to do good not harm,</segment>
+    <segment id="26" parent="61" relname="span"> it should turn on cases of science which have been
+examined in full-blooded SSK style;</segment>
+    <segment id="27" parent="26" relname="enablement"> there are plenty.</segment>
+    <segment id="28" parent="61" relname="elaboration">  It would be
+fascinating to hear these discussed by `hard-line rs&apos; such as Peter
+Atkins. </segment>
+    <segment id="29" parent="62" relname="evaluation"> The conference might then do a lot of good in resolving mutual
+suspicion and misunderstanding. </segment>
+    <segment id="30" parent="62" relname="evaluation"> I would be happy to participate (now that
+I have been invited), under these circumstances. </segment>
+    <segment id="31" parent="32" relname="condition"> If, on the other hand,
+it is a matter of talking generalities,</segment>
+    <segment id="32" parent="63" relname="span"> I believe the conference should
+not go ahead.</segment>
+    <segment id="33" parent="63" relname="elaboration">  I would welcome comments. </segment>
+    <segment id="34" parent="75" relname="span">
+
+
+Copy of my THES piece follows:</segment>
+    <segment id="35" parent="74" relname="span">
+
+extract from the higher, 30 September 1994, p 18, by h. m. collins </segment>
+    <segment id="36" parent="73" relname="span">
+
+please bear in mind that various editorial changes were made between final
+submission and press day.</segment>
+    <segment id="37" parent="72" relname="span">  this is as the piece appeared in the paper</segment>
+    <segment id="71" parent="37" relname="concession"> (as
+near as I can get it).  hmc</segment>
+    <segment id="38" parent="76" relname="span">
+        
+
+On September 7th 1994, at the annual meeting of the British Association
+for the Advancement of Science, I found myself on the same platform as
+Lewis Wolpert.  Our debate - about the relationship between science, and
+the sociology of science - was extraor indarily heated.  The sociology and
+history of scientific knowledge - `SSK&apos; as it has become known - as well
+as being the subject of the argument can help to explain what was going
+on. 
+        SSK has been going for a quarter of a century.  It has shown that
+the results of scientific experiments are more ambiguous than they are
+usually taken to be, while theory is more flexible than most people
+imagine.  This means that science can progress on ly within communities
+that can reach consensus about what counts as plausible.  Plausibility is
+a matter of social context so science is `a social construct&apos;.  Some
+scientists feel uncomfortable with this idea though those involved in
+scientific controver sy nearly always find it reflects their experience.
+        SSK has been ignored by natural scientists for most of its 25
+years, but is now coming in for some attention - most positive, some
+negative and some vicious.  This may be because many scientists are less
+certain of their role than they were just a few ye ars ago.  Science can
+no longer has unquestioned authority.  I suspect that attacks on SSK as
+violent as that of Wolpert - a Fellow of the Royal Society and the Chair
+of the Council for Public Understanding of Science (COPUS) - have
+something to do with t he new insecurity. 
+        One methodological precept of SSK is `relativism&apos;.  Relativism
+makes people excited.  On the face of it, relativism was the focus of the
+Loughborough debate.  Let me explain it.  Every practitioner of SSK agrees
+that to understand the course of a scienti fic controversy one must adopt
+the perspective of the scientists involved.  These scientists did not know
+the outcome of their collective work in advance, they were each trying to
+bring about a certain outcome.  Therefore one must not take the outcome of
+the controversy into account in investigating its course.  In other words,
+one must act as though the outcome of a controversy (a new fact about the
+natural world), was not a cause of the scientists&apos; beliefs.  A brief
+example from the book I co-wrote with Trevor Pinch, The Golem, shows how
+relativism works in practice. Nowadays, the Michelson-Morley experiment of
+1887 is said to have `proved&apos; the special theory of relativity (1905) by
+showing that light travels at the same speed in all directions. 
+        Knowing this directs our attention away from the following: (i)
+Michelson was never satisfied with the experiment; (ii) until 1924 the
+experiment was never done according to the protocal set down by Michelson
+himself; (iii) in 1924, Miller, one of Michel son&apos;s collaborators,
+repeated the experiment according to the full protocol and discovered a
+variation in the speed of light of 10 kilometres per second; (iv) in 1925
+the American Association for the Advancement of Science awarded Miller its
+physics prize
+ for the finding; and (v) the experimental problem was still unresolved up
+to at least the 1950s. 
+        Thus, contrary to the way the story is usually told, there was no
+agreed direct experimental proof of the constancy of the speed of light
+for more than half a century after the official `proof&apos;.  That the speed
+of light is constant is, then, a fact that has to be deliberately
+forgotten by the sociologist or historian trying to understand why the
+results of one experiment rather than another was believed at the time. 
+In explaining the sources of belief one must act as though the speed of
+light itself pla yed no part.  This is methodological relativism.
+        Methodological relativism is common ground in SSK but over a
+twenty year period there has been a continuing debate over more drastic
+versions.  Every view, including radical ontological relativism has been
+held by someone at some time.  There is nothing evil or dangerous about
+such beliefs because they have no significant practical consequences. 
+Whatever the belief, the practical consequences is methodological: `in a
+sociological or historical investigation, act as though the world does not
+constrain wh at scientists believe about it&apos;.  Aside from this, the
+relativists beliefs are are a matter of philosophy.  These days I am a
+methodological relativist, but if I were to wake up tomorrow as an
+uncompromising ontological relativist, I would not want to cha nge one
+word of the case studies in my books and papers. 
+        Though my own views are now moderate this is not the point.  When
+science starts to persecute people for their beliefs rather than their
+results something has gone wrong.  That is why I refuse to respond to
+Wolpert-like `accusations&apos; concerning relativis m.  To keep our
+universities safe for ontological relativists, solipsists, or others who
+want to experiment with radical philosophies, we must not accept a role in
+a witch hunt - not even the role of innocent party (not all my colleagues
+have seen this). 
+ 
+        Let me turn now to the style of the few violent attacks on SSK
+exemplified by Wolpert.  Science, like any other social institution,
+relies on trust because not every scientist can check every fact.  With
+trust comes an obligation to truthfulness, for if we were all to lie as
+readily as we speak the truth then trust would cease to exist and
+information would no longer be a property of discourse. 
+        As Steven Shapin shows, (A Social History of Truth), in the
+Seventeenth Century the Royal Society came to equate trustworthyness with
+gentlemanly origins.  Boyle&apos;s experimental reports were trusted (as those
+of his technicians were not), because Boyle wa s a gentleman.  In England,
+science and social class became linked and to this day fellows of The
+Royal Society are expected to act with decorum. 
+        There are, then, a well-understood set of norms associated with
+the proper conduct of scientific debate.  This means there are two ways of
+attacking scientific `heresies&apos;.  `The first strategy&apos; is to attack the
+content of the theories and findings `head on&apos;; `the second strategy&apos; is
+to conspicuously break the norms of scientific debate, demonstrating that
+the heresy is not to be treated as proper science (that which is worthy of
+a gentlemanly response).  It may seem bizarre, but what one might call
+`cons picuous incompetence&apos; can, then, have a role in the negotiation of
+of truth.  The most salient recent example of this is Nature&apos;s attack on
+Jacques Benveniste&apos;s claims about the homeopathic potency of water; Nature
+took a team of unqualified persons and s taged a kind of scientific satire
+in Benveniste&apos;s laboratory. 
+        In Loughborough Wolpert said, and I paraphrase, that sociologists
+had presented no evidence for their views, that sociologists had looked
+only at fringe science and never at serious science, and that in the
+writings of sociologists he found nothing but o bscurantism and hostility
+to science.  On any normal interpretation he is wrong on all counts.  Why,
+then did he say these things? 
+        Let us once more take The Golem, which Wolpert read and reviewed. 
+In The Golem he will have read eight case studies of the sort which are
+used by sociologists and historians to back up their views of the nature
+of science.  These include the studies of experiments to do with special
+and general relativity, the origins of life (the Pasteur-Pouchet debate),
+and the solar neutrino problem.  In the same source he will have read the
+following (from the Preface and Conclusion respectively): `Each case study
+d escribes a piece of beautiful scientific work.  But the beauty is not
+the gloss of the philosopher&apos;s polishing wheel; it is the glint of rough
+diamond.&apos; `Let us admire them [scientists] as craftspersons; the foremost
+experts in the ways of the natural wo rld.&apos;
+        Therefore when speaking at Loughborough Wolpert was aware that
+historians and sociologists had presented what would normally be counted
+as evidence for their views, that the case studies included what would
+normally be counted as outstandingly successful
+ science, and that there is a lot more to SSK than what would normally be
+counted as hostility to science.  Furthermore, these issues had been
+discussed in earlier interchanges (in, for example, The Times Literary
+Supplement).  As for obscurantism, Nature &apos;s review of The Golem (written
+by a life scientist), suggested: `... the writing is deft, the stories are
+good, and there is not a boring page.&apos;
+        I think that Wolpert&apos;s choice of style in these debates is a
+matter of `the second strategy&apos;; he wants to demonstrate that SSK is to be
+treated as outside the body of what is normally considered to be
+scientific work. 
+        Over 25 years SSK has slowly and painfully developed a methodology
+and assembled a series of case studies of scientific practice.  Like any
+other social science, SSK cannot work at the speed of the experimental
+sciences because we have to wait for natura lly occurring instances of our
+phenomena which are themselves long-term events. 
+        Furthermore, the phenomena of the social sciences tend to `bite
+back&apos; and this means that social science is always disputed - it would be
+an uncomfortable world were it otherwise.  As it happens, nearly all those
+who describe themselves under the label S SK are lovers of science. 
+        The approach is to try to establish a new way of looking at the
+scientific enterprise that values it for its expertise rather than its
+promise of a resolution to all uncertainty and doubt; the object is to
+undo the damage that has been done by oversellin g science.  We hope, as
+we say in the Preface to the paperback edition of The Golem, that `...
+those who may be put off a scientific career because of its cold,
+impersonal, automaton-like, precision, may take comfort in the discovery
+that it has a warm, e veryday, exciting, argumentative aspect, just like
+the arts or social sciences.&apos;</segment>
+<group id="39" type="span" parent="4" relname="evaluation" />
+<group id="40" type="span" parent="4" relname="antithesis" />
+<group id="41" type="span" parent="5" relname="nonvolitional-cause" />
+<group id="42" type="span" parent="43" relname="span" />
+<group id="43" type="span" parent="6" relname="elaboration" />
+<group id="45" type="span" parent="9" relname="elaboration" />
+<group id="46" type="span" parent="42" relname="evaluation" />
+<group id="47" type="span" parent="68" relname="span" />
+<group id="48" type="span" parent="13" relname="elaboration" />
+<group id="49" type="span" parent="12" relname="enablement" />
+<group id="51" type="span" parent="18" relname="evidence" />
+<group id="52" type="span" parent="17" relname="nonvolitional-cause" />
+<group id="53" type="multinuc" parent="57" relname="span" />
+<group id="54" type="span" parent="59" relname="span" />
+<group id="55" type="span" parent="22" relname="elaboration" />
+<group id="56" type="span" parent="53" relname="elaboration" />
+<group id="57" type="span" parent="54" relname="elaboration" />
+<group id="59" type="span" parent="60" relname="span" />
+<group id="60" type="span" parent="64" relname="elaboration" />
+<group id="61" type="span" parent="62" relname="span" />
+<group id="62" type="span" parent="66" relname="span" />
+<group id="63" type="span" parent="67" relname="span" />
+<group id="64" type="span" parent="65" relname="span" />
+<group id="65" type="span" parent="70" relname="span" />
+<group id="66" type="span" parent="65" relname="summary" />
+<group id="67" type="span" parent="62" relname="evaluation" />
+<group id="68" type="span" parent="11" relname="background" />
+<group id="69" type="span" parent="12" relname="concession" />
+<group id="70" type="span" parent="77" relname="joint" />
+<group id="72" type="span" parent="36" relname="elaboration" />
+<group id="73" type="span" parent="35" relname="elaboration" />
+<group id="74" type="span" parent="34" relname="elaboration" />
+<group id="75" type="span" parent="38" relname="background" />
+<group id="76" type="span" parent="77" relname="joint" />
+<group id="77" type="multinuc" />
+  </body>
+</rst>

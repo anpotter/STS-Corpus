@@ -1,0 +1,82 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">
+Let me see now... first the quote:</segment>
+    <segment id="2" parent="20" relname="span">
+&amp;gt;Here are some questions.  Are all external criticisms of science
+&amp;gt;equally valid?  Or are some more valid than others?  What is the
+&amp;gt;standard for making a judgement here?  Are evidential considerations
+&amp;gt;relevent?  If so, we run the danger of sneaking across the
+&amp;gt;(internal/external) border into the province of science -- where the
+&amp;gt;grading of evidence for quality is one of the hallmarks of the
+&amp;gt;activity properly done.</segment>
+    <segment id="3" parent="18" relname="span">
+
+In order: no, yes, scholarship, yes.</segment>
+    <segment id="4" parent="19" relname="span">
+But there is no danger here</segment>
+    <segment id="5" parent="13" relname="span"> - science is not the only thing that takes
+evidence into consideration:</segment>
+    <segment id="6" parent="17" relname="span"> think of the law, of literary criticism, of
+history. </segment>
+    <segment id="7" parent="14" relname="preparation"> Try a thought-experiment:</segment>
+    <segment id="8" parent="14" relname="sequence"> come up with any old rubbish about
+Keats and imagine trying to get it published in an academic journal:</segment>
+    <segment id="9" parent="14" relname="sequence"> it
+will be debated, judged and thrown out (as it should). </segment>
+    <segment id="10" parent="16" relname="span"> But, of course, you
+don&apos;t think you are doing science in the process...</segment>
+    <segment id="11" parent="12" relname="concession">
+You may indeed be, as you say, a &apos;young fogey&apos;,</segment>
+    <segment id="12" parent="21" relname="span"> but the older ones will not
+like your strange use of the term &apos;evidence&apos;.</segment>
+<group id="13" type="span" parent="4" relname="evidence" />
+<group id="14" type="multinuc" parent="15" relname="span" />
+<group id="15" type="span" parent="10" relname="nonvolitional-cause" />
+<group id="16" type="span" parent="6" relname="elaboration" />
+<group id="17" type="span" parent="5" relname="elaboration" />
+<group id="18" type="span" parent="4" relname="concession" />
+<group id="19" type="span" parent="22" relname="span" />
+<group id="20" type="span" parent="3" relname="solutionhood" />
+<group id="21" type="span" parent="19" relname="nonvolitional-result" />
+<group id="22" type="span" />
+  </body>
+</rst>

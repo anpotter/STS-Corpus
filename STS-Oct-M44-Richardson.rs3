@@ -1,0 +1,73 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="14" relname="span">Three Cheers for SHANKS</segment>
+    <segment id="2" parent="1" relname="volitional-cause"> (for it was he who wrote of the dangers of 
+believing that philosophy of science can be surgically removed from the 
+otherwise healthy body of science)!</segment>
+    <segment id="3" parent="4" relname="antithesis">
+
+Historians and sociologists are famous for &quot;problematizing&quot; 
+internal/external distinctions in standard accounts of science.</segment>
+    <segment id="4" parent="13" relname="span">  But, 
+SHANKS is surely right in seeing this &quot;science without the standard 
+stories about science&quot; business as itself putting a NEW internal/external 
+division into place.</segment>
+    <segment id="5" parent="4" relname="evidence">  I see no reason to presume that science will able 
+to get along without some sort of methodological stories about why it is 
+worth being pursued.</segment>
+    <segment id="6" parent="11" relname="preparation">
+
+Finally, to take up SHANKS&apos; last point: </segment>
+    <segment id="7" parent="10" relname="sequence">Pick your favorite scientist. </segment>
+    <segment id="8" parent="10" relname="sequence">  
+Try to find the place where that person&apos;s science starts and philosophy of 
+science begins. </segment>
+    <segment id="9" parent="11" relname="span"> Very hard to do, I should think, even in cases where the 
+person is clearly endorsing methodologies (s)he is not following.</segment>
+<group id="10" type="multinuc" parent="9" relname="solutionhood" />
+<group id="11" type="span" parent="12" relname="span" />
+<group id="12" type="span" parent="17" relname="span" />
+<group id="13" type="span" parent="14" relname="elaboration" />
+<group id="14" type="span" parent="15" relname="span" />
+<group id="15" type="span" parent="12" relname="background" />
+<group id="17" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,114 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">Fuller says, in part:</segment>
+    <segment id="2" parent="19" relname="span">
+
+&quot;It&apos;s not that hard to open up space for scientists to voice 
+their opinions in science studies narratives. In fact, this is
+routinely done. The tough question -- which EDWARDS hasn&apos;t really
+addressed -- is how much authority you grant those opinions in
+directing the course of your own narrative. Usually, this
+question is answered by simply not addressing your narrative to
+scientists (or hoping they don&apos;t read you!). In that case,
+scientists&apos; words are quickly converted to symptoms (or &apos;signs&apos;,
+if one is a bit more neutral). But scientists are now beginning
+to take our stuff seriously, and so this particular form of
+evasion is not going to work much longer.&quot;</segment>
+    <segment id="3" parent="31" relname="span">
+
+But I&apos;m not sure that opening up space for scientists will be
+enough. </segment>
+    <segment id="4" parent="30" relname="span"> They will need to see some reason to become engaged.</segment>
+    <segment id="5" parent="23" relname="span">
+And this brings me back to my original question, restated a few
+weeks ago here, about the ultimate purposes of our work (as
+well as theirs). </segment>
+    <segment id="6" parent="5" relname="elaboration"> Can we help them produce a strain of rice
+with a higher yield, or come up with the Grand Unified Theory
+of physics, or reduce human suffering from cancer, or anything
+else they may care about? </segment>
+    <segment id="7" parent="5" relname="elaboration"> Conversely, can we show that their
+talents would be better invested in some other approach to the
+elucidation of natural phenomena, or that their meritocratic
+approach to the big decisions of science is sub- optimal in
+some way not yet defined, or that society would be better
+served if science were harnessed more directly to political
+objectives? </segment>
+    <segment id="8" parent="20" relname="span"> Plug in your own favored questions here</segment>
+    <segment id="9" parent="8" relname="elaboration"> -- the
+point is that the working scientist is unlikely to become
+engaged unless you show him/her, in clear terms, that such
+engagement may matter.</segment>
+    <segment id="10" parent="24" relname="span">  One approach that will get their
+attention is, of course, the threat that science will be
+marginalized,</segment>
+    <segment id="11" parent="21" relname="span"> but is that what we want? </segment>
+    <segment id="12" parent="25" relname="span"> If not, </segment>
+    <segment id="22" parent="27" relname="span">what DO we 
+want, and why, and how can we get there?</segment>
+    <segment id="13" parent="15" relname="span">
+
+Am I too ill-informed, or too slow to pick up on things, or 
+otherwise behind the rest of you? </segment>
+    <segment id="14" parent="13" relname="elaboration"> Or would I be correct in 
+concluding that we have little to offer, whether to the 
+scientist or the public? </segment>
+    <segment id="16" parent="26" relname="solutionhood"> Is there reason to think that we will 
+have more to offer in the future? </segment>
+    <segment id="17" parent="18" relname="concession"> (My own answers would be No, 
+Yes, nsd Yes,</segment>
+    <segment id="18" parent="26" relname="span"> but maybe some of you have other answers.)</segment>
+<group id="19" type="span" parent="3" relname="antithesis" />
+<group id="20" type="span" parent="5" relname="elaboration" />
+<group id="21" type="span" parent="12" relname="solutionhood" />
+<group id="23" type="span" parent="10" relname="solutionhood" />
+<group id="24" type="span" parent="11" relname="concession" />
+<group id="25" type="span" parent="22" relname="condition" />
+<group id="15" type="span" parent="22" relname="elaboration" />
+<group id="26" type="span" parent="28" relname="span" />
+<group id="27" type="span" parent="29" relname="span" />
+<group id="28" type="span" parent="27" relname="elaboration" />
+<group id="29" type="span" parent="4" relname="motivation" />
+<group id="30" type="span" parent="3" relname="evidence" />
+<group id="31" type="span" />
+  </body>
+</rst>

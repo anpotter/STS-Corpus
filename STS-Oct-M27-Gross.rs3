@@ -1,0 +1,134 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="43" relname="background">Separating, as well as my limited skills allow, Andrew Weiss&apos;s
+two points from their deeply felt embellishments, I make them as
+follows:</segment>
+    <segment id="2" parent="31" relname="span">
+
+1.   L &amp; G assert that with world population and travel as they
+are, bad things would happen if, when the next pandemic strikes,
+we didn&apos;t have organized sciences and technologies of e.g.,
+pathology, public health, sanitary engineering.</segment>
+    <segment id="3" parent="2" relname="elaboration">  Weiss now
+suggests that science is the CAUSE of overpopulation and world
+travel, and asks, moreover, does science as it is also mean high-
+energy physics, astronomy, &quot;science for the military,&quot; etc?</segment>
+    <segment id="4" parent="2" relname="elaboration">  He
+reminds us also that we have a &quot;system of science&quot; in which women
+and minorities are grossly underrepresented, etc, and that it&apos;s
+not the (weakly) democratic, developed nations for which
+population is a big problem, but the others. </segment>
+    <segment id="5" parent="2" relname="elaboration"> Etc.</segment>
+    <segment id="6" parent="27" relname="preparation">
+
+Response: </segment>
+    <segment id="7" parent="27" relname="conjunction"> WHATEVER caused the rate of human population growth to
+attain its current value, and made mass air transport possible,
+we have both of them NOW.</segment>
+    <segment id="8" parent="28" relname="span">  A third-world nation (with a deep
+commitment to &quot;technoscience&quot; and thousands of intelligent people
+doing it) has just--last week--turned to pathology, public
+health, and sanitary engineering to stop in its tracks (it is
+hoped!) a threatened pandemic of pneumonic plague.</segment>
+    <segment id="9" parent="8" relname="background">  It even made
+the papers.</segment>
+    <segment id="10" parent="11" relname="nonvolitional-cause">  The last major programs supporting only science Good
+for the People, after WWII, and banning science Not Good for the
+People, were in Stalin&apos;s Soviet Union and Mao&apos;s China.</segment>
+    <segment id="11" parent="29" relname="span">  The
+People didn&apos;t get much Good.</segment>
+    <segment id="12" parent="35" relname="span">
+
+2.   L &amp; G argue for a &quot;grudging and vigilant contract with
+elitism,&quot; the meaning of which is made clear in the article. </segment>
+    <segment id="13" parent="12" relname="elaboration">
+&quot;But why,&quot; Weiss asks, &quot;must we take the scientists&apos; word when it
+comes to deciding _what_ to study (as opposed to how)?...Are
+scientists afraid of the people?&quot;
+
+Response: </segment>
+    <segment id="14" parent="42" relname="span"> A grudging and vigilant contract with elitism is what
+we have NOW. </segment>
+    <segment id="15" parent="36" relname="span"> Maybe Weiss thinks it should be MORE grudging and
+vigilant.</segment>
+    <segment id="16" parent="34" relname="span">  OK.</segment>
+    <segment id="17" parent="33" relname="span">  No argument. </segment>
+    <segment id="18" parent="17" relname="elaboration"> Maybe also more informed. </segment>
+    <segment id="19" parent="39" relname="span"> The
+distortion is to suggest that all politicians (who are supposed
+to represent the public, after all) have signed a contract that
+has NO vigilance or grudges. </segment>
+    <segment id="20" parent="19" relname="evidence"> Anybody who believes that has not,
+again, been reading the papers. </segment>
+    <segment id="21" parent="22" relname="solutionhood"> Are scientists afraid of the
+people?</segment>
+    <segment id="22" parent="38" relname="span">  No:</segment>
+    <segment id="23" parent="37" relname="span"> they ARE the people, or a part of it, as are
+professors of STS. </segment>
+    <segment id="24" parent="23" relname="evaluation"> Why do not the latter apply for guidance on
+_what_ to study? </segment>
+    <segment id="25" parent="40" relname="span"> (Some) scientists (I hope) ARE afraid of
+referenda on WHAT and HOW.</segment>
+    <segment id="26" parent="25" relname="evidence">  Some are old enough to remember the
+consternation and waste that followed, many years ago, the demand
+from an influential Congressman, speaking, presumably, for his
+constituents, that the NIH immediately deploy major resources in
+an attack upon Athlete&apos;s Foot.</segment>
+<group id="27" type="multinuc" parent="30" relname="span" />
+<group id="28" type="span" parent="27" relname="conjunction" />
+<group id="29" type="span" parent="27" relname="conjunction" />
+<group id="30" type="span" parent="32" relname="span" />
+<group id="31" type="span" parent="30" relname="antithesis" />
+<group id="32" type="span" parent="43" relname="conjunction" />
+<group id="33" type="span" parent="16" relname="elaboration" />
+<group id="34" type="span" parent="15" relname="evaluation" />
+<group id="35" type="span" parent="14" relname="antithesis" />
+<group id="36" type="span" parent="14" relname="elaboration" />
+<group id="37" type="span" parent="22" relname="evidence" />
+<group id="38" type="span" parent="41" relname="span" />
+<group id="39" type="span" parent="14" relname="elaboration" />
+<group id="40" type="span" parent="38" relname="concession" />
+<group id="41" type="span" parent="14" relname="elaboration" />
+<group id="42" type="span" parent="43" relname="conjunction" />
+<group id="43" type="multinuc" parent="44" relname="span" />
+<group id="44" type="span" />
+  </body>
+</rst>

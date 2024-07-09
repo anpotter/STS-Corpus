@@ -1,0 +1,198 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">STEVE FULLER writes:</segment>
+    <segment id="2" parent="59" relname="span">
+
+&amp;gt; 
+&amp;gt; Nobody is denying that philosophical considerations have informed and 
+&amp;gt; motivated scientific work. In fact, it would be hard to comprehend the 
+&amp;gt; point of doing science without smuggling in philosophy. However, there 
+&amp;gt; are still a few open questions. First, whether scientists really need a 
+&amp;gt; class of people called &apos;philosophers of science&apos; to help them with their 
+&amp;gt; philosophizing. Second, whether philosophers of science should be in the 
+&amp;gt; business of &apos;helping scientists&apos; rather than doing something a bit more 
+&amp;gt; independent and/or critical. 
+&amp;gt; </segment>
+    <segment id="3" parent="60" relname="span">
+To pursue a biological metaphor, at least some &quot;strains&quot; of analytic 
+philosophy of science (viewed as a species of philosophy of science) 
+which aim at the clarification and elucidation of theoretical terms, 
+and the logic of arguments that contain them -- these are not fields 
+where science has exclusive claims to turf,</segment>
+    <segment id="40" parent="57" relname="span"> and yet such analyses can 
+be important to scientists -- especially those with a taste for 
+theory.</segment>
+    <segment id="4" parent="43" relname="span">  Such analyses occasionally turn up paradoxes and 
+inconsistencies which are then the spur for further scientific 
+(and philosophical) investigation. </segment>
+    <segment id="5" parent="4" relname="elaboration"> Philosophers of science (again, 
+of an analytic variety) have historically been concerned with 
+questions of evidence (and the quality theoreof).</segment>
+    <segment id="6" parent="58" relname="span">  Such concerns can 
+be of genuine scientific relevance. </segment>
+    <segment id="7" parent="8" relname="nonvolitional-cause"> In this sense, especially 
+insofar as it is hard to separate the concerns of theoretical science 
+from philosophy of science,</segment>
+    <segment id="8" parent="56" relname="span"> it may be possible to make a case for 
+having specialists in philosophy of science.</segment>
+    <segment id="9" parent="42" relname="solutionhood">
+
+Should they be critical? </segment>
+    <segment id="10" parent="42" relname="list"> Yes, if theoretical terms are unclear, are 
+being used inappropriately,</segment>
+    <segment id="12" parent="42" relname="list"> if arguments are fallacious,</segment>
+    <segment id="13" parent="42" relname="list"> and if 
+evidence for claims is less conclusive than advertized.</segment>
+    <segment id="11" parent="61" relname="span">
+
+None of this involves SCIENCE ENVY or indeed a slavish worship of 
+science</segment>
+    <segment id="14" parent="11" relname="concession"> -- though it does seem to require a penchant for critical 
+thinking.  </segment>
+    <segment id="15" parent="16" relname="solutionhood">
+
+Was it Locke who characterized philosophers as underlaborers to 
+science?</segment>
+    <segment id="16" parent="62" relname="span">  I know of few contemporary philosophers of science who 
+would characterize themselves as mere underlaborers?</segment>
+    <segment id="17" parent="67" relname="span">
+
+&amp;gt; The most interesting philosophers of science in this century were 
+not
+&amp;gt; slavish worshippers of science, but in fact had conceptions of the
+&amp;gt; scientific enterpirse that went against the standing trends. I include
+&amp;gt; here not only Popper, Lakatos, and Feyerabend, but also the logical
+&amp;gt; positivists -- since by the time those guys were writing, it was clear
+&amp;gt; already that you&apos;d have to do a major overhaul of scientific communication
+&amp;gt; patterns if you wanted to take the idea of &apos;unity of science&apos; seriuously. 
+&amp;gt; </segment>
+    <segment id="18" parent="17" relname="evaluation">
+Agreed. </segment>
+    <segment id="19" parent="20" relname="antithesis">
+
+&amp;gt; When science studies people rail against philosophy of science, 
+their 
+&amp;gt; target is usually the rhetoric that scientists use to discuss their 
+&amp;gt; activities in public -- appeals to truth, objectivity, rationality etc -- 
+&amp;gt; that wreak of philosophical origins, but that don&apos;t seem to be needed to 
+&amp;gt; explain how science actually occurs. Consequently, the philosophical 
+&amp;gt; rhetoric appears to be a mystification, whcih ends up inflating 
+&amp;gt; everyone&apos;s expectations about what science can do -- something that is in 
+&amp;gt; no one&apos;s interest. From this standpoint, perhaps you can see why Latour 
+&amp;gt; and Collins, say, might think that they are doing science a favor by 
+&amp;gt; slaying the philosophical dragons. 
+&amp;gt; </segment>
+    <segment id="20" parent="48" relname="span">
+This is a tricky issue. </segment>
+    <segment id="21" parent="22" relname="concession"> Certainly you are correct to note that talk 
+of truth, objectivity, rationality, etc can be dangerous in 
+uncritical hands. </segment>
+    <segment id="22" parent="46" relname="span"> But ideals such as these are not completely bereft 
+of explanatory value</segment>
+    <segment id="23" parent="22" relname="evidence"> -- they explain WHY many people choose careers 
+in science,</segment>
+    <segment id="24" parent="22" relname="evidence"> why they think science is worth doing, etc.</segment>
+    <segment id="25" parent="44" relname="span">  I do not 
+deny that there are many reasons why science is done</segment>
+    <segment id="26" parent="25" relname="background"> (some of them -- 
+perhaps in the context of BIG SCIENCE -- being of dubious morality), </segment>
+    <segment id="27" parent="45" relname="span">
+but it seems premature to dismiss the pursuit of truth as being one 
+of them.</segment>
+    <segment id="28" parent="29" relname="background">
+
+An interesting case here is afforded by the debate over realism from 
+the standpoint of the quantum theory.</segment>
+    <segment id="29" parent="51" relname="span">  In the 1980s this 
+philosophical debate took on the character of an experimental issue.</segment>
+    <segment id="30" parent="50" relname="span">  
+Aspect performed experiments which derived statistical patterns of 
+measurement results which were apparently inconsistent with the 
+predictions of a class of theories which respected the Lorentz 
+invariance requirements of special relativity and yet made various 
+assumptions about observer-independent quantum realities.</segment>
+    <segment id="31" parent="30" relname="elaboration">  The 
+results confirmed the predictions of quantum mechanics.</segment>
+    <segment id="32" parent="33" relname="concession">  While there 
+remain all sorts of questions about the experiments and the data,</segment>
+    <segment id="33" parent="49" relname="span"> the 
+case here is an example of one of the ways in which philosophy of 
+science can become inextricably intertwined with theoretical science 
+in ways that may be open to experimental investigation.</segment>
+    <segment id="34" parent="65" relname="span">  Discussions 
+about the right way to characterise realism seem pertinent in this 
+branch of science.</segment>
+    <segment id="35" parent="36" relname="solutionhood">  Slavery?</segment>
+    <segment id="36" parent="55" relname="span"> Never. </segment>
+    <segment id="37" parent="38" relname="solutionhood"> Hero worship?</segment>
+    <segment id="38" parent="54" relname="span"> Never. </segment>
+    <segment id="39" parent="53" relname="sequence"> But 
+critical thinking...</segment>
+<group id="43" type="span" parent="40" relname="elaboration" />
+<group id="42" type="multinuc" parent="41" relname="span" />
+<group id="41" type="span" parent="8" relname="elaboration" />
+<group id="44" type="span" parent="27" relname="concession" />
+<group id="45" type="span" parent="47" relname="span" />
+<group id="46" type="span" parent="45" relname="antithesis" />
+<group id="47" type="span" parent="20" relname="evidence" />
+<group id="48" type="span" parent="66" relname="list" />
+<group id="49" type="span" parent="52" relname="span" />
+<group id="50" type="span" parent="49" relname="nonvolitional-cause" />
+<group id="51" type="span" parent="30" relname="background" />
+<group id="52" type="span" parent="34" relname="evidence" />
+<group id="53" type="multinuc" parent="66" relname="summary" />
+<group id="54" type="span" parent="53" relname="sequence" />
+<group id="55" type="span" parent="53" relname="sequence" />
+<group id="56" type="span" parent="6" relname="elaboration" />
+<group id="57" type="span" parent="6" relname="evidence" />
+<group id="58" type="span" parent="63" relname="concession" />
+<group id="59" type="span" parent="3" relname="background" />
+<group id="60" type="span" parent="40" relname="concession" />
+<group id="61" type="span" parent="63" relname="span" />
+<group id="62" type="span" parent="61" relname="background" />
+<group id="63" type="span" parent="64" relname="span" />
+<group id="64" type="span" parent="66" relname="list" />
+<group id="65" type="span" parent="27" relname="elaboration" />
+<group id="66" type="multinuc" parent="68" relname="span" />
+<group id="67" type="span" parent="66" relname="list" />
+<group id="68" type="span" />
+  </body>
+</rst>
