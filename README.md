@@ -1,11 +1,9 @@
 # STS-Corpus
-Rhetorical Structure theory analyses of messages exchanged during an asynchronous scholarly debate. The debate took place in 1994 on an email list devoted to the topic of science, technology, and society (STS). 
+This corpus consists of 150 Rhetorical Structure Theory (RST) analyses of messages exchanged during a listserv scholarly debate. The debate took place in 1994 on an email list devoted to the topic of science, technology, and society (STS). The topic concerned the objectivity and universality of scientific knowledge relevative to the historical and social context of scientific institutions.
 
 Please use the following to cite this corpus:
 
 Potter, A. (2008). Interactional coherence in asynchronous learning networks: A rhetorical approach. _The Internet and Higher Education_, 11, 87–97.
-
-This release is provided primarily to support testing of pycrst. The RST analyses provided here have been lightly revised, and further revisions are planned.
 
 -----------
 You can learn more about the debate here:
@@ -16,6 +14,8 @@ Gross, P. R., & Levitt, N. (1994). Higher superstition: The academic left and it
 
 Gross, P. R. (1997). The so-called science wars and sociological gravitas The Scientist, 11(9), 8. 
 
+Potter, A. (2008). Interactional coherence in asynchronous learning networks: A rhetorical approach. The Internet and Higher Education, 11, 87–97. 
+
 Potter, A. (2007). An investigation of interactional coherence in asynchronous learning environments Nova Southeastern University]. Fort Lauderdale, Florida. 
 
-Potter, A. (2008). Interactional coherence in asynchronous learning networks: A rhetorical approach. The Internet and Higher Education, 11, 87–97. 
+
