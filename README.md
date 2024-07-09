@@ -1,5 +1,5 @@
 # STS-Corpus
-This corpus consists of 150 Rhetorical Structure Theory (RST) analyses of messages exchanged during a listserv scholarly debate. The debate took place in 1994 on an email list devoted to the topic of science, technology, and society (STS). The topic concerned the objectivity and universality of scientific knowledge relevative to the historical and social context of scientific institutions.
+This corpus consists of 150 Rhetorical Structure Theory (RST) analyses of messages exchanged during a listserv scholarly debate. The debate took place in 1994 on an email list devoted to the topic of science, technology, and society (STS). It attracted the attention and participation of numerous noted scholars in the field, such as Steve Fuller, Patrick W. Hamlett, Paul R. Gross, Harry Marks, Harry M. Collins, Sharon Traweek, and Warren Schmaus. The topic concerned the objectivity and universality of scientific knowledge relevative to the historical and social context of scientific institutions.
 
 Please use the following to cite this corpus:
 
