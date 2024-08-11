@@ -19,3 +19,4 @@ Potter, A. (2008). Interactional coherence in asynchronous learning networks: A 
 Potter, A. (2007). An investigation of interactional coherence in asynchronous learning environments Nova Southeastern University]. Fort Lauderdale, Florida. 
 
 
+Any questions? Feel free to contact me at apotter1@una.edu
