@@ -38,8 +38,8 @@
     </relations>
   </header>
   <body>
-    <segment id="1" parent="2" relname="background">Here, here to MORMAN.</segment>
-    <segment id="2" parent="9" relname="span"> 
+    <segment id="1" parent="10" relname="background">Here, here to MORMAN.</segment>
+    <segment id="2" parent="3" relname="concession"> 
 
 As a scientist and an STS scholar, I do not find an inherent conflict 
 in the two positions,</segment>
@@ -54,7 +54,7 @@ moderate and liberal scientists to STS.</segment>
 proceed is to challenge science instead of provoking it.</segment>
 <group id="7" type="span" parent="3" relname="evidence" />
 <group id="8" type="span" parent="6" relname="solutionhood" />
-<group id="9" type="span" parent="3" relname="concession" />
-<group id="10" type="span" />
+<group id="10" type="span" parent="9" relname="span" />
+<group id="9" type="span" />
   </body>
 </rst>
